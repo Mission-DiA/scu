@@ -30,7 +30,7 @@
 
 | Episode | Received | Status | Blocking Issues |
 |---------|----------|--------|-----------------|
-| — | — | Awaiting work | None |
+| S4 Phase A (Arc + Character Bible) | 2026-02-14 | Approved | None |
 
 ---
 
@@ -75,7 +75,7 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
-| — | — | — | No active reviews |
+| 2026-02-14 | S4 Phase A | Approved | Arc + Character Bible reviewed, minor notes for screenplay phase |
 
 ### Feedback Awaiting Response
 
@@ -132,6 +132,14 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
+[2026-02-14] May Session 2: S4 Phase A Editorial Review
+  - Received S4 Phase A documents from Simmons
+  - Reviewed Season Arc v1 (accessibility, clarity, pacing, continuity)
+  - Reviewed Character Bible Additions v1 (distinctiveness, production compliance)
+  - No blocking issues found
+  - Sent feedback to Simmons with minor notes for screenplay phase
+  - Both documents approved for Director review
+
 [2026-02-14] May Session 1: Project Initialization
   - Project SCU initialized
   - Editorial tracker created
@@ -144,7 +152,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.0.0 | 2026-02-14 |
+| EDITORIAL.md | 1.1.0 | 2026-02-14 |
 
 ---
 
