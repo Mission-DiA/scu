@@ -29,6 +29,11 @@
 |------|------|---------|-------|
 | — | — | — | — |
 
+### Awaiting Revision
+| Item | From | Started | Notes |
+|------|------|---------|-------|
+| EP1 FOUNDATION Screenplay | Simmons | 2026-02-14 | Scene 26 caption alignment |
+
 ### Review Complete
 | Item | Date | Verdict | Notes |
 |------|------|---------|-------|
@@ -44,7 +49,7 @@
 
 | Episode | Title | Villain | Screenplay | Editorial | Notes |
 |---------|-------|---------|------------|-----------|-------|
-| EP1 | THE FOUNDATION | Ra's Al Ghul | 📋 PENDING | 📋 PENDING | LEARN the framework |
+| EP1 | THE FOUNDATION | Ra's Al Ghul | ⏳ REVISION | ⏳ APPROVED W/REV | Scene 26 caption alignment needed |
 | EP2 | THE TEST | Joker | 📄 REFERENCE | ✅ APPROVED | Previous screenplay → reference material |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
@@ -120,6 +125,15 @@
 ---
 
 ## Session Log
+
+### 2026-02-14 — EP1 FOUNDATION Editorial Review
+- Received EP1 FOUNDATION Screenplay (26 scenes, 124 panels)
+- Completed full editorial review against all checklists
+- **Verdict:** APPROVED WITH MINOR REVISION
+- **Revision needed:** Scene 26 caption/piece alignment — captions offset from chess pieces
+- All four specific questions answered (pacing, Ra's reveal, framework experience, Joker tease)
+- Sent review to Simmons via comms
+- Awaiting revision confirmation before final sign-off
 
 ### 2026-02-14 — Story Arc Alignment Review
 - **MAJOR PIVOT:** Ra's → Joker → Bane → Doom (follows Nolan trilogy)

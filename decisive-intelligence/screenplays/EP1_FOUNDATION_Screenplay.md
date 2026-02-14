@@ -2703,15 +2703,15 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 **Pillar Focus:** Framework summary (not named)
 
 ### Panel 26.1 — WIDE — THE CHESSBOARD
-**Composition:** A chessboard on a table. Four pieces positioned: Knight, Queen, Rook, Bishop. Each illuminated in its color (blue, red, white, orange). A hand (Bruce's) places the final piece.
+**Composition:** A chessboard on a table. Four pieces positioned: Knight, Queen, Rook, Bishop. Each illuminated in its color (blue, red, white, orange). A hand (Bruce's) places the final piece (the Bishop).
 
 **Elements:**
 - Chessboard: Four pieces
 - Colors: Blue, red, white, orange
-- Hand: Placing bishop
+- Hand: Placing bishop (final piece)
 
 **Text:**
-- **Caption Box:** "Know what matters."
+- **Caption Box:** "Four principles. One framework."
 
 ---
 
@@ -2723,7 +2723,7 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 - CLARITY: Not named, experienced
 
 **Text:**
-- **Caption Box:** "Act before you're ready."
+- **Caption Box:** "Know what matters."
 
 ---
 
@@ -2735,7 +2735,7 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 - COURAGE: Not named, experienced
 
 **Text:**
-- **Caption Box:** "Commit fully."
+- **Caption Box:** "Act before you're ready."
 
 ---
 
@@ -2747,7 +2747,7 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 - COMMITMENT: Not named, experienced
 
 **Text:**
-- **Caption Box:** "Move forward. Burn the bridge behind you."
+- **Caption Box:** "Commit fully."
 
 ---
 
@@ -2759,7 +2759,7 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 - MOVEMENT: Not named, experienced
 
 **Text:**
-- **Caption Box:** "That was the framework."
+- **Caption Box:** "Move forward. Burn the bridge behind you."
 
 ---
 
@@ -2772,6 +2772,7 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 - Warm light: Success
 
 **Text:**
+- **Caption Box:** "That was the framework."
 - **Caption Box:** "Learned from a mentor who became an enemy."
 - **Caption Box:** "Applied with a different moral compass."
 
@@ -2866,7 +2867,7 @@ JIM GORDON (YOUNGER) FULL DESCRIPTION:
 
 | Document | Version |
 |----------|---------|
-| EP1_FOUNDATION_Screenplay.md | 1.0.0 |
+| EP1_FOUNDATION_Screenplay.md | 1.0.1 |
 
 ---
 
