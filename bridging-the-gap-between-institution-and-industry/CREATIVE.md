@@ -301,6 +301,19 @@
   - New characters introduced: May (Ming-Na Wen), Hill (Cobie Smulders), Chen (Ross Butler)
   - S.P. Easter egg: "Foundation Review: S.P." on Hill's tablet
   - NEXT: Test S4E1 in Gemini → evaluate results → batch remaining episodes
+
+[2026-02-14] Session 11: S4E1 FULL DEPTH REDO
+  - Director feedback: v1 (15 slides) didn't capture full screenplay depth
+  - Director order: "redo S4E1 with full depth"
+  - Created S4E1 Gemini Prompts v2 — FULL DEPTH
+  - 42 slides (Cover + 40 Story + End Card) capturing all 73 screenplay panels
+  - Complete prompts for all 13 scenes with full character blocks
+  - Key moments: Slide 14 (May's line), Slide 17 (COULD vs SHOULD), Slide 28 (THE PRINCIPLE)
+  - S.P. Easter egg: Slide 33 "Foundation Review: S.P." on Hill's tablet
+  - S4E2 tease: Engineering Daisy (hair DOWN) visible in Watcher closing
+  - May editorial approval received (no blocking issues)
+  - Safehouse complete: commit 2ec76c6, pushed to main
+  - NEXT: Director tests v2 in Gemini
 ```
 
 ---
@@ -309,10 +322,11 @@
 
 ### Phase C: Gemini Prompts
 
-1. ~~Create S4E1 Gemini Prompts~~ ✅ COMPLETE
-2. Test S4E1 prompts in Gemini
-3. Evaluate results with Director
-4. Create S4E2-S4E6 Gemini Prompts (batch after validation)
+1. ~~Create S4E1 Gemini Prompts v1~~ ✅ COMPLETE (15 slides)
+2. ~~Create S4E1 Gemini Prompts v2~~ ✅ COMPLETE (42 slides - FULL DEPTH)
+3. Test S4E1 v2 prompts in Gemini
+4. Evaluate results with Director
+5. Create S4E2-S4E6 Gemini Prompts (batch after validation, full depth format)
 
 ### Uatu Consistency (RESOLVED)
 
@@ -347,7 +361,7 @@ Primary Committer: Simmons
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| CREATIVE.md | 2.3.0 | 2026-02-14 |
+| CREATIVE.md | 2.4.0 | 2026-02-14 |
 
 ---
 
