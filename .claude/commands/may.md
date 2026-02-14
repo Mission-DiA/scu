@@ -173,11 +173,35 @@ For every episode, verify:
 - [ ] Are visual descriptions unambiguous?
 - [ ] Will Gemini understand what to generate?
 
-### Continuity Checklist (NEW)
+### Continuity Checklist
 - [ ] Dialogue flows from previous slide
 - [ ] Setup questions are asked before answers
 - [ ] No gaps where characters respond to unasked questions
 - [ ] Hairstyles match universe (check against Character Bible)
+
+### FULL DEPTH Checklist (CRITICAL)
+**The depth IS the point.** Verify prompts capture full screenplay depth:
+
+- [ ] Panel-to-slide ratio is 1-2 panels per slide (NOT condensed)
+- [ ] All 73+ screenplay panels are represented (count them)
+- [ ] Key moments get single-panel treatment for maximum impact
+- [ ] No scenes or beats were "summarized" or compressed
+- [ ] V.O. and dialogue correctly distributed across slides
+
+**Why This Matters:**
+- Director established this principle after S4E1 v1 feedback
+- Condensing 73 panels to 15 slides loses the depth we crafted
+- If a panel exists in the screenplay, it earned its place
+
+**Red Flags to Catch:**
+| Red Flag | What It Means |
+|----------|---------------|
+| ~15 slides from 70+ panels | Compression — reject, request full depth |
+| "Key moments only" approach | Missing beats — request complete coverage |
+| Multiple scenes per slide | Over-condensed — request expansion |
+| Scene summaries instead of panels | Depth lost — request panel-by-panel |
+
+**Template Reference:** S4E1 v2 (42 slides from 73 panels) is the approved template.
 
 ### Quality Gate Criteria
 Before sign-off, an episode must:

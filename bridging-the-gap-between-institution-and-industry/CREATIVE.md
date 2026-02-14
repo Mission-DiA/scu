@@ -81,6 +81,50 @@
 
 ---
 
+## GEMINI PROMPT STRATEGY: FULL DEPTH
+
+> **Established:** 2026-02-14 (Director order after S4E1 v1 feedback)
+> **Template:** `S4E1_THE_PRINCIPLE_Gemini_Prompts_v2.md`
+
+### The Principle
+
+**"The depth IS the point."** — Director Coulson
+
+We do meticulous screenplay work specifically to capture that depth in Gemini prompts. The screenplay is the script — the prompts must honor every beat.
+
+### Panel-to-Slide Ratio
+
+| Screenplay | Slides | Approach |
+|------------|--------|----------|
+| 73 panels | ~42 slides | 1-2 panels per slide |
+| Key moment | 1 slide | Single-panel treatment for maximum impact |
+| 7-panel scene | ~4 slides | Natural grouping by beat |
+
+### Why Not Condense?
+
+S4E1 v1 condensed 73 panels to 15 slides. Director feedback:
+
+> "I don't mind having as many slides as possible to capture the depth we crafted in screenplays. That is why we do this meticulously where we develop the story arc, step by step right."
+
+**Lesson learned:** Compression loses the narrative depth we built. Full depth is the standard.
+
+### Checklist for Every Episode
+
+- [ ] Count screenplay panels
+- [ ] Calculate slide target (panels ÷ 1.5 to 2 = slides)
+- [ ] Every scene represented proportionally
+- [ ] Key moments get single-panel treatment
+- [ ] No beats summarized or compressed
+
+### Reference
+
+| Episode | Panels | Slides | Template |
+|---------|--------|--------|----------|
+| S4E1 v1 | 73 | 15 | SUPERSEDED |
+| **S4E1 v2** | **73** | **42** | **APPROVED TEMPLATE** |
+
+---
+
 ## S4 CHARACTER ROSTER
 
 ### Core Cast (All Episodes)
@@ -361,7 +405,7 @@ Primary Committer: Simmons
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| CREATIVE.md | 2.4.0 | 2026-02-14 |
+| CREATIVE.md | 2.5.0 | 2026-02-14 |
 
 ---
 

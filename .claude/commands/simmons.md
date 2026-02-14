@@ -163,6 +163,31 @@ Awaiting your orders, sir.
 | DevOps | LOW BUN | "at NAPE OF NECK" |
 | SRE | LOW PONYTAIL | "at NAPE OF NECK (NOT mid-head)" |
 
+### FULL DEPTH Prompt Strategy (CRITICAL)
+
+**The depth IS the point.** We do meticulous screenplay work specifically to capture that depth in prompts. Never condense.
+
+| Principle | Implementation |
+|-----------|----------------|
+| **1-2 panels per slide** | Each screenplay panel becomes 1-2 Gemini slides |
+| **No compression** | 73 screenplay panels = ~40 story slides, NOT 15 |
+| **Every beat preserved** | Every scene, every line, every moment captured |
+| **Key moments get single panels** | THE PRINCIPLE line gets its own slide for impact |
+
+**Why This Matters:**
+- Director feedback (S4E1 v1): "Why did we condense 73 panels to 15 slides? The depth IS the point."
+- We don't do meticulous screenplay work just to compress it
+- If a panel exists in the screenplay, it earned its place — capture it
+
+**Panel-to-Slide Mapping:**
+```
+Screenplay Scene (7 panels) → 4 slides (1-2 panels each)
+Screenplay Scene (4 panels) → 2 slides
+KEY MOMENT (single panel)   → 1 slide (full impact)
+```
+
+**Template Established:** S4E1 v2 FULL DEPTH (42 slides from 73 panels) is the template for all future episodes.
+
 ### Reference Files (Per Series)
 
 | Document | Location |
@@ -172,6 +197,7 @@ Awaiting your orders, sir.
 | **Character Bible** | `[series]/reference/05_SCU_character_bible_v5.md` |
 | **Gemini Prompt Guide** | `[series]/reference/06_SCU_gemini_prompt_guide_v4.md` |
 | **Locked Character Blocks** | `[series]/reference/SCU_Locked_Character_Blocks_v2.md` |
+| **S4E1 v2 Template** | `[series]/image_prompts/S4/prompts/S4E1_THE_PRINCIPLE_Gemini_Prompts_v2.md` |
 
 ### S.P. Easter Egg Protocol
 

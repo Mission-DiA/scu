@@ -32,7 +32,8 @@
 |---------|----------|--------|-----------------|
 | S4 Phase A (Arc + Character Bible) | 2026-02-14 | Approved | None |
 | S4E1 Screenplay v1 | 2026-02-14 | Approved | None |
-| S4E1 Gemini Prompts v1 | 2026-02-14 | Approved | None |
+| S4E1 Gemini Prompts v1 | 2026-02-14 | Superseded | Replaced by v2 |
+| S4E1 Gemini Prompts v2 (FULL DEPTH) | 2026-02-14 | Approved | None |
 | S4E2 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E3 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E4 Screenplay v1 | 2026-02-14 | Approved | None |
@@ -82,7 +83,8 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
-| 2026-02-14 | S4E1 Gemini Prompts v1 | Approved | All 10 production rules pass, Uatu design clear, May/Hill intros land |
+| 2026-02-14 | S4E1 Gemini Prompts v2 (FULL DEPTH) | Approved | 42 slides, 73 panels, full depth captured, all key moments verified |
+| 2026-02-14 | S4E1 Gemini Prompts v1 | Superseded | Replaced by v2 — Director requested full depth approach |
 | 2026-02-14 | S4E6 Screenplay (FINALE) | Approved | Five Daisys balanced, synthesis lands, Phase 1 complete, S5 teased |
 | 2026-02-14 | S4E5 Screenplay | Approved | Character focus correct, ownership lands, Watcher sets up E6 |
 | 2026-02-14 | S4E4 Screenplay | Approved | Viktor arc complete, Scene 8 emotional peak, Dev arc strong |
@@ -100,6 +102,34 @@ Issues I catch frequently — Simmons should watch for these:
 ---
 
 ## EDITORIAL STANDARDS
+
+### FULL DEPTH Standard (CRITICAL)
+
+> **Established:** 2026-02-14 (Director order after S4E1 v1 feedback)
+> **Principle:** "The depth IS the point."
+
+**What This Means for Editorial:**
+
+When reviewing Gemini prompts, verify FULL DEPTH is maintained:
+
+| Check | Pass | Fail |
+|-------|------|------|
+| Panel-to-slide ratio | 1-2 panels per slide | 4+ panels per slide |
+| Screenplay coverage | All panels represented | "Key moments only" |
+| Scene representation | Proportional (7 panels → 4 slides) | Compressed (7 panels → 1 slide) |
+| Key moments | Single-panel treatment | Grouped with other beats |
+
+**Red Flags:**
+- ~15 slides from 70+ screenplay panels = COMPRESSION (reject)
+- "Summarized" scenes = DEPTH LOST (reject)
+- Multiple scenes per slide = OVER-CONDENSED (reject)
+
+**Approved Template:** S4E1 v2 (42 slides from 73 panels)
+
+**Why This Matters:**
+Director feedback on S4E1 v1: "Why did we condense 73 panels to 15 slides? We do meticulous screenplay work specifically to capture that depth."
+
+---
 
 ### Target Reader Profile
 
@@ -146,7 +176,19 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
-[2026-02-14] May Session 9: S4E1 Gemini Prompts Editorial Review
+[2026-02-14] May Session 10: S4E1 v2 FULL DEPTH Prompts Editorial Review
+  - Received S4E1 v2 FULL DEPTH prompts (42 slides, 73 panels)
+  - Director requested full depth after testing v1 — compression was wrong approach
+  - Verified all 10 production rules: PASS
+  - Key moments verified: Slide 14 (May), Slide 17 (Hill), Slide 28 (Principle), Slide 33 (S.P.)
+  - Slide 14 three-panel structure perfect — silent aftermath panel
+  - V.O. vs speech bubbles correctly assigned throughout
+  - Engineering Daisy tease clearly differentiated (hair DOWN, grey hoodie)
+  - One note: Slide 12 Panel 2 has two speakers (Q&A exchange) — acceptable exception
+  - APPROVED for Gemini testing
+  - This becomes template for S4E2-S4E6
+
+[2026-02-14] May Session 9: S4E1 Gemini Prompts v1 Editorial Review
   - Received S4E1 THE PRINCIPLE Gemini Prompts v1 from Simmons
   - Verified all 10 production rules: PASS
   - Uatu cosmic transparency design clear — stars through body, GREEN eyes
@@ -156,6 +198,7 @@ An episode is ready when:
   - Accessibility passes — non-comic readers will follow
   - No blocking issues
   - APPROVED for Gemini testing
+  - NOTE: Superseded by v2 after Director requested full depth approach
 
 [2026-02-14] May Session 8: S4E6 Screenplay (FINALE) Editorial Review
   - Received S4E6 THE CORNERSTONE Screenplay v1 from Simmons
@@ -237,7 +280,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.8.0 | 2026-02-14 |
+| EDITORIAL.md | 2.0.0 | 2026-02-14 |
 
 ---
 
