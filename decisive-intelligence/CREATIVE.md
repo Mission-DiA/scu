@@ -2,7 +2,7 @@
 
 > **Owner:** Simmons (Creative Lead)
 > **Series:** Decisive Intelligence
-> **Updated:** 2026-02-14
+> **Updated:** 2026-02-15
 
 ---
 
@@ -43,14 +43,14 @@
 ### Phase B: Screenplays
 | Episode | Status | Scenes | Panels | Notes |
 |---------|--------|--------|--------|-------|
-| EP1: THE FOUNDATION | ✅ DRAFT COMPLETE | 26 | 124 | Ready for May editorial |
+| EP1: THE FOUNDATION | ✅ SIGNED OFF | 26 | 124 | May approved, prompts complete |
 | EP2: THE TEST | 📋 PENDING | ~28 | ~140 | Use archived Joker screenplay as reference |
 | EP3: THE ADAPTATION | 📋 PENDING | ~22 | ~110 | Bane + Doom post-credits |
 
 ### Phase C: Gemini Prompts (FULL DEPTH)
 | Episode | Status | Slides | Notes |
 |---------|--------|--------|-------|
-| EP1 Prompts | 📋 PENDING | ~120+ | After editorial sign-off |
+| EP1 Prompts | ✅ COMPLETE | 198 | All 26 scenes, full character blocks |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
 | EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
 
@@ -220,6 +220,17 @@
 
 ## Session Log
 
+### 2026-02-15 — Session 4: EP1 FULL DEPTH Prompts Complete
+- Completed EP1 FOUNDATION Gemini prompts:
+  - 26 scenes, 198 slides total
+  - Full character blocks in EVERY prompt
+  - All 5 pivotal scenes with expanded coverage
+  - Text overlay specifications throughout
+  - EP2 Joker card connection points established
+- Production-ready prompt package delivered
+- File: `image_prompts/EP1/EP1_FOUNDATION_Prompts.md` (v2.0.0)
+- Ready for Gemini image generation
+
 ### 2026-02-14 — Session 3: EP1 Ra's Al Ghul Screenplay Complete
 - **MAJOR PIVOT:** Structure changed from Joker-first to Ra's-first (following Nolan trilogy)
 - Created Story Arc document (approved by Director + May)
@@ -255,7 +266,7 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.1.0 |
+| CREATIVE.md | 1.2.0 |
 
 ---
 
