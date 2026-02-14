@@ -56,7 +56,7 @@
 
 | Character | Actor | Role | Key Moment |
 |-----------|-------|------|------------|
-| Junior Engineer (Reena) | Priyanka Chopra Jonas | Junior developer, 2 years at company | "How do you get Marcus to notice your code?" |
+| Reena | Priyanka Chopra Jonas | Senior Engineer, 5 years at company | "How do you get Marcus to notice your code?" |
 
 ---
 
@@ -212,7 +212,7 @@ Daisy is caught off guard by the question.
 **[PANEL 4]**
 Reena's frustration shows.
 
-> **REENA:** "I've been here two years. I've submitted dozens of pull requests. He's never once commented on any of them. Not approved, not rejected — just... silence."
+> **REENA:** "I've been here five years. I've submitted hundreds of pull requests. He's never once commented on any of them. Not approved, not rejected — just... silence."
 
 **[PANEL 5]**
 She holds up her tablet, showing her PR history.
@@ -541,7 +541,7 @@ REENA (ENGINEERING) FULL DESCRIPTION:
 - Expression: [SCENE-SPECIFIC — typically eager, sometimes frustrated, earnest]
 - Action: [SCENE-SPECIFIC]
 - Position: [SCENE-SPECIFIC — include SEATED/STANDING]
-- NOTE: Junior engineer, 2 years at company. Asks the question that reveals Marcus's status. Potential recurring character.
+- NOTE: Senior Engineer, 5 years at company. Asks the question that reveals Marcus's status — her tenure makes his silence more striking. Potential recurring character.
 ```
 
 ---

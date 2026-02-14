@@ -102,7 +102,7 @@
 | Maria Hill | Cobie Smulders | Prime | Deputy Director, Operations | S4E1 |
 | Elena | Sandra Oh | QA | Senior QA Architect (25 years) | S4E3 |
 | Agent Chen | Ross Butler | Prime | Junior Agent, Daisy's team | S4E1 |
-| Reena | Priyanka Chopra Jonas | Engineering | Junior Engineer | S4E2 |
+| Reena | Priyanka Chopra Jonas | Engineering | Senior Engineer (5 years) | S4E2 |
 
 ---
 
@@ -228,7 +228,7 @@
   - Key scenes: Architecture review, Reena's question, Marcus's First Law
   - S.P. Easter egg placed: "S.P.'s First Law: What you build first..."
   - 12 scenes, full Engineering Universe episode
-  - New character: Reena (Priyanka Chopra Jonas) — junior engineer
+  - New character: Reena (Priyanka Chopra Jonas) — Senior Engineer
   - NEXT: Send to May for editorial → Continue to S4E3
 ```
 
