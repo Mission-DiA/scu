@@ -54,11 +54,11 @@ PRE-EVENT              DURING EVENT           POST-EVENT
 
 ### Episode Details
 
-| Episode | Title | Slides | Delivery | Dominant Villain | Purpose |
-|---------|-------|--------|----------|------------------|---------|
-| **EP1** | THE PROLOGUE | ~28 | Pre-event (cold) | Joker | Experience reactive decisiveness |
-| **EP2** | THE PLAYBOOK | ~28 | During event (in-person) | Joker (teaching) | Framework named and understood |
-| **EP3** | THE TRIGGER | ~20 | Post-event (takeaway) | Bane + Doom (post-credits) | Apply framework to new challenges |
+| Episode | Title | Film | Delivery | Dominant Villain | Purpose |
+|---------|-------|------|----------|------------------|---------|
+| **EP1** | THE FOUNDATION | Batman Begins | Pre-event (cold) | Ra's Al Ghul | LEARN the framework |
+| **EP2** | THE TEST | The Dark Knight | During event (in-person) | Joker | TEST the framework |
+| **EP3** | THE ADAPTATION | The Dark Knight Rises | Post-event (takeaway) | Bane + Doom | ADAPT the framework |
 
 ---
 

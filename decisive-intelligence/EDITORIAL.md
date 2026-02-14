@@ -33,17 +33,22 @@
 | Item | Date | Verdict | Notes |
 |------|------|---------|-------|
 | Series Structure | 2026-02-14 | ✅ APPROVED | Director sign-off received |
-| EP1 PROLOGUE Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
+| Story Arc (Ra's → Joker → Bane) | 2026-02-14 | ✅ APPROVED | Director confirmed — Simmons proceeding |
+| Joker Screenplay (now EP2 ref) | 2026-02-14 | ✅ APPROVED | Repositioned as EP2 reference material |
 
 ---
 
 ## Episode Review Status
 
-| Episode | Screenplay | Prompts | Editorial | Notes |
-|---------|------------|---------|-----------|-------|
-| EP1: THE PROLOGUE | ✅ APPROVED | 📋 PENDING | ✅ SIGNED OFF | Cleared for prompt development |
-| EP2: THE PLAYBOOK | 📋 PENDING | 📋 PENDING | 📋 PENDING | Framework teaching |
-| EP3: THE TRIGGER | 📋 PENDING | 📋 PENDING | 📋 PENDING | Bane + Doom |
+**NEW STRUCTURE (Ra's → Joker → Bane → Doom)**
+
+| Episode | Title | Villain | Screenplay | Editorial | Notes |
+|---------|-------|---------|------------|-----------|-------|
+| EP1 | THE FOUNDATION | Ra's Al Ghul | 📋 PENDING | 📋 PENDING | LEARN the framework |
+| EP2 | THE TEST | Joker | 📄 REFERENCE | ✅ APPROVED | Previous screenplay → reference material |
+| EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | ADAPT the framework |
+
+**Arc Status:** ✅ APPROVED — Director confirmed, Simmons cleared to proceed
 
 ---
 
@@ -116,14 +121,20 @@
 
 ## Session Log
 
-### 2026-02-14 — EP1 Editorial Review
+### 2026-02-14 — Story Arc Alignment Review
+- **MAJOR PIVOT:** Ra's → Joker → Bane → Doom (follows Nolan trilogy)
+- Reviewed DI_Story_Arc.md — "Learn → Test → Adapt" structure
+- **Verdict:** ALIGNED — pedagogically sound, narratively compelling
+- Input provided on Director's 4 questions
+- Previous Joker screenplay (143 panels) → EP2 reference material
+- **DIRECTOR APPROVED** — Simmons cleared to proceed with EP1 screenplay
+
+### 2026-02-14 — EP1 Editorial Review (Now EP2 Reference)
 - Received EP1 PROLOGUE Screenplay (28 scenes, 143 panels)
 - Completed full editorial review against all checklists
 - **Verdict:** APPROVED WITH MINOR REVISION
-- **Revision needed:** Panel 28.3 caption — add connection to chessboard metaphor
-- Sent review to Simmons via comms
 - **Revision verified** — Panel 28.3 updated with chessboard connection
-- **SIGNED OFF** — Cleared for FULL DEPTH prompt development
+- **SIGNED OFF** — Now repositioned as EP2 reference material
 
 ### 2026-02-14 — Series Initialization
 - Editorial tracker created

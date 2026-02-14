@@ -10,10 +10,22 @@
 
 | Phase | Status | Notes |
 |-------|--------|-------|
-| **DESIGN** | ✅ COMPLETE | Series structure approved by Director |
+| **DESIGN** | ✅ COMPLETE | Story Arc approved by Director + May |
 | **DEVELOP** | 🔨 ACTIVE | Building screenplays |
 | **DEPLOY** | PENDING | — |
 | **OPERATE** | PENDING | — |
+
+---
+
+## THE ARC
+
+**Learn → Test → Adapt**
+
+| Episode | Villain | Film | Theme | Delivery |
+|---------|---------|------|-------|----------|
+| **EP1** | Ra's Al Ghul | Batman Begins | LEARN the framework | Pre-event |
+| **EP2** | Joker | The Dark Knight | TEST the framework | During event |
+| **EP3** | Bane + Doom | The Dark Knight Rises | ADAPT the framework | Post-event |
 
 ---
 
@@ -25,134 +37,131 @@
 | SERIES.md created | ✅ COMPLETE | v1.0.0 |
 | CREATIVE.md created | ✅ COMPLETE | This file |
 | EDITORIAL.md created | ✅ COMPLETE | v1.0.0 |
-| Character Bible | ✅ COMPLETE | All costume variations locked |
-| Famous Lines Library | ✅ COMPLETE | Integrated into SERIES.md |
+| Character Bible | ✅ COMPLETE | v1.1.0 — Added Ra's, Young Bruce |
+| Story Arc Document | ✅ COMPLETE | Approved by Director + May |
 
 ### Phase B: Screenplays
 | Episode | Status | Scenes | Panels | Notes |
 |---------|--------|--------|--------|-------|
-| EP1: THE PROLOGUE | ✅ EDITORIAL APPROVED | 28 | 143 | Panel 28.3 revised per May's feedback |
-| EP2: THE PLAYBOOK | 📋 PENDING | — | — | Framework teaching, Joker present |
-| EP3: THE TRIGGER | 📋 PENDING | — | — | Bane dominant, Doom post-credits |
+| EP1: THE FOUNDATION | ✅ DRAFT COMPLETE | 26 | 124 | Ready for May editorial |
+| EP2: THE TEST | 📋 PENDING | ~28 | ~140 | Use archived Joker screenplay as reference |
+| EP3: THE ADAPTATION | 📋 PENDING | ~22 | ~110 | Bane + Doom post-credits |
 
 ### Phase C: Gemini Prompts (FULL DEPTH)
 | Episode | Status | Slides | Notes |
 |---------|--------|--------|-------|
-| EP1 Prompts | 📋 PENDING | ~28 | After screenplay complete |
-| EP2 Prompts | 📋 PENDING | ~28 | After screenplay complete |
-| EP3 Prompts | 📋 PENDING | ~20 | After screenplay complete |
+| EP1 Prompts | 📋 PENDING | ~120+ | After editorial sign-off |
+| EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
+| EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
 
 ---
 
 ## Episode Architecture
 
-### EP1: THE PROLOGUE
+### EP1: THE FOUNDATION
 **Delivery:** Pre-event (cold open, no context)
+**Dominant Villain:** Ra's Al Ghul / Ducard
+**Film:** Batman Begins (2005)
+**Purpose:** Experience the framework being LEARNED
+
+**Five Pivotal Scenes:**
+1. **Scene 14:** Blindfolded Training → CLARITY ("Always mind your surroundings")
+2. **Scene 15-16:** Bat Cave → COURAGE ("Master your own fear")
+3. **Scene 17:** Execution Refusal → COMMITMENT ("The will to act")
+4. **Scene 21:** Manor Burns → MOVEMENT (Forward is the only direction)
+5. **Scene 24:** Train Fight → ALL FOUR (Student surpasses mentor)
+
+**Framework Naming:** NO — experienced, not named
+**Joker Tease:** Gordon shows Joker card (Scene 25-26)
+
+---
+
+### EP2: THE TEST
+**Delivery:** During event (in-person with simulation)
 **Dominant Villain:** Joker
-**Purpose:** Experience reactive decisiveness
+**Film:** The Dark Knight (2008)
+**Purpose:** Framework NAMED and TESTED against chaos
 
 **Four Choices Structure:**
-1. **CHOICE #1:** Which crisis matters most? (Rachel vs Harvey) → CLARITY
-2. **CHOICE #2:** Who do I save? (Joker's lie, explosion) → COURAGE
+1. **CHOICE #1:** Which crisis matters most? → CLARITY
+2. **CHOICE #2:** Who do I save? (Rachel vs Harvey) → COURAGE
 3. **CHOICE #3:** Protect Harvey's legacy? (Tackle Two-Face) → COMMITMENT
-4. **CHOICE #4:** Become the villain to save the city? (Take the fall) → MOVEMENT
+4. **CHOICE #4:** Become the villain to save the city? → MOVEMENT
 
-**Key Joker Face-to-Face Moments:**
-- [x] Interrogation room confrontation (Scene 11)
-- [x] Hospital scene (Harvey's corruption) (Scene 13)
-- [x] Final confrontation (Scene 14)
-- [x] Post-capture (Arkham, prophecy) (Scene 26)
+**Framework Naming:** YES — pillars named during event
+**Reference Material:** `v1/archive/EP1_JOKER_Screenplay_v1.md` (28 scenes, 143 panels)
 
-### EP2: THE PLAYBOOK
-**Delivery:** During event (in-person with deck + simulation)
-**Dominant Villain:** Joker (as teaching case study)
-**Purpose:** Framework named and understood
+---
 
-**Structure:**
-- Prologue recap (desaturated flashbacks)
-- Framework reveal (four pieces, the chain)
-- Each pillar: Joker's challenge → Framework answer → Application → Worksheet
-
-**Key Joker Presence:**
-- [ ] Voice-over flashbacks
-- [ ] Philosophy as counter-argument
-- [ ] Face-to-face memories with full color
-
-### EP3: THE TRIGGER
+### EP3: THE ADAPTATION
 **Delivery:** Post-event (takeaway, learning by doing)
 **Dominant Villain:** Bane + Doctor Doom (post-credits)
-**Purpose:** Apply framework to new challenges
+**Film:** The Dark Knight Rises (2012)
+**Purpose:** Framework ADAPTED against overwhelming force
 
-**Structure:**
-- False victory (Joker defeated, settling)
-- Bane arrives (different threat type)
-- Framework ADAPTS (same pillars, different application)
-- Victory (portability proven)
-- Post-credits: Doom full reveal ("New Mask, Same Task")
-
-**Key Bane Moments:**
-- [ ] "I am Gotham's reckoning" entrance
-- [ ] Back-breaking scene
-- [ ] The Pit (prison)
-- [ ] Ropeless jump
-- [ ] Return to Gotham
-- [ ] Final confrontation
+**Key Scenes:**
+- Eight years later — Bruce retired
+- Bane arrives — "I am Gotham's reckoning"
+- First fight — back broken
+- The Pit — rebuilding
+- Ropeless jump — fear of death enables
+- Return to Gotham — broken but committed
+- Final battle — framework applied against force
+- Post-credits — Doctor Doom ("New Mask, Same Task")
 
 **Doctor Doom Post-Credits:**
-- [ ] Portal opens
-- [ ] Full reveal (RDJ as Doom)
-- [ ] "New Mask, Same Task"
-- [ ] Series close
+- Portal opens
+- Full reveal (RDJ as Doom)
+- "New Mask, Same Task"
+- "The board is already in motion. But this time, you're not playing chess."
 
 ---
 
 ## Villain Line Tracking
 
-### Joker Lines (Must Include)
+### Ra's Al Ghul Lines (EP1)
+| Line | Scene | Used |
+|------|-------|------|
+| "Always mind your surroundings" | 14 | ✅ |
+| "To manipulate the fear in others, you must first master your own" | 16 | ✅ |
+| "The training is nothing! The will to act is everything!" | 18 | ✅ |
+| "If you make yourself more than just a man... you become something else entirely" | 12 | ✅ |
+| "Your compassion is a weakness your enemies will not share" | 17 | ✅ |
+
+### Joker Lines (EP2 — pending)
+| Line | Scene | Used |
+|------|-------|------|
+| "Why so serious?" | TBD | ☐ |
+| "I'm an agent of chaos" | TBD | ☐ |
+| "Madness is like gravity. All it takes is a little push." | TBD | ☐ |
+| "You either die a hero, or live long enough to see yourself become the villain" | TBD | ☐ |
+| "Do I really look like a guy with a plan?" | TBD | ☐ |
+
+### Bane Lines (EP3 — pending)
+| Line | Scene | Used |
+|------|-------|------|
+| "I am Gotham's reckoning" | TBD | ☐ |
+| "You think darkness is your ally? I was born in it." | TBD | ☐ |
+| "Peace has cost you your strength. Victory has defeated you." | TBD | ☐ |
+| "I will break you" | TBD | ☐ |
+
+### Batman Lines
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
-| "Why so serious?" | EP1 | — | ☐ (reserved for EP2) |
-| "I'm an agent of chaos" | EP1/EP2 | — | ☐ (reserved for EP2) |
-| "Madness is like gravity. All it takes is a little push." | EP1 | 26 | ✅ |
-| "You either die a hero, or live long enough to see yourself become the villain" | EP1 | — | ☐ (reserved for EP2) |
-| "Do I really look like a guy with a plan?" | EP1 | 5 | ✅ |
-| "It's not about the money. It's about sending a message." | EP1/EP2 | — | ☐ (reserved for EP2) |
-| "Let's put a smile on that face" | EP1 | — | ☐ (reserved for EP2) |
-| "Their morals, their code... it's a bad joke" | EP1/EP2 | — | ☐ (reserved for EP2) |
-| "You made a choice. That makes you just like me." | EP1 | 11 | ✅ |
-| "I'm not a monster. I'm just ahead of the curve." | EP1 | 13 | ✅ |
-| "You and I are destined to do this forever." | EP1 | 14 | ✅ |
-| "Tick tock, Batman." | EP1 | 3 | ✅ |
+| "I won't kill you, but I don't have to save you" | EP1 | 26 | ✅ |
+| "And you'll never have to" | EP1 | 25 | ✅ |
 
-### Bane Lines (Must Include)
+### Alfred Lines
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
-| "I am Gotham's reckoning" | EP3 | Entrance | ☐ |
-| "You think darkness is your ally? I was born in it." | EP3 | TBD | ☐ |
-| "When Gotham is ashes, you have my permission to die" | EP3 | TBD | ☐ |
-| "Peace has cost you your strength. Victory has defeated you." | EP3 | TBD | ☐ |
-| "I will break you" | EP3 | Breaking scene | ☐ |
-| "The fire rises" | EP3 | TBD | ☐ |
+| "Why do we fall? So we can learn to pick ourselves up." | EP1 | 2 | ✅ |
 
-### Batman/Bruce Lines (Must Include)
+### Gordon Lines
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
-| "It's not who I am underneath, but what I do that defines me" | TBD | TBD | ☐ |
-| "I'm Batman" | TBD | TBD | ☐ |
-| "A hero can be anyone" | TBD | TBD | ☐ |
+| "Some men aren't looking for anything logical" | EP1 | 25 | ✅ |
 
-### Alfred Lines (Must Include)
-| Line | Episode | Scene | Used |
-|------|---------|-------|------|
-| "Why do we fall? So we can learn to pick ourselves up." | EP3 | Pit context | ☐ |
-| "Some men just want to watch the world burn" | EP1 | 6 | ✅ |
-
-### Gordon Lines (Must Include)
-| Line | Episode | Scene | Used |
-|------|---------|-------|------|
-| "He's a silent guardian. A watchful protector. A Dark Knight." | EP1 | 22-23 | ✅ |
-
-### Doctor Doom (Must Include)
+### Doctor Doom (LOCKED)
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
 | **"New Mask, Same Task"** | EP3 | Post-credits | ☐ |
@@ -161,59 +170,84 @@
 
 ## Costume Tracking
 
-### Bruce Wayne Variations Used
+### Bruce Wayne Variations
 | Variation | EP1 | EP2 | EP3 |
 |-----------|-----|-----|-----|
-| Wealthy (suit) | — | ☐ | ☐ |
-| Casual | — | ☐ | ☐ |
+| Young Bruce (Training) | ✅ (6-18) | — | — |
+| Young Bruce (Blindfolded) | ✅ (14) | — | — |
+| Young Bruce (Cave) | ✅ (15-16) | — | — |
+| Wealthy (suit) | ✅ (19-21) | ☐ | ☐ |
 | Prison (Pit) | — | — | ☐ |
 | Tactical Undersuit | — | ☐ | ☐ |
 
-### Batman Variations Used
+### Batman Variations
 | Variation | EP1 | EP2 | EP3 |
 |-----------|-----|-----|-----|
-| Full Batsuit (Pristine) | ✅ (Scenes 3-10) | ☐ | ☐ |
-| Full Batsuit (Battle-worn) | ✅ (Scenes 11-26) | ☐ | ☐ |
-| Damaged Batsuit | — | ☐ | ☐ |
+| Full Batsuit (Pristine) | ✅ (22-26) | ☐ | ☐ |
+| Full Batsuit (Battle-worn) | — | ☐ | ☐ |
+| Damaged Batsuit | — | — | ☐ |
 | Repaired Batsuit | — | — | ☐ |
 
-### Joker Variations Used
+### Ra's Al Ghul Variations
 | Variation | EP1 | EP2 | EP3 |
 |-----------|-----|-----|-----|
-| Standard | ✅ (Scenes 3, 5, 14) | ☐ | — |
-| Nurse Disguise | ✅ (Scene 13) | — | — |
-| Interrogation | ✅ (Scenes 11, 26) | ☐ | — |
+| Henri Ducard (Mentor) | ✅ (3-18) | — | — |
+| Ra's (League Robes) | ✅ (22-26) | — | — |
+| Ra's (Gentleman Suit) | ✅ (19-21) | — | — |
+
+### Joker Variations
+| Variation | EP1 | EP2 | EP3 |
+|-----------|-----|-----|-----|
+| Standard | — | ☐ | — |
+| Nurse Disguise | — | ☐ | — |
+| Interrogation | — | ☐ | — |
+
+### Bane Variations
+| Variation | EP1 | EP2 | EP3 |
+|-----------|-----|-----|-----|
+| Standard | — | — | ☐ |
+| Coat | — | — | ☐ |
+
+---
+
+## Archive
+
+| File | Description | Location |
+|------|-------------|----------|
+| Original Joker EP1 | 28 scenes, 143 panels (pre-pivot) | `v1/archive/EP1_JOKER_Screenplay_v1.md` |
 
 ---
 
 ## Session Log
 
-### 2026-02-14 — Session 2: EP1 Screenplay Complete
+### 2026-02-14 — Session 3: EP1 Ra's Al Ghul Screenplay Complete
+- **MAJOR PIVOT:** Structure changed from Joker-first to Ra's-first (following Nolan trilogy)
+- Created Story Arc document (approved by Director + May)
+- Archived original Joker screenplay to `v1/archive/`
+- Updated Character Bible v1.1.0:
+  - Added Ra's Al Ghul / Ducard (3 variations)
+  - Added Young Bruce (3 variations)
+  - Added Alfred Younger variant
+  - Added Gordon Younger variant
+- Completed EP1 FOUNDATION screenplay:
+  - 26 scenes, 124 panels
+  - 5 pivotal scenes per May's guidance
+  - Framework EXPERIENCED, not named
+  - Joker card tease for EP2
+- Ready for May editorial review
+
+### 2026-02-14 — Session 2: EP1 Joker Screenplay Complete
 - Completed EP1 PROLOGUE screenplay (28 scenes, 143 panels)
 - Four Choices structure fully dramatized
-- Four Joker face-to-face moments included:
-  - Scene 11: Interrogation Room
-  - Scene 13: Hospital (Harvey corruption)
-  - Scene 14: Construction Site finale
-  - Scene 26: Arkham Asylum post-capture
-- Famous lines integrated: 6 Joker, 1 Alfred, 1 Gordon
-- Costume tracking updated
-- Post-credits tease planted (8 years later shadow)
-
-**Next Session:**
-- Send EP1 to May for editorial review
-- Begin EP2 PLAYBOOK screenplay
+- Sent to May for editorial review
+- May approved with one revision (Panel 28.3)
+- Revision incorporated
 
 ### 2026-02-14 — Session 1: Series Initialization
 - Director approved DI series structure
 - Created series directory structure
-- Created SERIES.md v1.0.0
-- Created CREATIVE.md (this file)
-- Created EDITORIAL.md v1.0.0
-- Created Character Bible with all costume variations
-- Confirmed villain dominance: Joker (EP1+EP2), Bane (EP3), Doom (post-credits)
-- Confirmed delivery architecture: Pre-event / During event / Post-event
-- Locked Doom line: "New Mask, Same Task"
+- Created SERIES.md, CREATIVE.md, EDITORIAL.md
+- Created Character Bible v1.0.0
 
 ---
 
@@ -221,8 +255,8 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.0.0 |
+| CREATIVE.md | 1.1.0 |
 
 ---
 
-*"The framework holds. The depth IS the point."* 🦇
+*"Learn. Test. Adapt. The framework holds across all three."* 🦇

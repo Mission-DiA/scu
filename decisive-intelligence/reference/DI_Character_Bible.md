@@ -1,6 +1,6 @@
 # Decisive Intelligence — Character Bible
 
-> **Version:** 1.0.0
+> **Version:** 1.1.0
 > **Updated:** 2026-02-14
 > **Purpose:** Locked character descriptions for Gemini prompts
 
@@ -107,6 +107,74 @@ BATMAN (REPAIRED) FULL DESCRIPTION:
 
 ---
 
+## RA'S AL GHUL / DUCARD
+
+### Henri Ducard (Mentor Disguise)
+```
+HENRI DUCARD FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
+- Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, League of Shadows training attire, brown leather belt with metal buckle, dark boots, worn but quality fabrics suggesting militant monk aesthetic
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+### Ra's Al Ghul (Revealed — League Robes)
+```
+RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense cold blue eyes, weathered face with aristocratic bearing, tall lean powerful build, 6'4"
+- Costume: Black (#0A0A0A) ceremonial League of Shadows robes with dark brown (#3D2914) accents, high collar, layered fabrics suggesting armor beneath, ornate belt with League symbol, dark boots. More refined than training attire — leader not instructor.
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+### Ra's Al Ghul (Gentleman Suit)
+```
+RA'S AL GHUL (GENTLEMAN) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair neatly styled, intense knowing blue eyes, weathered face with aristocratic charm, tall lean powerful build, 6'4"
+- Costume: Tailored dark charcoal (#374151) three-piece suit, crisp white (#FFFFFF) dress shirt, dark burgundy (#7F1D1D) silk tie, polished black oxford shoes. European old money elegance. The monster hidden in plain sight at Bruce's birthday party.
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+---
+
+## YOUNG BRUCE WAYNE — EP1 VARIATIONS
+
+### Young Bruce (Training)
+```
+YOUNG BRUCE (TRAINING) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair grown out and unkempt, stubble on strong jaw, searching eyes not yet hardened, athletic build still developing, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet or simple cloth wrappings, minimalist — nothing from his wealthy past remains
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+### Young Bruce (Blindfolded Training)
+```
+YOUNG BRUCE (BLINDFOLDED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair grown out and unkempt, stubble on strong jaw, face covered by dark cloth blindfold, athletic build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet, BLACK CLOTH BLINDFOLD tied around eyes — critical visual for CLARITY pillar training
+- Expression: [SCENE-SPECIFIC — lower face only visible]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+### Young Bruce (Cave)
+```
+YOUNG BRUCE (CAVE) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair disheveled and damp, stubble on strong jaw, eyes wide with primal fear transitioning to resolve, athletic build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic torn and dirtied, loose black trousers, bare feet on cave stone. Surrounded by swarming bats.
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+---
+
 ## THE JOKER
 
 ### The Joker (Standard)
@@ -175,6 +243,16 @@ BANE (COAT) FULL DESCRIPTION:
 
 ## ALFRED PENNYWORTH
 
+### Alfred Pennyworth (Younger — EP1)
+```
+ALFRED PENNYWORTH (YOUNGER) FULL DESCRIPTION:
+- Face & Body: Michael Caine, elderly Caucasian British man, late 60s, grey hair with hints of brown still visible neatly combed, kind face with fewer lines, steady knowing eyes, upright posture, slim build, 5'10"
+- Costume: Dark charcoal (#374151) waistcoat over white (#FFFFFF) dress shirt, dark navy (#1E3A5F) tie, charcoal (#374151) dress trousers, polished black shoes. Crisper, less worn — he hasn't yet weathered years of watching Bruce nearly die.
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
 ### Alfred Pennyworth (Standard)
 ```
 ALFRED PENNYWORTH FULL DESCRIPTION:
@@ -198,6 +276,16 @@ ALFRED PENNYWORTH (CASUAL) FULL DESCRIPTION:
 ---
 
 ## JIM GORDON
+
+### Jim Gordon (Younger — EP1)
+```
+JIM GORDON (YOUNGER) FULL DESCRIPTION:
+- Face & Body: Gary Oldman, Caucasian man, mid-40s, brown hair with minimal grey, thick-framed glasses, neat moustache, face showing early weathering, alert determined eyes, average build, 5'9"
+- Costume: Tan (#C2B280) trenchcoat in better condition, dark blue GCPD uniform, sergeant badge, cleaner leather shoes. Not yet Commissioner — still climbing, still believing Gotham can be saved through proper channels.
+- Expression: [SCENE-SPECIFIC]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
 
 ### Jim Gordon (Standard)
 ```
@@ -300,7 +388,7 @@ JOHN BLAKE FULL DESCRIPTION:
 
 | Document | Version |
 |----------|---------|
-| DI_Character_Bible.md | 1.0.0 |
+| DI_Character_Bible.md | 1.1.0 |
 
 ---
 
