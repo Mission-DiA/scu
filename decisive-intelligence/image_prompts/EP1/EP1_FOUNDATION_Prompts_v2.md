@@ -32,7 +32,7 @@
 
 ## WATERMARK
 
-All slides: SUBTLE watermark — White/grey, 30-35% opacity, 2% width, bottom-right corner.
+**ALL SLIDES:** "DI × SCU" watermark — bottom-LEFT corner, white/light grey, 25-30% opacity, barely visible but visible. ~2% image width. Present in EVERY slide.
 
 ---
 
@@ -94,7 +94,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom spanning both panels: "Every framework begins with a fall."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -138,7 +138,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) on left panel: "Fear found him."
 - Caption box (dark navy #1a1a4e fill, white text) on right panel: "Into the dark."
 
-STYLE: Photorealistic, cinematic, vertical triptych. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, vertical triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -177,7 +177,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "Then the cave answered."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -217,7 +217,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "He would remember this moment for the rest of his life."
 
-STYLE: Photorealistic, cinematic, horror. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, horror. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -258,7 +258,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Thomas: "Why do we fall, Bruce?"
 
-STYLE: Photorealistic, cinematic, emotional. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, emotional. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -297,7 +297,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Thomas: "So we can learn to pick ourselves up."
 
-STYLE: Photorealistic, cinematic, intimate portrait. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, intimate portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -320,7 +320,7 @@ COMPOSITION:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) centered: "Two weeks later, Thomas and Martha Wayne were murdered. Bruce stopped falling. He started running."
 
-STYLE: Minimal. Black page with text only. Full bleed to all edges.
+STYLE: Minimal. Black page with text only. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -354,7 +354,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Fifteen years of running brought him here."
 
-STYLE: Photorealistic, cinematic, gritty. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, gritty. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -398,7 +398,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (left panel): "You are afraid. Not of me. Of yourself."
 - Speech bubble (white fill, black text, black 2px outline) from Bruce (right panel): "Who are you?"
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -438,7 +438,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "My name is Henri Ducard. I offer you a path."
 - Caption box (dark navy #1a1a4e fill, white text) bottom-right: "For the first time in fifteen years, Bruce felt something other than anger."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -478,7 +478,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-left: "The journey was the first lesson. No one carried him."
 
-STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -527,7 +527,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) on middle panel: "The second lesson: nothing is given."
 - Caption box (dark navy #1a1a4e fill, white text) on bottom panel: "He tried seventeen times. On the eighteenth, they let him pass."
 
-STYLE: Photorealistic, cinematic, horizontal triptych. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, horizontal triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -570,7 +570,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "The League of Shadows had trained assassins for a thousand years."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -615,7 +615,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (left panel): "You have anger. Good. But anger without direction burns the hand that holds it."
 - Caption box (dark navy #1a1a4e fill, white text) on right panel: "The training began."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -648,7 +648,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "I will teach you to make decisions under impossible pressure."
 
-STYLE: Photorealistic, cinematic portrait. Full bleed to all edges.
+STYLE: Photorealistic, cinematic portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -700,7 +700,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) bottom-left panel: "Day seven: He learned to fall."
 - Caption box (dark navy #1a1a4e fill, white text) bottom-right panel: "Day fourteen: He learned to survive."
 
-STYLE: Photorealistic, cinematic, quad grid. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, quad grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -734,7 +734,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "Better. But not good enough."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Day twenty-one: He learned how much further he had to go."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -772,7 +772,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) left panel top: "Between bruises, there were conversations."
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (right panel): "A decision is a blade. Most people try to cut everything at once. The master cuts one thing. The right thing."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -814,7 +814,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "The mountain looks impossible. But there is always one path that matters. Find it. Ignore the rest."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "The first principle: Know what matters. Cut everything else."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -858,7 +858,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-left: "Weeks became months."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-right: "Progress."
 
-STYLE: Photorealistic, cinematic action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -896,7 +896,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) left panel: "The League of Shadows served a higher purpose."
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (right panel): "For a thousand years, we have burned away corruption. When a civilization becomes too corrupt to save... we cleanse it."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -937,7 +937,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Decoy Ra's: "Your final test awaits."
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "Four tests. Each will break a different part of you. What remains will be reforged."
 
-STYLE: Photorealistic, cinematic, low angle. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, low angle. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -976,7 +976,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (left panel): "You walk like a man waiting for the path to prove itself safe. It never will."
 - Caption box (dark navy #1a1a4e fill, white text) right panel: "The second principle: Act before you're ready. Or the moment chooses for you."
 
-STYLE: Photorealistic, cinematic, split action panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split action panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1013,7 +1013,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (left panel): "A man is flesh. Flesh dies. But an ideal can live forever."
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (right panel): "If you make yourself more than just a man... you become something else entirely."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1048,7 +1048,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "In that moment, Bruce saw what he could become."
 
-STYLE: Photorealistic, cinematic portrait. Full bleed to all edges.
+STYLE: Photorealistic, cinematic portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1094,7 +1094,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "The training is nothing! The will to act is everything!"
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "The third principle: Commit fully. Retreat costs more than failure."
 
-STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1135,7 +1135,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "The first test: See without seeing."
 
-STYLE: Photorealistic, cinematic, extremely dark. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, extremely dark. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1179,7 +1179,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (top panel, off-panel): "You cannot see your enemies. But they can see you."
 - Caption box (dark navy #1a1a4e fill, white text) bottom panel: "He failed."
 
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1219,7 +1219,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (off-panel): "Again."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Second attempt."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1256,7 +1256,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) left panel: "He heard them coming."
 - Caption box (dark navy #1a1a4e fill, white text) right panel: "But hearing wasn't enough. Third attempt."
 
-STYLE: Photorealistic, cinematic, split action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1294,7 +1294,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "Stop trying to see. You will never see in darkness. Always mind your surroundings."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1328,7 +1328,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Sight shows you everything. Awareness shows you what matters."
 
-STYLE: Photorealistic, cinematic extreme close-up. Full bleed to all edges.
+STYLE: Photorealistic, cinematic extreme close-up. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1367,7 +1367,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "Fourth attempt."
 
-STYLE: Photorealistic, cinematic overhead. Full bleed to all edges.
+STYLE: Photorealistic, cinematic overhead. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1410,7 +1410,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) spanning bottom: "He moved before they did."
 
-STYLE: Photorealistic, cinematic action triptych. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1450,7 +1450,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "You see now. Not with eyes. With awareness."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1486,7 +1486,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "Always mind your surroundings."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "The first pillar: CLARITY. Cut through noise to what matters."
 
-STYLE: Photorealistic, cinematic portrait. Full bleed to all edges.
+STYLE: Photorealistic, cinematic portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1530,7 +1530,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-left: "The second test: Face the fear."
 
-STYLE: Photorealistic, cinematic, dark. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, dark. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1569,7 +1569,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) left panel: "He knew what lived in caves."
 - Caption box (dark navy #1a1a4e fill, white text) right panel: "The fear that had defined him since childhood."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1608,7 +1608,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (echo): "To manipulate the fear in others, you must first master your own."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1648,7 +1648,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Bruce (whisper): "Show me."
 
-STYLE: Photorealistic, cinematic detail. Full bleed to all edges.
+STYLE: Photorealistic, cinematic detail. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1671,7 +1671,7 @@ COMPOSITION:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) centered: "The sound of ten thousand wings."
 
-STYLE: Minimalist black. Full bleed to all edges.
+STYLE: Minimalist black. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1711,7 +1711,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "He let them come."
 
-STYLE: Photorealistic, cinematic, dramatic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, dramatic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1751,7 +1751,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Fear is a tool. You don't destroy it. You wield it."
 
-STYLE: Photorealistic, cinematic portrait. Full bleed to all edges.
+STYLE: Photorealistic, cinematic portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1796,7 +1796,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "You accepted. That is how fear becomes power."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "The second pillar: COURAGE. Face fear, then use it."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1839,7 +1839,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard: "To manipulate the fear in others, you must first master your own."
 - Speech bubble (white fill, black text, black 2px outline) from Bruce: "Become fear."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1888,7 +1888,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "The final test."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1936,7 +1936,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Decoy Ra's (left panel): "This man murdered a family — including their children. Execute him."
 - Caption box (dark navy #1a1a4e fill, white text) right panel: "Everything came to this moment."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1976,7 +1976,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "He raised the blade."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2022,7 +2022,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (left panel): "Your compassion is a weakness your enemies will not share."
 - Speech bubble (white fill, black text, black 2px outline) from Bruce (right panel): "That's why it's so important. It separates us from them."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2060,7 +2060,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Bruce: "I will not become an executioner. I will fight injustice — but I will not become it."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2107,7 +2107,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ducard (left panel): "The training is nothing! The will to act is everything!"
 - Speech bubble (white fill, black text, black 2px outline) from Bruce (right panel): "I do have the will to act. Just not by your code."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2150,7 +2150,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "He made his choice. And burned their temple to make it irreversible."
 
-STYLE: Photorealistic, cinematic action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2189,7 +2189,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "The third pillar: COMMITMENT. Choose your code. Remove every other option."
 
-STYLE: Photorealistic, cinematic destruction. Full bleed to all edges.
+STYLE: Photorealistic, cinematic destruction. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2234,7 +2234,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) middle panel: "The man who trained him. The man whose code he just rejected."
 - Caption box (dark navy #1a1a4e fill, white text) bottom panel: "But rejecting someone's philosophy doesn't mean abandoning them."
 
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2275,7 +2275,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "He saved the man whose temple he just destroyed."
 
-STYLE: Photorealistic, cinematic action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2317,7 +2317,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "They disappeared into the mountain."
 
-STYLE: Photorealistic, cinematic silhouette. Full bleed to all edges.
+STYLE: Photorealistic, cinematic silhouette. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2359,7 +2359,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-left: "He returned home."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2398,7 +2398,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Alfred: "I never gave up on you, sir."
 - Speech bubble (white fill, black text, black 2px outline) from Bruce: "I know what I have to do, Alfred. Gotham needs a symbol. Something that can't be corrupted. That can't be killed."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2437,7 +2437,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "Gotham's elite gathered to celebrate the prodigal son's return."
 
-STYLE: Photorealistic, cinematic, lavish. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, lavish. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2479,7 +2479,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) left panel: "The dead don't always stay dead."
 - Caption box (dark navy #1a1a4e fill, white text) right panel: "The man he thought he'd killed in the fire."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2517,7 +2517,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ra's: "The man you killed was a decoy. I am Ra's Al Ghul. Gotham has become too corrupt to save. Tonight, we cleanse it."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2556,7 +2556,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Bruce: "I was willing to learn from you. I was never willing to destroy with you."
 - Speech bubble (white fill, black text, black 2px outline) from Ra's: "Then you will burn with it."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2603,7 +2603,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "The fourth lesson didn't come from Ducard. It came from Ra's destroying everything Bruce had."
 
-STYLE: Photorealistic, cinematic chaos. Full bleed to all edges.
+STYLE: Photorealistic, cinematic chaos. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2640,7 +2640,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Alfred (left panel): "Sir! We need to get out!"
 - Caption box (dark navy #1a1a4e fill, white text) right panel: "His past was burning."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2683,7 +2683,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Alfred: "Everything... gone..."
 - Speech bubble (white fill, black text, black 2px outline) from Bruce: "No. Not everything."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2726,7 +2726,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Alfred (distant): "Master Wayne!"
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Something his father had built. Something Ra's didn't know about."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2772,7 +2772,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-left: "The manor was his past. The cave was his future."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-right: "The fourth pillar: MOVEMENT. Burn the bridge. Forward is the only direction."
 
-STYLE: Photorealistic, cinematic, epic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, epic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2824,7 +2824,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) bottom-left: "His fear. His weapon."
 - Caption box (dark navy #1a1a4e fill, white text) bottom-right: "Bruce Wayne disappeared."
 
-STYLE: Photorealistic, cinematic, quad grid. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, quad grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2864,7 +2864,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Batman was born."
 
-STYLE: Photorealistic, cinematic, epic reveal. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, epic reveal. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2908,7 +2908,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) left panel: "Fear toxin pumped into The Narrows. Thousands experiencing their worst nightmares."
 - Speech bubble (white fill, black text, black 2px outline) from Ra's (right panel): "Gotham. Your salvation arrives."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -2956,7 +2956,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "The student came for the mentor."
 
-STYLE: Photorealistic, cinematic action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3000,7 +3000,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ra's: "I should have killed you myself."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Every move Ra's made, he had taught Bruce."
 
-STYLE: Photorealistic, cinematic action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3038,7 +3038,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman (right panel): "You taught me to know what matters. One thing at a time."
 - Caption box (dark navy #1a1a4e fill, white text) bottom spanning: "CLARITY. Cut through noise to what matters."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3076,7 +3076,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "You taught me to act without certainty. So I am."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "COURAGE. Move before you're ready."
 
-STYLE: Photorealistic, cinematic impact. Full bleed to all edges.
+STYLE: Photorealistic, cinematic impact. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3118,7 +3118,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "You taught me to commit. No half-measures."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "COMMITMENT. Remove every other option."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3156,7 +3156,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "And you taught me that forward is the only direction."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "MOVEMENT. Burn the bridge behind you."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3197,7 +3197,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Ra's: "You cannot save this city!"
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3234,7 +3234,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "I'm not trying to save the city, Ra's. I'm stopping you."
 - Speech bubble (white fill, black text, black 2px outline) from Ra's: "You have learned well."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3277,7 +3277,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "I won't kill you. But I don't have to save you."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3315,7 +3315,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "The student surpassed the mentor."
 
-STYLE: Photorealistic, cinematic action. Full bleed to all edges.
+STYLE: Photorealistic, cinematic action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3353,7 +3353,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "By applying the framework with a different moral compass."
 
-STYLE: Photorealistic, cinematic destruction. Full bleed to all edges.
+STYLE: Photorealistic, cinematic destruction. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3396,7 +3396,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "Gotham survived that night."
 
-STYLE: Photorealistic, cinematic landscape. Full bleed to all edges.
+STYLE: Photorealistic, cinematic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3435,7 +3435,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Gordon: "I never said thank you."
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "And you'll never have to."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3480,7 +3480,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Gordon: "Crime scene from last night. Someone left a calling card."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "The mentor was defeated."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3517,7 +3517,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Gordon: "Some men aren't looking for anything logical. Some men just want to watch the world burn."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3560,7 +3560,7 @@ TEXT OVERLAY:
 - Speech bubble (white fill, black text, black 2px outline) from Batman: "Then we'll need to be ready."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "He had learned the framework."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3605,7 +3605,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned top-center: "Four principles. One framework."
 
-STYLE: Photorealistic, cinematic, artistic lighting. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, artistic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3642,7 +3642,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) bottom-left: "Commit fully."
 - Caption box (dark navy #1a1a4e fill, white text) bottom-right: "Move forward. Burn the bridge."
 
-STYLE: Photorealistic, cinematic, quad grid. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, quad grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3682,7 +3682,7 @@ TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-left: "Learned from a mentor who became an enemy."
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-right: "Applied with a different moral compass."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3724,7 +3724,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "But learning the framework was only the first step."
 
-STYLE: Photorealistic, cinematic, shadow. Full bleed to all edges.
+STYLE: Photorealistic, cinematic, shadow. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3759,7 +3759,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) positioned bottom-center: "Now it would be tested."
 
-STYLE: Photorealistic, cinematic detail. Full bleed to all edges.
+STYLE: Photorealistic, cinematic detail. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3781,7 +3781,7 @@ COMPOSITION:
 TEXT OVERLAY:
 - Caption box (dark navy #1a1a4e fill, white text) centered: "By an agent of chaos."
 
-STYLE: Minimalist black. Full bleed to all edges.
+STYLE: Minimalist black. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3821,7 +3821,7 @@ TEXT OVERLAY:
 - Subtitle: "EPISODE 1: THE FOUNDATION"
 - Tagline: "The framework begins with a fall."
 
-STYLE: Stylized end card. Full bleed to all edges.
+STYLE: Stylized end card. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -3847,7 +3847,7 @@ TEXT (centered, white):
 Created, Crafted & Made by @iSwamiK
 In collaboration with Claude Code & Google Gemini
 
-STYLE: Minimalist credits. Full bleed.
+STYLE: Minimalist credits. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
