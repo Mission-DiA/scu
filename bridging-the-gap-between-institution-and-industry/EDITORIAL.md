@@ -36,6 +36,7 @@
 | S4E3 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E4 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E5 Screenplay v1 | 2026-02-14 | Approved | None |
+| S4E6 Screenplay v1 (FINALE) | 2026-02-14 | Approved | None |
 
 ---
 
@@ -80,6 +81,7 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
+| 2026-02-14 | S4E6 Screenplay (FINALE) | Approved | Five Daisys balanced, synthesis lands, Phase 1 complete, S5 teased |
 | 2026-02-14 | S4E5 Screenplay | Approved | Character focus correct, ownership lands, Watcher sets up E6 |
 | 2026-02-14 | S4E4 Screenplay | Approved | Viktor arc complete, Scene 8 emotional peak, Dev arc strong |
 | 2026-02-14 | S4E3 Screenplay | Approved | Elena distinct from Priya, floor metaphor works, reflection pattern varied |
@@ -142,6 +144,18 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
+[2026-02-14] May Session 8: S4E6 Screenplay (FINALE) Editorial Review
+  - Received S4E6 THE CORNERSTONE Screenplay v1 from Simmons
+  - Five Daisys balanced (5 panels each, Scenes 3-7)
+  - Scene 8 synthesis ties stones together without preaching
+  - Mentor acknowledgment (Marcus, Viktor, Elena, Priya) earned
+  - Phase 1 completion feels conclusive
+  - S5 ACS hook clean
+  - S.P. Easter egg perfectly placed: "The cornerstone remembers who laid it."
+  - All character blocks provided for complex Nexus episode
+  - No blocking issues
+  - PHASE 1: THE AWAKENING — COMPLETE
+
 [2026-02-14] May Session 7: S4E5 Screenplay Editorial Review
   - Received S4E5 THE OWNERSHIP Screenplay v1 from Simmons
   - Character focus correct (Priya + Mike primary, Alex/Jordan minimal)
@@ -210,7 +224,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.6.0 | 2026-02-14 |
+| EDITORIAL.md | 1.7.0 | 2026-02-14 |
 
 ---
 
