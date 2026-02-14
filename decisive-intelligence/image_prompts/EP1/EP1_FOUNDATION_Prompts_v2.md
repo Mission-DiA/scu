@@ -3,8 +3,8 @@
 
 > **Version:** 2.0.0 (Racy Cut)
 > **Date:** 2026-02-15
-> **Total Slides:** 115
-> **Duration:** ~11-12 minutes
+> **Total Slides:** 94
+> **Duration:** ~10 minutes
 > **Visual Style:** Dark Knight noir — photorealistic, high-contrast, Nolan-esque cinematography
 > **Aspect Ratio:** 16:9 (1920×1080px)
 

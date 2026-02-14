@@ -36,8 +36,8 @@
 | Story Arc (Ra's → Joker → Bane) | 2026-02-14 | ✅ APPROVED | Director confirmed — Simmons proceeding |
 | Joker Screenplay (now EP2 ref) | 2026-02-14 | ✅ APPROVED | Repositioned as EP2 reference material |
 | EP1 FOUNDATION Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
-| EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 REVISION | 198 slides approved for depth, revision requested for pacing |
-| EP1 FOUNDATION Prompts v2 | 2026-02-15 | 📋 PENDING | Target: 115 slides (racy cut) |
+| EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 SUPERSEDED | 198 slides — depth good, pacing revised |
+| EP1 FOUNDATION Prompts v2 | 2026-02-15 | ✅ APPROVED | 94 slides — racy cut, cleared for image generation |
 
 ---
 
@@ -47,7 +47,7 @@
 
 | Episode | Title | Villain | Screenplay | Prompts | Editorial | Notes |
 |---------|-------|---------|------------|---------|-----------|-------|
-| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | 🔄 REVISION | 📋 PENDING v2 | Target: 115 slides (racy cut) |
+| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ v2 APPROVED | ✅ SIGNED OFF | 94 slides, cleared for image generation |
 | EP2 | THE TEST | Joker | 📄 REFERENCE | 📋 PENDING | 📋 PENDING | Use archived Joker screenplay |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
@@ -123,6 +123,15 @@
 ---
 
 ## Session Log
+
+### 2026-02-15 — EP1 FOUNDATION Prompts v2 Sign-Off
+- Received v2 from Simmons: 94 slides (exceeded 115 target)
+- Verified pivotal scene coverage: 54 slides intact
+- Multi-panel specs (quad, triptych, split): Clear for Gemini
+- Joker tease + chessboard closing: Intact
+- **One minor fix:** Header metadata says 115, actual is 94
+- **Verdict:** APPROVED for image generation
+- Sent sign-off to Simmons via comms
 
 ### 2026-02-15 — EP1 FOUNDATION Prompts Revision Request
 - Initial sign-off given for v1 (198 slides)

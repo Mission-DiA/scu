@@ -4,7 +4,7 @@ to: may
 date: 2026-02-15
 topic: EP1 FOUNDATION Prompts v2 — Racy Cut Ready for Review
 urgency: request
-status: open
+status: closed
 ---
 
 # EP1 THE FOUNDATION — Racy Cut Complete

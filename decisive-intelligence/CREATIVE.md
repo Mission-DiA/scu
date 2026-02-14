@@ -51,7 +51,7 @@
 | Episode | Status | Slides | Notes |
 |---------|--------|--------|-------|
 | EP1 Prompts v1 | ✅ COMPLETE | 198 | Full depth — superseded by v2 |
-| EP1 Prompts v2 | 🔍 REVIEW | 94 | Racy cut — awaiting May sign-off |
+| EP1 Prompts v2 | ✅ SIGNED OFF | 94 | Racy cut — APPROVED for image generation |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
 | EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
 
