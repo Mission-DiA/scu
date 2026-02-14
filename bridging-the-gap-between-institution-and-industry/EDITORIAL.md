@@ -32,6 +32,7 @@
 |---------|----------|--------|-----------------|
 | S4 Phase A (Arc + Character Bible) | 2026-02-14 | Approved | None |
 | S4E1 Screenplay v1 | 2026-02-14 | Approved | None |
+| S4E1 Gemini Prompts v1 | 2026-02-14 | Approved | None |
 | S4E2 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E3 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E4 Screenplay v1 | 2026-02-14 | Approved | None |
@@ -81,6 +82,7 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
+| 2026-02-14 | S4E1 Gemini Prompts v1 | Approved | All 10 production rules pass, Uatu design clear, May/Hill intros land |
 | 2026-02-14 | S4E6 Screenplay (FINALE) | Approved | Five Daisys balanced, synthesis lands, Phase 1 complete, S5 teased |
 | 2026-02-14 | S4E5 Screenplay | Approved | Character focus correct, ownership lands, Watcher sets up E6 |
 | 2026-02-14 | S4E4 Screenplay | Approved | Viktor arc complete, Scene 8 emotional peak, Dev arc strong |
@@ -144,6 +146,17 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
+[2026-02-14] May Session 9: S4E1 Gemini Prompts Editorial Review
+  - Received S4E1 THE PRINCIPLE Gemini Prompts v1 from Simmons
+  - Verified all 10 production rules: PASS
+  - Uatu cosmic transparency design clear — stars through body, GREEN eyes
+  - May introduction accurate — economy of words, devastating one-liner
+  - Hill "COULD vs SHOULD" frame-shift lands
+  - S.P. Easter egg: "Foundation Review: S.P." on Hill's tablet
+  - Accessibility passes — non-comic readers will follow
+  - No blocking issues
+  - APPROVED for Gemini testing
+
 [2026-02-14] May Session 8: S4E6 Screenplay (FINALE) Editorial Review
   - Received S4E6 THE CORNERSTONE Screenplay v1 from Simmons
   - Five Daisys balanced (5 panels each, Scenes 3-7)
@@ -224,7 +237,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.7.0 | 2026-02-14 |
+| EDITORIAL.md | 1.8.0 | 2026-02-14 |
 
 ---
 
