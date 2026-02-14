@@ -2,7 +2,7 @@
 
 > **Owner:** May (Editor)
 > **Series:** Decisive Intelligence
-> **Updated:** 2026-02-14
+> **Updated:** 2026-02-15
 
 ---
 
@@ -36,6 +36,8 @@
 | Story Arc (Ra's → Joker → Bane) | 2026-02-14 | ✅ APPROVED | Director confirmed — Simmons proceeding |
 | Joker Screenplay (now EP2 ref) | 2026-02-14 | ✅ APPROVED | Repositioned as EP2 reference material |
 | EP1 FOUNDATION Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
+| EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 REVISION | 198 slides approved for depth, revision requested for pacing |
+| EP1 FOUNDATION Prompts v2 | 2026-02-15 | 📋 PENDING | Target: 115 slides (racy cut) |
 
 ---
 
@@ -43,11 +45,11 @@
 
 **NEW STRUCTURE (Ra's → Joker → Bane → Doom)**
 
-| Episode | Title | Villain | Screenplay | Editorial | Notes |
-|---------|-------|---------|------------|-----------|-------|
-| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ SIGNED OFF | Cleared for prompt development |
-| EP2 | THE TEST | Joker | 📄 REFERENCE | ✅ APPROVED | Previous screenplay → reference material |
-| EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | ADAPT the framework |
+| Episode | Title | Villain | Screenplay | Prompts | Editorial | Notes |
+|---------|-------|---------|------------|---------|-----------|-------|
+| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | 🔄 REVISION | 📋 PENDING v2 | Target: 115 slides (racy cut) |
+| EP2 | THE TEST | Joker | 📄 REFERENCE | 📋 PENDING | 📋 PENDING | Use archived Joker screenplay |
+| EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
 **Arc Status:** ✅ APPROVED — Director confirmed, Simmons cleared to proceed
 
@@ -122,6 +124,24 @@
 
 ## Session Log
 
+### 2026-02-15 — EP1 FOUNDATION Prompts Revision Request
+- Initial sign-off given for v1 (198 slides)
+- Director raised pacing concern: 198 slides too long for pre-event cold open
+- Editorial analysis: Not all panels need equal treatment
+- **Principle established:** PROTECT pivotal scenes, COMPRESS transitions/montages
+- **Target:** 115 slides (~11-12 min viewing time, ~40% reduction)
+- Sent detailed revision guidance to Simmons via comms
+- **v1 sign-off SUPERSEDED** — awaiting v2
+
+### 2026-02-15 — EP1 FOUNDATION Prompts Editorial Review (v1)
+- Received EP1 FOUNDATION Prompts (198 slides from 124 panels)
+- Full review of pivotal scenes: 14 (CLARITY), 17 (COMMITMENT), 24 (ALL FOUR), 25-26 (Joker tease + closing)
+- **Production compliance:** All 5 rules PASS
+- **Depth verification:** 1.6 slides per panel — FULL DEPTH achieved
+- **Caption alignment (Scene 26):** Verified — revision correctly incorporated
+- **EP2 connection:** Joker card → famous line → chessboard shadow → "agent of chaos"
+- **Initial verdict:** APPROVED for depth — pacing revision requested
+
 ### 2026-02-14 — EP1 FOUNDATION Editorial Review
 - Received EP1 FOUNDATION Screenplay (26 scenes, 124 panels)
 - Completed full editorial review against all checklists
@@ -158,7 +178,7 @@
 
 | Document | Version |
 |----------|---------|
-| EDITORIAL.md | 1.0.0 |
+| EDITORIAL.md | 1.1.0 |
 
 ---
 

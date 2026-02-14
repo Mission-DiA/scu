@@ -50,7 +50,8 @@
 ### Phase C: Gemini Prompts (FULL DEPTH)
 | Episode | Status | Slides | Notes |
 |---------|--------|--------|-------|
-| EP1 Prompts | ✅ COMPLETE | 198 | All 26 scenes, full character blocks |
+| EP1 Prompts v1 | ✅ COMPLETE | 198 | Full depth — superseded by v2 |
+| EP1 Prompts v2 | 🔍 REVIEW | 94 | Racy cut — awaiting May sign-off |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
 | EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
 
@@ -220,6 +221,19 @@
 
 ## Session Log
 
+### 2026-02-15 — Session 4 (Continued): EP1 Racy Cut Complete
+- May requested racy cut: 198 → 115 slides target
+- Delivered v2 with 94 slides (52% reduction — exceeded target)
+- Compression techniques applied:
+  - Quad panels (2x2) for training montage
+  - Horizontal/vertical triptychs for journey/fear sequences
+  - Split panels for reveals
+  - Jump cuts for transitions
+- Protected all pivotal scenes (54 slides, 25% trim)
+- Preserved all 9 famous lines, emotional beats, Joker tease
+- File: `image_prompts/EP1/EP1_FOUNDATION_Prompts_v2.md`
+- Sent to May for editorial review
+
 ### 2026-02-15 — Session 4: EP1 FULL DEPTH Prompts Complete
 - Completed EP1 FOUNDATION Gemini prompts:
   - 26 scenes, 198 slides total
@@ -266,7 +280,7 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.2.0 |
+| CREATIVE.md | 1.3.0 |
 
 ---
 

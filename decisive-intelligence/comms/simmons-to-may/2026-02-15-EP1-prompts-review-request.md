@@ -4,7 +4,7 @@ to: may
 date: 2026-02-15
 topic: EP1 FOUNDATION Prompts — Editorial Review Request
 urgency: request
-status: open
+status: superseded
 ---
 
 # EP1 THE FOUNDATION — FULL DEPTH Prompts Ready for Review
