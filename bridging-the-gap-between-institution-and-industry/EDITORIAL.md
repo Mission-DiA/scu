@@ -34,6 +34,7 @@
 | S4E1 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E2 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E3 Screenplay v1 | 2026-02-14 | Approved | None |
+| S4E4 Screenplay v1 | 2026-02-14 | Approved | None |
 
 ---
 
@@ -78,6 +79,7 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
+| 2026-02-14 | S4E4 Screenplay | Approved | Viktor arc complete, Scene 8 emotional peak, Dev arc strong |
 | 2026-02-14 | S4E3 Screenplay | Approved | Elena distinct from Priya, floor metaphor works, reflection pattern varied |
 | 2026-02-14 | S4E2 Screenplay | Approved | Marcus evolution complete, technical debt accessible, pattern note on reflections |
 | 2026-02-14 | S4E1 Screenplay | Approved | Strong character voices, clear theme, minor pacing note on Scene 12 |
@@ -138,6 +140,16 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
+[2026-02-14] May Session 6: S4E4 Screenplay Editorial Review
+  - Received S4E4 THE CULTURE Screenplay v1 from Simmons
+  - Viktor's Phase 1 evolution complete — S1 fear to S4 mentor
+  - Scene 8 (Viktor + Coulson private moment) is season's emotional peak
+  - Dev's arc complete in limited screen time
+  - "Blame builds fear. Fear builds silence." — powerful line
+  - Approval and reflection patterns successfully varied
+  - No blocking issues
+  - Approved for Director review
+
 [2026-02-14] May Session 5: S4E3 Screenplay Editorial Review
   - Received S4E3 THE STANDARD Screenplay v1 from Simmons
   - Elena voice distinct from Priya (patient/questioning vs direct/tactical)
@@ -186,7 +198,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.4.0 | 2026-02-14 |
+| EDITORIAL.md | 1.5.0 | 2026-02-14 |
 
 ---
 

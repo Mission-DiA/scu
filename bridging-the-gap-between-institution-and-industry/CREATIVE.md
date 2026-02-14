@@ -51,7 +51,7 @@
 - [x] Write S4E2 Complete Screenplay (Engineering: THE DEBT) ✅
 - [x] Write S4E3 Complete Screenplay (QA: THE STANDARD) ✅
 - [x] Write S4E4 Complete Screenplay (DevOps: THE CULTURE) ✅
-- [ ] Write S4E5 Complete Screenplay (SRE: THE OWNERSHIP)
+- [x] Write S4E5 Complete Screenplay (SRE: THE OWNERSHIP) ✅
 - [ ] Write S4E6 Complete Screenplay (Nexus: THE CORNERSTONE)
 - [ ] Send to May for editorial review
 - [ ] Incorporate feedback
@@ -67,7 +67,7 @@
 | S4E2 | Engineering | THE DEBT | Technical architecture | ✅ Screenplay Complete |
 | S4E3 | QA | THE STANDARD | Quality mindset | ✅ Screenplay Complete |
 | S4E4 | DevOps | THE CULTURE | Operational culture | ✅ Screenplay Complete |
-| S4E5 | SRE | THE OWNERSHIP | Reliability ownership | Arc Complete |
+| S4E5 | SRE | THE OWNERSHIP | Reliability ownership | ✅ Screenplay Complete |
 | S4E6 | Nexus | THE CORNERSTONE | All foundations converge | Arc Complete |
 
 ---
@@ -145,7 +145,7 @@
 | S4E2 | Marcus's architecture doc | "S.P.'s First Law: What you build first determines what you can build later." |
 | S4E3 | Quality dashboard corner | "QSP-001: Quality is a foundation, not a finish line." |
 | S4E4 | Viktor's terminal prompt | `SP@cornerstone:~$` |
-| S4E5 | Incident command board | "To S.P. — who taught me to own it." |
+| S4E5 | Incident command board | "To S.P. — who taught me to own it." ✅ |
 | S4E6 | Nexus inscription | "The cornerstone remembers who laid it. — S.P." |
 
 ---
@@ -157,7 +157,7 @@
 | S1 | 6 | Complete | Complete | Generated | Published |
 | S2 | 6 | Complete | Complete | Generated | Published |
 | S3 | 6 | Complete | Complete | Generated | Published |
-| **S4** | 6 | **4/6 Complete** | Pending | Pending | **In Progress** |
+| **S4** | 6 | **5/6 Complete** | Pending | Pending | **In Progress** |
 | S5-S17 | — | Mapped | — | — | Future |
 
 ---
@@ -177,6 +177,7 @@
 | S4E2 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E2_THE_DEBT_Screenplay_v1.md` |
 | S4E3 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E3_THE_STANDARD_Screenplay_v1.md` |
 | S4E4 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E4_THE_CULTURE_Screenplay_v1.md` |
+| S4E5 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E5_THE_OWNERSHIP_Screenplay_v1.md` |
 
 ---
 
@@ -255,6 +256,17 @@
   - 12 scenes, full DevOps Universe episode
   - Varied approval pattern per May's note (no email/response scene)
   - NEXT: Send to May for editorial → Continue to S4E5
+
+[2026-02-14] Session 8: S4E5 SCREENPLAY
+  - Reviewed S4 Season Arc for S4E5 beats
+  - Prioritized Priya & Mike per May's note
+  - Wrote S4E5 THE OWNERSHIP complete screenplay v1
+  - Key scenes: Incident, blame opportunity, Mike's choice
+  - Mike's moment: "I could say it was the deployment team's fault"
+  - Priya's question: "You could. What would that build?"
+  - S.P. Easter egg placed: "To S.P. — who taught me to own it."
+  - 11 scenes, full SRE Universe episode
+  - NEXT: Send to May for editorial → Continue to S4E6 (FINALE)
 ```
 
 ---
