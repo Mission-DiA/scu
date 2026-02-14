@@ -65,7 +65,7 @@ AGENT CHEN (PRIME) FULL DESCRIPTION:
 ```
 ELENA (QA) FULL DESCRIPTION:
 - Face & Body: Sandra Oh, Korean-Canadian woman, early 50s, medium build, 5'5", composed and precise in movement
-- Hair: Black hair with subtle grey streaks (distinguished, not aged), shoulder-length, often worn in a low twist or simple professional style
+- Hair: Black hair with NOTICEABLE grey streaks at temples (distinguished, not aged), shoulder-length, often worn in a low twist or simple professional style
 - Costume: Charcoal grey (#374151) tailored blazer over deep purple (#4C1D95) blouse (QA universe accent color), black (#000000) dress pants, understated silver (#C0C0C0) stud earrings, simple silver watch — senior architect aesthetic, quality without ostentation
 - Expression: [SCENE-SPECIFIC — typically observant, patient, delivers truth without cruelty, warmth beneath precision]
 - Action: [SCENE-SPECIFIC]
@@ -240,11 +240,27 @@ ELENA (QA) FULL DESCRIPTION:
 
 ---
 
+## UATU UPDATE NOTE
+
+**Important:** Uatu the Watcher's character block has been UPDATED in the main Character Bible (`SCU_Locked_Character_Blocks_v2.md` → v2.1) based on MCU What If...? research:
+
+| Correction | Old | New |
+|------------|-----|-----|
+| Eyes | Glowing white | Glowing GREEN lidless |
+| Skin | Pale grey-blue | Pale |
+| Cosmic Effect | None | Stars/galaxies visible THROUGH body |
+| Costume | White robes, silver trim | White toga + gold armor + blue cloak |
+
+**Always use the updated Uatu block from the main Character Bible for all S4 prompts.**
+
+---
+
 ## VERSION HISTORY
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | February 2026 | Simmons + Director | Initial S4 character additions (May, Hill, Elena) |
+| 1.1 | February 2026 | Simmons | Elena hair updated to "NOTICEABLE grey streaks"; Added Uatu update note |
 
 ---
 

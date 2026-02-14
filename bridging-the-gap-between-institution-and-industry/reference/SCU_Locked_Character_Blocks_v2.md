@@ -45,11 +45,12 @@ Always specify SEATED or STANDING in the Position field:
 
 ```
 UATU THE WATCHER FULL DESCRIPTION:
-- Face & Body: Massive humanoid with enlarged bald cranium, pale grey-blue skin, no visible ears, glowing white eyes, imposing godlike presence, 8+ feet tall
-- Costume: Flowing white robes with subtle silver trim, cosmic star patterns woven into fabric, ethereal golden energy at edges
+- Face & Body: Massive humanoid with enlarged bald cranium (slightly squarer than human skull), pale skin, no visible ears, glowing GREEN lidless eyes, imposing godlike presence, 8+ feet tall
+- Cosmic Effect: CRITICAL — stars, galaxies, and cosmic nebulae visible THROUGH his semi-transparent body, as if his form contains the universe itself (Eternity-inspired design)
+- Costume: White toga-style garment with golden belt and golden armor accents at neck, arms, and mid-torso; deep blue (#1E3A5F) cloak fastened at shoulders, extending high and stiff behind his head
 - Expression: [SCENE-SPECIFIC]
 - Action: [SCENE-SPECIFIC]
-- Scale: LARGE, godlike — towers over human characters
+- Scale: LARGE, godlike — towers over human characters, often shown as silhouette against cosmic backdrop
 ```
 
 ---
@@ -341,6 +342,7 @@ TEXT ELEMENTS (arranged top to bottom, centered):
 |---------|------|---------|
 | 1.0 | January 2026 | Initial locked character blocks |
 | 2.0 | January 2026 | Added NO LAZY REFERENCES usage rules, SEATED/STANDING guidance, Viktor costume update, Marcus experience note, Generic Characters section |
+| 2.1 | February 2026 | Updated Uatu block: GREEN eyes (not white), cosmic transparency effect, blue cloak + gold armor accents per MCU What If design |
 
 ---
 
