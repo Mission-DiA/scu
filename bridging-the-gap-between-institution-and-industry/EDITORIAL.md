@@ -35,6 +35,7 @@
 | S4E2 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E3 Screenplay v1 | 2026-02-14 | Approved | None |
 | S4E4 Screenplay v1 | 2026-02-14 | Approved | None |
+| S4E5 Screenplay v1 | 2026-02-14 | Approved | None |
 
 ---
 
@@ -79,6 +80,7 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
+| 2026-02-14 | S4E5 Screenplay | Approved | Character focus correct, ownership lands, Watcher sets up E6 |
 | 2026-02-14 | S4E4 Screenplay | Approved | Viktor arc complete, Scene 8 emotional peak, Dev arc strong |
 | 2026-02-14 | S4E3 Screenplay | Approved | Elena distinct from Priya, floor metaphor works, reflection pattern varied |
 | 2026-02-14 | S4E2 Screenplay | Approved | Marcus evolution complete, technical debt accessible, pattern note on reflections |
@@ -140,6 +142,16 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
+[2026-02-14] May Session 7: S4E5 Screenplay Editorial Review
+  - Received S4E5 THE OWNERSHIP Screenplay v1 from Simmons
+  - Character focus correct (Priya + Mike primary, Alex/Jordan minimal)
+  - "You could. What would that build?" — key line lands
+  - Mike's arc (defensive → ownership) complete
+  - Watcher closing sets up S4E6 finale perfectly
+  - Reflection pattern varied (whiteboard metaphor)
+  - No blocking issues
+  - Approved for Director review
+
 [2026-02-14] May Session 6: S4E4 Screenplay Editorial Review
   - Received S4E4 THE CULTURE Screenplay v1 from Simmons
   - Viktor's Phase 1 evolution complete — S1 fear to S4 mentor
@@ -198,7 +210,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.5.0 | 2026-02-14 |
+| EDITORIAL.md | 1.6.0 | 2026-02-14 |
 
 ---
 
