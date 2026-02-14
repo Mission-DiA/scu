@@ -31,6 +31,7 @@
 | Episode | Received | Status | Blocking Issues |
 |---------|----------|--------|-----------------|
 | S4 Phase A (Arc + Character Bible) | 2026-02-14 | Approved | None |
+| S4E1 Screenplay v1 | 2026-02-14 | Approved | None |
 
 ---
 
@@ -75,6 +76,7 @@ Issues I catch frequently — Simmons should watch for these:
 
 | Date | Episode | Status | Summary |
 |------|---------|--------|---------|
+| 2026-02-14 | S4E1 Screenplay | Approved | Strong character voices, clear theme, minor pacing note on Scene 12 |
 | 2026-02-14 | S4 Phase A | Approved | Arc + Character Bible reviewed, minor notes for screenplay phase |
 
 ### Feedback Awaiting Response
@@ -132,6 +134,15 @@ An episode is ready when:
 ## SESSION LOG (May)
 
 ```
+[2026-02-14] May Session 3: S4E1 Screenplay Editorial Review
+  - Received S4E1 THE PRINCIPLE Screenplay v1 from Simmons
+  - Reviewed for accessibility, character voice, pacing, continuity
+  - All three new character voices (May, Hill, Coulson) distinct
+  - Thematic clarity strong - principle lands without preaching
+  - Minor note: Scene 12 could be tightened (optional)
+  - No blocking issues
+  - Approved for Director review
+
 [2026-02-14] May Session 2: S4 Phase A Editorial Review
   - Received S4 Phase A documents from Simmons
   - Reviewed Season Arc v1 (accessibility, clarity, pacing, continuity)
@@ -152,7 +163,7 @@ An episode is ready when:
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| EDITORIAL.md | 1.1.0 | 2026-02-14 |
+| EDITORIAL.md | 1.2.0 | 2026-02-14 |
 
 ---
 

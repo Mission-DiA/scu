@@ -52,6 +52,24 @@
 |-----------|-------|------|------------|
 | Melinda May | Ming-Na Wen | Senior Field Specialist | "I once took the fast route. Saved six hours. Cost two agents." |
 | Maria Hill | Cobie Smulders | Deputy Director, Operations | "I'm not asking what you COULD do. I'm asking what you SHOULD do." |
+| Agent Chen | Ross Butler | Junior Agent, Daisy's team | Asks tactical questions, receives leadership |
+
+---
+
+## NEW CHARACTER BLOCK — S4E1
+
+### Agent Chen (Prime Universe)
+
+```
+AGENT CHEN (PRIME) FULL DESCRIPTION:
+- Face & Body: Ross Butler, Asian-American man, late 20s, athletic build, 6'0", alert and attentive
+- Hair: Short black hair, neatly styled, military-influenced cut
+- Costume: Black (#000000) SHIELD tactical suit (standard agent issue), black (#000000) utility belt, black (#000000) combat boots — junior field agent aesthetic, crisp and regulation
+- Expression: [SCENE-SPECIFIC — typically attentive, respectful, occasionally questioning]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC — include SEATED/STANDING]
+- NOTE: Junior agent on Daisy's extraction team. Asks good questions, learns from her leadership. Potential recurring team member.
+```
 
 ---
 
@@ -549,6 +567,7 @@ The Watcher turns toward the Engineering fragment, green light emerging.
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | February 2026 | Simmons | Initial S4E1 complete screenplay |
+| 1.1 | February 2026 | Simmons | Added Agent Chen casting (Ross Butler) + character block |
 
 ---
 

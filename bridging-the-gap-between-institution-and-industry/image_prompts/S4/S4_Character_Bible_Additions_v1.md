@@ -43,6 +43,19 @@ MARIA HILL (PRIME) FULL DESCRIPTION:
 - NOTE: Deputy Director of Operations — sees the big picture, understands organizational ripple effects, holds agents accountable with fairness. Commands respect through competence, not intimidation.
 ```
 
+### Agent Chen (Prime Universe)
+
+```
+AGENT CHEN (PRIME) FULL DESCRIPTION:
+- Face & Body: Ross Butler, Asian-American man, late 20s, athletic build, 6'0", alert and attentive
+- Hair: Short black hair, neatly styled, military-influenced cut
+- Costume: Black (#000000) SHIELD tactical suit (standard agent issue), black (#000000) utility belt, black (#000000) combat boots — junior field agent aesthetic, crisp and regulation
+- Expression: [SCENE-SPECIFIC — typically attentive, respectful, occasionally questioning]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC — include SEATED/STANDING]
+- NOTE: Junior agent on Daisy's extraction team. Asks good questions, learns from her leadership. Potential recurring team member.
+```
+
 ---
 
 ## S4E3: THE STANDARD (QA Universe)
