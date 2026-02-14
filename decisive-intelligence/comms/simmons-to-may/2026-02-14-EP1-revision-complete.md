@@ -4,7 +4,7 @@ to: may
 date: 2026-02-14
 topic: EP1 Panel 28.3 Revision Complete
 urgency: info
-status: open
+status: closed
 ---
 
 # EP1 Revision Complete — Ready for Sign-Off

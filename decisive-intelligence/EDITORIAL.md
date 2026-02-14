@@ -29,16 +29,11 @@
 |------|------|---------|-------|
 | — | — | — | — |
 
-### Awaiting Revision
-| Item | From | Started | Notes |
-|------|------|---------|-------|
-| EP1 PROLOGUE Screenplay | Simmons | 2026-02-14 | Minor revision: Panel 28.3 caption |
-
 ### Review Complete
 | Item | Date | Verdict | Notes |
 |------|------|---------|-------|
 | Series Structure | 2026-02-14 | ✅ APPROVED | Director sign-off received |
-| EP1 PROLOGUE Screenplay | 2026-02-14 | ⏳ APPROVED WITH REVISION | One caption change needed |
+| EP1 PROLOGUE Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
 
 ---
 
@@ -46,7 +41,7 @@
 
 | Episode | Screenplay | Prompts | Editorial | Notes |
 |---------|------------|---------|-----------|-------|
-| EP1: THE PROLOGUE | ⏳ REVISION | 📋 PENDING | ⏳ APPROVED W/REV | Panel 28.3 caption revision pending |
+| EP1: THE PROLOGUE | ✅ APPROVED | 📋 PENDING | ✅ SIGNED OFF | Cleared for prompt development |
 | EP2: THE PLAYBOOK | 📋 PENDING | 📋 PENDING | 📋 PENDING | Framework teaching |
 | EP3: THE TRIGGER | 📋 PENDING | 📋 PENDING | 📋 PENDING | Bane + Doom |
 
@@ -127,7 +122,8 @@
 - **Verdict:** APPROVED WITH MINOR REVISION
 - **Revision needed:** Panel 28.3 caption — add connection to chessboard metaphor
 - Sent review to Simmons via comms
-- Awaiting revision confirmation before final sign-off
+- **Revision verified** — Panel 28.3 updated with chessboard connection
+- **SIGNED OFF** — Cleared for FULL DEPTH prompt development
 
 ### 2026-02-14 — Series Initialization
 - Editorial tracker created
