@@ -12,8 +12,196 @@
 | Metric | Value |
 |--------|-------|
 | **D3O Phase** | DEVELOP |
-| **Current Focus** | Season 4 preparation |
+| **Current Focus** | Season 4: THE CORNERSTONE |
+| **Current Phase** | Phase A: Season Arc + Character Bible |
 | **Last Safehouse** | 2026-02-14 |
+
+---
+
+## S4 PRODUCTION STATUS
+
+### Phase Progress
+
+| Phase | Description | Status |
+|-------|-------------|--------|
+| **Phase A** | Season Arc + Character Bible | 🔨 IN PROGRESS |
+| Phase B | Complete Screenplay (6 episodes) | Pending |
+| Phase C | Gemini Prompts (per episode) | Pending |
+| Phase D | Image Generation + Editorial | Pending |
+
+### Phase A Deliverables
+
+| Document | Location | Status |
+|----------|----------|--------|
+| `S4_THE_CORNERSTONE_Season_Arc_v1.md` | `image_prompts/S4/` | ✅ COMPLETE |
+| `S4_Character_Bible_Additions_v1.md` | `image_prompts/S4/` | ✅ COMPLETE |
+
+### Next Actions (Phase A Completion)
+
+- [ ] Director reviews Season Arc document
+- [ ] Director reviews Character Bible Additions
+- [ ] Director approves creative direction
+- [ ] Simmons sends to May via comms for editorial pass
+- [ ] May reviews and provides notes
+- [ ] Simmons incorporates feedback
+- [ ] Director final sign-off → Phase A Complete
+
+---
+
+## S4 EPISODE STRUCTURE
+
+| Episode | Universe | Title | Foundation Element | Status |
+|---------|----------|-------|-------------------|--------|
+| S4E1 | Prime | THE PRINCIPLE | Principles that guide decisions | Arc Complete |
+| S4E2 | Engineering | THE DEBT | Technical architecture | Arc Complete |
+| S4E3 | QA | THE STANDARD | Quality mindset | Arc Complete |
+| S4E4 | DevOps | THE CULTURE | Operational culture | Arc Complete |
+| S4E5 | SRE | THE OWNERSHIP | Reliability ownership | Arc Complete |
+| S4E6 | Nexus | THE CORNERSTONE | All foundations converge | Arc Complete |
+
+---
+
+## S4 CHARACTER ROSTER
+
+### Core Cast (All Episodes)
+
+| Character | Actor | Notes |
+|-----------|-------|-------|
+| Daisy Johnson | Chloe Bennet | 5 universe variants |
+| Phil Coulson | Clark Gregg | 5 universe variants (PRIMARY mentor) |
+| Uatu The Watcher | MCU Watcher | All episodes |
+
+### Returning Characters with Evolution
+
+| Character | Actor | Universe | S4 Arc |
+|-----------|-------|----------|--------|
+| Marcus | Paul Giamatti | Engineering | Phase 1 evolution complete — full mentor |
+| Viktor | Stephen Root | DevOps | Phase 1 evolution complete — mentoring others |
+| Priya | Mindy Kaling | SRE | Building culture, growing team |
+| Alex | Oscar Isaac | SRE | Takes secondary IC role |
+| Jordan | Awkwafina | SRE | Steps up, trusted with responsibility |
+| Mike | Sam Rockwell | SRE | Faces ownership choice |
+
+### NEW Characters Introduced in S4
+
+| Character | Actor | Universe | Role | Episode |
+|-----------|-------|----------|------|---------|
+| Melinda May | Ming-Na Wen | Prime | Senior Field Specialist | S4E1 |
+| Maria Hill | Cobie Smulders | Prime | Deputy Director, Operations | S4E1 |
+| Elena | Sandra Oh | QA | Senior QA Architect (25 years) | S4E3 |
+
+---
+
+## KEY CREATIVE DECISIONS
+
+### Confirmed by Director (2026-02-14)
+
+| Decision | Details |
+|----------|---------|
+| Season Title | THE CORNERSTONE |
+| Phase Position | Final season of Phase 1: THE AWAKENING |
+| Marcus Evolution | 20+ years visible through INFLUENCE, not just presence |
+| Viktor Evolution | Parallel trajectory — now mentoring others |
+| Priya/SRE Team | NOT sidelined — growth intentional and visible |
+| Timeline | Daisy's first assignment ALREADY occurred (S3E1) |
+| New Characters | May, Hill (Prime); Elena (QA) — approved |
+| Coulson Role | PRIMARY mentor in ALL universes |
+| S5 Tease | ACS: Attitude → Communication → Skills |
+
+---
+
+## CONTINUITY THREADS (S1-S3 → S4)
+
+| Thread | Origin | S4 Connection |
+|--------|--------|---------------|
+| Marcus as warning | S1E2 | Contrast with S4E2 mentorship |
+| Viktor's fear | S1E4 | Contrast with S4E4 confidence |
+| D3O Loop | S2E2 | Engineering foundation context |
+| OODA Loop | S3E5 | SRE adaptive thinking |
+| Prague extraction | S3E1 | Daisy's first assignment complete |
+| "Alphabets" hook | S3E6 | S4 builds on alphabets |
+
+---
+
+## S.P. EASTER EGGS — SEASON 4
+
+| Episode | Location | Content |
+|---------|----------|---------|
+| S4E1 | Mission report footer | "Foundation Review: S.P." |
+| S4E2 | Marcus's architecture doc | "S.P.'s First Law: What you build first determines what you can build later." |
+| S4E3 | Quality dashboard corner | "QSP-001: Quality is a foundation, not a finish line." |
+| S4E4 | Viktor's terminal prompt | `SP@cornerstone:~$` |
+| S4E5 | Incident command board | "To S.P. — who taught me to own it." |
+| S4E6 | Nexus inscription | "The cornerstone remembers who laid it. — S.P." |
+
+---
+
+## PRODUCTION STATUS — ALL SEASONS
+
+| Season | Episodes | Screenplays | Prompts | Images | Status |
+|--------|----------|-------------|---------|--------|--------|
+| S1 | 6 | Complete | Complete | Generated | Published |
+| S2 | 6 | Complete | Complete | Generated | Published |
+| S3 | 6 | Complete | Complete | Generated | Published |
+| **S4** | 6 | **Phase A** | Pending | Pending | **In Progress** |
+| S5-S17 | — | Mapped | — | — | Future |
+
+---
+
+## REFERENCE FILES
+
+| File | Purpose | Location |
+|------|---------|----------|
+| Master Guide | 17-concept breakdown, 5-phase arc | `reference/01_SCU_master_guide.md` |
+| Character Bible | Locked character blocks | `reference/SCU_Locked_Character_Blocks_v2.md` |
+| Gemini Prompt Guide | 19 troubleshooting patterns | `reference/06_SCU_gemini_prompt_guide_v4.md` |
+| S3 Handover | S3→S4 transition context | `handover/SCU_S3_Handover_Document.md` |
+| S3 Screenplay | Latest screenplay format | `image_prompts/S3/S3_THE_ALPHABETS_Complete_Screenplay_v2.md` |
+| S4 Season Arc | S4 creative overview | `image_prompts/S4/S4_THE_CORNERSTONE_Season_Arc_v1.md` |
+| S4 Characters | New character blocks | `image_prompts/S4/S4_Character_Bible_Additions_v1.md` |
+
+---
+
+## SESSION LOG
+
+```
+[2026-02-14] Session 1: PROJECT INITIALIZATION
+  - Project SCU initialized with mission intake
+  - Agent Simmons activated
+  - CREATIVE.md created
+  - Awaiting Director's orders for Season 4
+
+[2026-02-14] Session 2: S4 ARC DEVELOPMENT
+  - Reviewed S1-S3 materials for continuity
+  - Identified narrative threads (Marcus, Viktor, Priya)
+  - Director recalibrations received:
+    * Marcus/Viktor evolution visibility
+    * Supporting cast not sidelined
+    * Timeline correction (first assignment in S3)
+  - Identified QA universe mentor gap
+  - Director approved new characters: May, Hill, Elena
+  - Created S4 Season Arc v1
+  - Created S4 Character Bible Additions v1
+  - Phase A documents complete
+  - NEXT: Director review → May editorial → Phase B (Screenplay)
+```
+
+---
+
+## PENDING FOR NEXT SESSION
+
+### Immediate (Phase A Completion)
+
+1. Director reviews `S4_THE_CORNERSTONE_Season_Arc_v1.md`
+2. Director reviews `S4_Character_Bible_Additions_v1.md`
+3. Director approves creative direction
+4. Simmons writes comms to May for editorial review
+
+### After Phase A Approval
+
+1. Begin Phase B: Complete Screenplay
+2. Write S4E1 screenplay (Prime Universe: THE PRINCIPLE)
+3. Continue through S4E2-S4E6
 
 ---
 
@@ -31,118 +219,8 @@
 └─────────────────────────────────────────────────────────────┘
 
 Communication: Async via comms/
+Primary Committer: Simmons
 ```
-
----
-
-## SOURCE MATERIAL
-
-| Document | Location | Concepts |
-|----------|----------|----------|
-| **Original Comic** | `core/bridging-the-gap-between-industry-and-institution.pdf` | 17 core concepts |
-
-### Season Mapping (from Source)
-
-| Season | Core Concept | Theme | Status |
-|--------|--------------|-------|--------|
-| S1 | Concept 1 | Do What You Want | Complete |
-| S2 | Concept 2 | Build Strong Foundations | Complete |
-| S3 | Concept 3 | College = Just Alphabets | Complete |
-| S4 | Concept 4 | The Foundation | Mapped |
-| S5-S17 | Concepts 5-17 | TBD | Mapped |
-
----
-
-## PRODUCTION STATUS
-
-### Completed Seasons
-
-| Season | Episodes | Screenplays | Prompts | Images | Status |
-|--------|----------|-------------|---------|--------|--------|
-| S1 | 6 | Complete | Complete | Generated | Published |
-| S2 | 6 | Complete | Complete | Generated | Published |
-| S3 | 6 | Complete | Complete | Generated | Published |
-
-### Active Production
-
-| Episode | Screenplay | Prompts | Editorial | Images | Status |
-|---------|------------|---------|-----------|--------|--------|
-| — | — | — | — | — | Awaiting orders |
-
----
-
-## ACTIVE MISSIONS
-
-### Phase: Awaiting Season 4 Direction
-
-- [ ] **INIT001** Review source PDF for Season 4 concept extraction
-- [ ] **INIT002** Develop Season 4 arc (THE FOUNDATION theme)
-- [ ] **INIT003** Create S4E0 (Episode Zero) screenplay
-
----
-
-## REFERENCE FILES
-
-| File | Purpose | Location |
-|------|---------|----------|
-| S1E1 Prompts | Prompt format reference | `image_prompts/S1/S1E1_THE_PRESSURE_Gemini_Prompts.md` |
-| S3 Screenplay | Latest screenplay format | `image_prompts/S3/S3_THE_ALPHABETS_Complete_Screenplay_v2.md` |
-| Character Bible | Character blocks | `image_prompts/S3/SCU_S3_Character_Bible_Additions_v1.md` |
-
----
-
-## CHARACTER CONSISTENCY
-
-### Core Characters (All Universes)
-
-| Character | Actor | Notes |
-|-----------|-------|-------|
-| Daisy Johnson | Chloe Bennet | 5 universe variants — styling differs per universe |
-| Phil Coulson | Clark Gregg | 5 universe variants — styling differs per universe |
-| Uatu The Watcher | MCU Watcher | Consistent across all episodes |
-
-### Universe Styling
-
-| Universe | Daisy Style | Coulson Style | Color Palette |
-|----------|-------------|---------------|---------------|
-| Prime (SHIELD) | Tactical suit, ponytail | White shirt, loosened tie | Blue |
-| Engineering | Grey hoodie, hair down | Charcoal hoodie, glasses | Green |
-| QA | Navy blazer, half-up | Light blue button-down | Purple |
-| DevOps | Black hoodie, low bun | Black V-neck | Orange |
-| SRE | Navy quarter-zip, low ponytail | Navy polo, headset | Red |
-
----
-
-## S.P. EASTER EGG TRACKER
-
-| Episode | Location | Content |
-|---------|----------|---------|
-| S1E1 | Assignment form | "FORM SP-117" |
-| S1E2 | TBD | TBD |
-| ... | ... | ... |
-| S3E1 | Coulson's office photo | "The day I learned my alphabets — S.P." |
-| S3E6 | Nexus space inscription | "To S.P. — who taught me my first alphabet." |
-
----
-
-## SESSION LOG
-
-```
-[2026-02-14] Session 1: PROJECT INITIALIZATION
-  - Project SCU initialized with mission intake
-  - Agent Simmons activated
-  - CREATIVE.md created
-  - Awaiting Director's first orders for Season 4
-```
-
----
-
-## MISSION SUMMARY
-
-| Phase | Missions | Status |
-|-------|----------|--------|
-| S1-S3 | Complete | Published |
-| S4 Prep | INIT001-INIT003 | Awaiting orders |
 
 ---
 
@@ -150,7 +228,7 @@ Communication: Async via comms/
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| CREATIVE.md | 1.0.0 | 2026-02-14 |
+| CREATIVE.md | 2.0.0 | 2026-02-14 |
 
 ---
 
