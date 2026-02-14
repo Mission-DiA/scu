@@ -29,17 +29,13 @@
 |------|------|---------|-------|
 | — | — | — | — |
 
-### Awaiting Revision
-| Item | From | Started | Notes |
-|------|------|---------|-------|
-| EP1 FOUNDATION Screenplay | Simmons | 2026-02-14 | Scene 26 caption alignment |
-
 ### Review Complete
 | Item | Date | Verdict | Notes |
 |------|------|---------|-------|
 | Series Structure | 2026-02-14 | ✅ APPROVED | Director sign-off received |
 | Story Arc (Ra's → Joker → Bane) | 2026-02-14 | ✅ APPROVED | Director confirmed — Simmons proceeding |
 | Joker Screenplay (now EP2 ref) | 2026-02-14 | ✅ APPROVED | Repositioned as EP2 reference material |
+| EP1 FOUNDATION Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
 
 ---
 
@@ -49,7 +45,7 @@
 
 | Episode | Title | Villain | Screenplay | Editorial | Notes |
 |---------|-------|---------|------------|-----------|-------|
-| EP1 | THE FOUNDATION | Ra's Al Ghul | ⏳ REVISION | ⏳ APPROVED W/REV | Scene 26 caption alignment needed |
+| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ SIGNED OFF | Cleared for prompt development |
 | EP2 | THE TEST | Joker | 📄 REFERENCE | ✅ APPROVED | Previous screenplay → reference material |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
@@ -133,7 +129,8 @@
 - **Revision needed:** Scene 26 caption/piece alignment — captions offset from chess pieces
 - All four specific questions answered (pacing, Ra's reveal, framework experience, Joker tease)
 - Sent review to Simmons via comms
-- Awaiting revision confirmation before final sign-off
+- **Revision verified** — Scene 26 captions now align with chess pieces
+- **SIGNED OFF** — Cleared for FULL DEPTH prompt development
 
 ### 2026-02-14 — Story Arc Alignment Review
 - **MAJOR PIVOT:** Ra's → Joker → Bane → Doom (follows Nolan trilogy)
