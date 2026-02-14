@@ -31,7 +31,7 @@
 ### Phase B: Screenplays
 | Episode | Status | Scenes | Panels | Notes |
 |---------|--------|--------|--------|-------|
-| EP1: THE PROLOGUE | ✅ COMPLETE | 28 | 143 | Joker dominant, Four Choices, 4 face-to-face |
+| EP1: THE PROLOGUE | ✅ EDITORIAL APPROVED | 28 | 143 | Panel 28.3 revised per May's feedback |
 | EP2: THE PLAYBOOK | 📋 PENDING | — | — | Framework teaching, Joker present |
 | EP3: THE TRIGGER | 📋 PENDING | — | — | Bane dominant, Doom post-credits |
 

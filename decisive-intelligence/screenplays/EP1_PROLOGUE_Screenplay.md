@@ -999,7 +999,7 @@
 ### Panel 28.3 — A SHADOW
 **Visual:** A shadow falling across the board. Someone has entered the Batcave. We don't see who. Just the shadow — massive. Broad shoulders. Not Bruce.
 
-**Caption Box:** "But a new opponent was already preparing."
+**Caption Box:** "But a new opponent was already preparing. One who wouldn't test the board — he'd break it."
 
 ### Panel 28.4 — BLACK PAGE (FINAL)
 **Visual:** Black page. White text centered.

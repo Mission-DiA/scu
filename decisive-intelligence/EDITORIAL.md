@@ -29,10 +29,16 @@
 |------|------|---------|-------|
 | — | — | — | — |
 
+### Awaiting Revision
+| Item | From | Started | Notes |
+|------|------|---------|-------|
+| EP1 PROLOGUE Screenplay | Simmons | 2026-02-14 | Minor revision: Panel 28.3 caption |
+
 ### Review Complete
 | Item | Date | Verdict | Notes |
 |------|------|---------|-------|
 | Series Structure | 2026-02-14 | ✅ APPROVED | Director sign-off received |
+| EP1 PROLOGUE Screenplay | 2026-02-14 | ⏳ APPROVED WITH REVISION | One caption change needed |
 
 ---
 
@@ -40,7 +46,7 @@
 
 | Episode | Screenplay | Prompts | Editorial | Notes |
 |---------|------------|---------|-----------|-------|
-| EP1: THE PROLOGUE | 📋 PENDING | 📋 PENDING | 📋 PENDING | Joker dominant |
+| EP1: THE PROLOGUE | ⏳ REVISION | 📋 PENDING | ⏳ APPROVED W/REV | Panel 28.3 caption revision pending |
 | EP2: THE PLAYBOOK | 📋 PENDING | 📋 PENDING | 📋 PENDING | Framework teaching |
 | EP3: THE TRIGGER | 📋 PENDING | 📋 PENDING | 📋 PENDING | Bane + Doom |
 
@@ -90,10 +96,10 @@
 ### Joker (EP1 + EP2)
 | Requirement | EP1 | EP2 |
 |-------------|-----|-----|
-| Face-to-face confrontation | ☐ | ☐ |
-| Famous lines included | ☐ | ☐ |
-| Chaos philosophy visible | ☐ | ☐ |
-| "Wins even when losing" feeling | ☐ | ☐ |
+| Face-to-face confrontation | ✅ 4 moments | ☐ |
+| Famous lines included | ✅ 8 lines | ☐ |
+| Chaos philosophy visible | ✅ | ☐ |
+| "Wins even when losing" feeling | ✅ Scene 26 | ☐ |
 
 ### Bane (EP3)
 | Requirement | Status |
@@ -114,6 +120,14 @@
 ---
 
 ## Session Log
+
+### 2026-02-14 — EP1 Editorial Review
+- Received EP1 PROLOGUE Screenplay (28 scenes, 143 panels)
+- Completed full editorial review against all checklists
+- **Verdict:** APPROVED WITH MINOR REVISION
+- **Revision needed:** Panel 28.3 caption — add connection to chessboard metaphor
+- Sent review to Simmons via comms
+- Awaiting revision confirmation before final sign-off
 
 ### 2026-02-14 — Series Initialization
 - Editorial tracker created
