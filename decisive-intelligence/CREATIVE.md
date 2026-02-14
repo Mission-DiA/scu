@@ -24,14 +24,14 @@
 |------|--------|-------|
 | SERIES.md created | ✅ COMPLETE | v1.0.0 |
 | CREATIVE.md created | ✅ COMPLETE | This file |
-| EDITORIAL.md created | 🔄 IN PROGRESS | — |
-| Character Bible | 📋 PENDING | Full costume variations needed |
-| Famous Lines Library | 📋 PENDING | Joker, Bane, Batman, Doom |
+| EDITORIAL.md created | ✅ COMPLETE | v1.0.0 |
+| Character Bible | ✅ COMPLETE | All costume variations locked |
+| Famous Lines Library | ✅ COMPLETE | Integrated into SERIES.md |
 
 ### Phase B: Screenplays
 | Episode | Status | Scenes | Panels | Notes |
 |---------|--------|--------|--------|-------|
-| EP1: THE PROLOGUE | 📋 PENDING | — | — | Joker dominant, Four Choices |
+| EP1: THE PROLOGUE | ✅ COMPLETE | 28 | 143 | Joker dominant, Four Choices, 4 face-to-face |
 | EP2: THE PLAYBOOK | 📋 PENDING | — | — | Framework teaching, Joker present |
 | EP3: THE TRIGGER | 📋 PENDING | — | — | Bane dominant, Doom post-credits |
 
@@ -58,10 +58,10 @@
 4. **CHOICE #4:** Become the villain to save the city? (Take the fall) → MOVEMENT
 
 **Key Joker Face-to-Face Moments:**
-- [ ] Interrogation room confrontation
-- [ ] Hospital scene (Harvey's corruption)
-- [ ] Final confrontation
-- [ ] Post-capture (laughing, "I won")
+- [x] Interrogation room confrontation (Scene 11)
+- [x] Hospital scene (Harvey's corruption) (Scene 13)
+- [x] Final confrontation (Scene 14)
+- [x] Post-capture (Arkham, prophecy) (Scene 26)
 
 ### EP2: THE PLAYBOOK
 **Delivery:** During event (in-person with deck + simulation)
@@ -111,14 +111,18 @@
 ### Joker Lines (Must Include)
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
-| "Why so serious?" | EP1 | TBD | ☐ |
-| "I'm an agent of chaos" | EP1/EP2 | TBD | ☐ |
-| "Madness is like gravity. All it takes is a little push." | EP1 | TBD | ☐ |
-| "You either die a hero, or live long enough to see yourself become the villain" | EP1 | TBD | ☐ |
-| "Do I really look like a guy with a plan?" | EP2 | TBD | ☐ |
-| "It's not about the money. It's about sending a message." | EP1/EP2 | TBD | ☐ |
-| "Let's put a smile on that face" | EP1 | TBD | ☐ |
-| "Their morals, their code... it's a bad joke" | EP1/EP2 | TBD | ☐ |
+| "Why so serious?" | EP1 | — | ☐ (reserved for EP2) |
+| "I'm an agent of chaos" | EP1/EP2 | — | ☐ (reserved for EP2) |
+| "Madness is like gravity. All it takes is a little push." | EP1 | 26 | ✅ |
+| "You either die a hero, or live long enough to see yourself become the villain" | EP1 | — | ☐ (reserved for EP2) |
+| "Do I really look like a guy with a plan?" | EP1 | 5 | ✅ |
+| "It's not about the money. It's about sending a message." | EP1/EP2 | — | ☐ (reserved for EP2) |
+| "Let's put a smile on that face" | EP1 | — | ☐ (reserved for EP2) |
+| "Their morals, their code... it's a bad joke" | EP1/EP2 | — | ☐ (reserved for EP2) |
+| "You made a choice. That makes you just like me." | EP1 | 11 | ✅ |
+| "I'm not a monster. I'm just ahead of the curve." | EP1 | 13 | ✅ |
+| "You and I are destined to do this forever." | EP1 | 14 | ✅ |
+| "Tick tock, Batman." | EP1 | 3 | ✅ |
 
 ### Bane Lines (Must Include)
 | Line | Episode | Scene | Used |
@@ -141,12 +145,12 @@
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
 | "Why do we fall? So we can learn to pick ourselves up." | EP3 | Pit context | ☐ |
-| "Some men just want to watch the world burn" | EP1/EP2 | Joker context | ☐ |
+| "Some men just want to watch the world burn" | EP1 | 6 | ✅ |
 
 ### Gordon Lines (Must Include)
 | Line | Episode | Scene | Used |
 |------|---------|-------|------|
-| "He's a silent guardian. A watchful protector. A Dark Knight." | EP1 | Closing | ☐ |
+| "He's a silent guardian. A watchful protector. A Dark Knight." | EP1 | 22-23 | ✅ |
 
 ### Doctor Doom (Must Include)
 | Line | Episode | Scene | Used |
@@ -160,35 +164,56 @@
 ### Bruce Wayne Variations Used
 | Variation | EP1 | EP2 | EP3 |
 |-----------|-----|-----|-----|
-| Wealthy (suit) | ☐ | ☐ | ☐ |
-| Casual | ☐ | ☐ | ☐ |
+| Wealthy (suit) | — | ☐ | ☐ |
+| Casual | — | ☐ | ☐ |
 | Prison (Pit) | — | — | ☐ |
-| Tactical Undersuit | ☐ | ☐ | ☐ |
+| Tactical Undersuit | — | ☐ | ☐ |
 
 ### Batman Variations Used
 | Variation | EP1 | EP2 | EP3 |
 |-----------|-----|-----|-----|
-| Full Batsuit (Pristine) | ☐ | ☐ | ☐ |
-| Full Batsuit (Battle-worn) | ☐ | ☐ | ☐ |
-| Damaged Batsuit | ☐ | ☐ | ☐ |
+| Full Batsuit (Pristine) | ✅ (Scenes 3-10) | ☐ | ☐ |
+| Full Batsuit (Battle-worn) | ✅ (Scenes 11-26) | ☐ | ☐ |
+| Damaged Batsuit | — | ☐ | ☐ |
 | Repaired Batsuit | — | — | ☐ |
+
+### Joker Variations Used
+| Variation | EP1 | EP2 | EP3 |
+|-----------|-----|-----|-----|
+| Standard | ✅ (Scenes 3, 5, 14) | ☐ | — |
+| Nurse Disguise | ✅ (Scene 13) | — | — |
+| Interrogation | ✅ (Scenes 11, 26) | ☐ | — |
 
 ---
 
 ## Session Log
 
-### 2026-02-14 — Series Initialization
+### 2026-02-14 — Session 2: EP1 Screenplay Complete
+- Completed EP1 PROLOGUE screenplay (28 scenes, 143 panels)
+- Four Choices structure fully dramatized
+- Four Joker face-to-face moments included:
+  - Scene 11: Interrogation Room
+  - Scene 13: Hospital (Harvey corruption)
+  - Scene 14: Construction Site finale
+  - Scene 26: Arkham Asylum post-capture
+- Famous lines integrated: 6 Joker, 1 Alfred, 1 Gordon
+- Costume tracking updated
+- Post-credits tease planted (8 years later shadow)
+
+**Next Session:**
+- Send EP1 to May for editorial review
+- Begin EP2 PLAYBOOK screenplay
+
+### 2026-02-14 — Session 1: Series Initialization
 - Director approved DI series structure
 - Created series directory structure
 - Created SERIES.md v1.0.0
 - Created CREATIVE.md (this file)
+- Created EDITORIAL.md v1.0.0
+- Created Character Bible with all costume variations
 - Confirmed villain dominance: Joker (EP1+EP2), Bane (EP3), Doom (post-credits)
 - Confirmed delivery architecture: Pre-event / During event / Post-event
 - Locked Doom line: "New Mask, Same Task"
-
-**Next Session:**
-- Create Character Bible with full costume blocks
-- Begin EP1 screenplay
 
 ---
 
