@@ -47,7 +47,8 @@
 
 ### Next Actions (Phase B: Screenplay)
 
-- [x] Write S4E1 Complete Screenplay (Prime: THE PRINCIPLE)
+- [x] Write S4E1 Complete Screenplay (Prime: THE PRINCIPLE) ✅
+- [x] Write S4E2 Complete Screenplay (Engineering: THE DEBT) ✅
 - [ ] Write S4E2 Complete Screenplay (Engineering: THE DEBT)
 - [ ] Write S4E3 Complete Screenplay (QA: THE STANDARD)
 - [ ] Write S4E4 Complete Screenplay (DevOps: THE CULTURE)
@@ -64,7 +65,7 @@
 | Episode | Universe | Title | Foundation Element | Status |
 |---------|----------|-------|-------------------|--------|
 | S4E1 | Prime | THE PRINCIPLE | Principles that guide decisions | ✅ Screenplay Complete |
-| S4E2 | Engineering | THE DEBT | Technical architecture | Arc Complete |
+| S4E2 | Engineering | THE DEBT | Technical architecture | ✅ Screenplay Complete |
 | S4E3 | QA | THE STANDARD | Quality mindset | Arc Complete |
 | S4E4 | DevOps | THE CULTURE | Operational culture | Arc Complete |
 | S4E5 | SRE | THE OWNERSHIP | Reliability ownership | Arc Complete |
@@ -101,6 +102,7 @@
 | Maria Hill | Cobie Smulders | Prime | Deputy Director, Operations | S4E1 |
 | Elena | Sandra Oh | QA | Senior QA Architect (25 years) | S4E3 |
 | Agent Chen | Ross Butler | Prime | Junior Agent, Daisy's team | S4E1 |
+| Reena | Priyanka Chopra Jonas | Engineering | Junior Engineer | S4E2 |
 
 ---
 
@@ -155,7 +157,7 @@
 | S1 | 6 | Complete | Complete | Generated | Published |
 | S2 | 6 | Complete | Complete | Generated | Published |
 | S3 | 6 | Complete | Complete | Generated | Published |
-| **S4** | 6 | **1/6 Complete** | Pending | Pending | **In Progress** |
+| **S4** | 6 | **2/6 Complete** | Pending | Pending | **In Progress** |
 | S5-S17 | — | Mapped | — | — | Future |
 
 ---
@@ -172,6 +174,7 @@
 | S4 Season Arc | S4 creative overview | `image_prompts/S4/S4_THE_CORNERSTONE_Season_Arc_v1.md` |
 | S4 Characters | New character blocks | `image_prompts/S4/S4_Character_Bible_Additions_v1.md` |
 | S4E1 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E1_THE_PRINCIPLE_Screenplay_v1.md` |
+| S4E2 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E2_THE_DEBT_Screenplay_v1.md` |
 
 ---
 
@@ -213,7 +216,20 @@
   - Key scenes: Watcher opening, May's line, Hill's question, Coulson's guidance
   - S.P. Easter egg placed: "Foundation Review: S.P." on mission report
   - 13 scenes, full Prime Universe episode
-  - NEXT: Send to May for editorial → Continue to S4E2
+  - May editorial: APPROVED
+  - Agent Chen casting locked: Ross Butler
+  - NEXT: Continue to S4E2
+
+[2026-02-14] Session 5: S4E2 SCREENPLAY
+  - Reviewed S4 Season Arc for S4E2 beats
+  - Reviewed Engineering Universe character blocks
+  - Marcus at 10% desaturation — full mentor evolution visible
+  - Wrote S4E2 THE DEBT complete screenplay v1
+  - Key scenes: Architecture review, Reena's question, Marcus's First Law
+  - S.P. Easter egg placed: "S.P.'s First Law: What you build first..."
+  - 12 scenes, full Engineering Universe episode
+  - New character: Reena (Priyanka Chopra Jonas) — junior engineer
+  - NEXT: Send to May for editorial → Continue to S4E3
 ```
 
 ---
@@ -223,8 +239,9 @@
 ### Phase B: Complete Screenplay
 
 1. ~~Write S4E1 Complete Screenplay (Prime: THE PRINCIPLE)~~ ✅ COMPLETE
-2. Send S4E1 to May for editorial review
-3. Write S4E2 Complete Screenplay (Engineering: THE DEBT)
+2. ~~Send S4E1 to May for editorial review~~ ✅ APPROVED
+3. ~~Write S4E2 Complete Screenplay (Engineering: THE DEBT)~~ ✅ COMPLETE
+4. Send S4E2 to May for editorial review
 4. Write S4E3 Complete Screenplay (QA: THE STANDARD)
 5. Write S4E4 Complete Screenplay (DevOps: THE CULTURE)
 6. Write S4E5 Complete Screenplay (SRE: THE OWNERSHIP)
@@ -262,7 +279,7 @@ Primary Committer: Simmons
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| CREATIVE.md | 2.1.0 | 2026-02-14 |
+| CREATIVE.md | 2.2.0 | 2026-02-14 |
 
 ---
 
