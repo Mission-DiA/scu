@@ -173,12 +173,12 @@
 | S3 Screenplay | Latest screenplay format | `image_prompts/S3/S3_THE_ALPHABETS_Complete_Screenplay_v2.md` |
 | S4 Season Arc | S4 creative overview | `image_prompts/S4/S4_THE_CORNERSTONE_Season_Arc_v1.md` |
 | S4 Characters | New character blocks | `image_prompts/S4/S4_Character_Bible_Additions_v1.md` |
-| S4E1 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E1_THE_PRINCIPLE_Screenplay_v1.md` |
-| S4E2 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E2_THE_DEBT_Screenplay_v1.md` |
-| S4E3 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E3_THE_STANDARD_Screenplay_v1.md` |
-| S4E4 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E4_THE_CULTURE_Screenplay_v1.md` |
-| S4E5 Screenplay | Complete screenplay v1 | `image_prompts/S4/S4E5_THE_OWNERSHIP_Screenplay_v1.md` |
-| S4E6 Screenplay | Complete screenplay v1 (FINALE) | `image_prompts/S4/S4E6_THE_CORNERSTONE_Screenplay_v1.md` |
+| S4E1 Screenplay | Complete screenplay v1 | `image_prompts/S4/screenplays/S4E1_THE_PRINCIPLE_Screenplay_v1.md` |
+| S4E2 Screenplay | Complete screenplay v1 | `image_prompts/S4/screenplays/S4E2_THE_DEBT_Screenplay_v1.md` |
+| S4E3 Screenplay | Complete screenplay v1 | `image_prompts/S4/screenplays/S4E3_THE_STANDARD_Screenplay_v1.md` |
+| S4E4 Screenplay | Complete screenplay v1 | `image_prompts/S4/screenplays/S4E4_THE_CULTURE_Screenplay_v1.md` |
+| S4E5 Screenplay | Complete screenplay v1 | `image_prompts/S4/screenplays/S4E5_THE_OWNERSHIP_Screenplay_v1.md` |
+| S4E6 Screenplay | Complete screenplay v1 (FINALE) | `image_prompts/S4/screenplays/S4E6_THE_CORNERSTONE_Screenplay_v1.md` |
 
 ---
 
