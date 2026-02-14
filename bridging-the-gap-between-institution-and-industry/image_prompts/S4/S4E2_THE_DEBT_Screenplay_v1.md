@@ -130,7 +130,7 @@ The fragment zooms into a modern tech office, green-tinted lighting from monitor
 **[PANEL 1]**
 Wide shot of the Engineering floor. DAISY (hair down, grey hoodie) sits at her workstation, reviewing a feature specification on her monitor. The office hums with activity.
 
-> **DAISY (V.O.):** "Six months since Prague. Six months since D3O changed how I think about code. Now they trust me with the real stuff."
+> **DAISY (V.O.):** "Six months since the production incident. Six months since Marcus showed me what D3O really means. Now they trust me with the real stuff."
 
 **[PANEL 2]**
 Her screen shows: "FEATURE: Payment Gateway v2 — Assigned: D. Johnson — Priority: HIGH"
