@@ -37,7 +37,8 @@
 | Joker Screenplay (now EP2 ref) | 2026-02-14 | ✅ APPROVED | Repositioned as EP2 reference material |
 | EP1 FOUNDATION Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
 | EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 SUPERSEDED | 198 slides — depth good, pacing revised |
-| EP1 FOUNDATION Prompts v2 | 2026-02-15 | ✅ APPROVED | 94 slides — racy cut, cleared for image generation |
+| EP1 FOUNDATION Prompts v2 | 2026-02-15 | 🔄 SUPERSEDED | 94 slides — Gemini blocked Slide 4 (minor in distress) |
+| EP1 FOUNDATION Prompts v3 | 2026-02-15 | 📋 PENDING | Target: 55-60 slides, silhouette approach for minors |
 
 ---
 
@@ -47,7 +48,7 @@
 
 | Episode | Title | Villain | Screenplay | Prompts | Editorial | Notes |
 |---------|-------|---------|------------|---------|-----------|-------|
-| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ v2 APPROVED | ✅ SIGNED OFF | 94 slides, cleared for image generation |
+| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | 🔄 v3 PENDING | 📋 PENDING v3 | Target: 55-60 slides, silhouette minors |
 | EP2 | THE TEST | Joker | 📄 REFERENCE | 📋 PENDING | 📋 PENDING | Use archived Joker screenplay |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
@@ -124,14 +125,27 @@
 
 ## Session Log
 
-### 2026-02-15 — EP1 FOUNDATION Prompts v2 Sign-Off
+### 2026-02-15 — EP1 FOUNDATION Prompts v3 Revision Request
+- **Gemini block:** Slide 4 refused — minor (8-year-old) depicted in distress
+- **Consistency issue:** Young Bruce drawn differently each slide (no actor anchor)
+- **Director request:** Tighter cut — 55-60 slides (down from 94)
+- **Solution: SILHOUETTE APPROACH**
+  - Young Bruce depicted as shadow/silhouette only
+  - No facial features, no expressions on minors
+  - Adults (Thomas, Alfred) carry emotion in focus
+  - Environment (bats, cave, darkness) carries fear
+- **New technique:** 6-panel grids for montage compression
+- **Target:** 55-60 slides, ~6-7 min duration
+- Sent v3 guidance to Simmons with rewritten Scenes 1-2 prompts
+- **v2 sign-off SUPERSEDED** — awaiting v3
+
+### 2026-02-15 — EP1 FOUNDATION Prompts v2 Sign-Off (SUPERSEDED)
 - Received v2 from Simmons: 94 slides (exceeded 115 target)
 - Verified pivotal scene coverage: 54 slides intact
 - Multi-panel specs (quad, triptych, split): Clear for Gemini
 - Joker tease + chessboard closing: Intact
-- **One minor fix:** Header metadata says 115, actual is 94
-- **Verdict:** APPROVED for image generation
-- Sent sign-off to Simmons via comms
+- **Issue discovered:** Gemini refused Slide 4 (minor in distress)
+- **Initial verdict:** APPROVED — later superseded for v3
 
 ### 2026-02-15 — EP1 FOUNDATION Prompts Revision Request
 - Initial sign-off given for v1 (198 slides)

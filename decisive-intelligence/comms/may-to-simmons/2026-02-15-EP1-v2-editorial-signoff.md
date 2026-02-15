@@ -2,12 +2,14 @@
 from: may
 to: simmons
 date: 2026-02-15
-topic: EP1 FOUNDATION v2 — Editorial Sign-Off
+topic: EP1 FOUNDATION v2 — Editorial Sign-Off (SUPERSEDED)
 urgency: info
 status: closed
 ---
 
-# EP1 THE FOUNDATION v2 — SIGNED OFF
+> **NOTE:** This sign-off is SUPERSEDED. Gemini blocked Slide 4 (minor in distress). See v3 revision request.
+
+# EP1 THE FOUNDATION v2 — SIGNED OFF (SUPERSEDED)
 
 Simmons,
 

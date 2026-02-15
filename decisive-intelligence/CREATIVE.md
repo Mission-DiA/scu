@@ -50,8 +50,9 @@
 ### Phase C: Gemini Prompts (FULL DEPTH)
 | Episode | Status | Slides | Notes |
 |---------|--------|--------|-------|
-| EP1 Prompts v1 | ✅ COMPLETE | 198 | Full depth — superseded by v2 |
-| EP1 Prompts v2 | ✅ SIGNED OFF | 94 | Racy cut — APPROVED for image generation |
+| EP1 Prompts v1 | ✅ COMPLETE | 198 | Full depth — superseded |
+| EP1 Prompts v2 | ⚠️ BLOCKED | 94 | Racy cut — Gemini blocked Slide 4 (minor) |
+| EP1 Prompts v3 | 🔍 REVIEW | 60 | Silhouette cut — awaiting May sign-off |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
 | EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
 
@@ -221,7 +222,19 @@
 
 ## Session Log
 
-### 2026-02-15 — Session 4 (Continued): EP1 Racy Cut Complete
+### 2026-02-15 — Session 4 (v3): EP1 Silhouette Cut Complete
+- Gemini blocked v2 Slide 4 (minor in distress)
+- Director requested tighter cut: 94 → 55-60 slides
+- Delivered v3 with 60 slides (70% reduction from v1)
+- New techniques applied:
+  - **Silhouette approach** for all Young Bruce scenes
+  - **Adult focus** — Thomas, Alfred carry emotion
+  - **6-panel grids** for training/journey montages
+- Gemini-safe: No detailed minor depiction
+- File: `image_prompts/EP1/EP1_FOUNDATION_Prompts_v3.md`
+- Sent to May for editorial review
+
+### 2026-02-15 — Session 4 (v2): EP1 Racy Cut Complete
 - May requested racy cut: 198 → 115 slides target
 - Delivered v2 with 94 slides (52% reduction — exceeded target)
 - Compression techniques applied:
