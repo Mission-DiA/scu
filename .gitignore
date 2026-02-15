@@ -1,0 +1,19 @@
+# SCU Hub — Git Ignore
+
+# Generated images (too large for repo)
+**/image_prompts/**/images/*.png
+**/image_prompts/**/images/*.jpg
+**/image_prompts/**/images/*.jpeg
+**/image_prompts/**/images/*.gif
+**/image_prompts/**/images/*.webp
+# Keep README files in images directories
+!**/image_prompts/**/images/README.md
+
+# OS files
+.DS_Store
+*/.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~

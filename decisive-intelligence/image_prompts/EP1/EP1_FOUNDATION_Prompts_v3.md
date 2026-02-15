@@ -126,7 +126,7 @@ STYLE: Photorealistic BATS, SILHOUETTE child. Full bleed to all edges. WATERMARK
 
 ---
 
-### SLIDE 3 — THE RESCUE (Panels 2.4-2.5 COMBINED)
+### SLIDE 3 — THE RESCUE (Panels 2.4-2.5 COMBINED) @@@ Need regen as it is drawing differnt Thomas Wayne
 **SINGLE — THOMAS FOCUS**
 
 ```
