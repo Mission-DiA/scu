@@ -52,7 +52,7 @@
 |---------|--------|--------|-------|
 | EP1 Prompts v1 | ✅ COMPLETE | 198 | Full depth — superseded |
 | EP1 Prompts v2 | ⚠️ BLOCKED | 94 | Racy cut — Gemini blocked Slide 4 (minor) |
-| EP1 Prompts v3 | 🔍 REVIEW | 60 | Silhouette cut — awaiting May sign-off |
+| EP1 Prompts v3 | ✅ SIGNED OFF | 60 | Silhouette cut — APPROVED for image generation |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
 | EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
 

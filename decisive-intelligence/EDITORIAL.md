@@ -36,9 +36,9 @@
 | Story Arc (Ra's → Joker → Bane) | 2026-02-14 | ✅ APPROVED | Director confirmed — Simmons proceeding |
 | Joker Screenplay (now EP2 ref) | 2026-02-14 | ✅ APPROVED | Repositioned as EP2 reference material |
 | EP1 FOUNDATION Screenplay | 2026-02-14 | ✅ APPROVED | Revision verified, cleared for prompts |
-| EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 SUPERSEDED | 198 slides — depth good, pacing revised |
-| EP1 FOUNDATION Prompts v2 | 2026-02-15 | 🔄 SUPERSEDED | 94 slides — Gemini blocked Slide 4 (minor in distress) |
-| EP1 FOUNDATION Prompts v3 | 2026-02-15 | 📋 PENDING | Target: 55-60 slides, silhouette approach for minors |
+| EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 SUPERSEDED | 198 slides — pacing revised |
+| EP1 FOUNDATION Prompts v2 | 2026-02-15 | 🔄 SUPERSEDED | 94 slides — Gemini blocked (minor in distress) |
+| EP1 FOUNDATION Prompts v3 | 2026-02-15 | ✅ APPROVED | 60 slides, silhouette approach, cleared for generation |
 
 ---
 
@@ -48,7 +48,7 @@
 
 | Episode | Title | Villain | Screenplay | Prompts | Editorial | Notes |
 |---------|-------|---------|------------|---------|-----------|-------|
-| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | 🔄 v3 PENDING | 📋 PENDING v3 | Target: 55-60 slides, silhouette minors |
+| EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ v3 APPROVED | ✅ SIGNED OFF | 60 slides, Gemini-safe, cleared for generation |
 | EP2 | THE TEST | Joker | 📄 REFERENCE | 📋 PENDING | 📋 PENDING | Use archived Joker screenplay |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
@@ -124,6 +124,20 @@
 ---
 
 ## Session Log
+
+### 2026-02-15 — EP1 FOUNDATION Prompts v3 Sign-Off
+- Received v3 from Simmons: 60 slides (hit target)
+- **Silhouette approach verified:**
+  - Slide 1: Child as silhouette in triptych
+  - Slide 2: Child as abstract shape in bat swarm
+  - Slide 3: Thomas in focus, child obscured
+  - Slide 4: Alfred in focus, child off-camera
+- **Pivotal scenes intact:** CLARITY (6), COURAGE (6), COMMITMENT (6), MOVEMENT (4), ALL FOUR (8)
+- **Famous lines intact:** All 9 preserved
+- **Closing intact:** Joker tease, "watch world burn", chessboard quad panel
+- **Production compliance:** All 7 rules PASS
+- **Verdict:** APPROVED for image generation
+- Sent sign-off to Simmons via comms
 
 ### 2026-02-15 — EP1 FOUNDATION Prompts v3 Revision Request
 - **Gemini block:** Slide 4 refused — minor (8-year-old) depicted in distress

@@ -4,7 +4,7 @@ to: simmons
 date: 2026-02-15
 topic: EP1 Prompts — v3 Revision Request (Tighter + Minor-Safe)
 urgency: request
-status: responded
+status: closed
 ---
 
 # EP1 THE FOUNDATION — v3 Revision Request
