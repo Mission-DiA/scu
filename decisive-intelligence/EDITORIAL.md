@@ -2,7 +2,7 @@
 
 > **Owner:** May (Editor)
 > **Series:** Decisive Intelligence
-> **Updated:** 2026-02-15
+> **Updated:** 2026-02-16
 
 ---
 
@@ -39,6 +39,7 @@
 | EP1 FOUNDATION Prompts v1 | 2026-02-15 | 🔄 SUPERSEDED | 198 slides — pacing revised |
 | EP1 FOUNDATION Prompts v2 | 2026-02-15 | 🔄 SUPERSEDED | 94 slides — Gemini blocked (minor in distress) |
 | EP1 FOUNDATION Prompts v3 | 2026-02-15 | ✅ APPROVED | 60 slides, silhouette approach, cleared for generation |
+| EP2 THE TEST Screenplay | 2026-02-16 | ✅ APPROVED | 28 scenes, 137 panels, cleared for prompts |
 
 ---
 
@@ -49,7 +50,7 @@
 | Episode | Title | Villain | Screenplay | Prompts | Editorial | Notes |
 |---------|-------|---------|------------|---------|-----------|-------|
 | EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ v3 APPROVED | ✅ SIGNED OFF | 60 slides, Gemini-safe, cleared for generation |
-| EP2 | THE TEST | Joker | 📄 REFERENCE | 📋 PENDING | 📋 PENDING | Use archived Joker screenplay |
+| EP2 | THE TEST | Joker | ✅ APPROVED | 📋 PENDING | ✅ SIGNED OFF | 28 scenes, 137 panels, ready for prompts |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
 **Arc Status:** ✅ APPROVED — Director confirmed, Simmons cleared to proceed
@@ -100,10 +101,10 @@
 ### Joker (EP1 + EP2)
 | Requirement | EP1 | EP2 |
 |-------------|-----|-----|
-| Face-to-face confrontation | ✅ 4 moments | ☐ |
-| Famous lines included | ✅ 8 lines | ☐ |
-| Chaos philosophy visible | ✅ | ☐ |
-| "Wins even when losing" feeling | ✅ Scene 26 | ☐ |
+| Face-to-face confrontation | ✅ 4 moments | ✅ 3 moments (Interrogation, Hospital, Arkham) |
+| Famous lines included | ✅ 8 lines | ✅ 9 lines |
+| Chaos philosophy visible | ✅ | ✅ |
+| "Wins even when losing" feeling | ✅ Scene 26 | ✅ Scene 26 (Arkham prophecy) |
 
 ### Bane (EP3)
 | Requirement | Status |
@@ -124,6 +125,26 @@
 ---
 
 ## Session Log
+
+### 2026-02-16 — EP2 THE TEST Screenplay Sign-Off
+- Received EP2 THE TEST Screenplay from Simmons (28 scenes, 137 panels)
+- **Arc continuity verified:**
+  - Joker card from EP1 ending → Opens EP2 on chessboard
+  - Ra's training flashback (Scene 6)
+  - Chessboard motif continues with colors
+  - Framework evolution: Experienced (EP1) → Named (EP2)
+- **Four Choices structure verified:**
+  - Choice #1 (CLARITY): Which crisis matters most? — Scene 7-8
+  - Choice #2 (COURAGE): Act despite uncertain outcome — Scene 11-12
+  - Choice #3 (COMMITMENT): Destroy Harvey to save the child — Scene 16-17
+  - Choice #4 (MOVEMENT): Become the villain to save the city — Scene 20-22
+- **Framework naming verified:** All four pillar captions impactful
+- **Joker face-to-face moments:** 3 solid scenes (Interrogation, Hospital, Arkham)
+- **Famous lines:** All 9 major lines present
+- **EP3 setup:** Bane post-credits (The Pit, mask, "permission to die")
+- **Verdict:** APPROVED for prompt development
+- **Production notes provided:** Apply v3 learnings (60-ish slides, 6-panel grids)
+- Sent sign-off to Simmons via comms
 
 ### 2026-02-15 — EP1 FOUNDATION Prompts v3 Sign-Off
 - Received v3 from Simmons: 60 slides (hit target)
@@ -215,7 +236,7 @@
 
 | Document | Version |
 |----------|---------|
-| EDITORIAL.md | 1.1.0 |
+| EDITORIAL.md | 1.2.0 |
 
 ---
 

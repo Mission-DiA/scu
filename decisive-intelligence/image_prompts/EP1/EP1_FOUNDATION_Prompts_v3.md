@@ -2364,14 +2364,15 @@ Episode 1: THE FOUNDATION
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+CREATIVE HEAD
+Raja
+
 EXECUTIVE PRODUCER
 Nisha P
 
 PRODUCED BY
 Susan L
 
-CREATIVE HEAD
-Raja
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -2392,12 +2393,17 @@ Claude Code & Google Gemini
 
 
 
+[EMPHASIZED — 2× LARGER TEXT, SUBTLE GOLD GLOW (#FFD700, 30% opacity) BEHIND TEXT]
 
-A SWAMI K FILM
+A  S W A M I  K  F I L M
+
+[LETTER-SPACED FOR IMPACT]
+
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-STYLE: Cinematic end credits, Dark Knight Trilogy aesthetic — pure black, white text, elegant and minimal. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Cinematic end credits, Dark Knight Trilogy aesthetic — pure black, white text, elegant and minimal. FINAL CREDIT ("A SWAMI K FILM") must be the visual climax: 2× larger than other text, letter-spaced, with subtle gold glow behind it — the villain's entrance. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
