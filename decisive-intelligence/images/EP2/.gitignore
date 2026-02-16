@@ -1,0 +1,14 @@
+# EP2 THE TEST - Generated Images
+# Images tracked in Google Drive, not git
+
+# All image formats
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tiff
+
+# Keep directory structure
+!.gitignore
