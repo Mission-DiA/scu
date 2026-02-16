@@ -4,7 +4,7 @@ to: may
 date: 2026-02-16
 topic: EP2 THE TEST Screenplay — Editorial Review Request
 urgency: request
-status: open
+status: closed
 ---
 
 # EP2 THE TEST — Screenplay Ready for Review

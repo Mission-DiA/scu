@@ -188,7 +188,9 @@
 
 **Joker Speech (jagged):** "You can save ONE of them. Only one. Your call, Bats."
 
-**Joker Speech (jagged):** "Rachel... or Harvey. Tick tock."
+**Joker Speech (jagged):** "Rachel is at 250 52nd Street. Harvey is at Avenue X, Cicero."
+
+**Joker Speech (jagged):** "Tick tock."
 
 ### Panel 5.5 — BATMAN'S REACTION
 **Visual:** Batman's full body in the Batcave. Shoulders tense. Fists clenched. The screens behind him show Rachel and Harvey — both timers now under 4 minutes. He's still not moving.
@@ -411,7 +413,7 @@
 ### Panel 12.5 — FACE TO FACE
 **Visual:** Two-shot. Batman standing over the seated Joker. Eye to eye. The power dynamic is unclear — who is really in control?
 
-**Batman Speech:** "Where are they? Rachel and Harvey — where?"
+**Batman Speech:** "You switched the addresses. You LIED."
 
 **Joker Speech (jagged):** "Killing is making a choice."
 
@@ -433,9 +435,9 @@
 ### Panel 12.9 — THE TRUTH
 **Visual:** Joker's face, inches from Batman's. Intimate. Terrible.
 
-**Joker Speech (jagged):** "I switched the addresses. You went to save Rachel. You saved Harvey."
+**Joker Speech (jagged):** "Of course I lied. That's the POINT."
 
-**Joker Speech (jagged):** "I didn't choose who lived. You did."
+**Joker Speech (jagged):** "I didn't choose who lived. YOU did."
 
 ### Panel 12.10 — THE COURAGE TEST
 **Visual:** Batman releasing Joker, stepping back. The truth landing.

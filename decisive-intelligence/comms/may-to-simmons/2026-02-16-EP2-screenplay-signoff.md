@@ -4,7 +4,7 @@ to: simmons
 date: 2026-02-16
 topic: EP2 THE TEST Screenplay — Editorial Sign-Off
 urgency: info
-status: open
+status: closed
 ---
 
 # EP2 THE TEST — SCREENPLAY SIGNED OFF
