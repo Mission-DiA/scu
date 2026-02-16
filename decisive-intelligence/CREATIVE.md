@@ -2,7 +2,7 @@
 
 > **Owner:** Simmons (Creative Lead)
 > **Series:** Decisive Intelligence
-> **Updated:** 2026-02-15
+> **Updated:** 2026-02-16
 
 ---
 
@@ -44,7 +44,7 @@
 | Episode | Status | Scenes | Panels | Notes |
 |---------|--------|--------|--------|-------|
 | EP1: THE FOUNDATION | ✅ SIGNED OFF | 26 | 124 | May approved, prompts complete |
-| EP2: THE TEST | 📋 PENDING | ~28 | ~140 | Use archived Joker screenplay as reference |
+| EP2: THE TEST | 🔍 REVIEW | 28 | 137 | Sent to May for review |
 | EP3: THE ADAPTATION | 📋 PENDING | ~22 | ~110 | Bane + Doom post-credits |
 
 ### Phase C: Gemini Prompts (FULL DEPTH)
@@ -130,14 +130,18 @@
 | "If you make yourself more than just a man... you become something else entirely" | 12 | ✅ |
 | "Your compassion is a weakness your enemies will not share" | 17 | ✅ |
 
-### Joker Lines (EP2 — pending)
+### Joker Lines (EP2)
 | Line | Scene | Used |
 |------|-------|------|
-| "Why so serious?" | TBD | ☐ |
-| "I'm an agent of chaos" | TBD | ☐ |
-| "Madness is like gravity. All it takes is a little push." | TBD | ☐ |
-| "You either die a hero, or live long enough to see yourself become the villain" | TBD | ☐ |
-| "Do I really look like a guy with a plan?" | TBD | ☐ |
+| "Why so serious?" | — | ☐ (reserved for EP2 prompts) |
+| "Do I really look like a guy with a plan?" | 5 | ✅ |
+| "Tick tock, Batman." | 3 | ✅ |
+| "You made a choice. That makes you just like me." | 12 | ✅ |
+| "I'm not a monster. I'm just ahead of the curve." | 13 | ✅ |
+| "Madness is like gravity. All it takes is a little push." | 26 | ✅ |
+| "Some men just want to watch the world burn." (Alfred) | 7 | ✅ |
+| "He's a silent guardian. A watchful protector. A Dark Knight." (Gordon) | 22-23 | ✅ |
+| "The only morality in a cruel world is chance." (Two-Face) | 13 | ✅ |
 
 ### Bane Lines (EP3 — pending)
 | Line | Scene | Used |
@@ -200,9 +204,9 @@
 ### Joker Variations
 | Variation | EP1 | EP2 | EP3 |
 |-----------|-----|-----|-----|
-| Standard | — | ☐ | — |
-| Nurse Disguise | — | ☐ | — |
-| Interrogation | — | ☐ | — |
+| Standard (Purple Suit) | — | ✅ (3-7, 26) | — |
+| Nurse Disguise | — | ✅ (13) | — |
+| Interrogation | — | ✅ (12) | — |
 
 ### Bane Variations
 | Variation | EP1 | EP2 | EP3 |
@@ -221,6 +225,23 @@
 ---
 
 ## Session Log
+
+### 2026-02-16 — Session 5: EP2 THE TEST Screenplay Complete
+- Adapted archived Joker screenplay to new arc structure
+- Delivered EP2 screenplay: 28 scenes, 137 panels
+- Key adaptations from v1:
+  - Added EP1 connection (Ra's flashback in Scene 6)
+  - Framework pillars NAMED explicitly at each choice moment
+  - Updated post-credits from generic to Bane tease
+  - Refined structure for arc continuity
+- Four Choices Structure fully dramatized:
+  - CLARITY (Scenes 7-8): Which crisis matters most?
+  - COURAGE (Scenes 11-12): Act despite uncertain outcome
+  - COMMITMENT (Scenes 16-17): Destroy Harvey to save the child
+  - MOVEMENT (Scenes 20-22): Become the villain to save the city
+- Joker face-to-face scenes: 12 (GCPD), 13 (Hospital), 26 (Arkham)
+- File: `screenplays/EP2/EP2_THE_TEST_Screenplay.md`
+- Sent to May for editorial review
 
 ### 2026-02-15 — Session 4 (v3): EP1 Silhouette Cut Complete
 - Gemini blocked v2 Slide 4 (minor in distress)
@@ -293,7 +314,7 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.3.0 |
+| CREATIVE.md | 1.4.0 |
 
 ---
 
