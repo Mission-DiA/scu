@@ -2341,29 +2341,59 @@ STYLE: Photorealistic, cinematic, ominous. Full bleed to all edges. WATERMARK: "
 ---
 
 ### SLIDE 60 — END CARD
-**CREDITS**
+**CREDITS — DARK KNIGHT TRILOGY STYLE**
 
 ```
 PROMPT:
-Create a minimalist credits slide in 16:9 aspect ratio. Dark background.
+Create a cinematic end credits slide in 16:9 aspect ratio. Dark Knight Trilogy style — elegant, minimalist, white text on pure black.
 
 SCENE: End credits for Episode 1.
 
 COMPOSITION:
-- Dark background (#0A0A0A)
-- Credits centered
-- Subtle bat symbol watermark behind text
+- Pure black background (#000000)
+- Credits centered, elegant typography
+- Subtle bat symbol watermark behind text (very faint, 10% opacity)
+- Text arranged in classic movie credits hierarchy
 
-TEXT (centered, white):
+TEXT (centered, white, elegant serif font like Times or Garamond):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 DECISIVE INTELLIGENCE
 Episode 1: THE FOUNDATION
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A FILM BY
+Swaminathan Kasiviswanathan
+
+PRODUCED BY
+Susan L
+
+CREATIVE HEAD
+Raja
+
+EXECUTIVE PRODUCER
+Nisha P
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE DI TEAM
+Balaji VG · Janani AP · Joy Besterwitch
+Raj Gajendran · Suresh Kumar
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 "Every framework begins with a fall."
 
-Created, Crafted & Made by @iSwamiK
-In collaboration with Claude Code & Google Gemini
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-STYLE: Minimalist credits. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+In collaboration with
+Claude Code & Google Gemini
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STYLE: Cinematic end credits, Dark Knight Trilogy aesthetic — pure black, white text, elegant and minimal. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
