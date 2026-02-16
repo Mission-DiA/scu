@@ -2302,10 +2302,10 @@ ATMOSPHERE:
 - Ready for the next test
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) top-left: "Know what matters."
-- Caption (dark navy #1a1a4e, white text) top-right: "Act before you're ready."
-- Caption (dark navy #1a1a4e, white text) bottom-left: "Commit fully."
-- Caption (dark navy #1a1a4e, white text) bottom-right: "Move forward."
+- Caption (BLUE #4A90D9 background, white text) top-left: "CLARITY — Know what matters."
+- Caption (RED #EF4444 background, white text) top-right: "COURAGE — Act before you're ready."
+- Caption (WHITE background, black text) bottom-left: "COMMITMENT — Commit fully."
+- Caption (ORANGE #F97316 background, white text) bottom-right: "MOVEMENT — Move forward."
 
 STYLE: Photorealistic, cinematic, symbolic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
@@ -2333,7 +2333,7 @@ ATMOSPHERE:
 - Episode 2 setup
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom: "An agent of chaos was coming to test it all."
+- Caption (dark navy #1a1a4e, white text) bottom: "Four pillars. One agent of chaos. The test was coming."
 
 STYLE: Photorealistic, cinematic, ominous. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```

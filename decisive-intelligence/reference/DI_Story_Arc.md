@@ -31,6 +31,20 @@ Each villain represents a different challenge to decision-making. The four pilla
 
 **The Flywheel:** Each decision generates new information → Return to Clarity → Repeat faster.
 
+### Pillar Color System (LOCKED — All Episodes)
+
+| Pillar | Chess Piece | Color | Hex Code | Usage |
+|--------|-------------|-------|----------|-------|
+| **CLARITY** | Knight | Blue | `#4A90D9` | Caption backgrounds, glows, highlights |
+| **COURAGE** | Queen | Red | `#EF4444` | Caption backgrounds, glows, highlights |
+| **COMMITMENT** | Rook | White | `#FFFFFF` | Caption backgrounds (black text), glows |
+| **MOVEMENT** | Bishop | Orange | `#F97316` | Caption backgrounds, glows, highlights |
+
+**Color Consistency Rule:** These colors MUST remain identical across EP1, EP2, and EP3. When a pillar is named or tested, its associated color should appear in:
+- Caption box backgrounds
+- Chess piece glows
+- Environmental color washes (subtle)
+
 ---
 
 ## EPISODE ARCHITECTURE
