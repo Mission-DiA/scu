@@ -430,11 +430,38 @@ Note: This character represents the moral surprise of the ferry scene — the co
 
 ---
 
+## DOCTOR DOOM
+
+### Doctor Doom (Masked)
+```
+DOCTOR DOOM (MASKED) FULL DESCRIPTION:
+- Face & Body: Robert Downey Jr., Caucasian man, late 50s, imposing presence despite average height, confident powerful stance, 5'9"
+- Mask: Iconic metallic silver/grey Doom mask covering entire face — medieval design with angular features, eye slits glowing faint green, cold and regal
+- Costume: Deep forest green (#1B4332) hooded cloak with gold (#FFD700) trim and clasp, medieval-style silver armor beneath with intricate engravings, armored gauntlets with technological elements
+- Expression: [Mask only — menace implied through posture]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+### Doctor Doom (Unmasked)
+```
+DOCTOR DOOM (UNMASKED) FULL DESCRIPTION:
+- Face & Body: Robert Downey Jr., Caucasian man, late 50s, salt-and-pepper goatee neatly trimmed, intense dark brown eyes with knowing superiority, weathered but handsome face with subtle scars near temples, confident smirk, 5'9"
+- Costume: Deep forest green (#1B4332) hooded cloak with gold (#FFD700) trim pulled back, medieval-style silver armor beneath visible, Doom mask held in one hand or at hip
+- Expression: [SCENE-SPECIFIC — typically superior, knowing, amused]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+Note: Doctor Doom appears in EP3 post-credits only. The "New Mask, Same Task" line references both his literal mask and Tony Stark's Iron Man legacy — same actor, new villain, new challenge for the framework.
+
+---
+
 ## Document Version
 
 | Document | Version |
 |----------|---------|
-| DI_Character_Bible.md | 1.2.0 |
+| DI_Character_Bible.md | 1.3.0 |
 
 ---
 
