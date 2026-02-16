@@ -4,7 +4,7 @@ to: may
 date: 2026-02-16
 topic: EP2 THE TEST Prompts — Ready for Editorial Review
 urgency: request
-status: open
+status: closed
 ---
 
 # EP2 PROMPTS — REQUESTING EDITORIAL REVIEW

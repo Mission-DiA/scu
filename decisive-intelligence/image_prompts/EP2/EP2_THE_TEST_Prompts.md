@@ -881,7 +881,7 @@ COMPOSITION:
 
 LEFT — THE CORRUPTION:
 THE JOKER (NURSE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, nurse disguise
+- Face & Body: Caucasian man, early 30s, gaunt, in nurse disguise
 - Makeup: Smeared white, red scars, black eyes
 - Costume: Ill-fitting white nurse uniform
 - Expression: Conspiratorial, leaning in
@@ -895,7 +895,7 @@ HARVEY'S HAND:
 
 RIGHT — TWO-FACE:
 TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side normal handsome features, RIGHT side severely burned — exposed muscle tissue, missing eyelid revealing bloodshot eye, charred skin, visible teeth through burned cheek, 6'0"
+- Face & Body: Caucasian man, late 30s, handsome features, LEFT side normal, RIGHT side severely burned with scarring, 6'0"
 - Costume: Hospital gown, bandages removed
 - Expression: Something changing, breaking, rebuilding wrong
 - Position: Holding coin up, both sides of face visible
@@ -981,36 +981,43 @@ STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Two-Face revealed to Gordon — Gotham's symbol corrupted.
+SCENE: Two-Face revealed to Gordon at a construction site — Gotham's symbol corrupted. Gordon's family visible as SILHOUETTES in background.
 
 COMPOSITION:
-- SINGLE PANEL: Dark warehouse
-- TWO-FACE stepping into full light, both sides visible
+- SINGLE PANEL: Unfinished construction site building, night, building edge visible
+- TWO-FACE stepping into light, both sides of face visible
 - GORDON recoiling in horror
-- Coin in one hand, gun in the other
+- BACKGROUND: Two SILHOUETTED FIGURES (woman and small boy) near building edge, hands bound — the threat established
 
 TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side normal handsome, RIGHT side severely burned — exposed muscle, missing eyelid, bloodshot eye, charred skin, visible teeth, 6'0"
+- Face & Body: Caucasian man, late 30s, LEFT side handsome, RIGHT side burned with scarring, 6'0"
 - Costume: Navy suit half-burned on right side, shirt scorched
 - Expression: Calm madness, accepting what he's become
 - Action: Stepping into light, coin in left hand, gun in right
-- Position: Entering from shadow into light
+- Position: Between Gordon and the silhouetted family
 
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, brown-grey hair, thick glasses, bushy moustache, weathered face, 5'9"
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, weathered face, 5'9"
 - Costume: Rumpled tan trenchcoat, GCPD uniform
-- Expression: Horror, recognition, grief
-- Position: Recoiling, gun lowered
+- Expression: Horror, recognition, grief — seeing his family at risk
+- Position: Recoiling, gun lowered, eyes darting between Harvey and family
+
+SILHOUETTED FAMILY (BACKGROUND):
+- Two dark silhouette figures against night sky
+- Adult woman (wife) and small boy (~10 years old, son)
+- Hands bound, near building edge
+- NOT detailed faces — pure black silhouettes
+- The threat is CLEAR but not explicit
 
 ATMOSPHERE:
 - Horror reveal
-- Hope destroyed
-- The corruption visible
+- Family at risk
+- Construction site, unfinished building, dangerous height
 
 TEXT OVERLAY:
 - Speech bubble (white, black text) from Gordon: "Harvey... Harvey, what happened to you?"
 - Speech bubble (white, black text) from Two-Face: "The world showed me its true face."
-- Speech bubble (white, black text) from Two-Face: "The only way to live in a cruel world... is to become cruel yourself."
+- Speech bubble (white, black text) from Two-Face: "Now your family sees it too."
 
 STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
@@ -1024,41 +1031,44 @@ STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
 
-SCENE: Two-Face threatens Gordon's son — the ultimate test of commitment.
+SCENE: Two-Face threatens Gordon's family — the threat conveyed through Gordon's reaction. Construction site building edge.
 
 COMPOSITION:
 - SPLIT PANEL: Two vertical sections
-- LEFT (50%): Two-Face with gun to Gordon's son's head
-- RIGHT (50%): Gordon on his knees, pleading
+- LEFT (50%): Two-Face holding gun, aiming OFF-FRAME to the right, coin in other hand
+- RIGHT (50%): Gordon on his knees, hands raised, looking past camera in horror
 
-LEFT — THE THREAT:
+LEFT — TWO-FACE:
 TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, both sides visible, burned/normal, 6'0"
-- Costume: Half-burned suit, coin visible
-- Expression: Cold calculation
-- Action: Gun pressed to boy's head
-- Position: Standing, controlling
+- Face & Body: Caucasian man, late 30s, LEFT side handsome, RIGHT side burned with scarring, 6'0"
+- Costume: Half-burned suit, coin visible in left hand
+- Expression: Cold calculation, judge delivering sentence
+- Action: Gun aimed OFF-FRAME (threat not shown, only implied)
+- Position: Standing at building edge, dominant, both sides of face lit
 
-GORDON'S SON FULL DESCRIPTION:
-- Face & Body: Nathan Gamble, Caucasian boy, ~10 years old, light brown hair, innocent wide eyes, small build, 4'6"
-- Costume: Dark blue hoodie, jeans
-- Expression: Terrified, frozen
-- Position: Held by Two-Face, gun to head
+BACKGROUND:
+- Construction site at night
+- Building edge visible
+- Gotham skyline distant
+- Dangerous height implied
 
 RIGHT — GORDON'S PLEA:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, glasses, moustache, 5'9"
-- Costume: Trenchcoat, GCPD uniform
-- Expression: Desperation, pleading
-- Position: On his knees
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, weathered face, 5'9"
+- Costume: Trenchcoat over GCPD uniform
+- Expression: Desperation, terror, pleading — a father's worst fear visible in his eyes
+- Position: On his knees, hands raised, looking past camera toward the threat
+- Tears streaming down face
+- Every line on his face shows anguish
 
 ATMOSPHERE:
-- Maximum stakes
-- Family at risk
-- Commitment about to be demanded
+- The threat is in Gordon's EYES, not shown
+- A father begging for his family
+- Maximum emotional stakes
+- Construction site, night, danger
 
 TEXT OVERLAY:
-- Speech bubble (white, black text) from Gordon: "Harvey, no. They have nothing to do with this."
+- Speech bubble (white, black text) from Gordon: "Harvey, please. Not them. Take me instead."
 - Speech bubble (white, black text) from Two-Face: "It's not about what they did, Jim. It's about what's FAIR."
 - Speech bubble (white, black text) from Gordon: "HARVEY, PLEASE!"
 - Caption (WHITE background, black text) bottom: "COMMITMENT means accepting the cost before you see the outcome."
@@ -1075,39 +1085,57 @@ STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMAR
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. TRIPTYCH (3 vertical panels).
 
-SCENE: Batman tackles Two-Face to save the child — accepting the cost.
+SCENE: Batman tackles Two-Face to save Gordon's son — accepting the cost. Construction site building edge.
 
 COMPOSITION:
 - THREE VERTICAL PANELS, thin white lines dividing
-- LEFT: Batman in shadow above, watching
-- CENTER: Coin flipping in air, everyone frozen
-- RIGHT: Batman lunging — full body tackle at Harvey, not the gun
+- LEFT: Batman arriving on construction beam above, silhouetted boy visible below
+- CENTER: Two-Face flipping coin, gun aimed at silhouetted boy
+- RIGHT: Batman diving into protective tackle, wrapping arms around Two-Face, BOTH going over building edge
 
 LEFT — BATMAN ARRIVES:
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
-- Costume: Batsuit with battle damage
+BATMAN (DARK KNIGHT SUIT) FULL DESCRIPTION:
+- Face & Body: Caucasian man, mid-30s, strong jaw and mouth visible below cowl, 6'0"
+- Costume: Dark Knight trilogy Batsuit — matte black segmented armor plates, cowl with exposed jaw/mouth area, scalloped cape edges, tactical sleek silhouette (NOT bulky armored suit)
 - Expression: Calculating, about to act
-- Position: On beam above, in shadow
+- Position: On construction beam above, crouched in shadow
 
-CENTER — THE COIN:
-- Coin spinning in air
-- Two-Face's scarred side facing up
-- Gordon frozen
-- Child terrified
-- Time suspended
+SILHOUETTED BOY (BACKGROUND):
+- Dark silhouette of small boy near building edge
+- Hands bound
+- Two-Face's gun aimed at him
+- The stakes are CLEAR
 
-RIGHT — THE TACKLE:
-- Batman lunging in motion blur
-- Not at the gun — at HARVEY
-- Full body tackle
-- Both going over the edge
-- The choice made
+CENTER — THE COIN FLIP:
+TWO-FACE FULL DESCRIPTION:
+- Face & Body: Caucasian man, late 30s, LEFT side handsome, RIGHT side burned with scarring, 6'0"
+- Costume: Half-burned suit
+- Expression: Cold judgment
+- Action: Flipping coin with one hand, gun aimed at silhouetted boy with other
+- Position: At building edge
+
+COIN:
+- Mid-flip, spinning
+- Both sides visible — clean and scarred
+- Fate in the air
+
+RIGHT — THE PROTECTIVE TACKLE:
+BATMAN (DARK KNIGHT SUIT) FULL DESCRIPTION:
+- Face & Body: Caucasian man, mid-30s, strong jaw visible below cowl, 6'0"
+- Costume: Dark Knight trilogy Batsuit — matte black segmented armor, scalloped cape trailing upward
+- Expression: Committed, sacrificial
+- Action: PROTECTIVE TACKLE — arms wrapping around Two-Face's torso, pushing him AWAY from the boy, both men going over the building edge together
+- Position: Mid-dive, motion blur, falling with Two-Face
+
+TWO-FACE (BEING TACKLED):
+- Expression: Shock, surprise
+- Gun flying from hand
+- Being pulled over the edge by Batman
+- Both falling together
 
 TEXT OVERLAY:
-- Speech bubble (white, black text) from Batman LEFT: "Harvey. This isn't who you are."
-- Speech bubble (white, black text) from Two-Face CENTER: "I loved her, Bruce."
-- Speech bubble (white, black text) from Batman CENTER: "I know. I loved her too."
+- Speech bubble (white, black text) LEFT from Batman: "Harvey!"
+- Caption (dark navy #1a1a4e, white text) CENTER: "The coin never landed."
 - Caption (WHITE background, black text) RIGHT: "COMMITMENT: Accept the cost you can't see."
 
 STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
@@ -1122,23 +1150,46 @@ STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: 
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (horizontal).
 
-SCENE: Batman and Two-Face falling — Harvey's death.
+SCENE: Batman and Two-Face falling from construction site — Harvey's death.
 
 COMPOSITION:
 - SPLIT PANEL: Two horizontal sections
-- TOP (60%): Batman and Two-Face falling from building, Gordon grabbing son
-- BOTTOM (40%): Ground level — Harvey's body, not moving
+- TOP (60%): Batman and Two-Face falling from building, Gordon at edge watching
+- BOTTOM (40%): Ground level — Harvey's body, not moving, Batman beside him
 
 TOP — THE FALL:
-- Batman and Two-Face mid-fall
-- Gordon pulling his son back from edge
-- Coin falling separately
-- Night sky, building behind
+BATMAN (DARK KNIGHT SUIT) FULL DESCRIPTION:
+- Face & Body: Caucasian man, mid-30s, strong jaw visible below cowl, 6'0"
+- Costume: Dark Knight trilogy Batsuit — matte black segmented armor, cape billowing upward
+- Expression: Determined, accepting the fall
+- Position: Mid-fall, still holding onto Harvey
+
+TWO-FACE (FALLING) FULL DESCRIPTION:
+- Face & Body: Caucasian man, late 30s, LEFT side handsome, RIGHT side burned with scarring, 6'0"
+- Costume: Half-burned suit
+- Expression: Shock, acceptance
+- Position: Falling alongside Batman, coin slipping from hand
+
+JIM GORDON FULL DESCRIPTION:
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, 5'9"
+- Costume: Trenchcoat over GCPD uniform
+- Expression: Horror, watching them fall
+- Position: At building edge, looking down
+
+SILHOUETTED FAMILY (SAFE, BACKGROUND):
+- Dark silhouettes of woman and boy BEHIND Gordon
+- Pulled back from edge
+- Safe now — the threat ended
+
+ADDITIONAL ELEMENTS:
+- Coin falling separately, glinting in moonlight
+- Construction site building, night sky
+- Tragic descent
 
 BOTTOM — THE LANDING:
-- Ground level, concrete
+- Ground level, concrete rubble
 - Harvey landed first, wrong angle, not moving
-- Batman beside him
+- Batman beside him, injured but alive
 - Harvey's eyes open — dead
 - Coin on ground nearby, scarred side up
 
@@ -1164,7 +1215,7 @@ STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMAR
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Gordon kneeling beside Harvey's body — the symbol is dead.
+SCENE: Gordon kneeling beside Harvey's body at the construction site — the symbol is dead.
 
 COMPOSITION:
 - SINGLE PANEL: Ground level beside Harvey
@@ -1173,27 +1224,29 @@ COMPOSITION:
 - Harvey's body, coin visible, scarred side up
 
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
-- Costume: Trenchcoat, uniform
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, 5'9"
+- Costume: Trenchcoat over GCPD uniform
 - Expression: Grief, devastation
-- Position: Kneeling beside Harvey
+- Position: Kneeling beside Harvey's body
 
-HARVEY DENT (DEAD):
-- Face & Body: Aaron Eckhart, both sides visible
-- Eyes open, lifeless
+HARVEY DENT (DEAD) FULL DESCRIPTION:
+- Face & Body: Caucasian man, late 30s, LEFT side handsome, RIGHT side burned with scarring, 6'0"
+- Eyes open, lifeless, staring at nothing
 - Coin in hand, scarred side up
 - Navy suit half-burned
+- Position: On ground, not moving
 
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
-- Costume: Damaged Batsuit
+BATMAN (DARK KNIGHT SUIT) FULL DESCRIPTION:
+- Face & Body: Caucasian man, mid-30s, strong jaw visible below cowl, 6'0"
+- Costume: Dark Knight trilogy Batsuit — matte black segmented armor, cape draped, battle damage visible
 - Expression: Thinking, forming a plan
-- Position: Standing, looking at distant city
+- Position: Standing, looking at distant Gotham skyline
 
 ATMOSPHERE:
-- Grief
+- Construction site ground level
+- Grief and loss
 - Hope destroyed
-- But something forming
+- But something forming in Batman's mind
 
 TEXT OVERLAY:
 - Speech bubble (white, black text) from Gordon: "The Joker won. Dent was supposed to be the hero we could believe in. Now he's... this."
@@ -1486,40 +1539,43 @@ STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
 
-SCENE: Gordon on the GCPD rooftop with his son — about to destroy the Bat-Signal.
+SCENE: Gordon on the GCPD rooftop — about to destroy the Bat-Signal. A voice from off-screen questions him.
 
 COMPOSITION:
 - SPLIT PANEL: Two vertical sections
-- LEFT: Gordon holding fire axe, Bat-Signal glowing beside him
-- RIGHT: Gordon's son in doorway, confused, asking the question
+- LEFT (50%): Gordon holding fire axe, Bat-Signal glowing beside him
+- RIGHT (50%): Close-up of Gordon's face reacting to the question, guilt visible
 
 LEFT — THE AXE:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
-- Costume: Trenchcoat
-- Expression: Heavy, resigned
-- Action: Holding fire axe
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, weathered face, 5'9"
+- Costume: Trenchcoat over GCPD uniform
+- Expression: Heavy, resigned, weight of the lie
+- Action: Holding fire axe, about to swing
 - Position: Standing beside glowing Bat-Signal
 
 BAT-SIGNAL:
 - Large spotlight projector
-- Glowing, iconic symbol
+- Glowing, iconic bat symbol projected into night sky
 - About to be destroyed
+- The symbol of hope he must shatter
 
-RIGHT — THE QUESTION:
-GORDON'S SON FULL DESCRIPTION:
-- Face & Body: Nathan Gamble, ~10 years old, light brown hair, innocent eyes, 4'6"
-- Costume: Dark blue hoodie
-- Expression: Confused, hurt
-- Position: Standing in rooftop access doorway
+RIGHT — THE REACTION:
+JIM GORDON (CLOSE-UP) FULL DESCRIPTION:
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, 5'9"
+- Expression: Guilt, pain, a father who can't explain the lie to his own family
+- Eyes: Looking off-frame toward the voice
+- Tears threatening to form
+- The weight of what he's about to do
 
 ATMOSPHERE:
+- Rooftop at night
 - Symbol about to fall
-- Innocence questioning
+- A question he can't truly answer
 - The cost made personal
 
 TEXT OVERLAY:
-- Speech bubble (white, black text) from Gordon's son: "Dad... he saved me. Why are we hunting him?"
+- Speech bubble (white, black text, coming from OFF-FRAME right): "Dad... he saved me. Why are we hunting him?"
 - Speech bubble (white, black text) from Gordon: "Because he's the hero Gotham deserves, but not the one it needs right now."
 
 STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
@@ -1967,12 +2023,14 @@ THE PIT:
 - Light at top — the way out
 - Dark, oppressive, hopeless
 
-BANE (SILHOUETTE):
-- Massive figure in shadow
-- Enormous shoulders, imposing frame
-- MASK visible — tubes, metal, breathing apparatus
-- Eyes glinting above mask
-- Not fully revealed yet
+BANE (SILHOUETTE) — TOM HARDY BUILD:
+- Massive figure in shadow — Tom Hardy's Bane physique
+- Shaved head, enormous trapezius muscles, impossibly wide shoulders
+- Hulking, intimidating frame — not just big, MASSIVE
+- BANE MASK: Industrial breathing apparatus covering lower face, metal grille over mouth, tubes running to back of head, straps across shaved skull
+- Only eyes visible above mask — intense, calculating, patient
+- Silhouette but MASK DETAILS visible — the iconic Dark Knight Rises Bane mask
+- Not fully revealed yet — but unmistakably BANE
 
 ATMOSPHERE:
 - 8 years later
@@ -2113,13 +2171,14 @@ Claude Code & Google Gemini
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[2× LARGER, LETTER-SPACED, SUBTLE GOLD GLOW #FFD700]
-
 A  S W A M I  K  F I L M
+(This line in GOLD COLOR #FFD700, 2× larger than other text, wide letter-spacing, with subtle gold glow/shimmer behind it)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Episode 3: THE ADAPTATION — Coming Soon
+
+IMPORTANT: "A SWAMI K FILM" must be in GOLD (#FFD700) color, significantly larger than all other text, with letter-spacing between each letter.
 
 STYLE: Cinematic credits, Dark Knight aesthetic. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```

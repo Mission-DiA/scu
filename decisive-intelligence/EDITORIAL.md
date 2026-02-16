@@ -40,6 +40,7 @@
 | EP1 FOUNDATION Prompts v2 | 2026-02-15 | 🔄 SUPERSEDED | 94 slides — Gemini blocked (minor in distress) |
 | EP1 FOUNDATION Prompts v3 | 2026-02-15 | ✅ APPROVED | 60 slides, silhouette approach, cleared for generation |
 | EP2 THE TEST Screenplay | 2026-02-16 | ✅ APPROVED | 28 scenes, 137 panels, cleared for prompts |
+| EP2 THE TEST Prompts v1 | 2026-02-16 | ✅ APPROVED | 43 slides, 3.5:1 compression, cleared for generation |
 
 ---
 
@@ -50,7 +51,7 @@
 | Episode | Title | Villain | Screenplay | Prompts | Editorial | Notes |
 |---------|-------|---------|------------|---------|-----------|-------|
 | EP1 | THE FOUNDATION | Ra's Al Ghul | ✅ APPROVED | ✅ v3 APPROVED | ✅ SIGNED OFF | 60 slides, Gemini-safe, cleared for generation |
-| EP2 | THE TEST | Joker | ✅ APPROVED | 📋 PENDING | ✅ SIGNED OFF | 28 scenes, 137 panels, ready for prompts |
+| EP2 | THE TEST | Joker | ✅ APPROVED | ✅ v1 APPROVED | ✅ SIGNED OFF | 43 slides, 3.5:1 compression, cleared for generation |
 | EP3 | THE ADAPTATION | Bane + Doom | 📋 PENDING | 📋 PENDING | 📋 PENDING | ADAPT the framework |
 
 **Arc Status:** ✅ APPROVED — Director confirmed, Simmons cleared to proceed
@@ -125,6 +126,22 @@
 ---
 
 ## Session Log
+
+### 2026-02-16 — EP2 THE TEST Prompts v1 Sign-Off
+- Received EP2 THE TEST Prompts from Simmons (43 slides, 3.5:1 compression)
+- **v3 learnings applied:** Heavy grid usage, aggressive compression
+- **Panel clarity verified:** All panels self-contained with clear specs
+- **Character consistency verified:** 10 recurring characters, full blocks in every appearance
+- **Pillar moments verified:** Each choice slide uses correct color, lands at decision moment
+- **ACT 5 pacing verified:** 10 slides (23%), Gordon hesitation (QUAD), Dark Knight speech (6-PANEL)
+- **Bane tease verified:** Silhouette → mask → promise build works
+- **Joker costume tracking:** Standard → Interrogation → Nurse → Arkham
+- **Two-Face transformation:** Scene 13 hospital pivot clear
+- **Famous lines:** All 9 present and placed
+- **Production compliance:** All rules PASS
+- **Minor note:** Document header shows ~75 slides target but delivery is 43 (recommend update)
+- **Verdict:** APPROVED for image generation
+- Sent sign-off to Simmons via comms
 
 ### 2026-02-16 — EP2 THE TEST Screenplay Sign-Off
 - Received EP2 THE TEST Screenplay from Simmons (28 scenes, 137 panels)
@@ -236,7 +253,7 @@
 
 | Document | Version |
 |----------|---------|
-| EDITORIAL.md | 1.2.0 |
+| EDITORIAL.md | 1.3.0 |
 
 ---
 
