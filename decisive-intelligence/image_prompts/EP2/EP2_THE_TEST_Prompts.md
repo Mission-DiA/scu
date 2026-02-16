@@ -20,7 +20,7 @@
 ```
 Photorealistic, cinematic, Dark Knight noir aesthetic.
 High contrast lighting. Gotham's gritty urban environment.
-Heath Ledger Joker era visual language.
+Dark Knight Joker era visual language.
 ```
 
 ### Pillar Colors (LOCKED)
@@ -134,7 +134,7 @@ TOP LEFT — CHESSBOARD:
 
 TOP RIGHT — RA'S FLASHBACK:
 RA'S AL GHUL FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
+- Face & Body: Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, League of Shadows training attire
 - Expression: Teaching, authoritative
 - Position: Standing over young Bruce
@@ -147,7 +147,7 @@ BOTTOM LEFT — JOKER CARD:
 - Ominous lighting
 
 BOTTOM RIGHT — JOKER'S EYES:
-- Heath Ledger's eyes only
+- THE JOKER's eyes only
 - Smeared black makeup around eyes
 - Manic, calculating expression
 - Extreme close-up, unsettling
@@ -194,7 +194,7 @@ TOP LEFT — FERRY A (CIVILIANS):
 
 TOP RIGHT — FERRY B (PRISONERS):
 FERRY PRISONER FULL DESCRIPTION:
-- Face & Body: Tommy "Tiny" Lister, African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, intimidating presence, 6'5", heavily muscled
+- Face & Body: African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, intimidating presence, 6'5", heavily muscled
 - Tattoos: Extensive tattoos covering arms and neck — prison ink style
 - Costume: Orange (#F97316) prison jumpsuit, hands cuffed
 - Expression: Stoic, staring at detonator
@@ -203,7 +203,7 @@ FERRY PRISONER FULL DESCRIPTION:
 
 MIDDLE LEFT — RACHEL:
 RACHEL DAWES FULL DESCRIPTION:
-- Face & Body: Maggie Gyllenhaal, Caucasian woman, early 30s, dark brown hair shoulder length, warm brown eyes, determined expression, slim build, 5'5"
+- Face & Body: Caucasian woman, early 30s, dark brown hair shoulder length, warm brown eyes, determined expression, slim build, 5'5"
 - Costume: Professional grey (#6B7280) blazer over white blouse (now disheveled)
 - Expression: Terrified but defiant
 - Position: Tied to chair, gasoline barrels surrounding her
@@ -211,7 +211,7 @@ RACHEL DAWES FULL DESCRIPTION:
 
 MIDDLE RIGHT — HARVEY:
 HARVEY DENT (BEFORE) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, handsome chiseled features, bright blue eyes, blonde hair (now disheveled), strong athletic build, 6'0"
+- Face & Body: Caucasian man, late 30s, handsome chiseled features, bright blue eyes, blonde hair (now disheveled), strong athletic build, 6'0"
 - Costume: Navy blue suit (now rumpled, tie loosened)
 - Expression: Desperate, struggling
 - Position: Tied to chair, half his face pressed into gasoline puddle
@@ -224,7 +224,7 @@ BOTTOM LEFT — CHAOS SCREENS:
 
 BOTTOM RIGHT — THE JOKER:
 THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
+- Face & Body: Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
 - Makeup: Smeared white face paint, messy red lipstick extending into Glasgow smile scars, black eye makeup smudged
 - Hair: Greasy, stringy, green-tinged dirty blonde hair, unkempt
 - Costume: Purple (#4A0080) long coat, rumpled green (#2D5A27) waistcoat
@@ -266,7 +266,7 @@ LEFT — BATCAVE WIDE:
 - BATMAN standing at center, not moving, frozen
 
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
+- Face & Body: Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
 - Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, black cape, pointed cowl, gauntlets with fin blades, utility belt
 - Expression: Overwhelmed, uncertain
 - Position: Standing before screens, paralyzed
@@ -308,7 +308,7 @@ COMPOSITION:
 - Other Batcave screens still showing chaos
 
 THE JOKER (ON SCREEN) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic eyes, 6'1", lean wiry build
+- Face & Body: Caucasian man, early 30s, gaunt face, manic eyes, 6'1", lean wiry build
 - Makeup: Smeared white face paint, messy red lipstick into Glasgow scars, black eye makeup
 - Hair: Greasy, stringy, green-tinged dirty blonde, unkempt
 - Costume: Purple (#4A0080) coat visible
@@ -352,20 +352,20 @@ COMPOSITION:
 
 TOP — PRESENT:
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, strong jaw below cowl, intense eyes, muscular 6'0"
+- Face & Body: Mid-30s, strong jaw below cowl, intense eyes, muscular 6'0"
 - Costume: Full black Batsuit, cape, cowl, gauntlets
 - Expression: Remembering, eyes unfocused
 - Position: Standing before screens, reflection visible in dark glass
 
 BOTTOM — FLASHBACK (SEMI-TRANSPARENT):
 RA'S AL GHUL FULL DESCRIPTION:
-- Face & Body: Liam Neeson, late 50s, grey-streaked brown hair, intense blue eyes, tall lean 6'4"
+- Face & Body: Late 50s, grey-streaked brown hair, intense blue eyes, tall lean 6'4"
 - Costume: Dark brown (#3D2914) layered robes, League training attire
 - Expression: Teaching, authoritative
 - Position: Face to face with Young Bruce
 
 YOUNG BRUCE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, late 20s, dark brown hair grown out, stubble, searching eyes, athletic 6'0"
+- Face & Body: Late 20s, dark brown hair grown out, stubble, searching eyes, athletic 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet
 - Expression: Learning, focused
 - Position: Facing Ra's, training stance
@@ -409,14 +409,14 @@ COMPOSITION:
 - Some screens already dark, others still showing chaos
 
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face with deep smile lines, gentle knowing eyes, slim build, 5'10"
+- Face & Body: Elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face with deep smile lines, gentle knowing eyes, slim build, 5'10"
 - Costume: Dark charcoal (#374151) waistcoat over white (#FFFFFF) dress shirt, dark navy (#1E3A5F) tie, charcoal trousers
 - Expression: Determined, all business
 - Action: Hand on console, turning off screens
 - Position: At console, Batman behind him
 
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, strong jaw below cowl, muscular 6'0"
+- Face & Body: Mid-30s, strong jaw below cowl, muscular 6'0"
 - Costume: Full black Batsuit
 - Expression: Watching Alfred, not stopping him
 - Position: Standing behind Alfred, still frozen
@@ -459,13 +459,13 @@ LEFT — THE TWO SCREENS:
 
 RIGHT — MENTOR AND STUDENT:
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, mid-70s, grey hair, kind weathered face, 5'10"
+- Face & Body: Mid-70s, grey hair, kind weathered face, 5'10"
 - Costume: Charcoal waistcoat, white shirt, navy tie
 - Expression: Sad wisdom, knowing
 - Position: Standing beside Batman, facing screens
 
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, strong jaw below cowl, 6'0"
+- Face & Body: Mid-30s, strong jaw below cowl, 6'0"
 - Costume: Full black Batsuit
 - Expression: Shoulders dropped, breathing, focused not panicked
 - Position: Standing beside Alfred, facing screens
@@ -559,7 +559,7 @@ MIDDLE — STREETS:
 
 BOTTOM — BATMAN'S FACE:
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, strong jaw below cowl, 6'0"
+- Face & Body: Mid-30s, strong jaw below cowl, 6'0"
 - Expression: Focused, determined, no doubt
 - Position: Through Batmobile windshield, driving
 - Cowl framing face, eyes locked forward
@@ -595,7 +595,7 @@ COMPOSITION:
 
 LEFT — BATMAN ENTERS:
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, muscular 6'0"
+- Face & Body: Mid-30s, muscular 6'0"
 - Costume: Full black Batsuit, cape billowing
 - Expression: Urgent, determined
 - Action: Shoulder-checking through door, wood splintering
@@ -603,7 +603,7 @@ BATMAN (PRISTINE) FULL DESCRIPTION:
 
 RIGHT — THE WRONG PERSON:
 HARVEY DENT (BEFORE) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, handsome features, blonde hair disheveled, 6'0"
+- Face & Body: Late 30s, handsome features, blonde hair disheveled, 6'0"
 - Costume: Navy suit rumpled, tie loosened
 - Expression: Screaming, desperate, face pressed into gasoline puddle
 - Position: Tied to chair, half face submerged in fuel
@@ -647,14 +647,14 @@ COMPOSITION:
 
 LEFT — HARVEY SAVED:
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, strong jaw with minor cuts, 6'0"
+- Face & Body: Mid-30s, strong jaw with minor cuts, 6'0"
 - Costume: Full black Batsuit with visible scuffs, cape with minor tears
 - Expression: Desperate, diving
 - Action: Tackling Harvey through window
 - Position: Mid-dive, fire behind them
 
 HARVEY DENT FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side of face now burned, charred, 6'0"
+- Face & Body: Late 30s, LEFT side of face now burned, charred, 6'0"
 - Costume: Navy suit half-burned
 - Expression: Screaming in agony
 - Position: Being tackled, fire behind
@@ -696,13 +696,13 @@ COMPOSITION:
 - Devastation
 
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, jaw bruised, exhausted eyes, 6'0"
+- Face & Body: Mid-30s, jaw bruised, exhausted eyes, 6'0"
 - Costume: Batsuit with scuffs and scratches, cape torn at edges
 - Expression: Broken behind the cowl, looking at distant fire
 - Position: Crouched beside Harvey, turned toward the explosion
 
 HARVEY DENT (TRANSFORMING) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side burned — skin blackened, eye exposed, 6'0"
+- Face & Body: Late 30s, LEFT side burned — skin blackened, eye exposed, 6'0"
 - Costume: Suit half-burned, scorched
 - Expression: Screaming, agonized
 - Position: On ground, reaching toward distant fire
@@ -739,7 +739,7 @@ COMPOSITION:
 
 TOP LEFT — JOKER WAITING:
 THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, early 30s, gaunt face, manic calculating eyes, 6'1", lean wiry build
+- Face & Body: Caucasian man, early 30s, gaunt face, manic calculating eyes, 6'1", lean wiry build
 - Makeup: Smeared white paint more worn, red lipstick partially rubbed off, black eye makeup smeared
 - Hair: Greasy, green-tinged, more disheveled
 - Costume: Purple coat removed, rumpled green waistcoat, hands cuffed to table
@@ -748,7 +748,7 @@ THE JOKER (INTERROGATION) FULL DESCRIPTION:
 
 TOP RIGHT — BATMAN EMERGES:
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Batsuit with scuffs
 - Expression: Rage barely contained
 - Position: Emerging from darkness, not through door
@@ -793,7 +793,7 @@ COMPOSITION:
 - Intimate, terrible moment
 
 THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, early 30s, gaunt, 6'1"
+- Face & Body: Caucasian man, early 30s, gaunt, 6'1"
 - Makeup: Smeared white, red in scars, black around eyes
 - Hair: Greasy, green-tinged, wild
 - Costume: Green waistcoat, shirt
@@ -801,7 +801,7 @@ THE JOKER (INTERROGATION) FULL DESCRIPTION:
 - Position: Pinned against wall, face inches from Batman
 
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Batsuit
 - Expression: Rage, confusion, being destabilized
 - Position: Holding Joker against wall
@@ -838,13 +838,13 @@ COMPOSITION:
 - Absurd, horrifying contrast
 
 HARVEY DENT (HOSPITAL) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side bandaged (burn damage hidden), 6'0"
+- Face & Body: Late 30s, LEFT side bandaged (burn damage hidden), 6'0"
 - Costume: Hospital gown
 - Expression: Hollow, broken, staring
 - Position: In hospital bed, trying to pull away
 
 THE JOKER (NURSE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, early 30s, gaunt, 6'1", lean wiry
+- Face & Body: Caucasian man, early 30s, gaunt, 6'1", lean wiry
 - Makeup: Smeared white face paint, messy red lipstick into Glasgow scars, black eye makeup
 - Hair: Greasy, green-tinged, tucked under nurse cap
 - Costume: White nurse uniform dress (ill-fitting, absurd), white nurse cap with red cross, name tag reading "NURSE"
@@ -881,7 +881,7 @@ COMPOSITION:
 
 LEFT — THE CORRUPTION:
 THE JOKER (NURSE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, nurse disguise
+- Face & Body: THE JOKER in nurse disguise
 - Makeup: Smeared white, red scars, black eyes
 - Costume: Ill-fitting white nurse uniform
 - Expression: Conspiratorial, leaning in
@@ -895,7 +895,7 @@ HARVEY'S HAND:
 
 RIGHT — TWO-FACE:
 TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side normal handsome features, RIGHT side severely burned — exposed muscle tissue, missing eyelid revealing bloodshot eye, charred skin, visible teeth through burned cheek, 6'0"
+- Face & Body: Late 30s, LEFT side normal handsome features, RIGHT side severely burned — exposed muscle tissue, missing eyelid revealing bloodshot eye, charred skin, visible teeth through burned cheek, 6'0"
 - Costume: Hospital gown, bandages removed
 - Expression: Something changing, breaking, rebuilding wrong
 - Position: Holding coin up, both sides of face visible
@@ -940,7 +940,7 @@ TOP LEFT — CIVILIANS HESITATE:
 
 TOP RIGHT — PRISONER APPROACHES:
 FERRY PRISONER FULL DESCRIPTION:
-- Face & Body: Tommy "Tiny" Lister, African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, 6'5", heavily muscled
+- Face & Body: African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, 6'5", heavily muscled
 - Tattoos: Extensive tattoos covering arms and neck — prison ink
 - Costume: Orange (#F97316) prison jumpsuit, hands cuffed
 - Expression: Stoic, determined, world-weary
@@ -990,14 +990,14 @@ COMPOSITION:
 - Coin in one hand, gun in the other
 
 TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, LEFT side normal handsome, RIGHT side severely burned — exposed muscle, missing eyelid, bloodshot eye, charred skin, visible teeth, 6'0"
+- Face & Body: Late 30s, LEFT side normal handsome, RIGHT side severely burned — exposed muscle, missing eyelid, bloodshot eye, charred skin, visible teeth, 6'0"
 - Costume: Navy suit half-burned on right side, shirt scorched
 - Expression: Calm madness, accepting what he's become
 - Action: Stepping into light, coin in left hand, gun in right
 - Position: Entering from shadow into light
 
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, brown-grey hair, thick glasses, bushy moustache, weathered face, 5'9"
+- Face & Body: Mid-50s, brown-grey hair, thick glasses, bushy moustache, weathered face, 5'9"
 - Costume: Rumpled tan trenchcoat, GCPD uniform
 - Expression: Horror, recognition, grief
 - Position: Recoiling, gun lowered
@@ -1033,21 +1033,21 @@ COMPOSITION:
 
 LEFT — THE THREAT:
 TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, both sides visible, burned/normal, 6'0"
+- Face & Body: Both sides visible, burned/normal, 6'0"
 - Costume: Half-burned suit, coin visible
 - Expression: Cold calculation
 - Action: Gun pressed to boy's head
 - Position: Standing, controlling
 
 GORDON'S SON FULL DESCRIPTION:
-- Face & Body: Nathan Gamble, Caucasian boy, ~10 years old, light brown hair, innocent wide eyes, small build, 4'6"
+- Face & Body: Caucasian boy, ~10 years old, light brown hair, innocent wide eyes, small build, 4'6"
 - Costume: Dark blue hoodie, jeans
 - Expression: Terrified, frozen
 - Position: Held by Two-Face, gun to head
 
 RIGHT — GORDON'S PLEA:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, glasses, moustache, 5'9"
+- Face & Body: Mid-50s, glasses, moustache, 5'9"
 - Costume: Trenchcoat, GCPD uniform
 - Expression: Desperation, pleading
 - Position: On his knees
@@ -1085,7 +1085,7 @@ COMPOSITION:
 
 LEFT — BATMAN ARRIVES:
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Batsuit with battle damage
 - Expression: Calculating, about to act
 - Position: On beam above, in shadow
@@ -1173,19 +1173,19 @@ COMPOSITION:
 - Harvey's body, coin visible, scarred side up
 
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Costume: Trenchcoat, uniform
 - Expression: Grief, devastation
 - Position: Kneeling beside Harvey
 
 HARVEY DENT (DEAD):
-- Face & Body: Aaron Eckhart, both sides visible
+- Face & Body: Both sides visible
 - Eyes open, lifeless
 - Coin in hand, scarred side up
 - Navy suit half-burned
 
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Damaged Batsuit
 - Expression: Thinking, forming a plan
 - Position: Standing, looking at distant city
@@ -1220,7 +1220,7 @@ COMPOSITION:
 
 LEFT — REALIZATION:
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Damaged Batsuit
 - Expression: Realization dawning, acceptance
 - Position: Face through cowl, thinking
@@ -1270,14 +1270,14 @@ COMPOSITION:
 - The decision being made
 
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Damaged Batsuit
 - Expression: Resolved, accepting
 - Action: Hand on Gordon's shoulder
 - Position: Standing over kneeling Gordon
 
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Costume: Trenchcoat
 - Expression: Horror, refusal, then understanding
 - Position: On knees, looking up at Batman
@@ -1313,13 +1313,13 @@ COMPOSITION:
 
 LEFT — REFUSAL:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Expression: Horror, refusal
 - Position: Recoiling from the idea
 
 RIGHT — THE LOGIC:
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Expression: Calm acceptance
 - Action: Helping Gordon up
 - Position: Pulling Gordon to his feet
@@ -1355,14 +1355,14 @@ COMPOSITION:
 - The weight of the choice
 
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Damaged Batsuit
 - Expression: Resolved
 - Action: Turning away, cape beginning to billow
 - Position: Walking away from Gordon
 
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Expression: Grief, understanding, respect
 - Position: Watching Batman leave
 
@@ -1398,7 +1398,7 @@ COMPOSITION:
 
 TOP LEFT — HESITATION:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Costume: Trenchcoat, uniform
 - Expression: Weight of decision
 - Position: Hand hovering over radio, not pressing yet
@@ -1495,7 +1495,7 @@ COMPOSITION:
 
 LEFT — THE AXE:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Costume: Trenchcoat
 - Expression: Heavy, resigned
 - Action: Holding fire axe
@@ -1508,7 +1508,7 @@ BAT-SIGNAL:
 
 RIGHT — THE QUESTION:
 GORDON'S SON FULL DESCRIPTION:
-- Face & Body: Nathan Gamble, ~10 years old, light brown hair, innocent eyes, 4'6"
+- Face & Body: Caucasian boy, ~10 years old, light brown hair, innocent eyes, 4'6"
 - Costume: Dark blue hoodie
 - Expression: Confused, hurt
 - Position: Standing in rooftop access doorway
@@ -1544,7 +1544,7 @@ COMPOSITION:
 
 TOP — AXE RAISED:
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, mid-50s, 5'9"
+- Face & Body: Mid-50s, 5'9"
 - Expression: Grim determination
 - Action: Raising axe above head
 - Position: Beside glowing signal
@@ -1597,7 +1597,7 @@ COMPOSITION:
 
 TOP LEFT — ON THE EDGE:
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, mid-30s, 6'0"
+- Face & Body: Mid-30s, 6'0"
 - Costume: Damaged Batsuit
 - Expression: Acceptance
 - Position: Standing on rooftop edge, smoke rising from destroyed signal in distance
@@ -1843,7 +1843,7 @@ COMPOSITION:
 - The final confrontation
 
 THE JOKER (ARKHAM) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, early 30s, gaunt, 6'1"
+- Face & Body: Caucasian man, early 30s, gaunt, 6'1"
 - Makeup: Faded white — days old, patchy. Red lipstick mostly gone, traces in scars. Black eye makeup smudged grey.
 - Hair: Greasy, green-tinged, matted from days in cell
 - Costume: White straitjacket, arms crossed and buckled
@@ -1887,7 +1887,7 @@ COMPOSITION:
 - Joker laughing softly
 
 THE JOKER (ARKHAM) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, straitjacket
+- Face & Body: THE JOKER in straitjacket
 - Makeup: Faded, patchy
 - Expression: Bright eyes, knowing smile, soft laughter
 - Position: Leaning forward toward empty window
