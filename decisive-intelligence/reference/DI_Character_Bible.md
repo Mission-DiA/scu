@@ -1,7 +1,7 @@
 # Decisive Intelligence — Character Bible
 
-> **Version:** 1.1.0
-> **Updated:** 2026-02-14
+> **Version:** 1.2.0
+> **Updated:** 2026-02-16
 > **Purpose:** Locked character descriptions for Gemini prompts
 
 ---
@@ -213,6 +213,19 @@ THE JOKER (INTERROGATION) FULL DESCRIPTION:
 - Position: [SCENE-SPECIFIC]
 ```
 
+### The Joker (Arkham/Straitjacket)
+```
+THE JOKER (ARKHAM) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic knowing eyes, 6'1", lean wiry build restrained
+- Makeup: Faded white face paint — days old, patchy, rubbed off in places. Red lipstick mostly gone, just traces in the scars. Black eye makeup smudged into grey shadows.
+- Hair: Greasy, stringy, green-tinged dirty blonde hair matted and unkempt from days in cell
+- Costume: White (#F5F5F5) straitjacket — canvas with leather straps, arms crossed and buckled behind. Standard Arkham Asylum patient restraint.
+- Setting: Padded cell, institutional white walls
+- Expression: [SCENE-SPECIFIC — usually smiling despite captivity]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
 ---
 
 ## BANE
@@ -307,6 +320,26 @@ JIM GORDON (OLDER) FULL DESCRIPTION:
 - Position: [SCENE-SPECIFIC]
 ```
 
+### Gordon's Son (Jimmy)
+```
+GORDON'S SON FULL DESCRIPTION:
+- Face & Body: Nathan Gamble, Caucasian boy, approximately 10 years old, light brown hair neatly cut, innocent wide eyes, small build appropriate for age, 4'6"
+- Costume: Casual clothes — dark blue (#1E3A8A) hoodie or jacket, jeans, sneakers. Normal kid clothing.
+- Expression: [SCENE-SPECIFIC — often confused, scared, or questioning]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+### Gordon's Wife (Barbara)
+```
+GORDON'S WIFE FULL DESCRIPTION:
+- Face & Body: Melinda McGraw, Caucasian woman, early 40s, auburn hair shoulder-length, worried maternal face, average build, 5'5"
+- Costume: Casual civilian clothes — cardigan over blouse, slacks. Hostage scenario: may be blindfolded with dark cloth.
+- Expression: [SCENE-SPECIFIC — often terrified or protective]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
 ---
 
 ## HARVEY DENT / TWO-FACE
@@ -382,13 +415,26 @@ JOHN BLAKE FULL DESCRIPTION:
 - Position: [SCENE-SPECIFIC]
 ```
 
+### Ferry Prisoner (Tattoos)
+```
+FERRY PRISONER FULL DESCRIPTION:
+- Face & Body: Tommy "Tiny" Lister, African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, intimidating presence, 6'5", heavily muscled
+- Tattoos: Extensive tattoos covering arms and neck — prison ink style, dark blue/black, tribal and text patterns
+- Costume: Orange (#F97316) prison jumpsuit, hands cuffed in front, standard prisoner transport attire
+- Expression: [SCENE-SPECIFIC — stoic, world-weary, unexpectedly moral]
+- Action: [SCENE-SPECIFIC]
+- Position: [SCENE-SPECIFIC]
+```
+
+Note: This character represents the moral surprise of the ferry scene — the convicted criminal who makes the heroic choice when civilians hesitate.
+
 ---
 
 ## Document Version
 
 | Document | Version |
 |----------|---------|
-| DI_Character_Bible.md | 1.1.0 |
+| DI_Character_Bible.md | 1.2.0 |
 
 ---
 

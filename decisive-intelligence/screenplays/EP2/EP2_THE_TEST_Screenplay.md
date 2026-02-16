@@ -767,22 +767,42 @@
 **Location:** GCPD / Gotham streets
 **Purpose:** MOVEMENT in action — the system turns against Batman
 
-### Panel 21.1 — GORDON'S ORDER
-**Visual:** Gordon at a police radio. His face is stone.
+### Panel 21.1 — GORDON AT THE RADIO
+**Visual:** Gordon standing before the dispatch console. His hand hovers over the radio. He hasn't pressed the button yet. The weight of what he's about to do visible in his posture.
+
+**No dialogue — the hesitation**
+
+### Panel 21.2 — GORDON'S MEMORY (FLASH)
+**Visual:** Quick flash — Gordon's son in the warehouse, Batman diving to save him. The memory of what Batman sacrificed.
+
+**Caption Box:** "He knew what this would cost."
+
+### Panel 21.3 — GORDON'S HAND
+**Visual:** Close on Gordon's hand. It presses the radio button. The decision made.
+
+**Caption Box:** "He did it anyway."
+
+### Panel 21.4 — THE ORDER
+**Visual:** Gordon at the radio. His face is stone. But his eyes betray him.
 
 **Gordon Speech (radio):** "All units, this is Commissioner Gordon. The Batman is now wanted for murder."
 
-### Panel 21.2 — GCPD MOBILIZES
+### Panel 21.5 — GCPD MOBILIZES
 **Visual:** Wide shot of GCPD headquarters. Officers rushing to vehicles. SWAT teams loading gear. The machine turning toward one target.
 
 **Radio Chatter:** "Copy that, all units responding—"
 
-### Panel 21.3 — BATMAN RUNNING
+### Panel 21.6 — GORDON WATCHES THEM GO
+**Visual:** Gordon at the window, watching the convoy of police cars pour out of GCPD. He's sending them after the man who saved his family.
+
+**Caption Box:** "The lie had to be complete."
+
+### Panel 21.7 — BATMAN RUNNING
 **Visual:** Batman on a rooftop, running. Spotlights sweeping behind him. He's not fighting back.
 
 **Caption Box:** "Movement isn't just action."
 
-### Panel 21.4 — SPOTLIGHTS
+### Panel 21.8 — SPOTLIGHTS
 **Visual:** Helicopter searchlight hitting a rooftop where Batman WAS — but he's already gone.
 
 **Caption Box:** "It's the action that makes retreat impossible."
@@ -830,29 +850,47 @@
 **Purpose:** Batman running — the hero become villain
 
 ### Panel 23.1 — BATMAN ON THE EDGE
-**Visual:** Batman standing on a rooftop edge. The destroyed Bat-Signal's rooftop visible in the distance.
+**Visual:** Batman standing on a rooftop edge. The destroyed Bat-Signal's rooftop visible in the distance. Smoke still rising from where the symbol was shattered.
 
 **Caption Box:** "The fourth pillar held."
 
-### Panel 23.2 — BATMAN'S BACK
-**Visual:** Batman's back. Cape billowing. Everything he protected now hunting him.
+### Panel 23.2 — THE CITY BELOW
+**Visual:** Wide shot — Gotham stretching out below Batman. Police sirens visible as red and blue dots moving through the streets. All hunting him.
+
+**Caption Box:** "The city he saved was now his enemy."
+
+### Panel 23.3 — BATMAN'S BACK
+**Visual:** Batman's back. Cape billowing. The weight of his choice visible in his silhouette. Everything he protected now hunting him.
 
 **Gordon V.O.:** "Because he's not our hero."
 
-### Panel 23.3 — THE RUN
-**Visual:** Batman leaping from the rooftop. Full extension. Cape spread.
+### Panel 23.4 — BATMAN TURNS
+**Visual:** Batman turning away from the city view. Accepting what comes next.
+
+**Gordon V.O.:** "He's something more."
+
+### Panel 23.5 — THE LEAP
+**Visual:** Batman leaping from the rooftop. Full extension. Cape spread like wings. Heroic even in exile.
 
 **Gordon V.O.:** "He's a silent guardian."
 
-### Panel 23.4 — MOTION BLUR
-**Visual:** Batman in motion across rooftops. Blurred. Fast.
+### Panel 23.6 — MID-AIR
+**Visual:** Batman mid-flight between buildings. The city lights below. Alone against the sky.
 
 **Gordon V.O.:** "A watchful protector."
 
-### Panel 23.5 — DISAPPEARING
-**Visual:** Batman about to disappear into darkness.
+### Panel 23.7 — LANDING
+**Visual:** Batman landing on a distant rooftop. Already running. Never stopping.
+
+**No dialogue — pure motion**
+
+### Panel 23.8 — DISAPPEARING
+**Visual:** Batman's cape disappearing around a corner. The last glimpse of him before he's gone.
 
 **Gordon V.O.:** "A Dark Knight."
+
+### Panel 23.9 — EMPTY ROOFTOP
+**Visual:** The rooftop empty. Only moonlight. He was never there.
 
 **Caption Box:** "MOVEMENT: Forward is the only direction. Burn the bridge behind you."
 
@@ -1045,16 +1083,16 @@
 | 18 | The Body | 4 |
 | 19 | The Fourth Choice Forms | 4 |
 | 20 | The Lie | 7 |
-| 21 | The Hunt Begins | 4 |
+| 21 | The Hunt Begins | 8 |
 | 22 | The Bat-Signal | 6 |
-| 23 | The Dark Knight | 5 |
+| 23 | The Dark Knight | 9 |
 | 24 | Four Pillars — The Chain | 5 |
 | 25 | The Chessboard Returns | 5 |
 | 26 | Joker's Final Word | 7 |
 | 27 | The Black Page | 1 |
 | 28 | Post-Credits Tease | 5 |
 
-**TOTAL: 28 Scenes, 137 Panels**
+**TOTAL: 28 Scenes, 150 Panels** (expanded Scenes 21 & 23 for pacing)
 
 ---
 
