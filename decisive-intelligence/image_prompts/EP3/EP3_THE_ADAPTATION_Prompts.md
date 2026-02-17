@@ -4,7 +4,7 @@
 > **Episode:** 3 of 3
 > **Title:** THE ADAPTATION
 > **Subtitle:** "Rise From the Ashes"
-> **Version:** 1.0.0
+> **Version:** 1.1.0
 > **Date:** 2026-02-17
 > **Target Slides:** ~48
 > **Panels in Screenplay:** 118
@@ -137,14 +137,14 @@ TOP LEFT — EMPTY HALLS:
 
 TOP RIGHT — BRUCE (RECLUSE):
 BRUCE WAYNE (RECLUSE) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, dark brown hair streaked with grey, unkempt beard, strong jaw hidden beneath facial hair, hollow exhausted eyes, still athletic but diminished build, using wooden cane, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, dark brown hair streaked with grey, unkempt beard, strong jaw hidden beneath facial hair, hollow exhausted eyes, still athletic but diminished build, using wooden cane, 6'0"
 - Costume: Dark grey robe over black sweater, loose grey trousers, slippers — recluse attire
 - Expression: Empty, staring at nothing
 - Position: Standing at window, weight on cane
 
 BOTTOM LEFT — ALFRED:
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face with deep worry lines, gentle knowing eyes, slim build, 5'10"
+- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face with deep worry lines, gentle knowing eyes, slim build, 5'10"
 - Costume: Dark charcoal (#374151) waistcoat over white (#FFFFFF) dress shirt, dark navy (#1E3A5F) tie
 - Expression: Deep concern, sadness
 - Position: Standing in doorway, tea tray in hands
@@ -244,14 +244,14 @@ TOP LEFT — UNDERGROUND ARMY:
 
 TOP RIGHT — BANE'S BACK:
 BANE (BACK VIEW) FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, MASSIVE muscular build, shaved head, thick neck, enormous shoulders filling frame, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, MASSIVE muscular build, shaved head, thick neck, enormous shoulders filling frame, 6'2"
 - Costume: Military-style tactical vest (olive/brown #5D5436) over bare muscular arms, dark cargo pants
 - Position: Standing before large map of Gotham, back to camera
 - Mask edges visible at sides of head
 
 BOTTOM LEFT — BANE REVEALED:
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes above mask, thick neck, enormous trapezius muscles, 6'2", physically overwhelming presence
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes above mask, thick neck, enormous trapezius muscles, 6'2", physically overwhelming presence
 - Mask: Iconic breathing apparatus covering lower face from nose to jaw — metal and leather construction with tubes connecting to jaw area, muffled voice implied, straps across skull
 - Costume: Military-style tactical vest (olive/brown #5D5436) over bare muscular arms showing veins and definition, dark cargo pants (#3D3D3D), heavy black combat boots
 - Expression: Cold, patient, calculating (eyes only visible)
@@ -295,7 +295,7 @@ COMPOSITION:
 
 LEFT — BATMAN ON BAT-POD:
 BATMAN (DARK KNIGHT SUIT - RUSTY) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, strong jaw visible below cowl, tired eyes, athletic but diminished build, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, strong jaw visible below cowl, tired eyes, athletic but diminished build, 6'0"
 - Costume: Dark Knight trilogy Batsuit — matte black segmented armor plates, cowl with exposed jaw/mouth area, scalloped cape, tactical sleek silhouette. Suit pristine but man inside is slower.
 - Expression: Determined but strained
 - Action: Riding Bat-Pod through streets
@@ -309,7 +309,7 @@ BAT-POD:
 
 RIGHT — GORDON WATCHES:
 JIM GORDON (OLDER) FULL DESCRIPTION:
-- Face & Body: Caucasian man, early 60s, grey hair thinning, thick-framed glasses, grey moustache, deeply weathered face with pronounced lines, exhausted but hopeful eyes, slightly stooped posture, using cane himself, 5'9"
+- Face & Body: Gary Oldman, Caucasian man, early 60s, grey hair thinning, thick-framed glasses, grey moustache, deeply weathered face with pronounced lines, exhausted but hopeful eyes, slightly stooped posture, using cane himself, 5'9"
 - Costume: Worn tan (#C2B280) trenchcoat, dark blue GCPD uniform
 - Expression: Hope mixed with fear
 - Position: On rooftop, watching Bat-Signal light up
@@ -350,7 +350,7 @@ COMPOSITION:
 - Not surprised, not worried — satisfied
 
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes above mask, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes above mask, 6'2"
 - Mask: Iconic breathing apparatus, metal and leather, tubes
 - Costume: Tactical vest over bare arms, cargo pants
 - Expression: Satisfied, patient (eyes only)
@@ -397,14 +397,14 @@ LEFT — BATCAVE (DUSTY):
 - Bruce pulling off cowl, breathing hard
 
 BRUCE WAYNE (POST-PATROL) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, dark brown hair with grey, sweating, exhausted, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, dark brown hair with grey, sweating, exhausted, 6'0"
 - Costume: Black tactical undersuit, cowl removed and held
 - Expression: Exhausted, breathing hard — this should have been easy
 - Position: Pulling off cowl, leaning on equipment
 
 RIGHT — ALFRED'S WARNING:
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Elderly Caucasian British man, mid-70s, grey hair, kind weathered face, fearful eyes, 5'10"
+- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair, kind weathered face, fearful eyes, 5'10"
 - Costume: Charcoal waistcoat, white shirt, navy tie
 - Expression: Fear, concern, desperately worried
 - Position: Approaching Bruce, hands raised
@@ -448,7 +448,7 @@ COMPOSITION:
 - The weight of caring visible
 
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Elderly Caucasian British man, mid-70s, grey hair, 5'10"
+- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair, 5'10"
 - Costume: Charcoal waistcoat, white shirt
 - Expression: Tears in eyes, desperate, loving
 - Action: Gripping Bruce's arm with both hands
@@ -456,7 +456,7 @@ ALFRED PENNYWORTH FULL DESCRIPTION:
 - Speech bubble (white, black text): "I've buried enough Waynes, sir."
 
 BRUCE WAYNE FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, dark brown hair with grey, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, dark brown hair with grey, 6'0"
 - Costume: Black tactical undersuit
 - Expression: Set jaw, stubborn, but affected
 - Position: Looking down at Alfred
@@ -498,7 +498,7 @@ COMPOSITION:
 
 TOP LEFT — ADDRESSING ARMY:
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive muscular build, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, 6'2"
 - Mask: Breathing apparatus, metal and leather
 - Costume: Tactical vest over bare arms
 - Expression: Authoritative (eyes only)
@@ -556,7 +556,7 @@ COMPOSITION:
 
 LEFT — BATMAN DESCENDS:
 BATMAN (DARK KNIGHT SUIT) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, strong jaw below cowl, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, strong jaw below cowl, 6'0"
 - Costume: Matte black segmented armor, scalloped cape, tactical sleek silhouette
 - Expression: Hunting, confident
 - Action: Descending ladder into sewer
@@ -570,7 +570,7 @@ SEWER ENVIRONMENT:
 
 CENTER — BANE WAITING:
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive muscular build, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, 6'2"
 - Mask: Breathing apparatus, metal and leather
 - Costume: Tactical vest, cargo pants
 - Expression: Patient, amused (eyes only)
@@ -642,14 +642,14 @@ MIDDLE LEFT — COMMITMENT FAILS:
 
 MIDDLE RIGHT — PUNISHMENT:
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive, 6'2"
 - Mask: Breathing apparatus
 - Expression: Cold efficiency (eyes only)
 - Action: Delivering blow to Batman's ribs
 - Position: Dominant, in control
 
 BATMAN FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, jaw bruised, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, jaw bruised, 6'0"
 - Costume: Batsuit showing damage
 - Expression: Pain, shock
 - Position: Recoiling from blow
@@ -693,7 +693,7 @@ COMPOSITION:
 - Iconic imagery
 
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive muscular build, enormous shoulders, veins visible in arms, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, enormous shoulders, veins visible in arms, 6'2"
 - Mask: Breathing apparatus, metal and leather, tubes
 - Costume: Tactical vest over bare arms, dark cargo pants
 - Expression: Cold finality (eyes only)
@@ -702,7 +702,7 @@ BANE FULL DESCRIPTION:
 - Speech bubble (heavy, muffled): "I will break you."
 
 BATMAN (BEING HELD) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, jaw bruised and bloodied, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, jaw bruised and bloodied, 6'0"
 - Costume: Batsuit cracked and damaged, cape hanging
 - Expression: Pain, anticipation of what's coming
 - Position: Held overhead, horizontal, about to be brought down on Bane's knee
@@ -737,7 +737,7 @@ COMPOSITION:
 - Devastating image
 
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive, 6'2"
 - Mask: Breathing apparatus
 - Costume: Tactical vest, bare arms
 - Expression: Cold execution (eyes only)
@@ -745,7 +745,7 @@ BANE FULL DESCRIPTION:
 - Position: Knee raised, arms driving Batman down
 
 BATMAN (BREAKING) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, 6'0"
 - Costume: Damaged Batsuit
 - Expression: Agony, silent scream
 - Position: Back arched across Bane's knee, spine at breaking point
@@ -787,7 +787,7 @@ COMPOSITION:
 
 LEFT — BROKEN ON THE GROUND:
 BATMAN (BROKEN) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, face visible — Bruce's face, eyes open, body unmoving, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, face visible — Bruce's face, eyes open, body unmoving, 6'0"
 - Costume: Batsuit cracked and ruined, cowl half-off revealing face, cape spread beneath him
 - Expression: Eyes open, shock, body broken
 - Position: Crumpled on concrete floor, not moving
@@ -800,7 +800,7 @@ CONCRETE FLOOR:
 
 RIGHT — BANE STANDS OVER:
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive, 6'2"
 - Mask: Breathing apparatus
 - Expression: Not gloating — just done (eyes only)
 - Position: Standing over broken Batman, looking down
@@ -885,7 +885,7 @@ COMPOSITION:
 
 LEFT — BRUCE ON COT:
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, dark brown hair grown out and unkempt, thick beard stubble, strong jaw visible beneath facial hair, hollow exhausted eyes, emaciated build showing recovery, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, dark brown hair grown out and unkempt, thick beard stubble, strong jaw visible beneath facial hair, hollow exhausted eyes, emaciated build showing recovery, 6'0"
 - Costume: Torn grey (#6B7280) prison shirt, ripped and stained, dark brown torn trousers, back brace visible beneath shirt
 - Expression: Defeated, staring at light above
 - Position: Lying on cot, eyes fixed on distant light
@@ -974,7 +974,7 @@ COMPOSITION:
 - Helpless, broken, watching
 
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, unkempt hair, beard, hollow eyes, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, unkempt hair, beard, hollow eyes, 6'0"
 - Costume: Prison clothes, back brace
 - Expression: Horror, helplessness, grief
 - Position: Sitting on cot, facing small TV, face lit by screen
@@ -1017,7 +1017,7 @@ COMPOSITION:
 
 LEFT — FIRST ATTEMPT:
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard, some muscle returning, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, some muscle returning, 6'0"
 - Costume: Prison clothes, back brace still visible
 - Expression: Frustration, failure
 - Action: Collapsed mid-pushup, arms shaking
@@ -1066,7 +1066,7 @@ COMPOSITION:
 
 TOP — BRUCE SEES:
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard, hollow eyes beginning to focus, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, hollow eyes beginning to focus, 6'0"
 - Costume: Prison clothes
 - Expression: Understanding dawning
 - Position: Looking up at light, something clicking
@@ -1077,7 +1077,7 @@ CAPTION: "Not the tools. The wielder."
 
 BOTTOM — RA'S FLASHBACK (SEMI-TRANSPARENT):
 RA'S AL GHUL FULL DESCRIPTION:
-- Face & Body: Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, 6'4"
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense cold blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
 - Costume: Dark brown layered robes, League training attire
 - Expression: Teaching, authoritative
 - Position: Face to face with Young Bruce
@@ -1108,56 +1108,75 @@ STYLE: Photorealistic, cinematic, split with flashback. Full bleed to all edges.
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. TRIPTYCH (3 vertical panels).
 
-SCENE: Bruce attempts the climb — with rope. And falls.
+SCENE: Bruce attempts the Pit climb with a safety rope — reaches the final ledge, leaps upward, and MISSES. Then back on the cot, the Blind Prisoner reveals why.
 
 COMPOSITION:
-- THREE VERTICAL PANELS, thin white lines dividing
-- LEFT: Bruce climbing, rope attached, prisoners chanting below
-- CENTER: Bruce reaching for final jump, missing
-- RIGHT: Bruce falling, rope catching him, back on the cot
+- THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
+- LEFT: Bruce climbing the Pit wall, rope tied around waist, prisoners chanting below
+- CENTER: Bruce mid-leap UPWARD inside the vertical Pit shaft, arms reaching UP toward a stone ledge above him, rope tied around waist trailing below, light from Pit opening far above — his fingers JUST MISS the ledge
+- RIGHT: Bruce on the cot, defeated, Blind Prisoner seated beside him — the dialogue about the rope
+
+CRITICAL LAYOUT: The Pit is a VERTICAL stone shaft — NOT a horizontal chasm. Bruce climbs UPWARD along stone walls. The jump is UPWARD to grab a ledge ABOVE him. All three panels should show vertical stone walls rising around him.
 
 LEFT — THE CLIMB (WITH ROPE):
 BRUCE WAYNE (PRISON - CLIMBING) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard shorter, some strength returned, 6'0"
-- Costume: Prison clothes, rope tied around waist
-- Expression: Determined, straining
-- Action: Climbing stone wall
-- Position: Partway up, rope trailing below
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard shorter, some strength returned, intense focused eyes, 6'0"
+- Costume: Torn grey (#6B7280) prison shirt, dark brown torn trousers, THICK ROPE clearly tied around his waist — the rope trails DOWN below him to the ground far below
+- Expression: Determined, straining, teeth gritted
+- Action: Climbing stone wall with bare hands, gripping rough stone
+- Position: Partway up the Pit wall, body pressed against stone, feet on narrow ledges, rope hanging below him
+
+ENVIRONMENT:
+- Vertical stone walls of the Pit rising around him
+- Other prisoners visible FAR BELOW, tiny figures looking up
+- Cells carved into walls at various heights
+- Dim light from above
 
 PRISONERS BELOW:
-- Watching from cells
-- Chanting visible
-- Speech bubble (multiple voices): "Deshi basara! Deshi basara!"
+- Watching from below, faces upturned
+- Speech bubble (multiple voices, rising from below): "Deshi basara! Deshi basara!"
 
-CENTER — THE MISS:
-- Bruce at the ledge
-- The final jump — impossible gap
-- Reaching, jumping
-- Missing, falling
-- Light above — so close
+CENTER — THE FAILED JUMP:
+BRUCE WAYNE (PRISON - MID-LEAP) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, straining face, 6'0"
+- Costume: Torn grey prison shirt, dark brown trousers, ROPE CLEARLY TIED AROUND HIS WAIST — rope trailing below him through the air
+- Expression: Maximum effort, reaching, desperate
+- Action: Mid-leap UPWARD — body stretched vertically, both arms reaching UP toward a stone ledge ABOVE him
+- Position: Airborne inside the vertical Pit shaft, jumping FROM a lower ledge UPWARD toward a higher ledge
 
-RIGHT — THE FALL:
-- Bruce falling
-- Rope catching him
-- Swing back to wall
-- Failed again
+CRITICAL COMPOSITION FOR THIS PANEL:
+- Camera angle: Slightly below Bruce, looking UP — we see him leaping upward
+- His hands are reaching UP toward a rough stone ledge ABOVE him
+- His fingertips are INCHES from the ledge — he is about to MISS
+- The ROPE is clearly visible tied around his waist, trailing down below him
+- Light from the Pit opening visible FAR ABOVE — a small circle of daylight
+- Below him: darkness, the long fall, the rope that will catch him
+- The gap between his fingers and the ledge tells the whole story — SO CLOSE
 
-BACK ON COT:
+RIGHT — THE LESSON (ON THE COT):
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
-- Expression: Defeated, frustrated
-- Position: On cot, rope still attached
-- Speech bubble (white, black text): "Why can't I make the jump?"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, hollow defeated eyes, 6'0"
+- Costume: Torn grey prison shirt, dark brown trousers, rope STILL tied around his waist — visual reminder of the safety net
+- Expression: Defeated, frustrated, searching for answers
+- Position: Lying on simple stone cot, looking at the Blind Prisoner beside him
 
-BLIND PRISONER:
-- Speech bubble (white, black text): "The rope. The safety net."
+BLIND PRISONER FULL DESCRIPTION:
+- Face & Body: Middle Eastern man, late 60s, completely blind — clouded white eyes, weathered face with deep wrinkles, thin grey beard, frail build, 5'8"
+- Costume: Ragged grey prison clothes, cloth wrapped around hands
+- Expression: Knowing, calm, seeing truth without eyes
+- Position: Seated on stool beside Bruce's cot, facing him
+
+DIALOGUE:
+- Speech bubble (white, black text) from Bruce: "Why can't I make the jump?"
+- Speech bubble (white, black text) from Blind Prisoner: "The rope. The safety net."
 
 ATMOSPHERE:
-- Failed attempts
-- Safety net preventing success
-- Courage requires fear
+- Three-beat story: climb → fail → understand why
+- The rope is the VISUAL THREAD across all three panels — climbing with it, jumping with it, lying with it
+- Safety net preventing the leap that matters
 
 TEXT OVERLAY:
-- Caption (RED #EF4444 background, white text) LEFT: "COURAGE — act without certainty."
+- Caption (RED #EF4444 background, white text) LEFT panel top: "COURAGE — act without certainty."
 
 STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
@@ -1188,7 +1207,7 @@ BLIND PRISONER FULL DESCRIPTION:
 - Speech bubble (white, black text): "And that is why you fall."
 
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard, eyes focusing, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, eyes focusing, 6'0"
 - Costume: Prison clothes
 - Expression: Understanding, accepting
 - Position: Listening, rope still attached
@@ -1228,7 +1247,7 @@ COMPOSITION:
 - Something has changed
 
 BRUCE WAYNE (PRISON - READY) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard trimmed shorter, strength returned, determination in eyes, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard trimmed shorter, strength returned, determination in eyes, 6'0"
 - Costume: Prison clothes, cleaner, no back brace visible
 - Expression: Resolved, calm, ready
 - Action: Untying rope from waist
@@ -1340,7 +1359,7 @@ COMPOSITION:
 - Freedom
 
 BRUCE WAYNE (RISING) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard, transformed, strength visible, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, transformed, strength visible, 6'0"
 - Costume: Prison clothes, weathered
 - Expression: Triumph, release, rebirth
 - Action: Pulling himself over edge, rising into light
@@ -1390,7 +1409,7 @@ COMPOSITION:
 
 LEFT — GOTHAM'S EDGE:
 BRUCE WAYNE (RETURNING) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, beard still present but trimmed, strength returned, still injured, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard still present but trimmed, strength returned, still injured, 6'0"
 - Costume: Dark civilian clothes, hood up, hidden identity
 - Expression: Determined, assessing
 - Position: Standing at destroyed bridge edge, looking at occupied city
@@ -1438,14 +1457,14 @@ COMPOSITION:
 - Hope returning
 
 JIM GORDON (OLDER, WOUNDED) FULL DESCRIPTION:
-- Face & Body: Caucasian man, early 60s, grey hair, thick glasses, grey moustache, wounded — bandaged arm, weathered face, 5'9"
+- Face & Body: Gary Oldman, Caucasian man, early 60s, grey hair, thick glasses, grey moustache, wounded — bandaged arm, weathered face, 5'9"
 - Costume: Worn trenchcoat, civilian clothes underneath, in hiding
 - Expression: Shock, then hope, then tears forming
 - Position: Sitting in safehouse, looking up at entering figure
 - Speech bubble (white, black text): "My god... you came back."
 
 BRUCE WAYNE (RETURNING) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, hooded, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, hooded, 6'0"
 - Costume: Dark civilian clothes
 - Expression: Resolved
 - Position: Standing in doorway, silhouette
@@ -1488,7 +1507,7 @@ COMPOSITION:
 
 LEFT — BATMAN RETURNS:
 BATMAN (REPAIRED SUIT) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, strong jaw below cowl, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, strong jaw below cowl, 6'0"
 - Costume: Repaired black Batsuit — armored plates with visible repair patches, cape re-stitched, cowl repaired with darker patch. Functional not pristine.
 - Expression: Determined
 - Position: Standing on bridge structure, flare device ready
@@ -1554,7 +1573,7 @@ TOP LEFT — POLICE EMERGE:
 
 TOP RIGHT — GORDON LEADS:
 JIM GORDON (OLDER) FULL DESCRIPTION:
-- Face & Body: Caucasian man, early 60s, 5'9"
+- Face & Body: Gary Oldman, Caucasian man, early 60s, 5'9"
 - Costume: Trenchcoat, wounded but standing
 - Expression: Determined, leading
 - Position: At front of police line
@@ -1613,7 +1632,7 @@ COMPOSITION:
 
 TOP LEFT — APPROACHING:
 BATMAN (REPAIRED) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, strong jaw, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, strong jaw, 6'0"
 - Costume: Repaired Batsuit, battle-ready
 - Expression: Focused, calm
 - Position: Walking toward Bane through chaos
@@ -1621,7 +1640,7 @@ BATMAN (REPAIRED) FULL DESCRIPTION:
 
 TOP RIGHT — BANE WAITING:
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive, 6'2"
 - Mask: Breathing apparatus
 - Expression: Confident (eyes only)
 - Position: Arms wide, waiting
@@ -1679,14 +1698,14 @@ COMPOSITION:
 - The force defeated
 
 BANE (DEFEATED) FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive but brought low, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive but brought low, 6'2"
 - Mask: Destroyed, tubes broken, metal bent, breathing labored
 - Costume: Tactical vest torn
 - Expression: Pain, defeat (face partially visible now, scarred beneath mask)
 - Position: On knees, looking up at Batman
 
 BATMAN (REPAIRED) FULL DESCRIPTION:
-- Face & Body: Caucasian man, mid-40s, 6'0"
+- Face & Body: Christian Bale, Caucasian man, mid-40s, 6'0"
 - Costume: Repaired Batsuit, battle damage
 - Expression: Resolved, not triumphant
 - Position: Standing over Bane
@@ -1781,7 +1800,7 @@ COMPOSITION:
 
 LEFT — THE NEW SIGNAL:
 JIM GORDON (OLDER) FULL DESCRIPTION:
-- Face & Body: Caucasian man, early 60s, grey hair, grey moustache, 5'9"
+- Face & Body: Gary Oldman, Caucasian man, early 60s, grey hair, grey moustache, 5'9"
 - Costume: Trenchcoat, restored uniform
 - Expression: Reverent, emotional
 - Position: Standing beside new Bat-Signal being installed
@@ -1833,7 +1852,7 @@ COMPOSITION:
 - Alfred's face — tears of joy
 
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Elderly Caucasian British man, mid-70s, grey hair, 5'10"
+- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair, 5'10"
 - Costume: Light blue cardigan, casual vacation attire
 - Expression: Tears of joy, smile breaking across face
 - Position: Seated at café table, looking up
@@ -1882,9 +1901,9 @@ COMPOSITION:
 
 LEFT — RA'S (TEACHING):
 RA'S AL GHUL FULL DESCRIPTION:
-- Face & Body: Caucasian Irish man, late 50s, 6'4"
-- Costume: League robes
-- Expression: Teaching
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense cold blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
+- Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, League of Shadows training attire
+- Expression: Teaching, authoritative
 - Position: Training Young Bruce
 - Semi-transparent, memory style
 
@@ -1892,9 +1911,11 @@ CAPTION: "Learn the framework."
 
 CENTER — JOKER (TESTING):
 THE JOKER FULL DESCRIPTION:
-- Face & Body: Caucasian man, early 30s, gaunt, 6'1"
-- Makeup: White face, red scars, black eyes
-- Expression: Manic grin
+- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
+- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes in uneven circles
+- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, unkempt and pushed back
+- Costume: Purple (#4A0080) long coat over rumpled green (#2D5A27) waistcoat
+- Expression: Manic grin, chaos incarnate
 - Position: Facing camera
 - Semi-transparent, memory style
 
@@ -1902,7 +1923,7 @@ CAPTION: "Test it against chaos."
 
 RIGHT — BANE (BREAKING):
 BANE FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 30s, massive, 6'2"
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive, 6'2"
 - Mask: Breathing apparatus
 - Expression: Cold eyes
 - Position: Standing dominant
@@ -1990,7 +2011,7 @@ COMPOSITION:
 
 LEFT — BLAKE ENTERS:
 JOHN BLAKE FULL DESCRIPTION:
-- Face & Body: Caucasian man, early 30s, clean-cut dark brown hair, earnest angular face, determined brown eyes, lean athletic build, 5'9"
+- Face & Body: Joseph Gordon-Levitt, Caucasian man, early 30s, clean-cut dark brown hair, earnest angular face, determined brown eyes, lean athletic build, 5'9"
 - Costume: Civilian clothes now, no longer GCPD uniform
 - Expression: Wonder, understanding, acceptance
 - Position: Entering Batcave, looking around in awe
@@ -2254,7 +2275,7 @@ COMPOSITION:
 - Escalation visible
 
 DOCTOR DOOM (MASKED) FULL DESCRIPTION:
-- Face & Body: Caucasian man, late 50s, commanding presence, 5'9"
+- Face & Body: Robert Downey Jr., Caucasian man, late 50s, commanding regal bearing, 5'9"
 - Mask: Iconic Doom mask, eye slits glowing faint green
 - Costume: Green cloak with gold trim, silver armor, gauntlets
 - Expression: Unreadable (mask)
@@ -2458,13 +2479,12 @@ STYLE: Cinematic credits, Dark Knight aesthetic. Full bleed. WATERMARK: "DI × S
 
 **Applied from EP1/EP2 learnings:**
 
-1. **NO actor names in character blocks** — physical descriptions only
+1. **Actor names INCLUDED in character blocks** — required for correct likeness (v1.1.0 fix: generic descriptions caused wrong actor renders, e.g. Ben Affleck instead of Christian Bale)
 2. **NO children in threatening situations** — all family content removed or handled off-frame
-3. **Dark Knight Batsuit description** without actor reference
-4. **Full character blocks in EVERY panel** — no lazy references
-5. **Scene 8.4 (Slide 13) — NO TEXT** — maximum impact preserved
-6. **RDJ reveal (Slide 41)** — full face, clear lighting, no ambiguity
-7. **New chessboard (Slide 43)** — MORE pieces, visual escalation
+3. **Full character blocks in EVERY panel** — no lazy references
+4. **Scene 8.4 (Slide 13) — NO TEXT** — maximum impact preserved
+5. **RDJ reveal (Slide 41)** — full face, clear lighting, no ambiguity
+6. **New chessboard (Slide 43)** — MORE pieces, visual escalation
 
 ---
 
@@ -2473,6 +2493,7 @@ STYLE: Cinematic credits, Dark Knight aesthetic. Full bleed. WATERMARK: "DI × S
 | Version | Slides | Date | Notes |
 |---------|--------|------|-------|
 | 1.0.0 | 46 | 2026-02-17 | Full depth, Gemini-compatible |
+| 1.1.0 | 46 | 2026-02-17 | Actor names added to ALL character blocks — fixes wrong actor renders |
 
 ---
 
