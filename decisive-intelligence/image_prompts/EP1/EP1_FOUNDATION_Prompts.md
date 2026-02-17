@@ -58,6 +58,50 @@
 
 ---
 
+# COVER
+
+---
+
+### SLIDE 0 — COVER
+**SINGLE SPLASH — TITLE CARD**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic cover in 16:9 aspect ratio. Dark Knight noir style. COVER IMAGE.
+
+SCENE: A mountain monastery at dawn — the framework about to be discovered. The journey begins here.
+
+COMPOSITION:
+- Himalayan mountain monastery at DAWN — first light breaking over snow-capped peaks
+- Rooftop ledge in foreground with CHESSBOARD
+- Four chess pieces: Knight (BLUE #4A90D9 glow), Queen (RED #EF4444 glow), Rook (WHITE glow), Bishop (ORANGE #F97316 glow)
+- Pieces are NEW — freshly carved, untouched, waiting to be learned
+- Monastery courtyard visible below — training grounds, ancient stone
+- Mist and snow swirling around the peaks
+- A single set of FOOTPRINTS in the snow leading toward the monastery gates
+
+CHESSBOARD DETAILS:
+- Classic black and white squares
+- Four pieces arranged in center
+- Each piece has subtle colored glow matching its pillar
+- Pieces are pristine — never used, waiting for a student
+- Board sits on a stone ledge overlooking the monastery
+
+ATMOSPHERE:
+- The beginning of a journey
+- Knowledge waiting to be discovered
+- Dawn — everything starts here
+
+TEXT OVERLAY:
+- TITLE (centered, top third): "DECISIVE INTELLIGENCE" — white, clean sans-serif, large
+- SUBTITLE (below title): "The Foundation" — smaller, elegant
+- EPISODE (smallest): "Episode 1"
+
+STYLE: Photorealistic, cinematic, dawn light with cold mountain tones. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+```
+
+---
+
 # THE FALL (Scenes 1-2) — 4 Slides
 ## SILHOUETTE APPROACH — Young Bruce as SHADOW only
 

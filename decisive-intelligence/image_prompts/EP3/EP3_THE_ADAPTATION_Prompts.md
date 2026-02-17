@@ -1569,7 +1569,7 @@ RIGHT — GOTHAM SEES:
 - Resistance fighters looking up
 - Gordon and fighters, hope igniting on faces
 - Citizens in windows, seeing the symbol
-- Speech bubble (white, black text) from Gordon: "He's alive."
+- Speech bubble (white, black text) from Gordon: "He didn't break."
 
 MONTAGE ELEMENTS:
 - Police emerging from hiding
@@ -1673,46 +1673,94 @@ COMPOSITION:
 - BOTTOM RIGHT: Batman relentless, hitting mask again
 
 TOP LEFT — APPROACHING:
-BATMAN (REPAIRED) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-40s, strong jaw, 6'0"
-- Costume: Repaired Batsuit, battle-ready
-- Expression: Focused, calm
-- Position: Walking toward Bane through chaos
-- Caption: "Same pillars. Different application."
+BATMAN (REPAIRED SUIT) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, strong jaw visible below cowl, 6'0"
+- Costume: Repaired black Batsuit — armored plates with visible repair patches where Bane broke them. Cape re-stitched. Cowl repaired with darker patch on left side. Functional, NOT pristine.
+- Expression: Calm, controlled, walking with purpose
+- Action: Walking TOWARD Bane through smoke and debris. Not running — walking. Deliberate.
+- Position: Full body visible, mid-stride, fists at sides
+- Speech bubble (white, black text): "I came back without the rope."
+- Caption (dark navy #1a1a4e, white text): "Same pillars. Different application."
 
 TOP RIGHT — BANE WAITING:
 BANE FULL DESCRIPTION:
-- Face & Body: Tom Hardy, Caucasian man, late 30s, massive, 6'2"
-- Mask: Breathing apparatus
-- Expression: Confident (eyes only)
-- Position: Arms wide, waiting
-- Speech bubble (heavy, muffled): "You came back to die?"
-- Speech bubble (white, black text) from Batman: "I came back to stop you."
+- Face & Body: Tom Hardy, Caucasian man, late 30s, 5'11", massive muscular build, shaved head, visible veins on arms and neck
+- Costume: Black tactical vest over bare arms, military cargo pants, combat boots. Breathing apparatus mask covering lower face with tubes running to back of head.
+- Expression: Confident, amused (visible only through eyes — mask covers mouth)
+- Action: Standing with BOTH ARMS spread wide, chest open, inviting the fight. Taunting.
+- Position: Full body visible, feet planted wide, dominant stance
+- Speech bubble (heavy, muffled style): "You came back to die?"
 
 MIDDLE LEFT — CLARITY REBUILT:
-- Close on Batman's eyes
-- Focused, seeing
-- Target acquired — Bane's mask tubes
+BATMAN (EXTREME CLOSE-UP) FULL DESCRIPTION:
+- Face: Christian Bale, mid-40s, ONLY the eyes and top of cowl visible. Tight crop on eyes.
+- Costume: Black cowl, eye openings showing intense blue-grey eyes
+- Expression: Laser focused. Not angry — analytical. He SEES something.
+- Action: Eyes narrowed, looking at something specific — Bane's mask tubes (NOT shown in this panel, implied by his gaze direction)
+- Position: Extreme close-up filling entire panel. Eyes centered.
 - Caption (BLUE #4A90D9 background, white text): "CLARITY: See the weakness."
 
-MIDDLE RIGHT — COURAGE REBUILT:
-- Batman striking first
-- Not at Bane's strength — at his weakness
-- Punch aimed at mask tubes
-- Caption (RED #EF4444 background, white text): "COURAGE: Strike without hesitation."
+WHAT NOT TO DRAW IN THIS PANEL:
+- NOT a wide shot — this is EXTREME CLOSE-UP on eyes only
+- NOT showing Bane — this panel is ONLY Batman's eyes
+- NOT showing body or fists — just cowl and eyes
 
-BOTTOM LEFT — BANE STAGGERS:
-BANE (DAMAGED) FULL DESCRIPTION:
-- Mask: Tubes broken, sparking
-- Expression: Pain returning (eyes)
-- Position: Staggering back
+MIDDLE RIGHT — COURAGE REBUILT:
+BATMAN (STRIKING) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, jaw clenched, 6'0"
+- Costume: Repaired black Batsuit with armored gauntlets
+- Expression: Explosive
+- Action: RIGHT FIST connecting with Bane's MASK TUBES on the left side. Sparks flying from impact.
+
+BANE (TAKING HIT) FULL DESCRIPTION:
+- Face & Body: Tom Hardy, Caucasian man, late 30s, shaved head, massive build
+- Costume: Black tactical vest, breathing apparatus mask
+- Expression: Surprise in eyes
+- Action: Head snapping to the right from the impact. One tube on the mask CRACKING.
+- Position: Upper body only, recoiling
+
+- Caption (RED #EF4444 background, white text): "COURAGE: Strike without hesitation."
+- NO other text in this panel. NO speech bubbles. NO descriptive text. ONLY the caption above.
+
+BOTTOM LEFT — COMMITMENT REBUILT:
+BATMAN (PRESSING) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, 6'0"
+- Costume: Repaired black Batsuit, gauntlets
+- Expression: Relentless, no mercy
+- Action: BOTH HANDS gripping Bane's mask, PULLING and TWISTING. Not punching — dismantling. Up close, grappling, using leverage not force.
+
+BANE (MASK FAILING) FULL DESCRIPTION:
+- Face & Body: Tom Hardy, Caucasian man, late 30s, shaved head, veins bulging
+- Costume: Black tactical vest. Breathing apparatus mask now CRACKED — two tubes broken, sparking, gas leaking visibly.
+- Expression: PAIN returning in eyes. Fear for the first time. Hands reaching up trying to protect the mask.
+- Action: Trying to pull Batman's hands OFF his mask. Failing.
+- Position: Being pulled DOWNWARD by Batman's grip on the mask
+
 - Caption (WHITE background, black text): "COMMITMENT: Press the advantage."
 
-BOTTOM RIGHT — PRESSING:
-- Batman hitting mask again
-- Relentless
-- Every blow targeted
+BOTTOM RIGHT — MOVEMENT REBUILT:
+BATMAN (FINAL BLOW) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, 6'0"
+- Costume: Repaired black Batsuit
+- Expression: Finality
+- Action: Standing over Bane. ONE ELBOW driving DOWN onto the top of Bane's mask, shattering it.
+
+BANE (DEFEATED) FULL DESCRIPTION:
+- Face & Body: Tom Hardy, Caucasian man, late 30s, shaved head, on his KNEES
+- Costume: Black tactical vest. Mask SHATTERED — pieces falling away, tubes severed, sparks flying. Lower face partially exposed.
+- Expression: Agony, gasping, strength gone
+- Action: On KNEES, head driven down by the elbow strike, hands dropping to sides. Defeated.
+- Position: Kneeling, collapsing
+
 - Caption (ORANGE #F97316 background, white text): "MOVEMENT: End it."
+
+CRITICAL — VISUAL PROGRESSION ACROSS 6 PANELS:
+- Panel 1: Full bodies, distance, walking (calm)
+- Panel 2: Full bodies, distance, taunting (tension)
+- Panel 3: EXTREME close-up eyes only (focus shift)
+- Panel 4: Upper bodies, first strike, contact (action begins)
+- Panel 5: Close grapple, hands on mask, dismantling (escalation)
+- Panel 6: One standing over one kneeling, final blow (resolution)
 
 ATMOSPHERE:
 - Framework rebuilt
@@ -1772,56 +1820,81 @@ STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU
 
 ---
 
-### SLIDE 32 — VICTORY / PILLARS REBUILT (QUAD)
-**QUAD PANEL (2×2) — THE FRAMEWORK ADAPTED**
+### SLIDE 32 — VICTORY / PILLARS REBUILT (6-PANEL)
+**6-PANEL GRID (2×3) — THE FRAMEWORK ADAPTED**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. QUAD PANEL (2×2).
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. 6-PANEL GRID (2×3).
 
-SCENE: Victory — the four pillars rebuilt with new meaning.
+SCENE: Victory — the four pillars rebuilt with new meaning. Each pillar gets its own moment.
 
 COMPOSITION:
-- FOUR PANELS in 2×2 grid, thin white lines dividing
-- TOP LEFT: Chessboard — restored, four pieces glowing bright
-- TOP RIGHT: Knight piece (BLUE) — CLARITY
-- BOTTOM LEFT: Queen piece (RED) — COURAGE
-- BOTTOM RIGHT: Rook (WHITE) and Bishop (ORANGE) together
+- SIX PANELS in 2×3 grid, thin white lines dividing
+- TOP LEFT: Chessboard restored — four pieces glowing
+- TOP RIGHT: Knight piece close-up (BLUE glow) — CLARITY
+- MIDDLE LEFT: Queen piece close-up (RED glow) — COURAGE
+- MIDDLE RIGHT: Rook piece close-up (WHITE glow) — COMMITMENT
+- BOTTOM LEFT: Bishop piece close-up (ORANGE glow) — MOVEMENT
+- BOTTOM RIGHT: All four pieces together on the board — rebuilt
 
 TOP LEFT — CHESSBOARD RESTORED:
-- Same chessboard from opening
-- No dust now — polished, ready
-- Four pieces standing proud
-- Each glowing its color
-
-CAPTIONS:
-- "Ra's taught the framework."
-- "The Joker tested it."
-- "Bane broke it."
-- "Bruce rebuilt it."
+- Same chessboard from the opening slides — BUT transformed
+- No dust now — polished, dark wood gleaming
+- Four chess pieces standing proud in formation
+- Each piece glowing its pillar color: BLUE, RED, WHITE, ORANGE
+- Warm light from above illuminating the board
+- Caption (dark navy #1a1a4e, white text): "Ra's taught it. Joker tested it. Bane broke it."
 
 TOP RIGHT — KNIGHT (CLARITY):
-- Knight chess piece glowing BLUE #4A90D9
-- Brilliant glow
+- CLOSE-UP on a single Knight chess piece
+- Piece bathed in brilliant BLUE #4A90D9 glow
+- Light radiating outward from the piece
+- Dark background making the blue glow prominent
+- Surface beneath: polished dark chessboard square
 - Caption (BLUE #4A90D9 background, white text): "CLARITY — See the truth, even when it's brutal."
+- NO other text. NO speech bubbles.
 
-BOTTOM LEFT — QUEEN (COURAGE):
-- Queen chess piece glowing RED #EF4444
-- Brilliant glow
+MIDDLE LEFT — QUEEN (COURAGE):
+- CLOSE-UP on a single Queen chess piece
+- Piece bathed in brilliant RED #EF4444 glow
+- Light radiating outward from the piece
+- Dark background making the red glow prominent
+- Surface beneath: polished dark chessboard square
 - Caption (RED #EF4444 background, white text): "COURAGE — Fear of death makes you climb."
+- NO other text. NO speech bubbles.
 
-BOTTOM RIGHT — ROOK AND BISHOP:
-- Rook glowing WHITE #FFFFFF
-- Bishop glowing ORANGE #F97316
-- Caption (WHITE background, black text): "COMMITMENT — Remove the rope. Burn the alternative."
+MIDDLE RIGHT — ROOK (COMMITMENT):
+- CLOSE-UP on a single Rook chess piece
+- Piece bathed in brilliant WHITE #FFFFFF glow
+- Light radiating outward from the piece
+- Dark background making the white glow prominent
+- Surface beneath: polished dark chessboard square
+- Caption (WHITE #FFFFFF background, black text): "COMMITMENT — Remove the rope. Burn the alternative."
+- NO other text. NO speech bubbles.
+
+BOTTOM LEFT — BISHOP (MOVEMENT):
+- CLOSE-UP on a single Bishop chess piece
+- Piece bathed in brilliant ORANGE #F97316 glow
+- Light radiating outward from the piece
+- Dark background making the orange glow prominent
+- Surface beneath: polished dark chessboard square
 - Caption (ORANGE #F97316 background, white text): "MOVEMENT — Act while broken. Readiness follows action."
+- NO other text. NO speech bubbles.
 
-ATMOSPHERE:
-- Framework rebuilt
-- Stronger than before
-- Adapted, not just restored
+BOTTOM RIGHT — ALL FOUR TOGETHER:
+- Pull back to show all four pieces on the chessboard together
+- Knight (BLUE), Queen (RED), Rook (WHITE), Bishop (ORANGE) — each glowing its color
+- Standing in formation — stronger together
+- The board is whole, the pieces are bright
+- Caption (dark navy #1a1a4e, white text): "Bruce rebuilt it."
 
-STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+CRITICAL — VISUAL PROGRESSION:
+- Panel 1: Wide board shot (context)
+- Panels 2-5: Individual close-ups, one pillar each, one color each
+- Panel 6: Wide board shot again (completion) — the framework is whole
+
+STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
 
 ---
@@ -1842,28 +1915,33 @@ COMPOSITION:
 
 LEFT — THE NEW SIGNAL:
 JIM GORDON (OLDER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, early 60s, grey hair, grey moustache, 5'9"
-- Costume: Trenchcoat, restored uniform
-- Expression: Reverent, emotional
-- Position: Standing beside new Bat-Signal being installed
+- Face & Body: Gary Oldman, Caucasian man, early 60s, grey hair thinning on top, thick grey moustache, round glasses, weathered face with deep lines, narrow nose, thin lips, 5'9"
+- Costume: Long tan trenchcoat over restored police dress uniform, commissioner badge visible
+- Expression: Reverent, emotional, eyes glistening
+- Position: Standing beside new Bat-Signal being installed on GCPD rooftop
+- ONE DIALOGUE PER SPEAKER RULE: Only ONE speech bubble from Gordon
 
 NEW BAT-SIGNAL:
-- Workers finishing installation
-- Signal ready
-- Symbol restored
+- Large spotlight with bat emblem being installed
+- Workers in background finishing installation
+- Signal ready to illuminate
 
 GORDON'S SPEECH:
 - Speech bubble (white, black text): "A hero can be anyone."
-- Speech bubble (white, black text): "Even a man doing something as simple and reassuring..."
-- Speech bubble (white, black text): "...as putting a coat around a young boy's shoulders..."
-- Speech bubble (white, black text): "...to let him know the world hadn't ended."
 
-RIGHT — FLASHBACK (YOUNG BRUCE):
-- Semi-transparent memory
-- Young boy (silhouette) — night parents died
-- Cop putting coat around shoulders
-- That cop was Gordon
-- The memory that shaped everything
+RIGHT — THE COAT (ABSTRACT MEMORY):
+- Semi-transparent, faded, dreamlike wash
+- A dark police coat draped over small shoulders — seen from BEHIND
+- ONLY the coat and small shoulders visible — NO face, NO full figure
+- Rain falling, streetlight glow, night scene
+- Abstract and symbolic — a memory, not a literal scene
+- The coat IS the story — simple act of kindness
+
+WHAT NOT TO DRAW IN RIGHT PANEL:
+- NO child's face or detailed child figure
+- NO bodies on the ground or crime scene
+- NO violence or distress
+- ONLY: a coat draped on small shoulders from behind, rain, streetlight
 
 ATMOSPHERE:
 - Full circle
@@ -1871,7 +1949,8 @@ ATMOSPHERE:
 - Symbol passed on
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom: "That's what he remembered."
+- Caption (dark navy #1a1a4e, white text) bottom left: "Even a man doing something as simple as putting a coat around a young boy's shoulders."
+- Caption (dark navy #1a1a4e, white text) bottom right: "That's what he remembered."
 
 STYLE: Photorealistic, cinematic, split with flashback. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
@@ -1905,20 +1984,25 @@ CAFÉ:
 - Italian architecture
 - Golden light
 
-BRUCE (ACROSS THE ROOM):
-- Figure in background, not detailed face
-- A nod visible
-- At peace
-- Moved on
+BRUCE (FAR BACKGROUND):
+- Small figure seated at a DISTANT table, 20-30 feet away across the café
+- BLURRED — out of focus, only a silhouette shape recognizable
+- NOT walking, NOT prominent — seated, relaxed, barely visible
+- The audience knows who it is. Alfred knows. That's enough.
 
 ATMOSPHERE:
 - Dream fulfilled
 - Peace achieved
 - Love rewarded
+- This is ALFRED'S panel — his face, his tears, his moment
+
+WHAT NOT TO DRAW:
+- Bruce should NOT be in the foreground or mid-ground
+- Bruce should NOT be sharply in focus
+- NO more than TWO captions total in this image
 
 TEXT OVERLAY:
-- Alfred V.O. (italic caption): "That one day, I would look up and see you at a café in Florence."
-- Alfred V.O. (italic caption): "With a wife maybe. Happy. Moved on."
+- Caption (light grey #E5E7EB, dark grey italic text) top: "That one day, I would look up and see you at a café in Florence."
 - Caption (dark navy #1a1a4e, white text) bottom: "Sometimes the framework leads you home."
 
 STYLE: Photorealistic, cinematic, warm. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
