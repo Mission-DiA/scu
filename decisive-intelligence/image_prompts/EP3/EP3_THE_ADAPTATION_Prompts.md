@@ -1389,43 +1389,41 @@ STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMA
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE SPLASH PANEL.
 
-SCENE: Bruce pulls himself over the edge. Light floods down on him. He escaped. He ROSE.
+SCENE: Bruce has escaped the Pit. He stands at the top, outside, in the open desert sunlight. BOTH ARMS RAISED toward the sky in triumph. He is FREE.
 
 COMPOSITION:
-- SINGLE SPLASH: Full panel
-- Bruce pulling himself over the edge of the Pit
-- Light flooding down on him from above
-- Arms raised toward the sky
-- Freedom
+- SINGLE SPLASH: Full panel, one figure, maximum impact
+- Bruce standing at the TOP of the Pit opening, OUTSIDE, in bright sunlight
+- He has ALREADY climbed out — he is standing on solid ground at the edge
+- BOTH ARMS stretched wide and raised toward the open sky — triumph pose, like a man reborn
+- Camera at ground level, slightly below Bruce, looking UP at him against the bright sky
+- The circular Pit opening visible at his feet / behind him — the prison he escaped
 
-BRUCE WAYNE (RISING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-40s, beard trimmed shorter, strength returned, transformed, 6'0"
-- Costume: SAME torn grey (#6B7280) prison shirt from the climb — ripped, stained with sweat and dust, sleeves torn. Dark brown torn trousers, bare feet. NO rope. This is the SAME outfit from Slides 21-24 — he just climbed out seconds ago.
-- Expression: Triumph, release, rebirth — eyes wide, mouth open, overwhelmed by sunlight and freedom
-- Action: Pulling himself over the top edge of the Pit, upper body emerged, arms raised toward the open sky above
-- Position: Upper body emerging from the circular stone opening of the Pit, arms reaching toward sky, torso and head in BRIGHT SUNLIGHT
+ONE CLEAR MOMENT: He has ALREADY emerged. He is STANDING on the ground outside the Pit. Arms UP. This is NOT the climbing moment — that was Slide 24. This is the TRIUMPH moment AFTER the climb.
 
-CAMERA ANGLE: From INSIDE the Pit looking UP at Bruce — we see him from below as he emerges into the light. His body is silhouetted against the bright sky. Prisoners are visible as tiny figures far below in the darkness of the Pit.
+BRUCE WAYNE (RISEN) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard trimmed shorter, lean muscular build restored, 6'0"
+- Costume: Torn grey (#6B7280) prison shirt — SAME shirt from the Pit climb. The shirt is RIPPED with torn sleeves, STAINED with dirt, sweat, and dust. It is NOT clean. NOT a button-up work shirt. It is a ragged, destroyed prisoner's shirt barely holding together. Dark brown torn trousers, also filthy and ripped at the knees. BARE FEET on sandy ground. NO shoes, NO rope, NO clean clothes.
+- Expression: Eyes closed or looking up at sky, face turned toward sunlight, overwhelmed — the sun on his face for the first time in months. Triumph. Release. Rebirth.
+- Action: Standing upright with BOTH ARMS raised wide toward the sky — open hands, palms up, fingers spread. Victory pose. Embracing the sun.
+- Position: Standing on solid ground at the edge of the Pit opening, full body visible, arms up
 
-THE PIT BELOW:
-- Camera is inside the Pit looking UP
-- Darkness of the shaft below Bruce
-- Prisoners cheering far below, visible as tiny figures with fists raised
-- The circular stone walls of the Pit visible around the edges of frame
+ENVIRONMENT:
+- Desert landscape around the Pit opening — arid, sandy, rocks
+- Bright sunlight — golden hour or midday harsh light
+- The Pit opening visible at/behind his feet — circular stone hole in the ground
+- Open sky above — vast, blue, free
+- Prisoners' cheering faintly implied from below (sound, not visible figures)
 
-THE LIGHT ABOVE:
-- Bright sunlight flooding down from the open sky
-- Bruce emerging INTO the light — his face and upper body lit by direct sunlight
-- Contrast between dark Pit below and bright sky above
-- Rebirth imagery — darkness to light, prison to freedom
-
-ATMOSPHERE:
-- This is THE moment — the Dark Knight RISES
-- Triumph, rebirth, freedom
-- The sunlight hitting his face for the first time in months
+WHAT NOT TO DRAW:
+- NOT sitting or straddling the edge
+- NOT climbing or pulling himself up (that was Slide 24)
+- NOT wearing clean clothes or a collared shirt
+- NOT holding onto anything — arms are FREE, raised to the sky
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text, large, centered): "Rise."
+- ONE single caption only (dark navy #1a1a4e, white text, large, centered at bottom): "Rise."
+- ONLY ONE instance of this caption. Do NOT duplicate it.
 
 STYLE: Photorealistic, cinematic, triumphant. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```

@@ -45,7 +45,7 @@
 |---------|--------|--------|--------|-------|
 | EP1: THE FOUNDATION | ✅ SIGNED OFF | 26 | 124 | May approved, prompts complete |
 | EP2: THE TEST | 🔍 REVIEW | 28 | 137 | Sent to May for review |
-| EP3: THE ADAPTATION | 📋 PENDING | ~22 | ~110 | Bane + Doom post-credits |
+| EP3: THE ADAPTATION | ✅ COMPLETE | 22 | 118 | Bane + Doom post-credits, screenplay sent to May |
 
 ### Phase C: Gemini Prompts (FULL DEPTH)
 | Episode | Status | Slides | Notes |
@@ -54,7 +54,8 @@
 | EP1 Prompts v2 | ⚠️ BLOCKED | 94 | Racy cut — Gemini blocked Slide 4 (minor) |
 | EP1 Prompts v3 | ✅ SIGNED OFF | 60 | Silhouette cut — APPROVED for image generation |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
-| EP3 Prompts | 📋 PENDING | ~110+ | After screenplay complete |
+| EP3 Prompts v1.0 | ✅ COMPLETE | 46 | Full depth, Gemini-compatible |
+| EP3 Prompts v1.1 | 🔨 TESTING | 46 | Actor names added, Slides 21/24/25 rewritten |
 
 ---
 
@@ -226,6 +227,43 @@
 
 ## Session Log
 
+### 2026-02-17 — Session 7: EP3 Prompts v1.1 — Actor Names + Slide Rewrites
+- **CRITICAL FIX:** Added actor names to ALL 46 slides' character blocks
+  - v1.0 used generic descriptions ("Caucasian man, mid-40s") causing wrong actor renders
+  - Gemini drew Ben Affleck instead of Christian Bale
+  - Fix: Christian Bale, Tom Hardy, Michael Caine, Gary Oldman, Liam Neeson,
+    Heath Ledger, Joseph Gordon-Levitt, Robert Downey Jr. added to every block
+- **Slide 21 rewrite (Pit climb triptych):**
+  - Panel 2: Vertical shaft composition, camera from below, rope visible, "NOT gripping"
+  - Panel 3: Simplified to single cot scene with Blind Prisoner (full character block)
+  - Tested in Gemini: APPROVED by Director
+- **Slide 24 rewrite (ropeless climb 6-panel):**
+  - Full character blocks in all 6 panels (were missing entirely)
+  - NO ROPE contrast with Slide 21 emphasized throughout
+  - Narrative arc: silence → grip → chanting → decision → leap → triumph
+  - Tested in Gemini: APPROVED by Director
+- **Slide 25 rewrite (Rise):**
+  - Costume continuity fix: torn grey prison shirt, not clean button-up
+  - Pose clarified: standing with arms raised (not climbing)
+  - v1 tested: duplicate "Rise." caption + wrong costume → full rewrite
+  - v2 awaiting Gemini test
+- **Gemini prompting learnings:**
+  - Actor names are REQUIRED for correct likeness — generic descriptions fail
+  - "WHAT NOT TO DRAW" sections prevent Gemini from filling in wrong defaults
+  - Camera angle specs (FROM BELOW, FROM INSIDE) dramatically improve composition
+  - ONE moment per panel — never two events in same panel
+  - Full character blocks in EVERY panel — vague bullets = wrong costumes
+- Prompts version bumped to 1.1.0
+- Commits: 028f7c7, f2491b2 + pending Slide 25 v2
+
+### 2026-02-17 — Session 6: EP3 THE ADAPTATION Prompts + File Reorg
+- Completed EP3 THE ADAPTATION prompts v1.0 (46 slides)
+- Applied EP1/EP2 Gemini learnings + May's production notes
+- Organized all 3 episodes into consistent folder structure
+- EP1 screenplay/images moved to proper folders, old prompts archived
+- Sent to May for editorial review (comms open)
+- Commits: b4f8095, e33a5b8
+
 ### 2026-02-16 — Session 5: EP2 THE TEST Screenplay Complete
 - Adapted archived Joker screenplay to new arc structure
 - Delivered EP2 screenplay: 28 scenes, 137 panels
@@ -314,7 +352,7 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.4.0 |
+| CREATIVE.md | 1.5.0 |
 
 ---
 
