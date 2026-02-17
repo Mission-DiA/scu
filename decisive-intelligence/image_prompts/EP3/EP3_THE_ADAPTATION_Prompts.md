@@ -1138,20 +1138,21 @@ PRISONERS BELOW:
 
 CENTER — THE FAILED JUMP:
 BRUCE WAYNE (PRISON - MID-LEAP) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, straining face, 6'0"
-- Costume: Torn grey prison shirt, dark brown trousers, ROPE CLEARLY TIED AROUND HIS WAIST — rope trailing below him through the air
-- Expression: Maximum effort, reaching, desperate
-- Action: Mid-leap UPWARD — body stretched vertically, both arms reaching UP toward a stone ledge ABOVE him
-- Position: Airborne inside the vertical Pit shaft, jumping FROM a lower ledge UPWARD toward a higher ledge
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, straining face looking UP, 6'0"
+- Costume: Torn grey prison shirt, dark brown trousers, ROPE tied around his waist — rope hanging taut below him
+- Expression: Maximum effort, desperate, eyes locked on the ledge above
+- Action: Mid-leap UPWARD — BOTH ARMS fully extended above his head, fingers outstretched reaching for stone ledge. NOT gripping anything. Both hands are in the AIR. He is MISSING the ledge.
+- Position: Fully airborne, body vertical, launched upward from a lower ledge
 
 CRITICAL COMPOSITION FOR THIS PANEL:
-- Camera angle: Slightly below Bruce, looking UP — we see him leaping upward
-- His hands are reaching UP toward a rough stone ledge ABOVE him
-- His fingertips are INCHES from the ledge — he is about to MISS
-- The ROPE is clearly visible tied around his waist, trailing down below him
-- Light from the Pit opening visible FAR ABOVE — a small circle of daylight
-- Below him: darkness, the long fall, the rope that will catch him
-- The gap between his fingers and the ledge tells the whole story — SO CLOSE
+- Camera angle: FROM BELOW, looking UP at Bruce — we see the underside of his outstretched arms against the distant light above
+- Bruce is at the PEAK of his jump — the instant before gravity pulls him back
+- BOTH HANDS reaching UP with fingers spread wide — grabbing at air, NOT touching any surface
+- A rough stone ledge is visible ABOVE his fingertips — there is a clear GAP between his fingers and the stone. He CANNOT reach it. This gap is the story.
+- The circle of daylight (Pit opening) is visible FAR ABOVE the ledge — freedom, impossibly distant
+- The ROPE trails below him, hanging taut from his waist downward into darkness
+- Below him: the Pit shaft drops away, other prisoners visible as tiny figures far below
+- NO HANDS GRIPPING ANYTHING — this is the frozen moment of failure
 
 RIGHT — THE LESSON (ON THE COT):
 BRUCE WAYNE (PRISON) FULL DESCRIPTION:
@@ -1282,60 +1283,99 @@ STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. 6-PANEL GRID (2×3).
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. 6-PANEL GRID (3 rows × 2 columns).
 
-SCENE: Bruce climbs without the rope — every movement matters.
+SCENE: Bruce climbs the Pit WITHOUT the rope for the first time. No safety net. Every movement is life or death. He reaches the impossible ledge, leaps, and THIS TIME — he catches it.
+
+CRITICAL CONTEXT: In the previous slide, he removed the rope. This climb is different from every attempt before — there is NO rope tied to him. If he falls, he dies. The ABSENCE of the rope must be visible in every panel where his waist is shown.
 
 COMPOSITION:
-- SIX PANELS in 2×3 grid, thin white lines dividing
-- TOP LEFT: Bruce beginning climb, no rope, prisoners watching
-- TOP RIGHT: Hands gripping stone, deliberate movement
-- MIDDLE LEFT: Partway up, light getting closer, chanting begins
-- MIDDLE RIGHT: The ledge — the impossible jump ahead
-- BOTTOM LEFT: Bruce mid-jump, arms outstretched, everything committed
-- BOTTOM RIGHT: Hands catching the ledge, holding
+- SIX PANELS in 3×2 grid (3 rows, 2 columns), thin white lines (1-2px) dividing
+- TOP LEFT: Bruce beginning the climb — no rope, prisoners watching in stunned silence
+- TOP RIGHT: Close-up of Bruce's hands gripping rough stone — white knuckles, bare hands, no gloves
+- MIDDLE LEFT: Bruce partway up the vertical shaft — light getting closer above, prisoners chanting far below
+- MIDDLE RIGHT: Bruce standing on the final ledge, looking UP at the impossible gap — the same jump he failed in Slide 21, but this time no rope
+- BOTTOM LEFT: Bruce mid-leap UPWARD — both arms reaching UP, body fully committed, NO ROPE, nothing below but death
+- BOTTOM RIGHT: Bruce's hands CATCHING the upper ledge — fingers gripping stone, HOLDING, knuckles white, he MADE it
 
 TOP LEFT — THE BEGINNING:
-- Bruce starting climb
-- No rope
-- Every movement deliberate
-- Prisoners beginning to notice
+BRUCE WAYNE (PRISON - READY) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard trimmed shorter, strength returned, calm resolved eyes, 6'0"
+- Costume: Torn grey (#6B7280) prison shirt, dark brown torn trousers, bare feet on stone. NO ROPE around his waist — the waist is VISIBLY BARE where the rope used to be.
+- Expression: Calm, resolved — not desperate like before. This is different.
+- Action: Placing first hand on the stone wall, about to begin climbing
+- Position: At base of the Pit, one hand on wall, looking upward
+
+PRISONERS:
+- Watching from cells carved into walls
+- Silent — they notice something is different
+- No chanting yet — stunned
+- Some leaning forward, watching intently
 
 TOP RIGHT — HANDS ON STONE:
-- Close on Bruce's hands
-- Gripping stone
-- White knuckles
-- No safety
+- Extreme close-up of Bruce's hands gripping rough stone
+- White knuckles, fingers pressing into crevices
+- Bare hands — no gloves, no protection
+- Skin scraping against rough rock
+- Every grip is life or death — no rope to catch him
 
 MIDDLE LEFT — PARTWAY UP:
-- Bruce climbing higher
-- Light closer now
-- Prisoners chanting below
-- Speech bubble (multiple voices): "Deshi basara! Deshi basara!"
+BRUCE WAYNE (PRISON - CLIMBING) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, focused intense eyes looking upward, 6'0"
+- Costume: Torn grey prison shirt, dark brown trousers, bare feet. NO ROPE — waist visibly bare.
+- Expression: Focused, intense, no fear
+- Action: Climbing the vertical stone wall, body pressed close to stone
+- Position: High up the Pit shaft — the light from the opening above is closer now, brighter
 
-MIDDLE RIGHT — THE LEDGE:
-- Bruce at the final ledge
-- The impossible jump ahead
-- Below him — nothing but death
-- Above him — freedom, light
+ENVIRONMENT:
+- Vertical stone walls
+- Prisoners visible FAR below — tiny figures, faces upturned
+- Chanting has begun
+- Speech bubble (multiple voices, rising from below): "Deshi basara! Deshi basara!"
 
-BOTTOM LEFT — MID-JUMP:
-- Bruce mid-leap
-- Arms outstretched
-- Everything committed
-- No going back
+MIDDLE RIGHT — THE LEDGE (THE DECISION POINT):
+BRUCE WAYNE (PRISON - ON LEDGE) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, eyes looking UP at the gap above, 6'0"
+- Costume: Torn grey prison shirt, dark brown trousers, bare feet on narrow stone ledge. NO ROPE.
+- Expression: Resolved, calm, ready — he knows what this means
+- Position: Standing on the narrow final ledge, the same ledge he jumped from and FAILED in Slide 21
+
+COMPOSITION:
+- Bruce standing on narrow ledge, body pressed against wall
+- Looking UP at the upper ledge — the one he couldn't reach before
+- Below him: the full drop of the Pit, hundreds of feet of air, no rope
+- Above him: the upper ledge, then the light of the Pit opening beyond it
+- This is the moment of decision — jump or climb back down
+
+BOTTOM LEFT — THE LEAP (HE COMMITS):
+BRUCE WAYNE (PRISON - MID-LEAP) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, face looking UP with total commitment, 6'0"
+- Costume: Torn grey prison shirt, dark brown trousers, bare feet. NO ROPE — nothing tied to him, nothing below but death.
+- Expression: Total commitment — not desperate like Slide 21, but CERTAIN
+- Action: Mid-leap UPWARD — body launched from the ledge, BOTH ARMS reaching UP toward the upper ledge above
+- Position: Airborne, body vertical, rising toward the ledge
+
+CRITICAL COMPOSITION:
+- Camera from below, looking UP at Bruce mid-leap
+- BOTH hands reaching UP — fingers outstretched toward the upper ledge
+- NO ROPE on his body — his waist is bare, nothing trails below him
+- Below him: empty air, the full Pit drop, death
+- The difference from Slide 21: in that slide, the rope was visible and he MISSED. Here, NO rope and he is CLOSER to the ledge — about to catch it
 - Caption (WHITE background, black text): "COMMITMENT redefined: Not just choosing. BURNING THE ALTERNATIVE."
 
 BOTTOM RIGHT — HE CATCHES IT:
-- Bruce's hands catching the ledge
-- HOLDING
-- Pulling up
-- Speech bubble (multiple voices, large): "DESHI BASARA!"
+- Extreme close-up: Bruce's hands GRIPPING the upper stone ledge
+- Fingers wrapped over the edge, knuckles white, tendons straining
+- He is pulling himself UP — forearms visible, muscles taut
+- Face visible just above the ledge edge — eyes wide, he MADE it
+- Camera angle: Level with the ledge — we see his hands gripping the top, his face just rising above
+- Light from the Pit opening floods his face from above
+- Speech bubble (multiple voices, LARGE, bold): "DESHI BASARA!"
 
 ATMOSPHERE:
-- Every panel increases tension
-- No safety net
-- Pure commitment
+- Every panel builds on the last — silence → climbing → chanting → decision → leap → triumph
+- The ABSENCE of the rope is the visual story — it was in every panel of Slide 21, it is in NONE here
+- Tension peaks at Bottom Left, release at Bottom Right
 
 STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
@@ -1359,26 +1399,30 @@ COMPOSITION:
 - Freedom
 
 BRUCE WAYNE (RISING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-40s, beard, transformed, strength visible, 6'0"
-- Costume: Prison clothes, weathered
-- Expression: Triumph, release, rebirth
-- Action: Pulling himself over edge, rising into light
-- Position: Upper body emerging from Pit, arms reaching toward sky
+- Face & Body: Christian Bale, Caucasian man, mid-40s, beard trimmed shorter, strength returned, transformed, 6'0"
+- Costume: SAME torn grey (#6B7280) prison shirt from the climb — ripped, stained with sweat and dust, sleeves torn. Dark brown torn trousers, bare feet. NO rope. This is the SAME outfit from Slides 21-24 — he just climbed out seconds ago.
+- Expression: Triumph, release, rebirth — eyes wide, mouth open, overwhelmed by sunlight and freedom
+- Action: Pulling himself over the top edge of the Pit, upper body emerged, arms raised toward the open sky above
+- Position: Upper body emerging from the circular stone opening of the Pit, arms reaching toward sky, torso and head in BRIGHT SUNLIGHT
+
+CAMERA ANGLE: From INSIDE the Pit looking UP at Bruce — we see him from below as he emerges into the light. His body is silhouetted against the bright sky. Prisoners are visible as tiny figures far below in the darkness of the Pit.
 
 THE PIT BELOW:
-- Darkness below him
-- Prisoners cheering, visible as tiny figures
-- The prison he escaped
+- Camera is inside the Pit looking UP
+- Darkness of the shaft below Bruce
+- Prisoners cheering far below, visible as tiny figures with fists raised
+- The circular stone walls of the Pit visible around the edges of frame
 
-THE LIGHT:
-- Sunlight flooding down
-- Silhouette and light
-- Rebirth imagery
+THE LIGHT ABOVE:
+- Bright sunlight flooding down from the open sky
+- Bruce emerging INTO the light — his face and upper body lit by direct sunlight
+- Contrast between dark Pit below and bright sky above
+- Rebirth imagery — darkness to light, prison to freedom
 
 ATMOSPHERE:
-- Triumph
-- Rebirth
-- The rise begins
+- This is THE moment — the Dark Knight RISES
+- Triumph, rebirth, freedom
+- The sunlight hitting his face for the first time in months
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text, large, centered): "Rise."
