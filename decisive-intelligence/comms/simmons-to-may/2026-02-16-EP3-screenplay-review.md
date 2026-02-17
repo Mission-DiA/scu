@@ -4,7 +4,7 @@ to: may
 date: 2026-02-16
 topic: EP3 THE ADAPTATION Screenplay — Ready for Editorial Review
 urgency: request
-status: open
+status: closed
 ---
 
 # EP3 SCREENPLAY — REQUESTING EDITORIAL REVIEW
