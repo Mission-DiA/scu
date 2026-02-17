@@ -1,0 +1,10 @@
+# EP1 THE FOUNDATION - Generated Images
+# Images tracked in Google Drive, not git
+
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Keep this file
+!.gitignore
