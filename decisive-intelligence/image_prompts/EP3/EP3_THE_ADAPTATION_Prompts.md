@@ -2298,42 +2298,52 @@ STYLE: Photorealistic, cinematic, imposing. Full bleed to all edges. WATERMARK: 
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. SINGLE SPLASH. THE KEY MOMENT.
 
-SCENE: Doctor Doom UNMASKED — Robert Downey Jr.'s face visible. Holding the Doom mask. The familiar smirk, but colder.
+SCENE: Doctor Doom revealed — the man behind the mask. Green costume, arms spread wide, confident and dangerous.
 
 COMPOSITION:
 - SINGLE SPLASH: Full panel, important reveal
-- DOOM'S FACE — unmasked, clear, recognizable
-- Holding the iconic mask in one hand
-- Looking directly at viewer
-- The smirk — familiar but different
+- The man standing with ARMS SPREAD WIDE, palms open, presenting himself
+- Hooded figures flanking him on both sides — loyal servants in dark brown robes
+- Green energy/light behind him
+- Looking directly at viewer with a knowing smirk
 
-DOCTOR DOOM (UNMASKED) FULL DESCRIPTION:
-- Face & Body: Robert Downey Jr., Caucasian man, late 50s, salt-and-pepper goatee neatly trimmed, intense dark brown eyes with knowing superiority, weathered but handsome face with subtle scars near temples, confident smirk — familiar but colder, more dangerous, 5'9"
-- Costume: Deep forest green (#1B4332) hooded cloak with gold (#FFD700) trim pulled back revealing face, medieval-style silver armor beneath visible, gauntlets with arcane circuitry
-- Holding: Iconic Doom mask in right hand, at hip level
-- Expression: The smirk — recognizable but not Tony Stark. Colder. More dangerous. Superior.
-- Position: Facing camera directly, full face visible, clear lighting
+DOCTOR DOOM (UNMASKED, SDCC STYLE) FULL DESCRIPTION:
+- Face & Body: Robert Downey Jr., Caucasian man, late 50s, short dark brown hair with grey at temples, neatly trimmed salt-and-pepper goatee, strong jawline, intense dark brown eyes, confident smirk showing he knows something you don't, weathered handsome face, 5'9"
+- Costume: Tailored deep forest green (#1B4332) suit jacket and trousers — NOT armor. Elegant, expensive green fabric. Green hooded cloak draped over shoulders with gold (#FFD700) trim at edges. RED-TINTED SUNGLASSES pushed up on forehead or worn. Silver metallic gauntlets on both hands — the only armor piece.
+- Expression: The smirk. Arms wide. "I'm already ahead of you."
+- Action: Standing with BOTH ARMS spread wide, palms open, chest out — presenting himself to the audience. Power pose.
+- Position: Center frame, full body visible, facing camera directly
 
-THE MASK (IN HAND):
-- Iconic metallic Doom mask
-- Silver/grey with angular features
-- Eye slits dark
-- Held casually — this is HIS mask
+HOODED FIGURES (FLANKING):
+- 4-6 figures in dark brown/olive hooded robes
+- Standing behind and beside Doom, 3 on each side
+- Faces hidden in shadow
+- Hands clasped in front
+- Loyal, waiting, obedient
+
+BACKGROUND:
+- Green (#1B4332) and gold (#FFD700) energy crackling behind the group
+- Dark portal or dimensional rift visible
+- Otherworldly green glow illuminating the scene
 
 LIGHTING:
-- Clear, bright
-- Face fully visible
-- No shadows hiding features
-- The audience must SEE him
+- Green-tinted lighting from behind
+- Face clearly visible and well-lit from front
+- The audience must SEE his face clearly
+- Dramatic contrast between green glow and dark hooded figures
 
 ATMOSPHERE:
-- THE reveal
-- Familiar face, new role
-- The audience recognizes him
-- Then he becomes something else
+- THE reveal — a new player enters
+- Power, confidence, control
+- He's already won and he knows it
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text): "Now he's interested in YOUR framework."
+
+WHAT NOT TO DRAW:
+- NOT wearing the Doom metal mask — face is EXPOSED
+- NOT in full armor — this is a tailored GREEN SUIT with cloak
+- NO Doom mask visible anywhere in this panel
 
 STYLE: Photorealistic, cinematic, reveal moment. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
 ```
@@ -2351,16 +2361,16 @@ SCENE: Doom raises the mask to his face — then puts it on. Transformation comp
 
 COMPOSITION:
 - SPLIT PANEL: Two vertical sections
-- LEFT (50%): RDJ's face, raising mask toward it, the smirk
+- LEFT (50%): Face visible, raising mask toward it, the smirk
 - RIGHT (50%): Doom fully masked, the transformation complete
 
 LEFT — RAISING THE MASK:
 DOCTOR DOOM (UNMASKED) FULL DESCRIPTION:
-- Face & Body: Robert Downey Jr., late 50s, salt-and-pepper goatee, intense eyes, 5'9"
-- Costume: Green cloak with gold trim, silver armor
-- Expression: The smirk, knowing, amused
-- Action: Raising mask toward face
-- Position: About to put on mask
+- Face & Body: Robert Downey Jr., Caucasian man, late 50s, short dark brown hair with grey at temples, neatly trimmed salt-and-pepper goatee, strong jawline, intense dark brown eyes, confident smirk, 5'9"
+- Costume: Tailored deep forest green (#1B4332) suit jacket and trousers, green hooded cloak with gold (#FFD700) trim draped over shoulders, red-tinted sunglasses pushed up on forehead, silver metallic gauntlets on both hands
+- Expression: The smirk, knowing, amused — last moment before becoming Doom
+- Action: RIGHT HAND raising the metallic Doom mask toward his face
+- Position: Upper body, facing camera, mask halfway to face
 - Speech bubble (white, black text): "Three villains couldn't break it."
 
 RIGHT — MASKED:
@@ -2401,10 +2411,10 @@ COMPOSITION:
 - Escalation visible
 
 DOCTOR DOOM (MASKED) FULL DESCRIPTION:
-- Face & Body: Robert Downey Jr., Caucasian man, late 50s, commanding regal bearing, 5'9"
-- Mask: Iconic Doom mask, eye slits glowing faint green
-- Costume: Green cloak with gold trim, silver armor, gauntlets
-- Expression: Unreadable (mask)
+- Face & Body: Tall figure, commanding regal bearing, 5'9"
+- Mask: Iconic metallic silver/grey Doom mask covering entire face, eye slits glowing faint green (#22C55E)
+- Costume: Deep forest green (#1B4332) hooded cloak with gold (#FFD700) trim, hood up framing mask, medieval-style silver armor beneath, gauntlets with arcane circuitry
+- Expression: Unreadable (mask only)
 - Position: Standing before chessboard, arms at sides
 
 THE NEW CHESSBOARD:
