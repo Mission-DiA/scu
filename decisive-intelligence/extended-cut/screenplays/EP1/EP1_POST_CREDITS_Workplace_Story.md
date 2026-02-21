@@ -268,6 +268,25 @@ Blink and you miss it.
 
 ---
 
+## PANEL 15 — THE BRIDGE TO EP2
+
+**Composition:** End of a normal day. Bruce packing up at his desk. He's settled in now — not new anymore. Laptop closing, bag over shoulder. The pillars are in place. The foundation is set.
+
+Then — his phone buzzes. He looks at the screen. A message from Ra's: **"Emergency all-hands. 9 AM. Something's changed."**
+
+Bruce looks up from the phone. Across the office floor — something's different. People are whispering. Someone's clearing out a desk. The energy has shifted. Something is coming that the framework hasn't been tested against.
+
+**Caption Box:**
+*"The foundation was set. The pillars were in place."*
+
+**Caption Box:**
+*"But learning the framework was only the first step."*
+
+**Caption Box (bold, bottom):**
+*"Now it would be tested."*
+
+---
+
 **END OF EP1 POST-CREDITS**
 
 ---
@@ -276,7 +295,7 @@ Blink and you miss it.
 
 | Metric | Value |
 |--------|-------|
-| **Panels** | 14 |
+| **Panels** | 15 |
 | **Characters** | 4 (Bruce, Ra's, Alfred, Gordon) |
 | **Text-heavy panels** | 0 (max 2 caption boxes per panel) |
 | **Actor names in prompts** | Yes — all proven faces |

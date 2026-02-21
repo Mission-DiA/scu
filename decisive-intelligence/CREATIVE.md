@@ -2,7 +2,7 @@
 
 > **Owner:** Simmons (Creative Lead)
 > **Series:** Decisive Intelligence
-> **Updated:** 2026-02-16
+> **Updated:** 2026-02-21
 
 ---
 
@@ -61,6 +61,45 @@
 | Asset | Status | Notes |
 |-------|--------|-------|
 | DI_Presentation_Guide.md | ✅ COMPLETE | Swami's script — bridges, team parallels, 3-line summaries |
+| KLP Presentation | ✅ DELIVERED | Audience loved it. Raja requested 2-hour marketing conference version. |
+
+### Phase E: Director's Extended Cut (~2 hours total)
+**Target:** Marketing conference. ~35 min story + ~5 min post-credits per episode. Standalone, no presenter needed.
+**Key Decisions:** Pillars NAMED in story. Universal work parallels (no jargon). Same characters in workplace post-credits.
+
+| Asset | Status | Panels/Slides | Notes |
+|-------|--------|---------------|-------|
+| EP1 Extended Cut Analysis | ✅ COMPLETE | — | Compression map, gap analysis, Gemini learnings |
+| **EP1 Extended Cut Screenplay** | ✅ COMPLETE | **168 panels** | EC 1.2.0 — all 5 restorations + 11 KLP gap fixes |
+| EP1 Post-Credits Workplace Story | 🔨 IN PROGRESS | 14+1 panels | Same characters in office. EP2 bridge beat pending. |
+| EP1 Extended Cut Gemini Prompts | 📋 PENDING | ~120-130 slides | Next deliverable |
+| EP2 Extended Cut Screenplay | 📋 PENDING | — | Source: 150-panel screenplay |
+| EP2 Post-Credits Workplace Story | 📋 PENDING | — | "This was the crisis" |
+| EP2 Extended Cut Gemini Prompts | 📋 PENDING | — | |
+| EP3 Extended Cut Screenplay | 📋 PENDING | — | Source: 118-panel screenplay |
+| EP3 Post-Credits Workplace Story | 📋 PENDING | — | "This was the rebuild" |
+| EP3 Extended Cut Gemini Prompts | 📋 PENDING | — | |
+| Transition Cards Reference | ✅ COMPLETE | — | v3.1 — post-credits takeaway format |
+
+**EP1 Extended Cut Restorations (from Batman Begins):**
+| Restoration | Panels | Status |
+|-------------|--------|--------|
+| Opera / Murder / Young Gordon | +10 | ✅ Scene 2 expanded |
+| Blue Flower thread | +5 | ✅ Scenes 3-4 rewritten |
+| Theatricality & Deception | +4 | ✅ New Scene 6B |
+| Lucius Fox & Applied Sciences | +6 | ✅ New Scene 19B |
+| First Night as Batman | +5 | ✅ New Scene 22B |
+| Symbol is born (bat on arm) | +1 | ✅ Panel 15.11 |
+| Shadow = bat on cave wall | +1 | ✅ Panel 16.1 |
+| KLP gap fixes (cover, debris, Alfred rescue, triptych, credits, etc.) | +9 | ✅ 11 fixes applied |
+| **Total new panels** | **+44** | |
+
+**New Characters (Extended Cut):**
+| Character | Actor | Status |
+|-----------|-------|--------|
+| Thomas Wayne | Linus Roache | ✅ Added to character blocks (rendering fix) |
+| Lucius Fox | Morgan Freeman | ⚠️ Needs Gemini testing |
+| Young Gordon | Gary Oldman (younger, no glasses) | ⚠️ Needs Gemini testing |
 
 ---
 
@@ -79,8 +118,17 @@
 4. **Scene 21:** Manor Burns → MOVEMENT (Forward is the only direction)
 5. **Scene 24:** Train Fight → ALL FOUR (Student surpasses mentor)
 
-**Framework Naming:** NO — experienced, not named
-**Joker Tease:** Gordon shows Joker card (Scene 25-26)
+**KLP Version:**
+- Framework Naming: NO — experienced, not named
+- Joker Tease: Gordon shows Joker card (Scene 25-26)
+
+**Extended Cut Version (EC 1.2.0):**
+- Framework Naming: YES — pillars named explicitly
+- 168 panels (124 original + 44 restored)
+- Restorations: Opera/Murder, Blue Flower, Theatricality, Fox, First Night, Symbol/Shadow
+- Post-Credits: Workplace story (same characters in office)
+- Thomas Wayne: Linus Roache (rendering fix)
+- "I'll look into it" iconic closing line restored
 
 ---
 
@@ -231,6 +279,26 @@
 ---
 
 ## Session Log
+
+### 2026-02-21 — Session 9: Director's Extended Cut — EP1 Screenplay Complete
+- **KLP Success:** Presentation went well, Raja wants 2-hour marketing conference version
+- **Director's Extended Cut proposed and approved:**
+  - ~35 min story + ~5 min post-credits per episode
+  - Universal work parallels (no jargon — every professional connects)
+  - Pillars NAMED in the story (Director override)
+  - Same characters (Ra's, Bruce, Alfred, Gordon) in workplace post-credits
+- **EP1 Extended Cut Analysis:** Compression map, slide estimates, 12 Gemini learnings, 4 Director questions resolved
+- **EP1 Post-Credits Workplace Story drafted:** 14 panels, Bruce as new hire, Ra's as mentor
+- **EP1 Extended Cut Screenplay built (EC 1.2.0):**
+  - Started from 124-panel original, applied pillar naming throughout
+  - Thomas Wayne = Linus Roache (rendering fix for all 3 panels)
+  - 5 major restorations from Batman Begins: Opera/Murder/Gordon (+10), Blue Flower (+5), Theatricality (+4), Lucius Fox (+6), First Night (+5)
+  - 2 visual moments: Symbol is born (bat on arm), Shadow transformation (shadow = bat)
+  - 11 KLP gap fixes cross-referenced: cover panel, trapped under debris, Alfred rescue, triptych captions, "I'll look into it", full credits, departure visual, Ducard ideology line, mentor approval, callback caption, Rachel at party
+  - Final count: 168 panels
+- **EP2 bridge beat for post-credits:** In progress
+- Commits: 67eed2f
+- Next: EP2 bridge beat → EP1 Gemini prompts
 
 ### 2026-02-21 — Session 8: EP3 Prompt Fixes + EP1 Cover + Presentation Guide + Video R&D
 - **EP3 Slide fixes (Gemini-tested with Director):**
@@ -388,7 +456,7 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.5.0 |
+| CREATIVE.md | 1.6.0 |
 
 ---
 
