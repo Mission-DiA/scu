@@ -71,8 +71,8 @@
 |-------|--------|---------------|-------|
 | EP1 Extended Cut Analysis | ✅ COMPLETE | — | Compression map, gap analysis, Gemini learnings |
 | **EP1 Extended Cut Screenplay** | ✅ COMPLETE | **168 panels** | EC 1.2.0 — all 5 restorations + 11 KLP gap fixes |
-| EP1 Post-Credits Workplace Story | 🔨 IN PROGRESS | 14+1 panels | Same characters in office. EP2 bridge beat pending. |
-| EP1 Extended Cut Gemini Prompts | 📋 PENDING | ~120-130 slides | Next deliverable |
+| EP1 Post-Credits Workplace Story | ✅ COMPLETE | 15 panels | Same characters in office. EP2 bridge beat included. |
+| **EP1 Extended Cut Gemini Prompts** | ✅ COMPLETE | **118 slides** | EC 1.0.0 — Split into 9 files (EP1_EC_00 through EP1_EC_08) |
 | EP2 Extended Cut Screenplay | 📋 PENDING | — | Source: 150-panel screenplay |
 | EP2 Post-Credits Workplace Story | 📋 PENDING | — | "This was the crisis" |
 | EP2 Extended Cut Gemini Prompts | 📋 PENDING | — | |
@@ -280,6 +280,34 @@
 
 ## Session Log
 
+### 2026-02-21 — Session 10: EP1 Extended Cut Gemini Prompts Complete
+- **EP1 Extended Cut Gemini Prompts EC 1.0.0 delivered:**
+  - 118 slides total: Cover + 98 main story + 13 post-credits + 6 transition cards
+  - Built in 7 passes covering all 168 main panels + 15 post-credits + 6 cards
+  - All 12 Gemini compatibility learnings applied
+  - Actor names in ALL character blocks (Christian Bale, Liam Neeson, Michael Caine, Gary Oldman, Morgan Freeman, Linus Roache)
+  - Young Bruce = SILHOUETTE only (Gemini safety)
+  - Pillars NAMED explicitly (Director override for Extended Cut)
+  - S.P. Easter egg: Slide 110 Post-it note ("SP's first rule: Focus on what matters. — Alfred")
+  - EP2 bridge beat: Slide 111 (Ra's message: "Emergency all-hands. 9 AM. Something's changed.")
+- **Split into 9 files for maintainability:**
+  - `EP1_EC_00_Header.md` — Production rules, text styling, Gemini notes, FILE INDEX
+  - `EP1_EC_01_Cover_and_Fall.md` — Slides 0-10 (Cover + Scenes 1-2)
+  - `EP1_EC_02_Journey_Training.md` — Slides 11-21 (Scenes 3-6B)
+  - `EP1_EC_03_Philosophy_Clarity.md` — Slides 22-41 (Scenes 7-14)
+  - `EP1_EC_04_Courage_Commitment_Escape.md` — Slides 42-57 (Scenes 15-17)
+  - `EP1_EC_05_Return_Birthday_Movement.md` — Slides 58-72 (Scenes 18-21)
+  - `EP1_EC_06_Batman_Train_Closing.md` — Slides 73-98 (Scenes 22-26)
+  - `EP1_EC_07_PostCredits_TransitionCards.md` — Slides 99-117
+  - `EP1_EC_08_Summary.md` — Production summary, verification, version history
+- **Pillar scene protection verified:**
+  - CLARITY: 8 dedicated singles (Slides 34-41)
+  - COURAGE: 8 dedicated singles (Slides 42-49)
+  - COMMITMENT: 10 dedicated singles (Slides 50-59)
+  - MOVEMENT: 6 dedicated singles (Slides 67-72)
+  - ALL FOUR (Train Fight): 4 pillar callbacks (Slides 82-85)
+- Next: EP2 Extended Cut Screenplay
+
 ### 2026-02-21 — Session 9: Director's Extended Cut — EP1 Screenplay Complete
 - **KLP Success:** Presentation went well, Raja wants 2-hour marketing conference version
 - **Director's Extended Cut proposed and approved:**
@@ -456,7 +484,7 @@
 
 | Document | Version |
 |----------|---------|
-| CREATIVE.md | 1.6.0 |
+| CREATIVE.md | 1.7.0 |
 
 ---
 
