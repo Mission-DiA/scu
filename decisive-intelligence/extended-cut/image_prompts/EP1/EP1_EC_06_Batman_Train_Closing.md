@@ -648,7 +648,7 @@ COMPOSITION:
 - Two men who started as strangers in an alley, now allies
 
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-40s, brown hair with minimal grey, thick-framed glasses, neat moustache, alert determined eyes, average build, 5'9"
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair with minimal grey, thick-framed glasses, neat moustache, alert determined eyes, average build, 5'9"
 - Costume: Tan (#C2B280) trenchcoat, dark blue GCPD uniform, sergeant badge
 - Expression: Grateful, uncertain about the future
 - Action: Standing by Bat-Signal
@@ -689,7 +689,7 @@ COMPOSITION:
 
 LEFT — GORDON:
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-40s, brown hair, thick glasses, moustache, 5'9"
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick glasses, moustache, 5'9"
 - Costume: Tan trenchcoat, GCPD uniform
 - Expression: Worried, this is something different
 - Action: Showing evidence bag to Batman
@@ -729,7 +729,7 @@ COMPOSITION:
 - The weight of what's coming visible on Gordon's face
 
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-40s, brown hair, thick glasses, moustache, worried expression, 5'9"
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick glasses, moustache, worried expression, 5'9"
 - Costume: Tan trenchcoat, GCPD uniform
 - Expression: Worried, this is different from Ra's
 - Position: Foreground, close-up
@@ -775,7 +775,7 @@ BATMAN (PRISTINE) FULL DESCRIPTION:
 - Position: Mid-leap, silhouetted against dawn
 
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-40s, glasses, moustache, 5'9"
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, glasses, moustache, 5'9"
 - Costume: Tan trenchcoat
 - Expression: Watching him go
 - Position: On rooftop, alone

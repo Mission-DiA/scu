@@ -377,7 +377,7 @@ CHARACTER 1 — BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
 - [No speech]
 
 CHARACTER 2 — GORDON (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, late 50s, greying brown hair, thick-framed glasses, moustache, tired but kind eyes, medium build, 5'9"
+- Face & Body: Gary Oldman as office veteran Jim Gordon, Caucasian man, late 50s, greying brown hair, thick-framed glasses, moustache, tired but kind eyes, medium build, 5'9"
 - Costume: Rolled-up sleeves white (#FFFFFF) dress shirt, loosened dark blue (#1E3A5F) tie, dark trousers, slightly rumpled
 - Expression: A nod — "You're here. Good."
 - Position: Walking in beside Bruce, right side of frame
@@ -430,7 +430,7 @@ CHARACTER 3 — ALFRED PENNYWORTH (WORKPLACE) FULL DESCRIPTION:
 - Position: Seated at desk near Bruce's area
 
 CHARACTER 4 — GORDON (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, late 50s, greying brown hair, thick-framed glasses, medium build, 5'9"
+- Face & Body: Gary Oldman as office veteran Jim Gordon, Caucasian man, late 50s, greying brown hair, thick-framed glasses, medium build, 5'9"
 - Costume: White (#FFFFFF) dress shirt, loosened dark blue (#1E3A5F) tie
 - Position: Walking to his desk area
 

@@ -343,15 +343,15 @@ COMPOSITION:
 - Police activity dimly visible at the alley entrance
 
 YOUNG GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, late 30s, brown hair neatly trimmed, no glasses, thin moustache, kind tired eyes, medium build, 5'9"
+- Face & Body: Gary Oldman as a young police sergeant, Caucasian man, late 30s, brown hair neatly trimmed, no glasses, thin moustache, kind tired eyes, medium build, 5'9"
 - Costume: Gotham PD uniform — dark navy (#1E3A5F) police jacket, silver badge on chest, dark trousers, black boots, radio on shoulder
 - Expression: Heartbroken, gentle, trying to be steady for the boy
 - Action: Kneeling, placing coat on the child's shoulders
 - Position: Beside the silhouette, at the child's level
 
-CHILD: SILHOUETTE only. Back-turned or dark shape. NOT visible in detail.
+CHILD: Completely BLACK SILHOUETTE only. Entire figure is a solid dark shadow — NO skin tone visible, NO hair detail, NO facial features, NO clothing detail. Pure black shape against the dark background.
 
-WHAT NOT TO DRAW: No detailed child face. Gordon's face is the emotional focus. No bodies visible in this panel.
+WHAT NOT TO DRAW: NO child skin tone, NO child hair detail, NO child facial features — child must be a PURE BLACK SILHOUETTE with zero detail. No bodies visible in this panel.
 
 ATMOSPHERE:
 - A lie told out of kindness
@@ -380,7 +380,7 @@ COMPOSITION:
 - RIGHT: Full black. Single centered caption box. The aftermath distilled to words
 
 YOUNG GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, late 30s, brown hair neatly trimmed, no glasses, thin moustache, kind tired eyes, medium build, 5'9"
+- Face & Body: Gary Oldman as a young police sergeant, Caucasian man, late 30s, brown hair neatly trimmed, no glasses, thin moustache, kind tired eyes, medium build, 5'9"
 - Costume: Gotham PD uniform — dark navy (#1E3A5F) police jacket, silver badge on chest
 - Expression: Holding back tears, maintaining composure for the boy's sake
 - Position: Close-up, facing camera

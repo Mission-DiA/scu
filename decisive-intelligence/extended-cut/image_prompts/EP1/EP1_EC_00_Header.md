@@ -74,6 +74,9 @@
 10. **One speaker per panel rule** — confirmed across all episodes
 11. **Silhouette approach for minors** — proven safe in KLP v3
 12. **Max 2 text elements per panel** — more causes garbled output
+13. **Actor name + role context bypasses blocks** — `"Gary Oldman as a young police sergeant"` passes; bare `"Gary Oldman"` gets blocked. Always pair actor name with fictional role.
+14. **Silhouette needs explicit exclusions** — `"silhouette"` alone still renders skin/hair. Must add: `"NO skin tone, NO hair detail, NO facial features, NO clothing detail, pure black shape"`
+15. **Opacity percentages leak as visible text** — `"25-30% opacity"` renders literally. Use `"nearly invisible, faded white"` instead — no numbers for Gemini to print.
 
 ---
 
