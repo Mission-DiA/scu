@@ -48,7 +48,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He saved the man whose temple he just destroyed."
 
-STYLE: Photorealistic, cinematic, fire-lit triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, fire-lit triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -85,7 +85,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He had learned what he needed. It was time to go home."
 
-STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -137,7 +137,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Alfred: "I never gave up on you, sir."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -179,7 +179,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom right: "He had the training. He had the will. Now he needed the tools."
 
-STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -222,7 +222,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Wayne Enterprises had buried its most interesting work in a basement. Along with the man who built it."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -261,7 +261,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Fox: "I don't ask what my customers use my equipment for. But I do expect a thank you."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -303,7 +303,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Every symbol needs an engineer. Bruce found his."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -343,7 +343,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Gotham's elite gathered to celebrate the prodigal son's return."
 
-STYLE: Photorealistic, cinematic, lavish party. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, lavish party. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -385,7 +385,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The dead don't always stay dead."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -426,7 +426,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ra's: "The man you killed was a decoy. I am Ra's Al Ghul."
 
-STYLE: Photorealistic, cinematic, two-shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, two-shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -472,7 +472,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ra's (right panel): "Then you will burn with it."
 
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -520,7 +520,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "The fourth lesson didn't come from Ducard. It came from Ra's destroying everything Bruce had."
 
-STYLE: Photorealistic, cinematic, fire and chaos. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, fire and chaos. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -559,7 +559,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Stay here and die. Or move forward."
 
-STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -600,7 +600,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Alfred: "Your father always had a plan beneath the plan, sir."
 
-STYLE: Photorealistic, cinematic, fire-lit split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, fire-lit split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -637,7 +637,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (orange #F97316, white text, bold) bottom: "MOVEMENT. The only direction is forward."
 
-STYLE: Photorealistic, cinematic, dramatic cave interior. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dramatic cave interior. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---

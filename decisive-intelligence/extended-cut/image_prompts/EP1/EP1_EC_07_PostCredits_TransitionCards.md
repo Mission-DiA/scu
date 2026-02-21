@@ -54,7 +54,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (white text, dark background): "When you step into a new role, the first thing you hear isn't clarity. It's noise."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -96,7 +96,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (Ra's, standing): "Close them. All of them. You're trying to see everything. That's why you can't see anything."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -138,7 +138,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (bold, blue #4A90D9 text): "CLARITY. Not seeing everything. Seeing what matters."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -179,7 +179,7 @@ WHAT NOT TO DRAW:
 - Do NOT draw any children
 - Do NOT draw Bruce standing — he is seated
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -221,7 +221,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (bold, red #EF4444 text): "COURAGE. Not knowing if you're right. Saying it anyway."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -265,7 +265,7 @@ WHAT NOT TO DRAW:
 - Do NOT draw Ra's, Alfred, or Gordon — the colleague is a generic coworker
 - Do NOT draw the colleague as any main cast actor
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -307,7 +307,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (Bruce): "I thought I had it. I didn't."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -348,7 +348,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (Alfred): "The ones who stay are the ones who show up tomorrow."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -391,7 +391,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (bold, orange #F97316 text): "MOVEMENT. It fell apart. You showed up anyway. That's how it starts."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -446,7 +446,7 @@ WHAT NOT TO DRAW:
 - Do NOT draw any children
 - Do NOT make this look like a tech startup
 
-STYLE: Photorealistic, cinematic, single panel, overhead shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel, overhead shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 > **NOTE:** The screenplay has 4 caption boxes on this panel. Split across 2 text overlays to respect max-2 rule. Remaining two pillars implied by the visual.
@@ -473,7 +473,7 @@ TEXT OVERLAY (centered, white on black):
 - Line 2: "You walked through it."
 - Line 3: "The framework starts here."
 
-STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -501,7 +501,7 @@ WHAT NOT TO DRAW:
 - Do NOT draw any characters — desk detail shot only
 - Do NOT make the Post-it the obvious center — it's an Easter egg, subtle
 
-STYLE: Photorealistic, cinematic, single panel, detail shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel, detail shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 > **S.P. EASTER EGG:** Post-it note on Bruce's monitor — "SP's first rule: Focus on what matters. — Alfred"
@@ -541,7 +541,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption box (white text, dark background): "The foundation was set. The pillars were in place. But learning the framework was only the first step."
 
-STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 > **EP2 BRIDGE BEAT:** Ra's message — "Emergency all-hands. 9 AM. Something's changed." Visible on phone screen in the image. The test is coming.
@@ -578,7 +578,7 @@ TEXT OVERLAY (centered, white on black):
 - Line 2: "Four pillars forged — by a mentor who knew"
 - Line 3: "the student would one day surpass him."
 
-STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -603,7 +603,7 @@ TEXT OVERLAY:
 - STORY ECHO (white, italic): "Bruce was blindfolded. He couldn't see. Ra's said: 'Always mind your surroundings.' He stopped trying to see everything — and noticed what mattered."
 - YOUR MOMENT (white, italic): "Your first role. New team. New tools. New language. Someone told you — don't try to learn everything. Focus on what matters first."
 
-STYLE: Clean black background, blue accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, blue accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -628,7 +628,7 @@ TEXT OVERLAY:
 - STORY ECHO (white, italic): "Bruce entered a cave full of bats — the thing that terrified him since childhood. He didn't fight them. He didn't run. He stood still and let them come."
 - YOUR MOMENT (white, italic): "The first time you spoke up in a room where everyone knew more than you. You weren't sure if you were right. You said it anyway."
 
-STYLE: Clean black background, red accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, red accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -653,7 +653,7 @@ TEXT OVERLAY:
 - STORY ECHO (white, italic): "Ra's told Bruce to execute a prisoner. Complete the training. Join the League. Bruce raised the sword — then lowered it. He burned the temple to make it irreversible."
 - YOUR MOMENT (white, italic): "Someone asked you to do something that got the job done but didn't sit right. The shortcut. The workaround. The 'everyone does it.' You said no. And you meant it."
 
-STYLE: Clean black background, silver accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, silver accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -678,7 +678,7 @@ TEXT OVERLAY:
 - STORY ECHO (white, italic): "Wayne Manor burned to the ground. Everything Bruce had — his home, his legacy, his plan — gone in one night. Alfred pulled him from the fire. The next morning, he started building."
 - YOUR MOMENT (white, italic): "The project that failed. The plan that fell apart. The thing you worked on for months — gone. You showed up the next morning. Not because someone told you to. Because that's what you do."
 
-STYLE: Clean black background, orange accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, orange accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -703,7 +703,7 @@ TEXT OVERLAY (centered, white on black):
 - Line 2: "You walked through it."
 - Line 3: "That's how the four pillars start."
 
-STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---

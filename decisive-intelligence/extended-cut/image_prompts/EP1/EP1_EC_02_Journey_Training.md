@@ -41,7 +41,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Fifteen years of running brought him here."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -82,7 +82,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "You are afraid. Not of me. Of yourself."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -121,7 +121,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard (right panel): "On the eastern slopes, you will find a rare blue flower. Carry it to the top."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -157,7 +157,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "The path wasn't given. It had to be found."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -193,7 +193,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He climbed for two days. The flower never left his hand."
 
-STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -232,7 +232,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He tried seventeen times that day. On the eighteenth, they let him pass."
 
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -279,7 +279,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "I will teach you to make decisions under impossible pressure."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -320,7 +320,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "Purpose."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -363,7 +363,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) spanning top: "Day one: He learned to hold the sword. Day seven: He learned to fall. Day twenty-one: How much further he had to go."
 
-STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -405,7 +405,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "Theatricality and deception are powerful agents."
 
-STYLE: Photorealistic, cinematic, dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -445,7 +445,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The body was the weapon. But fear — fear was the art."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---

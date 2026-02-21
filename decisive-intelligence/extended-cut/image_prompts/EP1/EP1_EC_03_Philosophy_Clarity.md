@@ -44,7 +44,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "A decision is a blade. Most people try to cut everything at once. The master cuts one thing. The right thing."
 
-STYLE: Photorealistic, cinematic, sunset light. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, sunset light. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -85,7 +85,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (blue #4A90D9, white text, bold) bottom: "The first principle — CLARITY: Know what matters. Cut everything else."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -127,7 +127,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He was becoming something else entirely."
 
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -169,7 +169,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "The League of Shadows had trained assassins for a thousand years."
 
-STYLE: Photorealistic, cinematic, epic scale. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, epic scale. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -210,7 +210,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "Criminals thrive on the indulgence of society's understanding."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -257,7 +257,7 @@ TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top left: "The man on the throne would decide if Bruce was worthy."
 - Caption (dark navy #1a1a4e, white text) bottom right: "The real training was about to begin."
 
-STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -299,7 +299,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "You walk like a man waiting for the path to prove itself safe. It never will."
 
-STYLE: Photorealistic, cinematic, mountain scenery. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, mountain scenery. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -340,7 +340,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (red #EF4444, white text, bold) bottom: "The second principle — COURAGE: Act before you're ready. Or the moment chooses for you."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -382,7 +382,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "If you make yourself more than just a man... if you devote yourself to an ideal... you become something else entirely."
 
-STYLE: Photorealistic, cinematic, candlelight portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, candlelight portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -423,7 +423,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "In that moment, Bruce saw what he could become."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -464,7 +464,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "The training is nothing. The will to act is everything."
 
-STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -505,7 +505,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (white #FFFFFF fill, black text, bold) bottom: "The third principle — COMMITMENT: Commit fully. Retreat costs more than failure."
 
-STYLE: Photorealistic, cinematic, fire-lit split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, fire-lit split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -546,7 +546,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "The first test: See without seeing."
 
-STYLE: Photorealistic, cinematic, near-total darkness. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, near-total darkness. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -583,7 +583,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He failed."
 
-STYLE: Photorealistic, cinematic, near-darkness triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, near-darkness triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -622,7 +622,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Second attempt. He heard them coming. But hearing wasn't enough."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -662,7 +662,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard: "Always mind your surroundings."
 
-STYLE: Photorealistic, cinematic, darkness with partial light. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, darkness with partial light. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -703,7 +703,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Fourth attempt. He moved before they did."
 
-STYLE: Photorealistic, cinematic, overhead perspective. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, overhead perspective. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -738,7 +738,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) spanning bottom: "He moved before they did."
 
-STYLE: Photorealistic, cinematic, action triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, action triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -773,7 +773,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Ducard (off-panel but present): "You see now. Not with eyes. With awareness."
 
-STYLE: Photorealistic, cinematic, dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -815,7 +815,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (blue #4A90D9, white text, bold) bottom: "CLARITY. Cut through noise to what matters."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---

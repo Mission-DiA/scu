@@ -42,7 +42,7 @@
 
 ## WATERMARK
 
-**ALL SLIDES:** "DI × SCU" watermark — bottom-LEFT corner, white/light grey, 25-30% opacity, barely visible. ~2% image width. Present in EVERY slide.
+**ALL SLIDES:** "DI × SCU" watermark — bottom-LEFT corner, nearly invisible, faded white. ~2% image width. Present in EVERY slide. NOTE: Do NOT include opacity percentages in prompts — Gemini renders them as visible text.
 
 ---
 

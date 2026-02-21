@@ -37,7 +37,7 @@ TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top left: "He had spent years becoming something else. Now he would show them what."
 - Caption (dark navy #1a1a4e, white text) bottom right: "His fear. His weapon."
 
-STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, quad panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -73,7 +73,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Batman was born."
 
-STYLE: Photorealistic, cinematic, heroic splash page. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, heroic splash page. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -111,7 +111,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "They didn't see him. That was the point. Theatricality and deception."
 
-STYLE: Photorealistic, cinematic, noir rain, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, noir rain, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -147,7 +147,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He didn't fight them. He terrified them."
 
-STYLE: Photorealistic, cinematic, low angle action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, low angle action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -181,7 +181,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "To manipulate the fear in others, you must first master your own."
 
-STYLE: Photorealistic, cinematic, extreme close-up. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, extreme close-up. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -212,7 +212,7 @@ TEXT OVERLAY:
 
 WHAT NOT TO DRAW: No Batman visible. He's already gone. Only the shadow, the tied-up thugs, and the rain.
 
-STYLE: Photorealistic, cinematic, noir aftermath. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, noir aftermath. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -256,7 +256,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Ra's plan was already in motion. Fear toxin pumped into The Narrows."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -298,7 +298,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "The student came for the mentor."
 
-STYLE: Photorealistic, cinematic, explosive action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, explosive action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -340,7 +340,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Every move Ra's made, he had taught Bruce."
 
-STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -382,7 +382,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (blue #4A90D9, white text, bold) bottom: "CLARITY. Cut through noise to what matters."
 
-STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -423,7 +423,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (red #EF4444, white text, bold) bottom: "COURAGE. Move before you're ready."
 
-STYLE: Photorealistic, cinematic, impact shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, impact shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -465,7 +465,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (white #FFFFFF fill, black text, bold) bottom: "COMMITMENT. Remove every other option."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -506,7 +506,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (orange #F97316, white text, bold) bottom: "MOVEMENT. Burn the bridge behind you."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -552,7 +552,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Batman (right panel): "I won't kill you. But I don't have to save you."
 
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -592,7 +592,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The student surpassed the mentor. By applying the framework with a different moral compass."
 
-STYLE: Photorealistic, cinematic, explosive action, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, explosive action, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -626,7 +626,7 @@ TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Gotham survived that night."
 - Caption (dark navy #1a1a4e, white text) bottom: "Because one man decided to become something more."
 
-STYLE: Photorealistic, cinematic, dawn cityscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dawn cityscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -668,7 +668,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Batman: "And you'll never have to."
 
-STYLE: Photorealistic, cinematic, dawn rooftop. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dawn rooftop. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -708,7 +708,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The mentor was defeated."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -747,7 +747,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Gordon: "Some men just want to watch the world burn."
 
-STYLE: Photorealistic, cinematic, two-shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, two-shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -787,7 +787,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He had learned the framework."
 
-STYLE: Photorealistic, cinematic, dawn leap. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dawn leap. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -820,7 +820,7 @@ TEXT OVERLAY:
 - BOTTOM LEFT caption (white #FFFFFF, black text): "COMMITMENT. Commit fully."
 - BOTTOM CENTER caption (orange #F97316, white text): "MOVEMENT. Forward."
 
-STYLE: Photorealistic, cinematic, warm glow, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, warm glow, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -849,7 +849,7 @@ TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "That was the framework."
 - Caption (dark navy #1a1a4e, white text) bottom: "Learned from a mentor who became an enemy. Applied with a different moral compass."
 
-STYLE: Photorealistic, cinematic, warm dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, warm dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -894,7 +894,7 @@ TEXT OVERLAY:
 - CENTER caption (dark navy #1a1a4e, white text): "Now it would be tested."
 - RIGHT caption (dark navy #1a1a4e, white text): "By an agent of chaos."
 
-STYLE: Photorealistic transitioning to black, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic transitioning to black, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -924,7 +924,7 @@ TEXT OVERLAY:
 - SUBTITLE (below): "EPISODE 1: THE FOUNDATION"
 - TAGLINE (small, bottom): "The framework begins with a fall."
 
-STYLE: Dark, clean, professional end card. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Dark, clean, professional end card. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -955,7 +955,7 @@ TEXT OVERLAY (centered, white on black):
 - Line 6: "The DI Team:"
 - Line 7: "Balaji VG · Janani AP · Joy Besterwitch · Raj Gajendran · Suresh Kumar"
 
-STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -980,7 +980,7 @@ TEXT OVERLAY:
 - TITLE (gold #FFD700, large, letter-spaced, gold glow): "A SWAMI K FILM"
 - TAGLINE (white, small): "Every framework begins with a fall."
 
-STYLE: Black background, gold text with glow. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Black background, gold text with glow. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---

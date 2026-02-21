@@ -39,7 +39,7 @@ TEXT OVERLAY:
 - SUBTITLE (below title): "The Foundation" — smaller, elegant
 - EPISODE (smallest): "Episode 1"
 
-STYLE: Photorealistic, cinematic, dawn light with cold mountain tones. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, dawn light with cold mountain tones. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -60,7 +60,7 @@ SCENE: The fall — three moments, child as SILHOUETTE only.
 
 COMPOSITION:
 - THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
-- LEFT: Wayne Manor against stormy sky, lightning flash, small SILHOUETTE of a child running toward well in distance — NO FACE DETAIL
+- LEFT: Gothic English manor (Wayne Manor) against stormy sky, lightning flash. Overgrown garden in foreground. A SILHOUETTE of a small child walking across what looks like normal ground — but the ground is actually OLD WOODEN BOARDS hidden beneath thick overgrown grass, weeds, moss, and fallen leaves. One foot CRACKING THROUGH the hidden boards, the other still on solid ground. The vegetation CONCEALS the well cover completely — it looks like ordinary garden ground until the moment it breaks. Child is a BLACK SILHOUETTE — NO FACE DETAIL.
 - CENTER: SILHOUETTE of small figure falling through black void, arms outstretched, well opening shrinking above — SHADOW ONLY
 - RIGHT: Cave floor impact, dust cloud, small crumpled SHADOW FIGURE among rocks — NO FACE VISIBLE
 
@@ -73,7 +73,14 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) left panel: "Every framework begins with a fall."
 
-STYLE: Photorealistic, cinematic, SILHOUETTE approach. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+WHAT NOT TO DRAW:
+- NO face detail on the child — silhouette ONLY
+- NO running pose — child is mid-step, foot breaking through boards
+- NO standing well structure, NO bucket, NO wooden well frame, NO rope
+- NO visible hole or open gap BEFORE the child steps on it — the boards are HIDDEN under vegetation
+- NO visible text other than the caption and watermark
+
+STYLE: Photorealistic, cinematic, SILHOUETTE approach. Full bleed to all edges. WATERMARK: Tiny "DI × SCU" text in bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -103,7 +110,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom-center: "He would remember this moment for the rest of his life."
 
-STYLE: Photorealistic BATS, SILHOUETTE child. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic BATS, SILHOUETTE child. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -140,7 +147,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Thomas: "Why do we fall, Bruce?"
 
-STYLE: Photorealistic, ADULT FOCUS. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, ADULT FOCUS. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -173,7 +180,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Thomas: "So we can learn to pick ourselves up."
 
-STYLE: Photorealistic, cinematic, close-up portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, cinematic, close-up portrait. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -213,7 +220,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "Two weeks later, the Wayne family attended the opera."
 
-STYLE: Photorealistic, ADULT FOCUS, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, ADULT FOCUS, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -249,7 +256,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "A man with a gun. Shaking hands. Desperate eyes."
 
-STYLE: Photorealistic, ADULT FOCUS, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, ADULT FOCUS, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -281,7 +288,7 @@ TEXT OVERLAY:
 
 WHAT NOT TO DRAW: No bodies, no blood, no violence, no child face. Only black, text, pearls, and cobblestones.
 
-STYLE: Minimal, nearly abstract. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Minimal, nearly abstract. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -314,7 +321,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Bruce Wayne, eight years old, alone in an alley with everything he loved on the ground."
 
-STYLE: Photorealistic environment, SILHOUETTE figure. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic environment, SILHOUETTE figure. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -353,7 +360,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Gordon: "It's going to be all right, son."
 
-STYLE: Photorealistic, ADULT FOCUS. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic, ADULT FOCUS. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -386,7 +393,7 @@ TEXT OVERLAY:
 - LEFT caption (dark navy #1a1a4e, white text): "A lie. The kindest one anyone would ever tell him."
 - RIGHT caption (dark navy #1a1a4e, white text, centered): "His fear had taken them to that alley. His fear had killed them. Bruce stopped falling. He started running."
 
-STYLE: Photorealistic close-up + black card. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, white/grey, 25-30% opacity, barely visible.
+STYLE: Photorealistic close-up + black card. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
