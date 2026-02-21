@@ -52,10 +52,15 @@
 |---------|--------|--------|-------|
 | EP1 Prompts v1 | ✅ COMPLETE | 198 | Full depth — superseded |
 | EP1 Prompts v2 | ⚠️ BLOCKED | 94 | Racy cut — Gemini blocked Slide 4 (minor) |
-| EP1 Prompts v3 | ✅ SIGNED OFF | 60 | Silhouette cut — APPROVED for image generation |
+| EP1 Prompts v3 | ✅ SIGNED OFF | 61 | Silhouette cut — APPROVED + Slide 0 cover added |
 | EP2 Prompts | 📋 PENDING | ~140+ | After screenplay complete |
 | EP3 Prompts v1.0 | ✅ COMPLETE | 46 | Full depth, Gemini-compatible |
-| EP3 Prompts v1.1 | 🔨 TESTING | 46 | Actor names added, Slides 21/24/25 rewritten |
+| EP3 Prompts v1.1 | 🔨 TESTING | 46 | Slides 28/30/32/33/34/41/42/43 rewritten |
+
+### Phase D: KLP Presentation
+| Asset | Status | Notes |
+|-------|--------|-------|
+| DI_Presentation_Guide.md | ✅ COMPLETE | Swami's script — bridges, team parallels, 3-line summaries |
 
 ---
 
@@ -226,6 +231,37 @@
 ---
 
 ## Session Log
+
+### 2026-02-21 — Session 8: EP3 Prompt Fixes + EP1 Cover + Presentation Guide + Video R&D
+- **EP3 Slide fixes (Gemini-tested with Director):**
+  - Slide 28: Gordon line "He's alive" → "He didn't break" (continuity fix — Gordon met Bruce in Slide 27)
+  - Slide 30: Full rewrite of 6-panel rematch — character blocks in all panels, visual progression, hallucinated text fix, Batman line "I came back without the rope" moved to correct panel
+  - Slide 32: Expanded from quad to 6-panel grid — each pillar gets own panel with colored glow
+  - Slide 33: Removed Gary Oldman (Gemini blocked), then restored after fixing abstract flashback panel
+  - Slide 34: Reduced to 2 captions (garbled text fix), Bruce pushed to blurred background
+  - Slide 41: RDJ Doom reveal rewritten for SDCC green suit look — "Robert Downey Jr." works, "RDJ" blocked
+  - Slide 42: Unmasked panel matched to Slide 41 green suit costume
+  - Slide 43: Removed actor name from masked Doom (unnecessary, risks block)
+- **EP1 Cover:** Added Slide 0 — mountain monastery, pristine chessboard, dawn. Matches EP2/EP3 cover format.
+- **KLP Presentation Guide created:** `reference/DI_Presentation_Guide.md`
+  - Full script for Director's KLP talk — opening, 3 bridges, closing
+  - 3-line pillar summaries after each episode
+  - Personal touches: Lokesh reference, Vikram/Coolie, Tony Stark quote, MCU confession, Raja/Susan/Adam shoutouts
+  - Building-side work parallels per episode
+  - Quick reference card + contingency plans
+- **Video generation R&D:**
+  - Tested Google Veo 3 for image-to-video (8 sec clips, 9 min/week limit)
+  - Created 4-shot Bane encounter test sequence — Shot 1 generated and approved in Gemini
+  - Researched Kling AI ($10/mo, 60 sec clips, available in India) as primary alternative
+  - Researched Seedance 2.0 (best quality but China-only, legal issues with Netflix/Sony)
+  - Recommendation: Kling AI for now, Seedance when globally available
+- **Gemini prompting learnings (new):**
+  - "Robert Downey Jr." full name works; "RDJ" gets blocked — same content filter
+  - Gemini leaks descriptive prompt language as visible text — strip adjectives like "precise, targeted, surgical"
+  - "NO other text" instruction prevents hallucinated captions
+  - Speaker must be VISIBLE in the panel for speech bubbles — off-panel attribution fails
+  - One speaker per panel rule confirmed again
+- Commits: d848213, 2435918
 
 ### 2026-02-17 — Session 7: EP3 Prompts v1.1 — Actor Names + Slide Rewrites
 - **CRITICAL FIX:** Added actor names to ALL 46 slides' character blocks
