@@ -379,82 +379,89 @@ STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 20 — THEATRICALITY (Panels 6B.1-6B.2 COMBINED)
-**SINGLE — DARKNESS AND DECEPTION**
+### SLIDE 20 — THEATRICALITY & DECEPTION (Panels 6B.1-6B.4 COMBINED)
+**QUAD (2×2) — THE LESSON IN FOUR BEATS**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. QUAD PANEL (2 rows × 2 columns).
+
+SCENE: Ducard teaches Bruce that fighting is not enough — using theatricality and deception. Four sequential moments in a dark training hall.
+
+COMPOSITION:
+- FOUR PANELS arranged 2×2 grid, thin white lines (1-2px) dividing
+- ALL FOUR PANELS share the same setting: ancient stone training hall, near-total darkness, ONE single torch on the far wall casting long shadows across stone floor
+
+- TOP LEFT: Bruce is the ONLY person in this panel. Dark empty hall, one torch on the wall. Bruce holds his ninjatō in fighting stance, looking into the darkness ahead. The space around him is EMPTY — no one behind him, no one beside him, no figures in shadows. Just one man alone in a dark room.
+
+- TOP RIGHT: A FLASH of bright light erupts from a brazier on the stone floor. Bruce ALONE recoils backward, shielding his eyes with his arm. Ducard is NOT visible in this panel either — only the flash and Bruce reacting to it. The flash blinds Bruce.
+
+- BOTTOM LEFT: Camera faces Bruce from the FRONT. Ducard is BEHIND Bruce — we see Ducard over Bruce's shoulder. Ducard's arm reaches AROUND Bruce's neck from behind, holding the ninjatō blade ACROSS Bruce's throat. Bruce's eyes are wide, frozen. Ducard's face is visible behind Bruce's head, calm slight smile. Bruce is trapped — Ducard was behind him the entire time.
+
+- BOTTOM RIGHT: Ducard holds out a small leather pouch toward Bruce. Bruce reaches for it with one hand. The pouch contains flash powder.
+
+HENRI DUCARD FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face, tall lean powerful build, 6'4"
+- Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, BLENDING with shadows
+- Expression: Calm, commanding, always in control — a man who owns the darkness
+- TOP LEFT: NOT IN THIS PANEL. TOP RIGHT: NOT IN THIS PANEL. BOTTOM LEFT: Behind Bruce, blade at throat, slight smile. BOTTOM RIGHT: Holding pouch out to Bruce.
+
+BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, athletic build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet
+- TOP LEFT: Alert, searching shadows, ninjatō raised, ALONE. TOP RIGHT: Recoiling from flash, arm shielding eyes, ALONE. BOTTOM LEFT: Eyes wide, shocked, blade at his throat. BOTTOM RIGHT: Reaching for pouch.
+
+WHAT NOT TO DRAW:
+- NO Ducard in TOP LEFT panel — Bruce is COMPLETELY ALONE
+- NO Ducard in TOP RIGHT panel — only the flash and Bruce reacting
+- Ducard appears ONLY in BOTTOM LEFT and BOTTOM RIGHT
+- NO steam or fog — the flash is a sharp bright BURST, not lingering smoke
+- NO visible text other than the speech bubble — no descriptive captions in panels
+
+ATMOSPHERE:
+- Fear as method — not just weapon
+- Batman's method being born in this moment
+
+TEXT OVERLAY:
+- Speech bubble (white fill, black text, 2px black outline) from Ducard in BOTTOM LEFT: "Theatricality and deception are powerful agents."
+
+STYLE: Photorealistic, cinematic, dramatic lighting progression (dark → flash → dark → teaching). Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 21 — THE ART OF FEAR (Panel 6B REFLECTION)
+**SINGLE — CAPTION CARD**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: The training hall in near-darkness. Ducard teaches Bruce that fighting is not enough.
+SCENE: Bruce alone in the dark training hall, practicing what Ducard taught him — using the flash powder himself for the first time.
 
 COMPOSITION:
-- Training hall with all torches extinguished except ONE
-- Bruce stands in near-darkness, searching for Ducard's voice
-- A FLASH of white light and smoke erupts at Bruce's feet — he stumbles backward, blinded
-- DUCARD appears RIGHT BEHIND Bruce — materialized from the shadows
-- Smoke still swirling at Bruce's feet
-
-HENRI DUCARD FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face, tall lean powerful build, 6'4"
-- Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, BLENDING with shadows
-- Expression: Teaching, calm authority while Bruce is disoriented
-- Action: Standing right behind Bruce, having appeared from nowhere
-- Position: Behind Bruce, close
+- The same dark training hall — single torch on the far wall
+- Bruce stands in the center, a small burst of flash powder igniting from his hand — bright white light illuminating his face from below
+- His expression is focused, calculating — he is learning to control fear, not just endure it
+- Long shadows stretch behind him on the stone floor and walls
+- He looks like something OTHER than a man — the birth of Batman's method
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, athletic build, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, athletic build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet
-- Expression: Startled, blinded by flash
-- Action: Stumbling backward from flash at his feet
-- Position: Center, off-balance
+- Expression: Focused, calculating — understanding dawning
+- Action: Flash powder igniting from his palm, light illuminating his face from below
+- Position: Center of dark hall, the light source
 
 ATMOSPHERE:
-- Fear as method — not just weapon
-- The art behind the fighter
-
-TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline) from Ducard: "Theatricality and deception are powerful agents."
-
-STYLE: Photorealistic, cinematic, dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 21 — INVISIBILITY (Panels 6B.3-6B.4 COMBINED)
-**SPLIT PANEL — VANISH AND TEACH**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
-
-SCENE: Ducard demonstrates invisibility — then teaches Bruce to use it.
-
-COMPOSITION:
-- SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: Bruce turns to where Ducard WAS — empty space. Then feels the tip of a ninjatō (straight-bladed Japanese short sword with square hand guard) at the back of his neck. Ducard materialized behind him AGAIN. Shadows are Ducard's ally
-- RIGHT: Ducard tosses Bruce a small pouch of flash powder. Bruce catches and examines it. The tools of deception being handed down
-
-LEFT — VANISH:
-HENRI DUCARD FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, tall lean powerful build, 6'4"
-- Costume: Dark brown (#3D2914) layered robes, blending with shadows
-- Expression: Teaching through demonstration
-- Action: Wooden sword tip at Bruce's neck from behind
-- Position: Behind Bruce, having vanished and reappeared
-
-BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, athletic build, 6'0"
-- Costume: Dark grey (#4B5563) League training tunic, bare feet
-- Expression: Startled, learning
-- Position: LEFT — turning to empty space. RIGHT — catching pouch
-
-ATMOSPHERE:
-- The body is the weapon. Fear is the art
-- Batman's method being born
+- The body was the weapon. Fear is the art.
+- A student becoming something else
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The body was the weapon. But fear — fear was the art."
+
+STYLE: Photorealistic, cinematic, dramatic underlighting from flash powder. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
 
 STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
