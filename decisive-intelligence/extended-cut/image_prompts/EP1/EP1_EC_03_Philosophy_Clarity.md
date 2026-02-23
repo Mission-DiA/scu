@@ -126,7 +126,7 @@ HENRI DUCARD FULL DESCRIPTION:
 - Position: Close-up, ONLY person in this panel
 
 WHAT NOT TO DRAW:
-- NO wooden swords — all blades are steel ninjatō
+- NO ninjatōs — all blades are steel ninjatō
 - NO Ducard in LEFT or CENTER panels — he is ONLY in the RIGHT panel
 - NO unmasked League warriors — the opponent's face is fully covered
 
@@ -505,42 +505,46 @@ STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: 
 ---
 
 ### SLIDE 33 — HALF-MEASURES (Panels 13.4-13.6 COMBINED)
-**SPLIT PANEL — FIRE WISDOM**
+**VERTICAL TRIPTYCH — COMMITMENT DEMONSTRATED**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. VERTICAL TRIPTYCH.
 
-SCENE: Ducard teaches the third principle — commitment means no half-measures.
+SCENE: Ducard teaches the third principle — commitment means no half-measures. He demonstrates with a sword strike.
 
 COMPOSITION:
-- SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: Bruce, lit by fire, asks "What if the action is wrong?" Genuine concern on his face. The question that separates him from the League
-- RIGHT: Ducard faces Bruce fully, fire between them. Deadly serious. Delivering the lesson
+- THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
+- ALL THREE PANELS in the monastery training hall, torch-lit, dark stone walls
 
-LEFT — BRUCE:
-BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, fire-lit face, athletic build, 6'0"
-- Costume: Dark grey (#4B5563) League training tunic
-- Expression: Genuine concern, questioning
-- Position: Before fire pit, facing Ducard
+- LEFT: Ducard holds a ninjatō overhead, about to strike downward at a thick wooden training post. Bruce watches from behind. Ducard pauses mid-swing and looks at Bruce — teaching the moment BEFORE commitment.
 
-RIGHT — DUCARD:
+- CENTER: Ducard COMPLETES the strike — the ninjatō slices CLEAN THROUGH the thick wooden post, splitting it in two. Wood splinters fly. The strike is absolute, total, no hesitation. One decisive blow.
+
+- RIGHT: Ducard hands the ninjatō to Bruce and gestures toward a SECOND intact wooden post. Bruce takes the sword, staring at the post. His turn. Commit fully or fail.
+
 HENRI DUCARD FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, fire reflected, weathered face, tall lean build, 6'4"
-- Costume: Dark brown (#3D2914) layered robes
-- Expression: Deadly serious, absolute certainty
-- Action: Facing Bruce fully
-- Position: Other side of fire from Bruce
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean powerful build, 6'4"
+- Costume: Dark brown (#3D2914) layered robes over black tunic
+- Expression: LEFT — focused, teaching. CENTER — power, follow-through. RIGHT — handing sword, expectant.
+
+BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, athletic build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic
+- Expression: LEFT — watching intently. RIGHT — receiving sword, determined but uncertain.
+
+WHAT NOT TO DRAW:
+- NO fire pit or campfire — this is in the training hall
+- NO visible text other than the caption
 
 ATMOSPHERE:
-- The line between action and inaction
-- Commitment as liberation
+- Half a strike is worse than no strike
+- Commitment demonstrated through action, not words
 
 TEXT OVERLAY:
 - Caption (white #FFFFFF fill, black text, bold) bottom: "The third principle — COMMITMENT: Commit fully. Retreat costs more than failure."
 
-STYLE: Photorealistic, cinematic, fire-lit split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -571,7 +575,7 @@ BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair grown out and unkempt, stubble on strong jaw, face covered by dark cloth blindfold, athletic muscular build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet, BLACK CLOTH BLINDFOLD tied around eyes
 - Expression: Focused, jaw tense, lower face only visible
-- Action: Standing in darkness, wooden sword ready
+- Action: Standing in darkness, ninjatō ready
 - Position: Center of dark hall
 
 ATMOSPHERE:
@@ -597,12 +601,14 @@ SCENE: First attempt — Bruce is attacked from behind and fails.
 
 COMPOSITION:
 - THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
-- LEFT: A LEAGUE ATTACKER lunges from darkness behind Bruce — barely visible, just movement in shadow. Bruce unaware, back turned
-- CENTER: Bruce is HIT from behind — knocked forward, sprawling. His sword clatters away into darkness. Impact visible
-- RIGHT: Bruce on hands and knees, blindfold still on. A sword point at his throat — held by the barely visible attacker. Defeat
+- LEFT: A LEAGUE ATTACKER lunges from darkness behind Bruce — barely visible, just movement in shadow. Bruce unaware, back turned. Bruce holds a STEEL ninjatō (straight blade, about 60cm long, square metal hand guard, dark leather-wrapped hilt).
+- CENTER: Bruce is HIT from behind — knocked forward, sprawling. His STEEL ninjatō clatters away into darkness. The blade is the SAME steel ninjatō from the left panel. Impact visible.
+- RIGHT: Bruce on hands and knees, blindfold still on. A STEEL ninjatō point at his throat — held by the barely visible attacker. The blade is identical to Bruce's — same straight steel blade, same square hand guard. Defeat.
+
+SWORD REFERENCE (ALL PANELS): Every sword in this slide is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt. NOT wooden. NOT a katana. NOT a broadsword. All swords are the SAME size and design.
 
 BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, blindfolded, athletic build, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, blindfolded, athletic build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, bare feet, BLACK CLOTH BLINDFOLD
 - Expression: LEFT — unaware. CENTER — hit. RIGHT — defeated
 - Position: CENTER — falling. RIGHT — on ground, sword at throat
@@ -610,6 +616,12 @@ BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 LEAGUE ATTACKER:
 - Dark-robed figure, barely visible in darkness
 - Only suggested shapes and movement
+- Carries the SAME steel ninjatō as Bruce
+
+WHAT NOT TO DRAW:
+- NO wooden swords — all blades are STEEL with metallic sheen
+- NO curved blades — ninjatō are STRAIGHT
+- NO different sized swords between panels — all identical
 
 ATMOSPHERE:
 - Blind and vulnerable
@@ -635,7 +647,7 @@ SCENE: Second attempt — Bruce hears the attacker but can't process fast enough
 COMPOSITION:
 - SPLIT PANEL: Two vertical halves, thin white line dividing
 - LEFT: Bruce stands again, blindfolded, but different — head tilted, LISTENING more intently. His posture is more alert. Sound wave visualization — subtle ripples in the air suggesting footsteps, breathing
-- RIGHT: An attacker lunges — Bruce SIDESTEPS, the sword cuts empty air. Progress. But a SECOND attacker catches Bruce from the other side — elbow to ribs. Bruce doubles over
+- RIGHT: Three figures visible. On the LEFT side of the panel, a masked attacker's ninjatō swings through EMPTY AIR where Bruce WAS standing — Bruce has dodged it, his body leaning away from the blade. But on the RIGHT side of the panel, a SECOND masked attacker drives an elbow into Bruce's ribs from behind. Bruce's mouth is open in pain, doubling over from the hit. He dodged one but missed the other.
 
 LEFT — LISTENING:
 BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
@@ -646,9 +658,13 @@ BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 - Position: Center of dark hall
 
 RIGHT — PARTIAL SUCCESS:
-- Same Bruce, sidestepping one attack
-- Second attacker connecting from the other side
-- Progress but not enough
+- Bruce in the CENTER — leaning away from the first attacker's missed sword swing on his LEFT
+- Second attacker on his RIGHT driving elbow into Bruce's ribs from behind
+- The missed sword swing shows PROGRESS (he dodged it!) — the elbow shows he's not there yet
+
+WHAT NOT TO DRAW:
+- NO wooden swords — steel ninjatō only
+- The first attacker's sword must be swinging through EMPTY AIR — it clearly MISSED Bruce
 
 ATMOSPHERE:
 - Hearing was progress but not mastery
@@ -729,7 +745,7 @@ BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 THREE ATTACKERS:
 - Dark-robed figures approaching from three different angles
 - Visible from overhead but hidden from Bruce's perspective
-- Each carrying wooden sword
+- Each carrying ninjatō
 
 ATMOSPHERE:
 - Awareness has replaced sight
@@ -755,7 +771,7 @@ SCENE: Bruce defeats all three attackers blindfolded — three moves in sequence
 COMPOSITION:
 - THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
 - LEFT: Bruce DUCKS the first attack — the sword swings over his head. Perfect timing
-- CENTER: Bruce DEFLECTS the second attack with his wooden sword — sparks from impact. Precise
+- CENTER: Bruce DEFLECTS the second attack with his ninjatō — sparks from impact. Precise
 - RIGHT: Bruce SWEEP KICKS the third attacker's legs — the figure falls. Three moves, three victories
 
 ALL THREE PANELS — BRUCE:
