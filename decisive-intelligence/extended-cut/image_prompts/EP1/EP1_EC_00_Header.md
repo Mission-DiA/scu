@@ -77,6 +77,8 @@
 13. **Actor name + role context bypasses blocks** — `"Gary Oldman as a young police sergeant"` passes; bare `"Gary Oldman"` gets blocked. Always pair actor name with fictional role.
 14. **Silhouette needs explicit exclusions** — `"silhouette"` alone still renders skin/hair. Must add: `"NO skin tone, NO hair detail, NO facial features, NO clothing detail, pure black shape"`
 15. **Opacity percentages leak as visible text** — `"25-30% opacity"` renders literally. Use `"nearly invisible, faded white"` instead — no numbers for Gemini to print.
+16. **Distance requires explicit separation** — `"climbing toward monastery"` puts it right behind the character. Use `"FAR AWAY in deep background, miles away, vast empty distance between"` to create real scale.
+17. **Triptych panels need shared backdrop** — without explicit `"ALL THREE PANELS share the same backdrop: [environment]"`, Gemini drops the background in panels 2-3.
 
 ---
 

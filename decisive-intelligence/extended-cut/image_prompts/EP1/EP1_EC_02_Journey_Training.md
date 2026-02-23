@@ -172,19 +172,24 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 SCENE: Bruce climbs toward the monastery — tiny figure against the vast mountain.
 
 COMPOSITION:
-- Breathtaking mountain vista — snow-capped peaks, mist, a narrow path winding upward
-- TINY FIGURE (Bruce) climbing alone toward a monastery carved into the mountainside
-- The blue flower — a small dot of vivid blue (#4A90D9) — visible in his hand
-- Monastery: Ancient, carved into rock, shrouded in mist at the peak
-- Weather: Snow, wind, harsh conditions
-- The scale emphasizes how small one person is against the mountain
+- Breathtaking mountain vista — snow-capped peaks, mist, treacherous steep rock face
+- Bruce is in the FOREGROUND, gripping rock with one hand, pulling himself UP a near-vertical cliff face — body pressed against the rock, legs bracing, muscles straining
+- The blue flower — a small dot of vivid blue (#4A90D9) — clutched in his other hand
+- Monastery: FAR AWAY in the deep background, barely visible through clouds at the very TOP of a distant peak — miles away, impossibly high
+- Between Bruce and the monastery: vast empty distance, deep valleys, jagged ridges — the monastery feels unreachable
+- Weather: Snow, wind, harsh conditions battering him
+- The scale emphasizes how far he still has to go
 
 BRUCE WAYNE (JOURNEY) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair unkempt, stubble, strong jaw, determined, athletic build, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, dark brown hair unkempt and wind-blown, stubble, strong jaw, athletic build, 6'0"
 - Costume: Dark brown (#3D2914) travelling cloak over grey (#4B5563) rough-spun shirt, dark trousers, worn leather boots, small pack
-- Expression: Determined, exhausted
-- Action: Climbing mountain path, blue flower in hand
-- Position: Small against the vast mountain, mid-path
+- Expression: Exhausted, struggling, gritting teeth — this climb is punishing him
+- Action: Gripping rock face with one hand, pulling himself upward, blue flower clutched in other hand
+- Position: Foreground, close to camera, climbing vertically
+
+WHAT NOT TO DRAW:
+- NO casual walking or standing pose — he is CLIMBING vertically, struggling
+- NO monastery nearby or within easy reach — it must be FAR in the distant background
 
 ATMOSPHERE:
 - The journey IS the lesson
@@ -199,31 +204,37 @@ STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATER
 ---
 
 ### SLIDE 16 — THE GATE (Panels 4.5-4.8 COMBINED)
-**VERTICAL TRIPTYCH — REJECTION, FALL, PERSISTENCE**
+**VERTICAL TRIPTYCH — REJECTION, BEATEN, ACCEPTED**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. VERTICAL TRIPTYCH.
 
-SCENE: Bruce reaches the monastery gate — and is thrown back. But he doesn't stop.
+SCENE: Bruce reaches the monastery gate — rejected, beaten down, but finally allowed through.
 
 COMPOSITION:
 - THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
-- LEFT: Bruce, exhausted, holds up the battered blue flower before TWO LEAGUE WARRIORS at a stone gate. Warriors are imposing, masked, blocking entry
-- CENTER: A warrior KNOCKS the flower from Bruce's hand and THROWS him backward. Bruce crashes into the snow. Blue flower petals scatter
-- RIGHT: Bruce picks himself up, blood on lip, flower gripped tight in one fist. Walking toward the gate AGAIN. Determination written on his face
+- ALL THREE PANELS share the same backdrop: massive stone monastery gate, tall ancient walls, snow-covered mountain environment, heavy snowfall
+- LEFT: Camera is BEHIND Bruce (back of his head and shoulders visible). He faces TOWARD the gate, holding up the battered blue flower before TWO LEAGUE WARRIORS blocking entry. We see the warriors' masked faces and Bruce's back. First attempt — clothes clean, standing tall.
+- CENTER: Same gate backdrop. A warrior KNOCKS the flower from Bruce's hand and THROWS him backward into the snow. Blue flower petals scatter on the white ground. The stone gate looms behind the warrior. Bruce's cloak is torn, face bloodied — this is NOT the first rejection.
+- RIGHT: Same gate backdrop. The two warriors have STEPPED ASIDE, leaving the heavy wooden gate OPEN behind them. Bruce walks THROUGH the gate, battered, bloodied, cloak torn, but upright. The blue flower — crushed but still held — in his fist. He earned this.
 
 LEFT — BRUCE AT GATE:
 BRUCE WAYNE (JOURNEY) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair unkempt, stubble, strong jaw, exhausted but determined, athletic build, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, dark brown hair unkempt, stubble, strong jaw, exhausted but determined, athletic build, 6'0"
 - Costume: Dark brown (#3D2914) travelling cloak, grey (#4B5563) rough-spun shirt, dark trousers, worn leather boots
 - Expression: Exhausted but determined
-- Action: Holding up battered blue flower
-- Position: Before the gate, presenting the flower
+- Action: Holding up battered blue flower toward the guards
+- Position: BACK TO CAMERA, facing the gate and warriors
 
 LEAGUE WARRIORS:
 - Two masked figures in dark robes, imposing, blocking the gate
-- Silent, immovable
+- In RIGHT panel: same warriors, now stepped aside with heads bowed
+
+WHAT NOT TO DRAW:
+- NO Bruce facing the camera/reader in the left panel — he faces AWAY, toward the gate
+- NO blank or empty backgrounds — all three panels must show the stone monastery gate/walls and snowy mountain environment
+- NO gate still closed in the right panel — it must be OPEN, warriors stepped aside
 
 ATMOSPHERE:
 - Nothing is given — everything is earned
@@ -295,15 +306,15 @@ SCENE: Ducard gives Bruce his first weapon and his reason to fight.
 
 COMPOSITION:
 - SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: Ducard extends a worn wooden training sword toward Bruce. Bruce reaches for it. The exchange of responsibility
-- RIGHT: Close on hands — Bruce's hands gripping the wooden sword. Ducard's hand releasing. Ancient worn wood. A transfer of purpose
+- LEFT: Ducard extends a worn ninjatō (straight-bladed Japanese short sword with square hand guard) toward Bruce. Bruce reaches for it. The exchange of responsibility
+- RIGHT: Close on hands — Bruce's hands gripping the ninjatō (straight-bladed Japanese short sword with square hand guard). Ducard's hand releasing. Straight blade, square tsuba, dark leather-wrapped hilt. A transfer of purpose
 
 LEFT — THE EXCHANGE:
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face, tall lean build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic
 - Expression: Teaching, offering
-- Action: Extending wooden training sword
+- Action: Extending ninjatō (straight-bladed Japanese short sword with square hand guard)
 - Position: Before Bruce
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
@@ -332,29 +343,29 @@ STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMAR
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. 6-PANEL GRID (2 rows × 3 columns).
 
-SCENE: Bruce's combat training progression — from failure to competence.
+SCENE: Bruce's combat training — brutal, punishing, no mercy. The League breaks you to rebuild you.
 
 COMPOSITION:
 - SIX PANELS arranged 2×3 grid, thin white lines (1-2px) dividing
-- TOP LEFT: Ducard demonstrates sword technique — fluid, perfect. Bruce watches intently
-- TOP CENTER: Bruce attempts the same technique — clumsy, off-balance, stumbling
-- TOP RIGHT: Bruce on the ground, swept by Ducard. Frustrated. Ducard standing over him
-- BOTTOM LEFT: Bruce blocks one of Ducard's strikes — barely. Sparks from wooden swords
-- BOTTOM CENTER: Ducard's sword stops millimeters from Bruce's throat. Bruce frozen. Ducard smiles slightly
-- BOTTOM RIGHT: Bruce practicing alone in moonlight — repeating forms, improving
+- TOP LEFT: Ducard STRIKES Bruce hard with a ninjatō — Bruce barely gets his blade up in time, the IMPACT shaking his arms, pain on his face. Sparks fly from the clash. Ducard's expression is cold, merciless.
+- TOP CENTER: Bruce SLAMMED to the wooden floor by Ducard's leg sweep — his ninjatō clattering away. Bruce's face hits the ground. Ducard stands over him without offering a hand. Blood on Bruce's lip.
+- TOP RIGHT: Ducard's blade at Bruce's THROAT — Bruce on his knees, breathing hard, sweat-soaked, bruised face. Ducard stares down with zero sympathy. This is not a lesson — it's a beating.
+- BOTTOM LEFT: Bruce ATTACKS — swinging his ninjatō with raw aggression. Ducard deflects effortlessly with one hand, looking almost bored. The gap in skill is humiliating.
+- BOTTOM CENTER: Close-up — ninjatō blades LOCKED together, sparks flying, both men's faces inches apart. Ducard is calm. Bruce is straining every muscle, veins visible, teeth gritted.
+- BOTTOM RIGHT: Bruce alone in the moonlit courtyard — covered in bruises, training tunic torn, practicing sword forms by himself. Exhausted but refusing to stop. Blood dried on his knuckles.
 
 TOP LEFT through BOTTOM RIGHT — BRUCE:
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair grown out, stubble, strong jaw, athletic build developing, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet
-- Expression: Progression from eager to frustrated to determined
-- Note: Shows physical growth across panels
+- Expression: Pain, rage, exhaustion — progressing from beaten to defiant
+- Note: Visible bruises, sweat, blood on lip — this training is PUNISHING him
 
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, tall lean powerful build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes over black tunic
-- Expression: Demanding, teaching through failure
-- Position: Instructor role in relevant panels
+- Expression: Cold, merciless, zero sympathy — a man who will break his student to forge him
+- Position: Dominant, always above or over Bruce
 
 ATMOSPHERE:
 - Brutal transformation through repetition
@@ -421,7 +432,7 @@ SCENE: Ducard demonstrates invisibility — then teaches Bruce to use it.
 
 COMPOSITION:
 - SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: Bruce turns to where Ducard WAS — empty space. Then feels the tip of a wooden sword at the back of his neck. Ducard materialized behind him AGAIN. Shadows are Ducard's ally
+- LEFT: Bruce turns to where Ducard WAS — empty space. Then feels the tip of a ninjatō (straight-bladed Japanese short sword with square hand guard) at the back of his neck. Ducard materialized behind him AGAIN. Shadows are Ducard's ally
 - RIGHT: Ducard tosses Bruce a small pouch of flash powder. Bruce catches and examines it. The tools of deception being handed down
 
 LEFT — VANISH:
