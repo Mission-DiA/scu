@@ -407,7 +407,14 @@ COMPOSITION:
 - A PRISONER kneels before the flame — bound, head bowed, broken, guilty, resigned
 - BRUCE stands before the prisoner, SWORD in hand
 - DUCARD stands to the side, watching
-- The DECOY RA'S watches from the throne
+- The DECOY RA'S watches from the throne — seated above everyone, cold authority
+
+DECOY RA'S AL GHUL FULL DESCRIPTION:
+- Face & Body: Ken Watanabe, Japanese man, mid-50s, long black hair pulled back, sharp angular features, cold dark eyes, tall imposing build, 6'1"
+- Costume: Black (#0A0A0A) ceremonial robes with dark gold (#8B7355) trim, high collar, ornate League of Shadows medallion on chest
+- Expression: Cold, regal authority — watching Bruce with expectation
+- Position: Seated on elevated stone throne, above the scene
+
 - Weight of expectation from every direction
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
@@ -423,10 +430,12 @@ HENRI DUCARD FULL DESCRIPTION:
 - Expression: Watching, expectation in his eyes
 - Position: To the side, watching closely
 
-PRISONER:
-- Bound figure, kneeling, head bowed
-- Broken, guilty expression, resigned to death
-- No specific actor — generic figure
+PRISONER FULL DESCRIPTION:
+- Face & Body: Middle-aged man, thin build, face NOT visible — hidden under hood
+- Costume: Dark brown hooded robe, hood pulled forward covering face entirely, wrists bound with rough rope in front of him
+- Expression: Head bowed deeply, face in shadow under hood, resigned posture
+- Position: Kneeling on the stone floor before the flame, shoulders slumped
+- NOTE: This is the SAME prisoner in Slides 52-54. He must look identical across all three slides — hooded, face hidden, dark brown robe.
 
 ATMOSPHERE:
 - Everything comes to this moment
@@ -460,11 +469,11 @@ BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, deep conflict in eyes, athletic build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic
 - Expression: Conflict, decision approaching
-- Position: Close-up, sword grip tightening
+- Position: Close-up, grip tightening on STEEL ninjatō hilt
 
 CENTER — THE BLADE:
-- Sword blade raised high
-- Flame light reflecting off the edge
+- STEEL ninjatō blade raised high — straight blade, metallic grey, light reflecting off the sharp edge
+- Flame light reflecting off the STEEL surface
 - Ready to fall
 
 RIGHT — DUCARD:
@@ -473,6 +482,14 @@ HENRI DUCARD FULL DESCRIPTION:
 - Costume: Dark brown (#3D2914) layered robes
 - Expression: Expectation — believes Bruce will do it
 - Position: Close-up, watching
+
+SWORD REFERENCE: The sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blade is METAL — grey steel with light reflections. NO brown, tan, or wood-colored blade.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — the blade is GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
+- NO desks, chairs, furniture
 
 ATMOSPHERE:
 - The blade between two futures
@@ -496,24 +513,33 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 SCENE: Bruce LOWERS the sword — the defining choice. He will not execute.
 
 COMPOSITION:
-- BRUCE in center frame, lowering the sword. His face shows iron resolve — not hesitation, DECISION
-- The room STIFFENS around him — League members reaching for weapons
-- DUCARD's face shifts from expectation to something complex — disappointment mixed with strange pride
-- The prisoner still kneels, unaware of what just happened
-- Tension exploding in every direction
+- BRUCE in the FOREGROUND, center-left of frame, large and prominent. He is lowering the sword. His face shows iron resolve — not hesitation, DECISION. He is the focus.
+- DUCARD stands FAR BEHIND Bruce — 10-15 feet back, in the BACKGROUND, visibly SMALLER due to distance. He is watching Bruce's back. His face shows conflict — jaw tight, eyes narrowed, disappointment mixed with strange pride. The physical DISTANCE between them IS the emotional distance. They are separating.
+- League members in the deep background, barely visible, shifting uneasily — tension in the room
+- The SAME PRISONER from Slide 52 kneels on the ground to Bruce's right — dark brown hooded robe, hood pulled forward covering face entirely, wrists bound with rope, head bowed deeply, face hidden in shadow under hood, shoulders slumped
+
+DEPTH PRIORITY: Bruce is LARGE in the foreground. Ducard is SMALL in the background. There must be clear distance/depth between them — they are NOT side by side, NOT shoulder to shoulder. Ducard is watching from behind, separated.
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, iron resolve, athletic muscular build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic
 - Expression: Iron resolve — not hesitation, DECISION. His code is chosen
-- Action: Lowering the sword deliberately
-- Position: Center, the sword coming down
+- Action: Lowering the STEEL ninjatō deliberately, blade pointing toward the ground
+- Position: FOREGROUND center-left, facing camera or three-quarter angle
 
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes
-- Expression: Complex — disappointment and strange pride simultaneously
-- Position: Visible in background, face changing
+- Expression: Complex — jaw tight, disappointment and strange pride simultaneously
+- Position: BACKGROUND, 10-15 feet behind Bruce, visibly smaller due to depth. NOT next to Bruce. NOT in the foreground.
+
+SWORD REFERENCE: The sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blade is METAL — grey steel with light reflections. NO brown, tan, or wood-colored blade.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — the blade is GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
+- NO desks, chairs, furniture
 
 ATMOSPHERE:
 - The moment of divergence
@@ -542,9 +568,11 @@ COMPOSITION:
 - RIGHT: BRUCE, calm in the chaos forming around him. Certain of his choice. League members reaching for weapons around him — but Bruce is immovable
 
 LEFT — DECOY RA'S:
-- Older man, scarred, regal robes, rising from throne in fury
-- Expression: Rage, authority challenged
-- Position: Rising from throne
+DECOY RA'S AL GHUL FULL DESCRIPTION:
+- Face & Body: Ken Watanabe, Japanese man, mid-50s, long black hair pulled back, sharp angular features, cold dark eyes, tall imposing build, 6'1"
+- Costume: Black (#0A0A0A) ceremonial robes with dark gold (#8B7355) trim, high collar, ornate League of Shadows medallion on chest
+- Expression: FURY — authority challenged for the first time, rage breaking through the cold mask
+- Position: Rising from throne, standing up in anger
 
 RIGHT — BRUCE:
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
@@ -623,17 +651,27 @@ COMPOSITION:
 LEFT — THE KICK:
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, fierce determination, athletic muscular build, 6'0"
-- Costume: Dark grey (#4B5563) League training tunic
+- Costume: Dark grey (#4B5563) League training tunic, dark trousers, bare feet
 - Expression: Fierce, committed, no going back
-- Action: Kicking the flame bowl, fire spreading
-- Position: Center, action pose
+- Action: RIGHT LEG swinging in a powerful side kick, FOOT making direct contact with the large metal flame bowl. The bowl is TIPPING OVER from the impact — tilting sideways, flaming coals and fire spilling out across the wooden floor. Bruce's body is rotated into the kick, weight on his left foot.
+- Position: Center, mid-kick, leg extended into the bowl
+
+THE FLAME BOWL:
+- Large metal brazier/cauldron on a stand, previously holding the ceremonial fire
+- NOW tipping over from Bruce's kick — caught at the moment of impact
+- Fire and burning coals SPILLING out onto the wooden floor, flames spreading
 
 RIGHT — THE BURN:
-- Monastery interior in flames
-- Smoke, screaming, confusion
-- Bruce fighting through toward exit
-- Debris falling
-- Everything burning
+- Monastery interior engulfed in flames — fire climbing walls, wooden beams burning
+- Smoke filling the upper half of the frame, orange firelight everywhere
+- Bruce in the foreground, fighting his way toward the exit through chaos
+- DECOY RA'S in the background — struck by falling burning debris, pinned or staggering
+
+DECOY RA'S AL GHUL (RIGHT PANEL):
+- Face & Body: Ken Watanabe, Japanese man, mid-50s, long black hair now disheveled, sharp angular features, dark eyes wide with shock, 6'1"
+- Costume: Black (#0A0A0A) ceremonial robes with dark gold (#8B7355) trim — now torn, singed by fire
+- Expression: Shock, pain — struck by debris, his authority destroyed with the temple
+- Position: Background, partially obscured by falling debris and flames
 
 ATMOSPHERE:
 - Commitment made irreversible

@@ -53,39 +53,132 @@ STYLE: Photorealistic, cinematic, fire-lit triptych. Full bleed to all edges. WA
 
 ---
 
-### SLIDE 59 — THE DEPARTURE (Panels 18.5-18.6 COMBINED)
+### SLIDE 59 — CARRYING HIS MENTOR (Panel 18.5)
+**SINGLE — THE RESCUE**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Bruce carries the unconscious Ducard down the mountain toward a small village. He has pulled his mentor from the burning temple and is bringing him to safety.
+
+COMPOSITION:
+- Bruce in the CENTER, carrying Ducard over his shoulders in a fireman's carry. Bruce is exhausted — legs trudging through snow, body straining under Ducard's weight. His face shows grim determination.
+- They are on a snowy mountain path. Below them, a small VILLAGE is visible — a cluster of simple stone/wooden huts with warm light in windows. They are almost there.
+- BEHIND them in the far distance, the monastery burns on the mountainside — smoke rising into the grey sky, orange glow.
+- Snow falling lightly. Cold. The physical cost of saving his mentor is visible in Bruce's body.
+
+BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair, stubble, strong jaw, exhausted but determined, athletic muscular build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, scorched and damaged, torn at shoulders
+- Expression: Grim determination, jaw clenched, exhausted
+- Action: Carrying Ducard over his shoulders in a fireman's carry, trudging through snow downhill
+- Position: Center frame, moving toward village below
+
+HENRI DUCARD (UNCONSCIOUS) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, weathered face, eyes closed, unconscious, 6'4"
+- Costume: Dark brown (#3D2914) layered robes, singed and dirty from fire
+- Expression: Unconscious, limp
+- Position: Draped over Bruce's shoulders
+
+ATMOSPHERE:
+- The weight of conviction — literally carrying the man whose code he rejected
+- Saving the person, not the philosophy
+
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) bottom: "He rejected the code. He saved the man."
+
+STYLE: Photorealistic, cinematic, snowy mountain. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 59B — SAFE HANDS (Panel 18.6)
+**SINGLE — THE HANDOVER**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Inside a simple village hut. Bruce has laid Ducard on a bed. An elderly villager kneels beside Ducard, tending to him. Bruce stands near the door, ready to leave. The villager looks up at Bruce with gratitude and reassurance.
+
+COMPOSITION:
+- Interior of a simple mountain village hut — stone walls, wooden beams, warm firelight from a hearth. Simple but safe.
+- DUCARD lies unconscious on a low wooden bed/cot, covered with a wool blanket. His face is visible — peaceful, breathing, alive.
+- An ELDERLY VILLAGER kneels beside the bed, one hand checking Ducard's forehead, the other adjusting the blanket. The villager looks UP at Bruce with a kind, reassuring expression — "We will care for him. Go."
+- BRUCE stands near the open doorway, silhouetted against the cold blue mountain outside. He is about to leave. His expression is quiet — relief that Ducard is safe, resolve to move forward.
+- The contrast: WARM firelit interior (safety, care) vs COLD blue doorway (the journey ahead).
+
+BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair, stubble, strong jaw, quiet relief, athletic muscular build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, scorched and damaged, travelling cloak over shoulders
+- Expression: Quiet relief, resolve — his mentor is safe, time to go
+- Action: Standing near doorway, about to leave
+- Position: Near the door, half-turned toward the bed, half-turned toward the exit
+
+HENRI DUCARD (UNCONSCIOUS) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, eyes closed, peaceful, 6'4"
+- Costume: Dark brown (#3D2914) robes, damaged — now covered with a wool blanket
+- Expression: Unconscious but peaceful, breathing
+- Position: Lying on the bed/cot
+
+ELDERLY VILLAGER:
+- Asian man, 60s-70s, deeply weathered face, kind eyes, wispy grey beard
+- Wearing thick wool clothing, simple mountain village attire
+- Kneeling beside bed, one hand on Ducard's forehead
+- Looking UP at Bruce with reassurance — "I will tell him you saved his life"
+
+WHAT NOT TO DRAW:
+- NO modern furniture or equipment
+- NO hospital setting — this is a simple mountain hut
+- NO other people — just these three
+
+ATMOSPHERE:
+- Safety found in unexpected places
+- The villager's kindness contrasts with the League's cruelty
+- Bruce's code already working — save the person, reject the philosophy
+
+TEXT OVERLAY:
+- Speech bubble (white fill, black text, 2px black outline) from villager: "I will tell him you saved his life."
+
+STYLE: Photorealistic, cinematic, warm interior firelight. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 59C — THE DEPARTURE (Panel 18.7)
 **FULL BLEED — WALKING AWAY**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. FULL BLEED. WIDE.
 
-SCENE: Bruce walks away from the burning monastery — not looking back. The journey home begins.
+SCENE: Bruce walks away from the village along a mountain path. Behind him, the warm village. Ahead, the cold journey home. He doesn't look back.
 
 COMPOSITION:
-- Wide shot. Snow. Mountain path
-- BRUCE walks TOWARD CAMERA — away from the burning monastery, not looking back
-- Behind him, the monastery is a DISTANT INFERNO against the mountain
-- Near the wreckage, a SMALL FIGURE (villager) tends to Ducard's unconscious body
-- Bruce walks ALONE — footprints in the snow trailing behind him
-- The path that brought him here now takes him home
-- Vast mountain scenery frames the solitary figure
+- WIDE SHOT. Epic mountain landscape. Cold blue tones.
+- BRUCE walks TOWARD CAMERA along a snowy mountain path. His cloak trails behind him. Footprints in the snow mark where he came from.
+- BEHIND HIM: The small village — warm light glowing from hut windows. Safe. Small. The place where he left his mentor in good hands.
+- FAR BACKGROUND: The monastery is now just a distant smoke plume against the peaks — barely visible, almost gone.
+- The SCALE of the mountains dwarfs Bruce — a solitary figure on a vast path. But his posture is upright, resolved. He knows where he's going.
+- Morning light breaking through clouds — a new chapter beginning.
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair, stubble, strong jaw, resolute, athletic muscular build, 6'0"
-- Costume: Dark grey (#4B5563) League training tunic, now scorched and damaged, travelling cloak retrieved
-- Expression: Resolute, forward-facing, not looking back
-- Action: Walking toward camera, away from burning monastery
-- Position: Center foreground, walking
+- Costume: Dark grey (#4B5563) League training tunic, scorched, travelling cloak over shoulders billowing slightly
+- Expression: Resolute, forward-facing, not looking back — quiet peace
+- Action: Walking toward camera along mountain path
+- Position: Center foreground, solitary figure against vast landscape
 
 ATMOSPHERE:
 - Everything learned, nothing left to take
 - Forward is the only direction
+- A man who knows who he is now
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "He had learned what he needed. It was time to go home."
 
-STYLE: Photorealistic, cinematic, epic landscape. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, epic landscape, wide shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -249,10 +342,20 @@ LUCIUS FOX FULL DESCRIPTION:
 - Position: Close-up, facing camera
 
 RIGHT — THE TUMBLER:
-- Massive angular matte black military vehicle revealed
-- Dust billowing from the removed cover
-- Industrial lab behind it
-- Bruce visible, eyes widening
+- Massive angular matte black military vehicle revealed — the Tumbler from Batman Begins
+- Dust billowing from the removed cover that Fox has just pulled away
+- Industrial lab shelves and crates in background
+
+BRUCE WAYNE (RIGHT PANEL) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair styled back, strong jaw, sharp eyes, athletic muscular build, 6'0"
+- Costume: Charcoal grey (#374151) three-piece suit, crisp white (#FFFFFF) dress shirt, dark navy (#1E3A5F) silk tie — SAME suit as Slide 62
+- Expression: Subtle impressed interest — a slight raise of the eyebrows, controlled excitement. NOT wide-eyed cartoon shock. Bruce is calculating, appreciating the engineering. A quiet "this changes everything" look.
+- Position: Standing beside the revealed Tumbler, looking at it
+
+WHAT NOT TO DRAW:
+- NO exaggerated or animated facial expressions — Bruce is controlled, not cartoonish
+- NO open mouth in shock — this is quiet, calculating appreciation
+- NO different costume from Slide 62 — same grey three-piece suit
 
 ATMOSPHERE:
 - Two men who understand each other without words
@@ -442,35 +545,46 @@ SCENE: Ra's offers Bruce one last chance. Bruce refuses. Ra's declares war.
 
 COMPOSITION:
 - THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
-- LEFT: Ra's leans close to Bruce — voice dropped, only Bruce can hear. Offering one last chance to join
-- CENTER: Close on Bruce's face — jaw tightens. His answer is in his eyes before he speaks. Refusing
-- RIGHT: Ra's steps back, nodding as if he expected this. His hand signals to hidden allies in the crowd
+- LEFT: Ra's stands beside Bruce at the party — both facing forward, NOT facing each other. Ra's speaks sideways to Bruce without looking at him, keeping up appearances. They are at arm's length — NOT intimate, NOT close. Two men at a party who happen to be standing near each other. Ra's delivers his ultimatum casually.
+- CENTER: Close on Bruce's face — jaw set, eyes hard. His answer is absolute. He speaks without turning toward Ra's.
+- RIGHT: Ra's turns away from Bruce, walking into the crowd. Over his shoulder, he delivers the threat. His hand subtly signals to hidden League members in the crowd behind him.
 
 LEFT — RA'S OFFERS:
 RA'S AL GHUL (GENTLEMAN) FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean build, 6'4"
 - Costume: Dark charcoal three-piece suit, white shirt, burgundy tie
-- Expression: Intimate, dangerous, offering
-- Action: Leaning close to Bruce, whispering
-- Position: Close to Bruce
+- Expression: Calm, controlled, casual menace — speaking sideways
+- Action: Standing beside Bruce, speaking sideways without looking at him. ARM'S LENGTH distance — NOT leaning in, NOT whispering in ear, NOT face-to-face.
+- Position: Standing next to Bruce, both facing forward, slight turn of head to speak
 
 CENTER — BRUCE REFUSES:
 BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, determined eyes, 6'0"
-- Costume: Black tuxedo
-- Expression: Jaw tightening, refusing
-- Position: Close-up
+- Costume: Black tuxedo, white dress shirt, black bow tie
+- Expression: Iron resolve, jaw set — his answer is final
+- Position: Close-up, face filling the panel
 
 RIGHT — RA'S DECLARES:
-- Ra's stepping back, signaling to hidden League members
-- Expression changing from charm to cold purpose
+RA'S AL GHUL (GENTLEMAN) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, cold blue eyes, tall lean build, 6'4"
+- Costume: Dark charcoal three-piece suit, white shirt, burgundy tie
+- Expression: Cold finality — the mask of charm dropped, pure menace
+- Action: Turning away, walking into the crowd, signaling subtly to hidden allies
+- Position: Half-turned away from camera, speaking over his shoulder
+
+WHAT NOT TO DRAW:
+- NO intimate positioning — Ra's and Bruce are NOT close together in panel 1
+- NO face-to-face whispering — they stand SIDE BY SIDE at arm's length
+- NO touching between them
 
 ATMOSPHERE:
 - The final offer and final refusal
 - War declared at a birthday party
 
 TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline) from Ra's (right panel): "Then you will burn with it."
+- Speech bubble (white fill, black text, 2px black outline) from Ra's (LEFT panel): "Join us. Or Gotham falls tonight."
+- Speech bubble (white fill, black text, 2px black outline) from Bruce (CENTER panel): "This city isn't yours to destroy."
+- Speech bubble (white fill, black text, 2px black outline) from Ra's (RIGHT panel): "Then you will burn with it."
 
 STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```

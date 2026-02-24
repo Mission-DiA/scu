@@ -9,9 +9,13 @@
 # Keep README files in images directories
 !**/image_prompts/**/images/README.md
 
+# Extended cut images and generated PDFs
+**/extended-cut/images/
+*.pdf
+
 # OS files
 .DS_Store
-*/.DS_Store
+**/.DS_Store
 
 # Editor files
 *.swp

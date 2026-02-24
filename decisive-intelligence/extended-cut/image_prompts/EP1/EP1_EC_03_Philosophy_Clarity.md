@@ -635,45 +635,112 @@ STYLE: Photorealistic, cinematic, near-darkness triptych. Full bleed to all edge
 
 ---
 
-### SLIDE 36 — SECOND ATTEMPT: HEARING (Panels 14.6-14.8 COMBINED)
-**SPLIT PANEL — SENSE AND MISS**
+### SLIDE 36 — SECOND ATTEMPT: THE DODGE (Panel 14.6-14.7)
+**SPLIT PANEL — LISTEN AND EVADE**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
 
-SCENE: Second attempt — Bruce hears the attacker but can't process fast enough.
+SCENE: Second attempt — Bruce HEARS the attacker and DODGES the sword. Progress.
 
 COMPOSITION:
-- SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: Bruce stands again, blindfolded, but different — head tilted, LISTENING more intently. His posture is more alert. Sound wave visualization — subtle ripples in the air suggesting footsteps, breathing
-- RIGHT: Three figures visible. On the LEFT side of the panel, a masked attacker's ninjatō swings through EMPTY AIR where Bruce WAS standing — Bruce has dodged it, his body leaning away from the blade. But on the RIGHT side of the panel, a SECOND masked attacker drives an elbow into Bruce's ribs from behind. Bruce's mouth is open in pain, doubling over from the hit. He dodged one but missed the other.
+- SPLIT PANEL: Two vertical halves, thin white line (1-2px) dividing
 
-LEFT — LISTENING:
+LEFT PANEL — LISTENING:
+- Bruce stands in darkness, blindfolded. Different from before — head TILTED to one side, LISTENING. His posture is alert, weight shifted to balls of feet, ready to move.
+- Subtle blue-white sound wave ripples radiate outward from his ears — concentric arcs suggesting he's picking up footsteps, breathing, movement.
+- He SENSES something approaching from behind.
+
+RIGHT PANEL — THE DODGE:
+- A masked League attacker swings a steel ninjatō in a horizontal arc — the blade cuts through EMPTY AIR. Clear gap between blade and Bruce.
+- Bruce is BELOW the swing — he has ducked and twisted his torso sideways, leaning hard to his right. The blade passes ABOVE his left shoulder.
+- Bruce's face shows shock mixed with triumph — mouth open, blindfold still on, he FELT the blade pass over him. He dodged it.
+- The attacker is committed to the swing, off-balance from the miss.
+
 BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, blindfolded, athletic build, 6'0"
-- Costume: Dark grey (#4B5563) League training tunic, bare feet, BLACK CLOTH BLINDFOLD
-- Expression: Concentrated, head tilted, listening
-- Action: Standing alert, processing sound
-- Position: Center of dark hall
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair grown out and unkempt, stubble on strong jaw, blindfolded, athletic muscular build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet, BLACK CLOTH BLINDFOLD tied around eyes
+- LEFT expression: Concentrated, head tilted, listening intently
+- RIGHT expression: Shock and relief — he dodged it
 
-RIGHT — PARTIAL SUCCESS:
-- Bruce in the CENTER — leaning away from the first attacker's missed sword swing on his LEFT
-- Second attacker on his RIGHT driving elbow into Bruce's ribs from behind
-- The missed sword swing shows PROGRESS (he dodged it!) — the elbow shows he's not there yet
+LEAGUE ATTACKER (RIGHT PANEL):
+- Dark-robed figure, face covered by black mask/balaclava
+- Mid-swing, sword arm extended, body rotated from the horizontal slash
+- Carries a STEEL ninjatō (straight blade, ~60cm, square metal tsuba, dark leather-wrapped hilt)
+
+SWORD REFERENCE: Every sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt. NOT wooden. NOT a katana. NOT a broadsword.
 
 WHAT NOT TO DRAW:
 - NO wooden swords — steel ninjatō only
-- The first attacker's sword must be swinging through EMPTY AIR — it clearly MISSED Bruce
+- NO curved blades — ninjatō are STRAIGHT
+- The blade MUST pass through empty air — visible gap between blade and Bruce's body
+- NO contact between blade and Bruce — he DODGED it successfully
+- NO desks, chairs, furniture
 
 ATMOSPHERE:
-- Hearing was progress but not mastery
-- Each failure teaches something specific
+- Progress — he heard it, he moved, he survived
+- The first glimmer of learning
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) top: "Second attempt. He heard them coming. But hearing wasn't enough."
+- Caption (dark navy #1a1a4e, white text) top: "Second attempt. He heard them coming."
 
 STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 36B — SECOND ATTEMPT: THE MISS (Panel 14.8)
+**SINGLE PANEL — HIT FROM BEHIND**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Immediately after dodging the first attacker — a SECOND attacker strikes Bruce from behind. He heard one, but not the other.
+
+COMPOSITION:
+- Bruce is in the CENTER of the frame, still blindfolded, still in his ducked/twisted position from dodging the first swing.
+- A SECOND masked League attacker is BEHIND Bruce, driving a hard elbow strike into Bruce's ribs/side from his blind spot.
+- Bruce's body BUCKLES from the impact — mouth open in pain, torso folding around the elbow, knees buckling.
+- In the BACKGROUND (slightly blurred), the first attacker recovers from his missed swing, sword still in hand.
+- The visual story: Bruce successfully avoided the FIRST threat but was blindsided by the SECOND. Hearing one attacker isn't enough when there are many.
+
+BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair grown out and unkempt, stubble on strong jaw, blindfolded, athletic muscular build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet, BLACK CLOTH BLINDFOLD tied around eyes
+- Expression: Pain — mouth open, body folding, caught off guard
+- Action: Doubling over from elbow strike to ribs, knees buckling
+- Position: Center frame, receiving blow from behind
+
+SECOND LEAGUE ATTACKER (STRIKING):
+- Dark-robed figure, face covered by black mask/balaclava
+- Positioned BEHIND Bruce, right elbow driven into Bruce's ribs/side
+- Close combat — no weapon, pure hand-to-hand strike
+- Body pressing forward into the blow
+
+FIRST LEAGUE ATTACKER (BACKGROUND):
+- Slightly out of focus, in background
+- Recovering from missed sword swing, turning back toward Bruce
+- Carries same STEEL ninjatō
+
+SWORD REFERENCE: Every sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt. NOT wooden. NOT a katana.
+
+WHAT NOT TO DRAW:
+- NO wooden swords
+- NO weapons in the second attacker's hands — this is an ELBOW STRIKE, bare-handed
+- NO desks, chairs, furniture
+- The second attacker must be BEHIND Bruce — attacking from his blind spot
+
+ATMOSPHERE:
+- So close, but not enough
+- Hearing one threat doesn't mean sensing ALL threats
+- Failure that contains a lesson
+
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) top: "But hearing wasn't enough."
+
+STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -725,27 +792,37 @@ STYLE: Photorealistic, cinematic, darkness with partial light. Full bleed to all
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL. OVERHEAD.
 
-SCENE: Overhead view — Bruce is perfectly positioned between three attackers he cannot see.
+SCENE: Overhead view — Bruce has ALREADY MOVED to the perfect position between three attackers. He sensed them and repositioned BEFORE they could attack. They are still closing in. He beat them to it.
 
 COMPOSITION:
-- VIEW FROM ABOVE looking down into the dark training hall
-- BRUCE in the exact CENTER, blindfolded, sword ready
-- THREE ATTACKERS approaching from different angles — we can see them even though Bruce cannot
-- Bruce is positioned PERFECTLY between all three
-- The geometry is visible from above — he is in the exact right place
-- Dim ambient light reveals the positions
+- VIEW FROM ABOVE looking down into the dark training hall — bird's eye angle
+- BRUCE in the exact CENTER of the frame, blindfolded — but his body is DYNAMIC, not static. He has JUST arrived at this position. One foot planted forward, the other still sliding into place, weight transferring. His body shows MOTION — he moved here a split-second ago.
+- THREE ATTACKERS are still MID-APPROACH from three different angles — they are 8-10 feet away, NOT yet in striking range. They are still CLOSING IN. Their body language shows forward movement — leaning in, stepping toward Bruce.
+- The GEOMETRY from above reveals the truth: Bruce is in the ONE spot equidistant from all three where none can reach him simultaneously. He found the gap.
+- Dim ambient light reveals the positions — the overhead view makes the tactical positioning visible
+
+KEY VISUAL: Bruce's stance must show MOVEMENT — he is NOT standing still like a target. He pivoted, shifted, repositioned. His tunic shows motion blur or fabric trailing from the move. This is a man who MOVED FIRST.
 
 BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, athletic muscular build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, bare feet, BLACK CLOTH BLINDFOLD
-- Expression: Not visible from above — but posture shows total readiness
-- Action: Standing ready, sword positioned
-- Position: Exact center, between three approaching threats
+- Expression: Not visible from above — but posture shows total readiness, coiled energy
+- Action: JUST ARRIVED at this position — one foot planted, other sliding into place, STEEL ninjatō held in both hands angled forward. Weight low, knees bent, dynamic combat stance. NOT standing upright. NOT static.
+- Position: Exact center, between three approaching threats — the geometry is perfect
 
 THREE ATTACKERS:
-- Dark-robed figures approaching from three different angles
-- Visible from overhead but hidden from Bruce's perspective
-- Each carrying ninjatō
+- Dark-robed figures approaching from three different angles (roughly 120° apart)
+- Still 8-10 feet away — NOT yet in striking range. Still CLOSING IN, mid-stride
+- Their body language shows they are the ones reacting — Bruce moved first, they are adjusting
+- Each carrying a STEEL ninjatō — identical to Bruce's
+
+SWORD REFERENCE (ALL FIGURES): Every sword in this slide is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blades are METAL — grey steel with light reflections. NO brown, tan, or wood-colored blades anywhere in the image.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — all blades are GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
+- NO desks, chairs, furniture
 
 ATMOSPHERE:
 - Awareness has replaced sight
@@ -779,15 +856,23 @@ BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, blindfolded, athletic muscular build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, bare feet, BLACK CLOTH BLINDFOLD
 - Expression: Focused, fluid movement, mastery
-- Action: LEFT — ducking. CENTER — deflecting. RIGHT — sweeping
+- Action: LEFT — ducking under sword swing. CENTER — deflecting STEEL ninjatō with his own STEEL ninjatō, sparks flying. RIGHT — sweeping legs
 - Position: Center of each panel, in motion
 
+SWORD REFERENCE (ALL PANELS): Every sword in this slide is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blades are METAL — grey steel with light reflections. NO brown, tan, or wood-colored blades anywhere in the image.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — all blades are GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
+- NO desks, chairs, furniture
+
 ATMOSPHERE:
-- Mastery through awareness
-- The first pillar demonstrated
+- Speed and precision — the execution of awareness
+- Three threats, three solutions, no hesitation
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) spanning bottom: "He moved before they did."
+- Caption (dark navy #1a1a4e, white text) spanning bottom: "Three moves. Three seconds. Three down."
 
 STYLE: Photorealistic, cinematic, action triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
@@ -814,15 +899,24 @@ BRUCE WAYNE (BLINDFOLDED) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, blindfolded, athletic muscular build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, bare feet, BLACK CLOTH BLINDFOLD
 - Expression: Victorious, breathing hard, jaw set
-- Action: Standing ready, sword in hand
+- Action: Standing ready, STEEL ninjatō held at his side in right hand, blade pointing down
 - Position: Center, three defeated figures around him
+
+SWORD REFERENCE: Bruce's sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blade is METAL — grey steel with light reflections. NO brown, tan, or wood-colored blade.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — all blades are GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
+- NO desks, chairs, furniture
 
 ATMOSPHERE:
 - Mastery achieved
 - Seeing without eyes
 
 TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline) from Ducard (off-panel but present): "You see now. Not with eyes. With awareness."
+- Caption (dark navy #1a1a4e, white text) top-right corner: "You see now. Not with eyes. With awareness." — Ducard
+- NO speech bubble — this is a CAPTION BOX, rectangular, no tail/pointer
 
 STYLE: Photorealistic, cinematic, dramatic lighting. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```

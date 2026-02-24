@@ -323,15 +323,22 @@ RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense cold blue eyes, tall lean powerful build, 6'4"
 - Costume: Black ceremonial League robes with dark brown accents
 - Expression: Fierce, attacking his former student
-- Action: Sword striking, pressing the attack
+- Action: STEEL ninjatō striking downward, pressing the attack
 - Position: Attacking, blade connecting with gauntlet
 
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, determined eyes, 6'0"
 - Costume: Full black Batsuit, gauntlets raised in defense, fin blades deflecting
 - Expression: Determined, blocking
-- Action: Gauntlets raised, blocking sword, sparks flying
+- Action: Gauntlets raised, blocking STEEL ninjatō blade, sparks flying from metal-on-metal impact
 - Position: Defensive stance
+
+SWORD REFERENCE: Ra's sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blade is METAL — grey steel with light reflections. NO brown, tan, or wood-colored blade.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — the blade is GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
 
 ATMOSPHERE:
 - Every move Ra's makes, he taught Bruce
