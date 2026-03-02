@@ -24,8 +24,12 @@ COMPOSITION:
 
 ALL PANELS — BRUCE:
 BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair, strong jaw, intense eyes, athletic muscular build, 6'0"
-- Costume: TOP LEFT — tuxedo remnants. TOP RIGHT — undersuit mid-transformation. BOTTOM LEFT — mostly suited. BOTTOM RIGHT — almost complete, holding cowl
+- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair messy with ash, strong jaw, intense eyes, athletic muscular build, 6'0"
+- Costume progression across panels:
+  - TOP LEFT: NO JACKET (lost in Slide 69B), white dress shirt torn and blackened with soot, sleeves rolled up, black trousers dirty and scorched. NO bow tie. He came straight from the fire — his clothes show it.
+  - TOP RIGHT: Shirt REMOVED, bare torso visible, pulling on the black Batsuit undersuit/armored plates
+  - BOTTOM LEFT: Mostly suited in black Batsuit armor, gauntlets being attached
+  - BOTTOM RIGHT: Almost complete Batsuit, holding the cowl
 - Expression: Determined, focused, becoming something else
 - Position: Before the suit, transforming
 
@@ -352,6 +356,57 @@ STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "D
 
 ---
 
+### SLIDE 81B — RA'S PRESSES THE ATTACK (Panel 24.4)
+**SINGLE — TEACHER'S ADVANTAGE**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Ra's has the upper hand. He drives Batman backward down the monorail car. The teacher is winning.
+
+COMPOSITION:
+- INSIDE the monorail car. Dark industrial interior, city lights blurring past windows.
+- RA'S dominates the frame — foreground RIGHT, moving LEFT, driving forward with his sword. Aggressive, relentless. He is the ATTACKER. His robes sweep with the momentum of his strikes.
+- BATMAN is being pushed BACK — background LEFT, gauntlets up in defense, body leaning away from the sword's arc. He's blocking but LOSING ground. Feet sliding on the train floor.
+- The sword has just swept across — a SLASH MARK visible on Batman's chest armor. First blood. Ra's is cutting through his student's defenses.
+- The train interior frames them — ceiling, handrails, emergency lighting. Confined space.
+
+RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense cold blue eyes, tall lean powerful build, 6'4"
+- Costume: Black (#0A0A0A) ceremonial League of Shadows robes with dark brown (#3D2914) accents, high collar, ornate belt with League symbol
+- Expression: Cold confidence — the teacher proving a point
+- Action: Driving forward with sword, pressing the attack
+- Position: Foreground right, dominant, advancing
+
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, strained eyes, 6'0"
+- Costume: Full black Batsuit — BLACK COWL ON HEAD with pointed ear extensions, lower face and jaw exposed. Matte black armoured plates. Gauntlets raised in defense, NEW slash mark across chest plate. Black cape behind. Black utility belt. COWL IS ON — Batman is fully masked.
+- Expression: Strained, on the back foot — being outfought
+- Action: Blocking, retreating, losing ground
+- Position: Background left, defensive, being pushed back
+
+SWORD REFERENCE: Ra's sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. NOT a bamboo practice sword. The blade is METAL — grey steel with light reflections. NO brown, tan, or wood-colored blade.
+
+WHAT NOT TO DRAW:
+- NO wooden swords, bamboo swords, or practice swords of any kind
+- NO brown/tan colored blades — the blade is GREY STEEL
+- NO curved blades — ninjatō are STRAIGHT
+- NO exterior shot — they are INSIDE the monorail
+- NO complex choreography — one clear action: Ra's driving forward, Batman falling back
+
+ATMOSPHERE:
+- The teacher still has the edge
+- "You were my greatest student. But you never learned to finish the fight."
+
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) bottom: "Ra's had taught him everything. Including how to lose."
+
+STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
 ### SLIDE 82 — CLARITY CALLBACK (Panels 24.5-24.7 COMBINED)
 **SINGLE — FIRST PILLAR APPLIED**
 
@@ -359,37 +414,89 @@ STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "D
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Batman counters Ra's with a strike he didn't expect — CLARITY applied.
+SCENE: CLARITY — Batman alone INSIDE the moving monorail. Tight shot on his upper body. Calm amid chaos. He sees everything.
 
 COMPOSITION:
-- BATMAN blocks, blocks — then COUNTERS with an unexpected strike
-- RA'S stumbles, surprised — the student has learned something he didn't teach
-- Batman presses the attack, focused on one thing at a time
-- The train interior around them, speeding through Gotham
-- Power shifting from mentor to student
+- TIGHT MEDIUM CLOSE-UP — Batman from the CHEST UP, centered in the frame. NOT an extreme close-up on just the face — show enough of his torso and shoulders so the INTERIOR SETTING is clearly visible around him.
+- He stands INSIDE the monorail car. The CEILING of the train is visible ABOVE him — dark metal roof with emergency strip lighting. METAL HANDRAILS frame either side. Train SEATS or WALLS visible in the periphery. The interior is dark, industrial, confined.
+- City lights STREAK past the windows BEHIND him — horizontal blurs of white and amber light showing the train's speed. The windows are BEHIND Batman, we see THROUGH them to the blurred city outside.
+- Batman's face and upper body are SHARP and pin-focused. Everything around him — the interior, the streaking lights — is in MOTION BLUR. The contrast IS the story: chaos around him, stillness within.
+- His eyes are CALM, FOCUSED, STILL. No panic, no rage. Pure clarity.
+- Battle damage visible on the cowl and Batsuit — scratches, scuffs, and a DIAGONAL SLASH MARK across the chest plate from Ra's sword (from Slide 81B). He's been fighting, but his mind is clear.
 
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, focused eyes, 6'0"
-- Costume: Full black Batsuit, in combat stance, pressing forward
-- Expression: Focused, clear, knowing exactly what matters
-- Action: Counterattacking, pressing forward
-- Position: Advancing on Ra's
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, calm focused eyes, small cut on lip, 6'0"
+- Costume: Full black Batsuit — matte black armoured plates on chest and shoulders visible, scratched and battle-worn. DIAGONAL SLASH MARK across the chest plate — a visible gouge in the armor from Ra's sword strike. Black cowl with pointed ear extensions, lower face and jaw exposed. Cape behind him. Gauntlets visible at chest level. COWL IS ON.
+- Expression: Absolute calm focus. Eyes steady, jaw relaxed but firm. A man who sees through everything. No strain, no fear, no rage. CLARITY.
+- Position: Standing inside the monorail, chest-up framing, centered
 
-RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, shocked blue eyes, 6'4"
-- Costume: Black ceremonial League robes
-- Expression: Surprised — the student has surpassed the lesson
-- Action: Stumbling, defending
-- Position: Being driven back
+WHAT NOT TO DRAW:
+- NO Ra's in this slide — Batman ALONE
+- NO other characters
+- NO exterior shot — Batman is INSIDE the monorail, NOT standing outside or on top of the train
+- NO outdoor/platform background — the background is the INTERIOR of the train car with windows showing city blur
+- NO full body shot — chest up only
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
-- The first pillar in action
-- Cut through noise to what matters
+- The world is noise. He is signal.
+- The first pillar in action — cut through everything to what matters
 
 TEXT OVERLAY:
 - Caption (blue #4A90D9, white text, bold) bottom: "CLARITY. Cut through noise to what matters."
 
-STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, tight medium close-up INSIDE train interior with motion blur. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 82B — THE TURN (Panel 24.7B)
+**SINGLE — STUDENT SURPASSES**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: The turning point. Batman CATCHES Ra's sword with both gauntlets and REDIRECTS it aside. The student has found the opening. Ra's is exposed.
+
+COMPOSITION:
+- INSIDE the monorail car. Same dark interior — ceiling, handrails, emergency lighting, city blur through windows.
+- BATMAN is now the dominant figure — foreground LEFT, facing RIGHT. He has CAUGHT Ra's sword blade between BOTH gauntleted forearms — the fin blades on his gauntlets trapping the ninjatō. He is TWISTING the blade aside, OPENING Ra's guard.
+- RA'S is exposed — his sword caught and redirected, his body pulled forward off-balance by Batman's redirection. His face shows the first flash of surprise. The teacher didn't expect this.
+- The moment of the TURN — power shifting from teacher to student. One clear action: catch, redirect, expose.
+- SPARKS from the metal-on-metal contact between gauntlets and blade.
+
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, calm focused eyes — CLARITY in action, 6'0"
+- Costume: Full black Batsuit — scratched, slash mark on chest from 81B. Both gauntlets gripping/trapping Ra's blade between the fin blades. Cape behind.
+- Expression: Calm, controlled — he SEES the opening. This is clarity applied.
+- Action: Both gauntlets trapping Ra's sword blade, twisting it aside
+- Position: Foreground left, dominant, taking control
+
+RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, blue eyes wide with surprise, 6'4"
+- Costume: Black (#0A0A0A) ceremonial League robes with dark brown (#3D2914) accents, high collar
+- Expression: Surprise — first flash of realization that the student has changed
+- Action: Pulled forward off-balance, sword caught and redirected
+- Position: Background right, off-balance, exposed
+
+SWORD REFERENCE: Ra's sword is a STEEL ninjatō — straight blade (NOT curved), approximately 60cm long, square metal tsuba (hand guard), dark leather-wrapped hilt, METALLIC SHEEN on blade surface. NOT wooden. NOT a katana. NOT a broadsword. The blade is METAL — grey steel with light reflections. NO brown, tan, or wood-colored blade.
+
+WHAT NOT TO DRAW:
+- NO wooden swords or brown/tan blades — GREY STEEL only
+- NO curved blades — ninjatō are STRAIGHT
+- NO exterior shot — they are INSIDE the monorail
+- NO complex multi-step choreography — ONE clear action: Batman traps the blade, Ra's is pulled off-balance
+- NO knife or dagger — FULL-LENGTH 60cm ninjatō sword
+
+ATMOSPHERE:
+- The moment everything shifts
+- Clarity applied — he saw the opening Ra's didn't know he left
+
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) bottom: "Then Bruce stopped fighting his teacher's fight. And started fighting his own."
+
+STYLE: Photorealistic, cinematic, action turning point. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -401,36 +508,83 @@ STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "D
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Batman strikes Ra's without hesitation — COURAGE applied.
+SCENE: COURAGE — Batman alone, charging down the monorail car. Moving first. No hesitation.
 
 COMPOSITION:
-- BATMAN's fist connects with RA'S face — no hesitation
-- The impact is clear, decisive
-- Ra's reeling from the blow
-- Train interior blurring around them from speed
-- Batman acting without waiting for certainty
+- WIDE SHOT from the far end of the monorail car, looking DOWN the length of the car.
+- BATMAN is running TOWARD THE CAMERA down the center aisle of the dark monorail. Cape streaming behind him, body low and driving forward. Full sprint.
+- He is the ONLY figure in the frame — a dark armored shape barreling forward through the dim train interior.
+- Gotham city lights streak past the windows on both sides — horizontal blurs of light showing the train's speed.
+- The monorail interior is dark — metal walls, emergency lighting, industrial. The only bright elements are the city lights through windows and the glint off Batman's armor.
+- His body language is pure FORWARD MOMENTUM — no hesitation, no looking back, no defensive posture. Just GO.
 
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, determined, 6'0"
-- Costume: Full black Batsuit, gauntlets extended in strike
-- Expression: No hesitation, courage in action
-- Action: Fist connecting with Ra's face
-- Position: Mid-strike
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, fierce determined eyes, 6'0"
+- Costume: Full black Batsuit — scratched and battle-worn. Cape streaming behind from the speed of his charge. NOT pristine.
+- Expression: Fierce forward momentum — no hesitation, no calculation, just action
+- Action: Running full speed toward camera, body low, driving forward, cape flying behind
+- Position: CENTER of frame, charging toward camera
 
-RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, face taking the impact, 6'4"
-- Costume: Black ceremonial League robes
-- Expression: Taking the blow, reeling
-- Position: Being struck
+WHAT NOT TO DRAW:
+- NO Ra's in this slide — Batman ALONE
+- NO other characters
+- NO static poses — Batman is in FULL SPRINT
+- NO bright modern train — dark industrial Gotham monorail
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
-- Moving before certainty
-- The second pillar applied
+- The second pillar in action — move before you're ready
+- Forward is the only direction
 
 TEXT OVERLAY:
 - Caption (red #EF4444, white text, bold) bottom: "COURAGE. Move before you're ready."
 
-STYLE: Photorealistic, cinematic, impact shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, dynamic motion wide shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 83B — RA'S FALLS BACK (Panel 24.8B)
+**SINGLE — THE TEACHER BEATEN**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Ra's has lost. He staggers backward inside the monorail, swordless, defeated by his own student.
+
+COMPOSITION:
+- INSIDE the monorail car. Dark interior, city lights streaking past windows, emergency lighting.
+- RA'S dominates this frame — but as the DEFEATED figure. He has staggered backward against the train wall, catching himself on a handrail. His sword is GONE — knocked away, lying on the train floor several feet from him.
+- His robes are disheveled, torn at the collar. Sweat on his face. But his expression is NOT despair — it is RECOGNITION. Pride mixed with defeat. His student surpassed him.
+- Batman is NOT in this frame. We see Ra's alone with his defeat. The sword on the floor tells the story.
+- The monorail interior shakes — we can feel the speed and instability.
+
+RA'S AL GHUL (LEAGUE ROBES — BATTLE-WORN) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair now disheveled, blue eyes showing recognition and grudging pride, sweat on brow, 6'4"
+- Costume: Black (#0A0A0A) ceremonial League robes — NOW torn at the collar, disheveled, accents coming loose. High collar partially ripped. The pristine leader is undone.
+- Expression: Recognition — his student has surpassed him. Not despair, not rage. The teacher acknowledging the student grew beyond the lesson.
+- Action: Catching himself on a handrail, staggered against the train wall
+- Position: Center of frame, alone, defeated but dignified
+
+THE SWORD ON THE FLOOR:
+- Ra's STEEL ninjatō lies on the train floor — straight blade, 60cm, grey steel with metallic sheen, dark leather hilt. It is SEPARATED from Ra's by several feet. He cannot reach it. The fight is over.
+
+WHAT NOT TO DRAW:
+- NO Batman in this slide — Ra's ALONE with his defeat
+- NO wooden swords — the sword on the floor is GREY STEEL
+- NO curved blades
+- NO exterior shot — INSIDE the monorail
+- NO illustrated or cartoon style — PHOTOREALISTIC only
+
+ATMOSPHERE:
+- The teacher beaten by his own curriculum
+- Pride in defeat — he created something greater than himself
+
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) bottom: "The teacher had nothing left to teach."
+
+STYLE: Photorealistic, cinematic, dramatic defeat. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -442,159 +596,179 @@ STYLE: Photorealistic, cinematic, impact shot. Full bleed to all edges. WATERMAR
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Ra's is down on one knee. Batman stands over him — COMMITMENT applied.
+SCENE: COMMITMENT — Batman at the train controls, deliberately destroying the track switch. No going back. He has committed to stopping this train even if it means destroying it.
 
 COMPOSITION:
-- RA'S is down on ONE KNEE — defeated
-- BATMAN stands OVER him — dominant, certain
-- The train speeds toward Wayne Tower visible through the window
-- The student has surpassed the mentor
-- No half-measures — fully committed to stopping Ra's
+- BATMAN alone at the monorail control panel, seen from behind/side angle.
+- His gauntleted fist has just SMASHED the control panel — sparks flying from the destroyed controls, wires exposed, switches broken. He has made the train unstoppable. No one can stop it now — not even him.
+- Through the windshield ahead: the monorail track stretches forward into the Gotham night, heading toward a COLLAPSED SECTION — the gap visible in the distance, Wayne Tower looming beyond it.
+- Batman's cape drapes behind him, his posture is upright and resolved. He CHOSE this. No half-measures.
+- The destroyed controls SPARK at his feet — the point of no return.
 
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, standing dominant, 6'0"
-- Costume: Full black Batsuit, standing tall, cape behind
-- Expression: Committed, no retreat
-- Action: Standing over fallen Ra's
-- Position: Above Ra's, dominant
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl visible in profile or three-quarter view, resolved eyes, 6'0"
+- Costume: Full black Batsuit — scratched and battle-worn. Cape behind. NOT pristine.
+- Expression: Iron resolve — he has removed every other option. This is commitment.
+- Action: Standing at the destroyed control panel, fist still near the smashed controls, sparks flying
+- Position: At the front of the train, seen from behind/side
 
-RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, weakened, 6'4"
-- Costume: Black ceremonial League robes, disheveled from combat
-- Expression: Defeated but prideful
-- Action: On one knee, looking up at Batman
-- Position: Below Batman, on one knee
+WHAT NOT TO DRAW:
+- NO Ra's in this slide — Batman ALONE
+- NO other characters
+- NO intact control panel — it is SMASHED and sparking
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
 - Fully committed, no half-measures
+- He burned the bridge. The only way out is through.
 - The third pillar demonstrated
 
 TEXT OVERLAY:
 - Caption (white #FFFFFF fill, black text, bold) bottom: "COMMITMENT. Remove every other option."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, dramatic interior. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 85 — MOVEMENT CALLBACK (Panel 24.10)
+### SLIDE 85 — I WON'T KILL YOU (Panels 24.13-24.16)
+**SINGLE — FACE TO FACE**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: The defining moment. Batman stands over his defeated mentor inside the doomed monorail. Ra's is beaten, disarmed, on his knees. Batman looks down at him and delivers the line that defines his code. They are FACE TO FACE — inches apart.
+
+COMPOSITION:
+- INSIDE the monorail car. Dark industrial interior. The train SHAKES violently — it is speeding toward a gap in the elevated track. Through the cracked windshield behind Ra's: the track ENDS. Open air. The train has nowhere to go. This is visible to BOTH of them.
+- RA'S AL GHUL is on his KNEES in the center of the train car. His sword is gone. His robes are torn. He looks UP at Batman — not with fear, but with ACCEPTANCE. Almost pride. He knows he is going to die. He asks: "Have you finally learned to do what is necessary?"
+- BATMAN stands DIRECTLY OVER Ra's, looking DOWN at him. Towering. Cape drapes behind him. His posture is calm, certain, resolved. No rage, no vengeance. He is choosing MERCY — but not rescue. He delivers the line looking Ra's in the eye.
+- The POWER DYNAMIC is reversed from their entire history: the teacher is now below, the student above. The framing makes this unmistakable.
+- Camera angle: LOW, slightly behind and to the side of Ra's, looking UP at Batman's face. We see Ra's from behind/profile and Batman's full face above.
+
+RA'S AL GHUL (LEAGUE ROBES — BATTLE-WORN) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair now disheveled and sweat-soaked, blue eyes looking upward with acceptance and grudging pride, tall but KNEELING, 6'4"
+- Costume: Black (#0A0A0A) ceremonial League of Shadows robes — torn at the collar and shoulder, disheveled, battle-damaged. High collar partially ripped. The pristine leader is undone.
+- Expression: Acceptance. Not fear, not begging. He knows he will die. There is pride in his eyes — his student surpassed him. "Have you finally learned to do what is necessary?"
+- Action: On his knees, looking UP at Batman
+- Position: Center-low in the frame, on knees, facing up toward Batman
+
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, calm certain eyes looking DOWN at Ra's, 6'0"
+- Costume: Full black Batsuit — scratched and battle-worn from the fight. Black cowl with pointed ear extensions. Cape draping behind. Gauntlets at his sides — NOT clenched, NOT aggressive. Calm hands. Black utility belt. COWL IS ON.
+- Expression: Calm conviction. No anger, no hatred, no triumph. Justice. He will not kill this man, but he will not save him either. The moral line drawn.
+- Action: Standing over Ra's, looking down, delivering the line
+- Position: Standing tall, CENTER-HIGH in the frame, towering over the kneeling Ra's
+
+WHAT NOT TO DRAW:
+- NO door, NO exit — Batman is NOT leaving yet. He is standing RIGHT HERE facing Ra's.
+- NO walking away — Batman is stationary, face to face with Ra's
+- NO Ra's standing — he is on his KNEES
+- NO sword in Ra's hand — he is disarmed. The sword is on the floor away from him.
+- NO rage or violence from Batman — this is calm, principled refusal
+- NO illustrated or cartoon style — PHOTOREALISTIC only
+
+ATMOSPHERE:
+- The student's code applied — justice, not murder
+- Mercy without rescue
+- The moral line that separates Batman from Ra's
+
+TEXT OVERLAY:
+- Speech bubble (white fill, black text, 2px black outline) from Batman: "I won't kill you. But I don't have to save you."
+
+STYLE: Photorealistic, cinematic, dramatic two-shot, low angle. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 86 — MOVEMENT: LEFT BEHIND (Panels 24.17-24.18)
 **SINGLE — FOURTH PILLAR APPLIED**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Batman takes the train controls — forward is the only direction. MOVEMENT applied.
+SCENE: MOVEMENT — Ra's al Ghul is ALONE in the doomed monorail. Batman is already gone. The student moved forward. The teacher remains.
 
 COMPOSITION:
-- BATMAN at the train controls, overriding them
-- RA'S recovering behind him
-- Through the windshield — the track ahead, Wayne Tower approaching
-- Batman switching the track — redirecting the train toward the gap
-- Forward action, no retreat, burning the bridge
+- INSIDE the monorail car. Ra's al Ghul is the ONLY figure in the frame. He kneels alone in the center of the dark train car. Batman is GONE — escaped, vanished. The space where Batman stood moments ago is EMPTY.
+- Ra's is on his KNEES, eyes CLOSED, chin raised slightly. His posture is not defeat — it is ACCEPTANCE. Peace. He knows the train will crash. He does not fight it. He does not try to escape. The mentor accepts the end.
+- Through the FRONT WINDSHIELD behind Ra's: the monorail track stretches forward and then ENDS — a visible GAP in the elevated track where the supports were destroyed. Beyond the gap: Gotham skyline, night sky, city lights. The train hurtles toward the break. Seconds remain.
+- The train car interior is dark, industrial — emergency lighting, metal walls, handrails. Debris from the fight scattered on the floor. Ra's sword lies on the ground near him, abandoned.
+- The EMPTINESS of the train is the point — one man, alone, accepting his fate. The student already moved forward.
 
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, focused on controls, 6'0"
-- Costume: Full black Batsuit, gauntlets on the controls
-- Expression: Focused, executing the plan
-- Action: Hands on controls, overriding the system
-- Position: At the train controls
+RA'S AL GHUL (LEAGUE ROBES — BATTLE-WORN) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair disheveled and sweat-soaked, eyes CLOSED, chin raised slightly, serene expression, 6'4"
+- Costume: Black (#0A0A0A) ceremonial League of Shadows robes — torn at the collar and shoulder, disheveled, battle-damaged. High collar partially ripped. Belt loosened. The pristine leader is undone.
+- Expression: Eyes closed. Acceptance. Almost peaceful. Not fear, not rage, not despair. A man who lived by the sword and accepts dying by his own philosophy. There is even a trace of a smile — pride that his student surpassed him.
+- Action: Kneeling, still, eyes closed, chin raised. Hands resting on his thighs. No struggle.
+- Position: CENTER of frame, on knees, the only figure in the entire train car
 
-RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, recovering from combat, 6'4"
-- Costume: Black ceremonial League robes, disheveled
-- Expression: Realizing what Batman is doing
-- Position: Behind Batman, recovering
+THE SWORD:
+- Ra's steel ninjatō lies on the train floor near his knees — straight blade, grey steel, dark leather hilt. Abandoned. He does not reach for it.
+
+WHAT NOT TO DRAW:
+- NO Batman — he is GONE. The train car is EMPTY except for Ra's.
+- NO hole in the floor — Batman's escape method is not shown
+- NO other characters — Ra's is completely alone
+- NO Ra's standing or fighting — he is on his knees, still, accepting
+- NO eyes open — Ra's eyes are CLOSED
+- NO fear or desperation on Ra's face — this is ACCEPTANCE
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
-- Forward is the only direction
-- Burning the bridge behind him
+- The student moved forward. The teacher stays behind.
+- Acceptance is its own kind of courage
+- Stillness before the end
 
 TEXT OVERLAY:
-- Caption (orange #F97316, white text, bold) bottom: "MOVEMENT. Burn the bridge behind you."
+- Caption (orange #F97316, white text, bold) bottom: "MOVEMENT. Forward is the only direction."
 
-STYLE: Photorealistic, cinematic. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, haunting solitude. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 86 — I WON'T KILL YOU (Panels 24.13-24.18 COMBINED)
-**VERTICAL TRIPTYCH — FINAL EXCHANGE**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. VERTICAL TRIPTYCH.
-
-SCENE: The final exchange — Ra's knows he's beaten. Batman delivers the defining line.
-
-COMPOSITION:
-- THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
-- LEFT: RA'S realizes what Batman has done — the train heads for a collapsed section. No escape. His face shows he knows
-- CENTER: BATMAN at the train door, wind blasting in. Cape spreading. Preparing to jump. Calm, certain
-- RIGHT: Close on BATMAN's face beneath the cowl — calm, certain, delivering the final words
-
-LEFT — RA'S:
-RA'S AL GHUL (LEAGUE ROBES) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, blue eyes showing defeat and pride, 6'4"
-- Costume: Black ceremonial League robes, battle-worn
-- Expression: Knowing — trapped, beaten by his own student, pride despite loss
-- Position: In the doomed train car
-
-CENTER — BATMAN AT DOOR:
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, calm certain expression, 6'0"
-- Costume: Full black Batsuit, cape beginning to spread in the wind
-- Expression: Calm, certain, justice not murder
-- Action: At the open train door, wind blasting, preparing to jump
-- Position: At the door, cape spreading
-
-RIGHT — BATMAN CLOSE:
-- Same Batman, close-up on face
-- Calm, certain, the line delivered
-
-ATMOSPHERE:
-- Justice, not murder
-- The student's code applied
-
-TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline) from Batman (right panel): "I won't kill you. But I don't have to save you."
-
-STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 87 — THE LEAP (Panels 24.19-24.20 COMBINED)
-**SPLIT PANEL — ESCAPE AND DESTRUCTION**
+### SLIDE 87 — CRASH AND FALL (Panels 24.19-24.20)
+**SPLIT PANEL — GRAPPLE FLIGHT AND DESTRUCTION**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
 
-SCENE: Batman leaps from the doomed train. The train flies off the broken track.
+SCENE: Two simultaneous moments — Batman swinging away beneath the elevated track on his grapple line, and the monorail flying off the broken track into destruction.
 
 COMPOSITION:
-- SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: BATMAN LEAPS from the train — cape spread as GLIDER wings. Flying against Gotham's night sky. Free
-- RIGHT: The train FLIES off the broken track — plummeting toward the street. EXPLOSION. Ra's Al Ghul dies in the fire he tried to bring to Gotham
+- SPLIT PANEL: Two vertical halves, thin white line (1-2px) dividing
+- LEFT: BATMAN swings BENEATH the elevated monorail track, hanging from his grapple line. His cape spreads behind him in the wind. Below him: Gotham's streets, far down. Above him: the underside of the track structure, industrial steel beams. He swings forward — alive, free, moving.
+- RIGHT: The MONORAIL flies off the end of the broken track — the front car launches into empty air, no track beneath it. It PLUMMETS downward toward the Gotham street below. EXPLOSION of fire and metal as it impacts. Ra's Al Ghul dies in the fire he tried to bring to Gotham. The elevated track structure is visible — the gap where Gordon destroyed the supports.
 
-LEFT — THE LEAP:
-BATMAN (PRISTINE) FULL DESCRIPTION:
+LEFT — BATMAN:
+BATMAN (COMBAT-DAMAGED) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, 6'0"
-- Costume: Full black Batsuit, cape spread as GLIDER wings — rigid, aerodynamic
-- Expression: Determined, flying
-- Action: Gliding away from the doomed train
-- Position: In the air, cape-glider spread
+- Costume: Full black Batsuit — scratched and battle-worn. Cape spread wide behind him in the wind. Grapple gun in hand, line extending upward to the track structure above. COWL IS ON.
+- Expression: Determined, surviving, moving forward
+- Action: Swinging on grapple line beneath the elevated track
+- Position: Center of left panel, mid-swing, dynamic pose
 
 RIGHT — DESTRUCTION:
-- Train falling from broken track
-- Massive explosion
-- Fire — the element that defined Ra's
-- Gotham street below
+- The monorail car in mid-air — launched off the broken track end, nose tilting downward
+- FIRE and EXPLOSION as it crashes into the Gotham street below
+- Debris, sparks, twisted metal
+- The elevated track structure visible — the clean break where the supports were destroyed
+- Gotham buildings framing the destruction
+
+WHAT NOT TO DRAW:
+- NO Batman with cape-glider wings — he is on a GRAPPLE LINE, not gliding
+- NO Ra's visible — he is inside the train, unseen
+- NO daytime — this is NIGHT, Gotham city lights
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
 - The student surpassed the mentor
 - By applying the framework with a different moral compass
+- Fire — the element that defined Ra's — claims him
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The student surpassed the mentor. By applying the framework with a different moral compass."
@@ -638,44 +812,100 @@ STYLE: Photorealistic, cinematic, dawn cityscape. Full bleed to all edges. WATER
 
 ---
 
-### SLIDE 89 — ROOFTOP (Panels 25.2-25.4 COMBINED)
-**SINGLE — BATMAN AND GORDON**
+### SLIDE 89 — I NEVER SAID THANK YOU (Panels 25.2-25.3)
+**SINGLE — GORDON'S GRATITUDE**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Batman and Gordon on the GCPD rooftop — the Bat-Signal between them.
+SCENE: Gordon and Batman stand on the GCPD rooftop at dawn. The Bat-Signal between them. Gordon turns to Batman — the man who saved his city — and says what he's been holding back.
 
 COMPOSITION:
-- GCPD building rooftop at dawn
-- GORDON stands beside a new SPOTLIGHT with a bat symbol cut into it — the Bat-Signal
-- BATMAN has landed beside him — silent, almost a smile beneath the cowl
-- Gotham skyline behind them, dawn light, smoke fading
-- Two men who started as strangers in an alley, now allies
+- GCPD building rooftop at DAWN. Warm golden light breaking over Gotham's skyline behind them. Smoke still fading from The Narrows in the distance.
+- The BAT-SIGNAL stands between them — a large spotlight with a bat symbol cut into the lens. New, freshly installed. It faces outward toward the city.
+- GORDON is the focus of this panel. He stands beside the Bat-Signal, turned toward Batman. His expression is genuine, unguarded — a cop who doesn't know how to say what he feels, but tries anyway. Grateful, slightly awkward, sincere.
+- BATMAN stands on the other side of the signal, facing Gordon. His posture is relaxed — cape draping, hands at his sides. He listens.
+- The two men frame the Bat-Signal — an alliance forged. The boy from the alley and the cop who comforted him, reunited as partners.
 
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair with minimal grey, thick-framed glasses, neat moustache, alert determined eyes, average build, 5'9"
-- Costume: Tan (#C2B280) trenchcoat, dark blue GCPD uniform, sergeant badge
-- Expression: Grateful, uncertain about the future
-- Action: Standing by Bat-Signal
-- Position: Beside the signal, facing Batman
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair with minimal grey, thick-framed glasses, neat moustache, warm grateful eyes, average build, 5'9"
+- Costume: Tan (#C2B280) trenchcoat over dark blue GCPD uniform, sergeant badge visible
+- Expression: Genuine gratitude — slightly awkward, sincere. A man who doesn't say things like this easily.
+- Action: Turned toward Batman, speaking
+- Position: LEFT side of the Bat-Signal, facing Batman
 
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, almost smiling, 6'0"
-- Costume: Full black Batsuit, cape, cowl
-- Expression: Almost a smile — connection forming
-- Action: Standing beside Gordon
-- Position: Beside the Bat-Signal
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, calm listening expression, 6'0"
+- Costume: Full black Batsuit — clean, cape draping behind. Cowl on. Hands at sides, relaxed.
+- Expression: Listening. Still. Receiving Gordon's words.
+- Action: Standing, facing Gordon, listening
+- Position: RIGHT side of the Bat-Signal, facing Gordon
+
+WHAT NOT TO DRAW:
+- NO Batman speaking — Gordon speaks in this slide
+- NO action poses — both men are standing still, talking
+- NO nighttime darkness — this is DAWN, warm golden light
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
 - An alliance formed
 - The boy from the alley and the cop who comforted him
+- Gratitude between two men who don't do feelings easily
+
+TEXT OVERLAY:
+- Speech bubble (white fill, black text, 2px black outline) from Gordon: "I never said thank you."
+
+STYLE: Photorealistic, cinematic, dawn rooftop, warm light. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 89B — AND YOU'LL NEVER HAVE TO (Panel 25.4)
+**SINGLE — BATMAN'S RESPONSE**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Batman's response — almost smiling, already turning toward the rooftop edge. The line that seals the alliance.
+
+COMPOSITION:
+- Same GCPD rooftop at dawn. Warm golden light on Gotham's skyline.
+- BATMAN is now at the EDGE of the rooftop, half-turned back toward Gordon. One foot on the ledge. Cape beginning to catch the wind. He is about to leave — but he pauses to deliver one line. His jaw beneath the cowl shows the faintest smile. Almost warmth.
+- GORDON stands behind him, near the Bat-Signal, watching Batman move toward the edge. His expression: a small smile. He understands — this is how it will be between them. No fanfare, no ceremony.
+- The Bat-Signal is visible between them — the symbol of their partnership.
+- Dawn light catches Batman's silhouette at the rooftop edge — heroic, iconic, but also human in this moment.
+
+BATMAN (PRISTINE) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, the faintest smile — barely there but unmistakable, 6'0"
+- Costume: Full black Batsuit — clean, cape beginning to catch the dawn wind. Cowl on. One foot on the rooftop ledge, body half-turned back toward Gordon.
+- Expression: Almost a smile. Warmth beneath the armor. The closest Batman gets to affection.
+- Action: At the rooftop edge, half-turned back, about to leap but pausing for the line
+- Position: RIGHT side of frame, at the ledge, half-turned toward Gordon
+
+JIM GORDON (YOUNGER) FULL DESCRIPTION:
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick-framed glasses, moustache, small smile, 5'9"
+- Costume: Tan (#C2B280) trenchcoat, GCPD uniform
+- Expression: Small smile — he gets it. This is how their partnership works.
+- Action: Standing by the Bat-Signal, watching Batman go
+- Position: LEFT side of frame, near the signal, watching
+
+WHAT NOT TO DRAW:
+- NO Gordon speaking — Batman speaks in this slide
+- NO Batman fully facing Gordon — he is HALF-TURNED, already heading for the edge
+- NO action poses or combat — this is a quiet moment
+- NO illustrated or cartoon style — PHOTOREALISTIC only
+
+ATMOSPHERE:
+- The alliance sealed with the fewest words possible
+- Two men who understand each other without needing to explain
+- The hero about to vanish into the dawn
 
 TEXT OVERLAY:
 - Speech bubble (white fill, black text, 2px black outline) from Batman: "And you'll never have to."
 
-STYLE: Photorealistic, cinematic, dawn rooftop. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, dawn rooftop, warm light. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -687,35 +917,43 @@ STYLE: Photorealistic, cinematic, dawn rooftop. Full bleed to all edges. WATERMA
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
 
-SCENE: Gordon shows Batman the Joker card — the next threat teased.
+SCENE: Gordon shows Batman the Joker card — the next threat teased. Same GCPD rooftop at DAWN.
 
 COMPOSITION:
 - SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: GORDON reaches into his coat, pulls out an EVIDENCE BAG. Inside: a PLAYING CARD. He presents it to Batman on the rooftop
-- RIGHT: Close on the evidence bag — a JOKER CARD clearly visible inside. Smiling face. Promise of chaos. The next villain teased
+- LIGHTING: DAWN — warm golden light breaking over Gotham. Same rooftop, same moment as Slides 89-89B. The sky is warm amber and pale blue. NOT night, NOT dark.
+- LEFT: GORDON holds up a clear EVIDENCE BAG at chest height in his RIGHT HAND, presenting it toward Batman (who is off-screen to the right). The bag contains a JOKER PLAYING CARD. Gordon's LEFT HAND is at his side — NOT in his pocket, NOT reaching for anything. One simple pose: man holding up a bag.
+- RIGHT: Close-up on the EVIDENCE BAG held in Gordon's hand — the JOKER CARD clearly visible inside the clear plastic. The card fills most of the frame. Dawn light illuminates the colorful joker face — it contrasts with the warm morning light.
 
 LEFT — GORDON:
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick glasses, moustache, 5'9"
-- Costume: Tan trenchcoat, GCPD uniform
-- Expression: Worried, this is something different
-- Action: Showing evidence bag to Batman
-- Position: On rooftop, presenting the card
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick-framed glasses, moustache, 5'9"
+- Costume: Tan (#C2B280) trenchcoat, GCPD uniform
+- Expression: Worried, grim — this is something different
+- Action: Holding evidence bag UP at chest height in his RIGHT hand, presenting it. Left hand at his side. NOT reaching into pockets. NOT pulling anything out. He ALREADY has the bag — he is SHOWING it.
+- Position: On rooftop, facing right (toward off-screen Batman). DAWN LIGHT on his face.
 
 RIGHT — THE CARD:
-- Evidence bag in clear focus
-- JOKER CARD inside — classic joker playing card
-- Smiling face, colorful against the evidence bag
-- Promise of chaos
+- Close-up on the evidence bag in Gordon's hand
+- JOKER CARD inside — classic joker playing card, clearly visible through clear plastic
+- Smiling face, colorful, chaotic
+- Dawn light catching the plastic of the bag
+
+WHAT NOT TO DRAW:
+- NO nighttime — this is DAWN, warm golden light. Same time of day as Slides 88-89B.
+- NO dark sky — sky should be warm amber/pale blue
+- NO illustrated or cartoon style — PHOTOREALISTIC only
 
 ATMOSPHERE:
 - The mentor was defeated
 - But something worse is coming
+- Dawn should feel uneasy — warm light, cold promise
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom: "The mentor was defeated."
+- Caption (dark navy #1a1a4e, white text) top: "The mentor was defeated."
+- Caption (dark navy #1a1a4e, white text) bottom: "But something worse was coming."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, split panel, DAWN LIGHTING — warm golden. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -727,34 +965,44 @@ STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMAR
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Gordon warns Batman — some men can't be reasoned with. Batman says he'll look into it.
+SCENE: Gordon warns Batman — some men can't be reasoned with. Same GCPD rooftop at DAWN.
 
 COMPOSITION:
-- GORDON's face in the foreground — worried, this new threat is different
-- BATMAN visible behind him, studying the Joker card, turning toward the edge of the rooftop
-- Dawn light behind them both
+- Same GCPD rooftop at DAWN — warm golden light breaking over Gotham. Same time of day as Slides 88-90. Sky is warm amber and pale blue. NOT night.
+- GORDON's face in the FOREGROUND — close-up, worried. Dawn light on his face, casting warm tones but his expression is cold with concern. This new threat is different from Ra's. Ra's had a plan, a philosophy. This one has nothing.
+- BATMAN visible in the BACKGROUND behind Gordon, studying the Joker card in his hand, turning toward the edge of the rooftop. Dawn sky behind him.
 - The weight of what's coming visible on Gordon's face
 
 JIM GORDON (YOUNGER) FULL DESCRIPTION:
-- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick glasses, moustache, worried expression, 5'9"
-- Costume: Tan trenchcoat, GCPD uniform
-- Expression: Worried, this is different from Ra's
-- Position: Foreground, close-up
+- Face & Body: Gary Oldman as GCPD Sergeant Jim Gordon, Caucasian man, mid-40s, brown hair, thick-framed glasses, moustache, worried expression, 5'9"
+- Costume: Tan (#C2B280) trenchcoat, GCPD uniform
+- Expression: Deeply worried — this is different from Ra's. A new kind of threat.
+- Position: Foreground, close-up, DAWN LIGHT on his face
 
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, 6'0"
-- Costume: Full black Batsuit
-- Expression: Studying the card, preparing to leave
-- Position: Background, turning toward rooftop edge
+- Costume: Full black Batsuit, cape
+- Expression: Studying the Joker card, preparing to leave
+- Position: Background, turning toward rooftop edge, dawn sky behind him
+
+WHAT NOT TO DRAW:
+- NO nighttime — this is DAWN, warm golden light. Same time of day as all rooftop slides.
+- NO dark sky — sky should be warm amber/pale blue
+- NO illustrated, cartoon, or comic-book art style — PHOTOREALISTIC ONLY. This must look like a movie still, NOT a drawing.
+- NO speech bubble from Batman — Batman is SILENT. He does NOT speak in this slide.
+- NO duplicate speech bubbles — there is EXACTLY ONE speech bubble in this entire image, from Gordon only
+- NO other text anywhere in the image except the one speech bubble and the watermark
 
 ATMOSPHERE:
 - A new kind of threat
 - The framework will be tested
+- Dawn light feels deceptive — the morning is beautiful but the warning is dire
 
 TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline) from Gordon: "Some men just want to watch the world burn."
+- EXACTLY ONE speech bubble (white fill, black text, 2px black outline) from Gordon ONLY: "Some men just want to watch the world burn."
+- NO other speech bubbles. NO text from Batman. NO captions. NO duplicate text of any kind.
 
-STYLE: Photorealistic, cinematic, two-shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: PHOTOREALISTIC, cinematic, two-shot, DAWN LIGHTING — warm golden. Must look like a real movie still, NOT illustrated, NOT cartoon, NOT comic art. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -792,6 +1040,7 @@ ATMOSPHERE:
 - But the test is coming
 
 TEXT OVERLAY:
+- Speech bubble (white fill, black text, 2px black outline) from Batman: "I'll look into it."
 - Caption (dark navy #1a1a4e, white text) bottom: "He had learned the framework."
 
 STYLE: Photorealistic, cinematic, dawn leap. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
@@ -951,16 +1200,18 @@ COMPOSITION:
 - Professional credits layout
 - No images — text only
 
-TEXT OVERLAY (centered, white on black):
-- Line 1: "Created, Crafted & Made by @iSwamiK"
-- Line 2: "In collaboration with Claude Code & Google Gemini"
+TEXT OVERLAY (centered, on black):
+- Line 1 (white, regular): "In collaboration with Claude Code & Google Gemini"
 - (spacing)
-- Line 3: "Creative Head: Raja"
-- Line 4: "Executive Producer: Nisha P"
-- Line 5: "Produced By: Susan L"
+- Line 2 (white, regular): "Creative Head: Raja"
+- Line 3 (white, regular): "Executive Producer: Nisha P"
+- Line 4 (white, regular): "Produced By: Susan L"
+- Line 5 (white, regular): "SFX & Video Editing: Suresh Kumar"
 - (spacing)
-- Line 6: "The DI Team:"
-- Line 7: "Balaji VG · Janani AP · Joy Besterwitch · Raj Gajendran · Suresh Kumar"
+- Line 6 (white, regular): "The DI Team:"
+- Line 7 (white, regular): "Balaji VG · Janani AP · Joy Besterwitch · Raj Gajendran"
+- (large spacing)
+- Line 8 (GOLD #FFD700, 2× larger than other text, bold, subtle gold glow): "Created, Crafted & Made by @iSwamiK"
 
 STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```

@@ -596,74 +596,135 @@ STYLE: Photorealistic, cinematic, triptych. Full bleed to all edges. WATERMARK: 
 
 ---
 
-### SLIDE 69 — MANOR IN FLAMES (Panels 21.1-21.3 COMBINED)
-**SINGLE — CHAOS ERUPTS**
+### SLIDE 69 — THE EYE OF THE STORM (Panel 21.1)
+**SINGLE — RA'S IN THE FIRE**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Wayne Manor burns — League ninjas attack, fire spreads through the ballroom.
+SCENE: Ra's al Ghul stands perfectly calm in the center of the burning Wayne Manor ballroom. He is the only still figure — everything around him is chaos.
 
 COMPOSITION:
-- Wayne Manor ballroom in FLAMES
-- LEAGUE NINJAS emerge from among party guests — fire spreading
-- Guests scream and flee in every direction
-- RA'S stands CALM in the center of the chaos — the eye of the storm
-- BRUCE fights through ninjas, trying to get people out
-- ALFRED at Bruce's side, helping
-- Chandeliers falling, walls burning
+- Wayne Manor ballroom ENGULFED in flames — fire climbing ornate walls, chandeliers crashing down, embers and sparks in the air, smoke billowing
+- RA'S AL GHUL stands in the EXACT CENTER of the frame. Perfectly still. Arms relaxed at his sides. He is UNTOUCHED by the fire — his suit pristine, his posture relaxed. The fire parts around him like he commands it.
+- ALL AROUND HIM: Party guests in formal wear FLEEING in every direction — screaming, running, pushing toward exits. Blurred motion of panicked bodies on both sides.
+- League ninjas in dark tactical gear visible in the background, setting fires, creating chaos — but they are secondary to Ra's stillness.
+- The CONTRAST is everything: chaos and stillness, panic and calm, destruction and control.
 
 RA'S AL GHUL (GENTLEMAN) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean build, 6'4"
-- Costume: Dark charcoal three-piece suit — untouched by chaos
-- Expression: Calm conviction, the plan executing
-- Position: Standing calm amid the chaos
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense cold blue eyes, tall lean build, 6'4"
+- Costume: Dark charcoal three-piece suit, white shirt, BURGUNDY tie — pristine, untouched by fire or soot. NOT a single mark on him.
+- Expression: Cold satisfaction — slight upturn of lips, eyes surveying the destruction with approval. This is his plan executing perfectly.
+- Action: Standing perfectly still, arms at sides, watching
+- Position: DEAD CENTER of frame, facing camera. The fire and chaos frame him like a portrait.
 
-BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, fierce, athletic build, 6'0"
-- Costume: Black tuxedo, now disheveled, jacket torn
-- Expression: Fighting, rescuing
-- Action: Fighting through ninjas
-- Position: In the chaos
+WHAT NOT TO DRAW:
+- NO Bruce Wayne in this slide — this is Ra's moment alone
+- NO Alfred in this slide
+- Ra's suit is PRISTINE — no soot, no damage, no dishevelment
+- Ra's tie is BURGUNDY — same as Slide 68
 
 ATMOSPHERE:
-- Everything he knew is burning
-- The fourth lesson comes from the enemy
+- The villain in his element
+- Calm is more terrifying than fury
+- He owns this destruction
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) top: "The fourth lesson didn't come from Ducard. It came from Ra's destroying everything Bruce had."
 
-STYLE: Photorealistic, cinematic, fire and chaos. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, fire and chaos surrounding stillness. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 69B — THE PROTECTOR (Panels 21.2-21.3)
+**SINGLE — BRUCE IN THE CHAOS**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: Bruce Wayne fights through the burning ballroom, shielding fleeing guests with his body.
+
+COMPOSITION:
+- The burning ballroom — same location as Slide 69 but from a DIFFERENT ANGLE, closer to the action.
+- BRUCE ALONE in the CENTER of the frame, running through a burning corridor of Wayne Manor. He is the ONLY person in the shot.
+- The corridor is engulfed — fire on both walls, smoke rolling across the ceiling, burning debris on the floor. The exit is visible ahead of him as a rectangle of cooler light at the end of the corridor.
+- Bruce is mid-stride, running TOWARD CAMERA. Jacket gone, shirt torn, soot covering his face and arms. Determined.
+- The scale of the destruction surrounds him — he looks small against the inferno but unstoppable in his momentum.
+
+BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair messy with ash, strong jaw, soot and grime on cheeks and forehead, fierce determined eyes, athletic muscular build, 6'0"
+- Costume: Black tuxedo JACKET GONE (removed), white dress shirt torn and blackened with soot, sleeves rolled up, bow tie gone, black trousers dirty
+- Expression: Fierce determination — running through fire, no hesitation
+- Action: Running toward camera through the burning corridor
+- Position: CENTER of frame, mid-stride
+
+WHAT NOT TO DRAW:
+- NO other people in this shot — Bruce is ALONE
+- NO Ra's, NO Alfred, NO guests — just Bruce and the fire
+- NO illustrated or cartoon style — PHOTOREALISTIC only
+- NO clean clothing — everything is damaged and dirty
+
+ATMOSPHERE:
+- The protector revealed before the mask
+- Who Bruce is BEFORE he becomes Batman
+- Saving people is his first instinct
+
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) bottom: "Before the mask, before the symbol — he was already the protector."
+
+STYLE: Photorealistic, cinematic, fire and rescue. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
 
 ### SLIDE 70 — TRAPPED (Panels 21.4-21.5 COMBINED)
-**SINGLE — PINNED UNDER DEBRIS**
+**SPLIT PANEL — FALL AND PINNED**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
 
-SCENE: A burning beam collapses on Bruce — trapped, fire closing in. The boy in the well, grown up.
+SCENE: A burning beam cracks and falls on Bruce — then he's trapped beneath it. Cause and effect.
 
 COMPOSITION:
-- BRUCE pinned under a BURNING BEAM on the manor floor
-- Fire closing in from all sides
-- Smoke thick, choking
-- His face pressed against the floor, lit by fire
-- For one moment he looks like the boy in the well again — trapped, afraid
-- Then something shifts in his eyes — from fear to resolve
+- SPLIT PANEL: Two vertical halves, thin white line (1-2px) dividing
 
+LEFT PANEL — THE IMPACT:
+- The burning beam is HITTING Bruce RIGHT NOW — captured at the exact moment of impact. The beam is crashing onto his shoulders and back, driving him DOWN to the floor. His knees are buckling, body collapsing under the weight.
+- Bruce did NOT see it coming — he was running and it struck him from above. No time to react, no time to dodge. His face shows shock and pain from the sudden impact.
+- His arms are splayed forward, body crumpling downward. The beam is ON him, not above him.
+- Fire everywhere in the corridor — same setting as Slide 69B.
+
+RIGHT PANEL — PINNED:
+- Bruce is on the manor floor, the burning beam across his back/shoulders, PINNED.
+- Fire closing in from all sides. Smoke thick, choking.
+- His face pressed against the stone floor, lit by firelight from below.
+- For one moment he looks like the boy in the well again — trapped, afraid.
+- Then something shifts in his eyes — from fear to resolve.
+
+LEFT — BRUCE (IMPACT):
+BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair messy with ash, strong jaw, athletic build, 6'0"
+- Costume: NO JACKET (lost in Slide 69B), white dress shirt torn and blackened with soot, sleeves rolled up, black trousers dirty and scorched. NO bow tie.
+- Expression: Shock and pain — the beam just HIT him, mouth open, eyes clenched
+- Action: Body COLLAPSING downward, knees buckling, arms splaying forward as the beam crashes onto his shoulders/back. He is being DRIVEN to the floor.
+- Position: Center of left panel, beam ON his back, going down
+
+RIGHT — BRUCE (PINNED):
 BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair disheveled, strong jaw against the floor, fierce eyes, athletic build, 6'0"
-- Costume: Black tuxedo, torn, scorched
+- Costume: SAME as left panel — NO JACKET, white dress shirt torn and blackened, sleeves rolled up, black trousers scorched. NO bow tie.
 - Expression: Fear shifting to resolve — the echo of the boy in the well, now a man
-- Action: Pinned under burning beam, pressing against the floor
+- Action: Pinned under burning beam across his back, face pressed to floor
 - Position: On the ground, trapped, fire all around
 
-WHAT NOT TO DRAW: No graphic burns or injuries. The horror is in being trapped, not in damage.
+WHAT NOT TO DRAW:
+- NO graphic burns or injuries — the horror is in being trapped, not in damage
+- NO illustrated or cartoon style — PHOTOREALISTIC only
+- NO jacket on Bruce — it was lost in Slide 69B
 
 ATMOSPHERE:
 - The same fear, the same darkness
@@ -673,7 +734,7 @@ ATMOSPHERE:
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "Stay here and die. Or move forward."
 
-STYLE: Photorealistic, cinematic, fire-lit. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, fire-lit split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
@@ -702,7 +763,7 @@ ALFRED PENNYWORTH (YOUNGER) FULL DESCRIPTION:
 
 BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, recovering, athletic build, 6'0"
-- Costume: Black tuxedo, torn, scorched
+- Costume: NO JACKET (lost in Slide 69B), white dress shirt torn and blackened with soot, sleeves rolled up, black trousers dirty and scorched. NO bow tie.
 - Expression: Being pulled free, grateful
 - Action: Being hauled up by Alfred
 - Position: On the ground, being rescued
@@ -738,7 +799,7 @@ COMPOSITION:
 
 BRUCE WAYNE (WEALTHY) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, eyes looking down at his future, athletic muscular build, 6'0"
-- Costume: Black tuxedo, torn and scorched from the fire
+- Costume: NO JACKET (lost in Slide 69B), white dress shirt torn and blackened with soot, sleeves rolled up, black trousers dirty and scorched. NO bow tie. He has been through fire — his clothes show it.
 - Expression: Determined, looking at what awaits below
 - Action: Descending into the Batcave
 - Position: On stairs/elevator, descending
