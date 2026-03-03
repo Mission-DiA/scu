@@ -19,10 +19,10 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 ## YOUR DETAILS
 
-- **Name:**
-- **Current Role:**
-- **Years in Current Role:**
-- **Date Submitted:**
+- **Name:** Kabilan S
+- **Current Role:** SRE
+- **Years in Current Role:** 5 months
+- **Date Submitted:** 3rd March 2026
 
 ---
 
