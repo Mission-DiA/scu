@@ -21,7 +21,7 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 - **Name: Sankaran B** 
 - **Current Role: Automation - QA Engineering**
-- **Years in Current Role: 3**
+- **Years in Current Role: 2.5**
 - **Date Submitted:**
 
 ---
