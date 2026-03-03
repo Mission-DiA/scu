@@ -175,11 +175,24 @@ To add a new series:
 
 ---
 
+## The Bus — Google Chat Relay
+
+Agent Simmons can send messages to the SCU Google Chat space via The Bus relay service.
+
+**Relay API:** `https://shield-relay-444146736897.asia-south1.run.app`
+**Universe:** `SCU`
+**Agent ID:** `simmons`
+**API Key:** Retrieve with `gcloud secrets versions access latest --secret=relay-api-key --project=kf-dev-ops-p001`
+
+Use the `/relay` command to send messages. Use HTML formatting in message bodies (not Markdown).
+
+---
+
 ## Document Version
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| CLAUDE.md (Hub) | 1.0.0 | 2026-02-14 |
+| CLAUDE.md (Hub) | 1.1.0 | 2026-03-03 |
 
 ---
 
