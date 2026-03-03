@@ -9,7 +9,7 @@
 
 | Name | Role | P1 | P2 | P3 | P4 | P5 | P6 | Total | Grade | Misses | Penalties |
 |------|------|----|----|----|----|----|----|----- -|-------|--------|-----------|
-| Jagadeesh | QA Automation | 14 | -- | -- | -- | -- | -- | 14 | ... | 0 | None |
+| Jagadeesh | QA Automation | 14 | 13 | 14 | 8 | 8 | 14 | 71 | Worker | 0 | Cramming -20% P2-P6 |
 | Kabilan | SRE | 13 | -- | -- | -- | -- | -- | 13 | ... | 0 | None |
 | Pavithra | DevOps | 13 | -- | -- | -- | -- | -- | 13 | ... | 0 | None |
 | Sricanth | QA | 12 | -- | -- | -- | -- | -- | 12 | ... | 0 | None |
@@ -35,17 +35,19 @@
 | Phase | Max | Raw | Penalty | Adjusted | Date Submitted | Date Graded | Notes |
 |-------|-----|-----|---------|----------|----------------|-------------|-------|
 | Phase 1 | 20 | 14 | None | 14 | 2026-03-03 | 2026-03-03 | Assisted (3/7). Real content, polished packaging. |
-| Phase 2 | 20 | -- | -- | -- | -- | -- | |
-| Phase 3 | 20 | -- | -- | -- | -- | -- | |
-| Phase 4 | 10 | -- | -- | -- | -- | -- | |
-| Phase 5 | 10 | -- | -- | -- | -- | -- | |
-| Phase 6 | 20 | -- | -- | -- | -- | -- | |
+| Phase 2 | 20 | 16 | Cramming -20% | 13 | 2026-03-03 | 2026-03-03 | Clean (1/7). Best D3O mapping and gap recognition in batch. |
+| Phase 3 | 20 | 18 | Cramming -20% | 14 | 2026-03-03 | 2026-03-03 | Clean (1/7). Near-perfect. Q12 "No" is the most honest in batch. |
+| Phase 4 | 10 | 10 | Cramming -20% | 8 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Named 3 real people, 2 immediate actions. |
+| Phase 5 | 10 | 10 | Cramming -20% | 8 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Snowflake gap, firefighter admission. |
+| Phase 6 | 20 | 18 | Cramming -20% | 14 | 2026-03-03 | 2026-03-03 | Clean (1/7). Gold standard Q22. Insightful S3 suggestion. |
 
-**Cumulative:** 14 / 100
-**Grade:** ...
-**Authenticity:** Assisted (3/7)
+**Cumulative:** 71 / 100
+**Raw Total:** 86 / 100
+**Grade (Adjusted):** Worker (60-74)
+**Grade (Raw):** Builder (75-89)
+**Authenticity:** P1: Assisted (3/7) | P2-6: Clean (0-1/7) — quality improves across phases
 **Miss Count:** 0
-**Note:** All 6 phases submitted on Day 1 — cramming penalty will apply to Phases 2-6 when graded.
+**Cramming Cost:** 15 points (86 → 71). Builder → Worker. All 6 phases submitted Day 1.
 
 ### Kabilan
 
@@ -261,9 +263,11 @@
 
 | Date | Name | Phase | Penalty Type | Details | Applied |
 |------|------|-------|-------------|---------|---------|
-| -- | -- | -- | -- | No penalties applied for Phase 1 | -- |
-
-**Note:** Jagadeesh submitted all 6 phases on Day 1. Cramming penalty (-20% to both phases) will apply to Phases 2-6 when graded.
+| 2026-03-03 | Jagadeesh | Phase 2 | Cramming -20% | All 6 phases submitted Day 1. Raw 16 → Adj 13. | Yes |
+| 2026-03-03 | Jagadeesh | Phase 3 | Cramming -20% | All 6 phases submitted Day 1. Raw 18 → Adj 14. | Yes |
+| 2026-03-03 | Jagadeesh | Phase 4 | Cramming -20% | All 6 phases submitted Day 1. Raw 10 → Adj 8. | Yes |
+| 2026-03-03 | Jagadeesh | Phase 5 | Cramming -20% | All 6 phases submitted Day 1. Raw 10 → Adj 8. | Yes |
+| 2026-03-03 | Jagadeesh | Phase 6 | Cramming -20% | All 6 phases submitted Day 1. Raw 18 → Adj 14. | Yes |
 
 ---
 
@@ -275,6 +279,7 @@
 | 2026-03-03 | Phase 1 batch graded | All 14 team members graded. Scores: 5-14/20. 6 Clean, 7 Assisted, 1 Suspect. |
 | 2026-03-03 | Suspect flagged | Saradha (4/7 flags) — recommend private conversation before Phase 2 |
 | 2026-03-03 | Cramming noted | Jagadeesh submitted all 6 phases on Day 1 — penalty deferred to Phase 2+ grading |
+| 2026-03-03 | Jagadeesh P2-P6 graded | Raw 86/100 (Builder) → Adjusted 71/100 (Worker). Cramming cost: 15 points. Two perfect raw phases (P4: 10/10, P5: 10/10). Strongest submission in batch. |
 
 ---
 
