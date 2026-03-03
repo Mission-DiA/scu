@@ -14,11 +14,13 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | Accomplishment |
 |---|---------------|
-| 1 | Built Lambda deployment pipelines (moved from manual/application-level deployments to structured pipeline-based deployments)  | 
-| 2 | Completed 70% POC for migration from ECS to EKS (including cluster setup, ArgoCD, deployments) | 
-| 3 |  Built Azure AD integration POC with AWS Cognito for client SSO requirement | 
-| 4 | Migrated production GKE clusters from zonal to regional (US, Europe, Asia) without zero downtime during migration | 
-| 5 | Performed and presented post-migration cost analysis |   
+| 1 | Created Lambda deployment pipelines at past company — enabled application-level deployments that didn't exist before |
+| 2 | Led AWS EKS POC (70% complete) at past company — covered cluster setup, ArgoCD, and deployments to evaluate migration from ECS |
+| 3 | Built Azure AD + AWS Cognito SSO integration POC at past company — fulfilled a critical client requirement on short notice |
+| 4 | Migrated 3 major production environments (US, Europe, Asia) from zonal to regional GKE clusters at current company — zero downtime, completed in 3 months |
+| 5 | Conducted and submitted post-migration cost analysis at current company — documented savings and outcomes for the team |
+
+---
 
 ### Q2. Now be honest — for each one, mark it:
 
@@ -27,33 +29,42 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1 |  B | The Lambda pipelines are still being used by developers, reducing manual work and creating ongoing operational efficiency. |
-| 2 | B | The EKS POC created technical direction and knowledge for the team; it enabled future implementation even without you. |
-| 3 | B | The Azure AD + Cognito POC made client SSO integration easier and reusable for future implementation. |
-| 4 | C + B | Completed a complex migration (C), but the regional architecture continues providing resilience and cost benefits (B).    |
-| 5 | C | The cost analysis was completed and delivered; it provides insight, but it is not a recurring system or framework. |
+| 1 | B | Developers at the past company still use the Lambda pipelines daily — reduces manual effort without any involvement from me |
+| 2 | B | The POC educated the team on EKS advantages they didn't know before — they can now implement it independently |
+| 3 | B | The POC is replicable — the client and team can integrate SSO without my presence |
+| 4 | C + B | The migration work is done, but the infrastructure continues to deliver value through cost savings and stability |
+| 5 | C + B | The analysis is submitted and complete, but it continues to serve as a reference for the team's post-migration decisions |
+
+---
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
-All five would still matter.
+```
+All 5 would still matter.
 
-The Lambda pipelines would still be actively used by developers.
+I already "disappeared" from my past company — and all 3 accomplishments there are
+still alive:
+- Developers still rely on the Lambda pipelines for daily deployments
+- The EKS POC gives the team a clear path to migrate without starting from scratch
+- The SSO POC is documented and replicable for the client's integration
 
-The EKS POC would continue guiding architectural decisions.
+At my current company, the regional migration's biggest impact is cost reduction —
+that saving continues automatically. The cost analysis I submitted gives the team
+visibility into post-migration results, which they'll reference for future decisions.
 
-The Azure AD integration groundwork would still simplify SSO implementation.
+None of these required me to stay for them to keep creating value.
+```
 
-The regional GKE migration would continue providing high availability and cost optimization.
-
-The cost analysis would still serve as a reference for evaluating migration impact.
-
-Most of the work created infrastructure-level value that survives beyond my involvement.
-
+---
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
-I am actively building myself into someone who creates long-term technical value through infrastructure, architecture decisions, and scalable systems.
+```
+My intention is to build things that create lasting value — not just complete tasks.
+I want to keep learning deeply (new technologies, architectures, patterns) and apply
+that knowledge to solve real problems in ways that outlast my direct involvement.
 
-My intention is to keep learning deeply, implement improvements that outlast my presence, and consistently build systems that reduce operational friction and increase reliability.
-
-I want my career growth to be the natural result of the value and systems I build.
+If I do this consistently, the career progression — the title, the role, the
+recognition — will follow naturally. I'm building toward being someone whose work
+matters even after they've moved on.
+```
