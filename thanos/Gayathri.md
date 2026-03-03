@@ -14,11 +14,11 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | Accomplishment |
 |---|---------------|
-| 1 | | Built Lambda deployment pipelines (moved from manual/application-level deployments to structured pipeline-based deployments) 
-| 2 | | Completed 70% POC for migration from ECS to EKS (including cluster setup, ArgoCD, deployments)
-| 3 | | Built Azure AD integration POC with AWS Cognito for client SSO requirement
-| 4 | | Migrated production GKE clusters from zonal to regional (US, Europe, Asia) with zero downtime during migration
-| 5 | | Performed and presented post-migration cost analysis  
+| 1 | Built Lambda deployment pipelines (moved from manual/application-level deployments to structured pipeline-based deployments)  | 
+| 2 | Completed 70% POC for migration from ECS to EKS (including cluster setup, ArgoCD, deployments) | 
+| 3 |  Built Azure AD integration POC with AWS Cognito for client SSO requirement | 
+| 4 | Migrated production GKE clusters from zonal to regional (US, Europe, Asia) with zero downtime during migration | 
+| 5 | Performed and presented post-migration cost analysis |   
 
 ### Q2. Now be honest — for each one, mark it:
 
