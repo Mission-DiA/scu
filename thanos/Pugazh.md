@@ -77,29 +77,31 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
-| D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
-|-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| D3O Stage                                         | What YOU Did (be specific)                                                                                                                                                    | What SOMEONE ELSE Did                                                                                                |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Design** (deciding WHAT to build and WHY)       | Analyzed existing alerts, identified that generic failure messages were not actionable, and proposed a solution using an App Script to parse alerts and provide specific failure details. | Team members confirmed the pain point of generic alerts. Management approved the proposal to develop a parsing solution. |
+| **Develop** (building / executing it)             | Ensured the App Script was robust by handling all edge cases. Focused on usability, making the output clear and actionable for the team.                                          | Team members provided feedback during development to ensure the parsed alerts were easy to understand and use.            |
+| **Deploy** (shipping / releasing / presenting it) | Announced the new alert parsing system to the team and activated the App Script.                                                                                             | The team acknowledged the new system and started receiving the parsed alerts.                                        |
+| **Operate** (monitoring, learning from results, feedback) | Monitoring the App Script for errors, actively soliciting feedback from the team on the clarity and usefulness of the new alerts, and making adjustments to the parsing logic as needed. | Team members provide feedback on the new alerts, report any parsing errors or unclear messages, and suggest improvements. |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+Looking at the map, I'm involved in all four stages. I'm most comfortable and dominant in the Develop phase, where I'm focused on execution. If I'm being honest, the Design phase can be a challenge for me. I sometimes find myself altering the design multiple times and struggling to commit to an initial plan. This can lead to delays and a lack of clear direction at the start of a project. So, while I'm active in all stages, I need to focus on being more decisive and structured in my design process.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+AI could certainly accelerate parts of my workflow. For the App Script project, AI could have generated the initial boilerplate code or suggested different design patterns for parsing the alerts. This could speed up the 'Develop' phase.
+
+However, my judgment and context were crucial in the 'Design' phase. While AI can provide options, it lacks the context to understand our specific technical constraints and team dynamics. Validating the right approach, choosing the final plan, and ensuring the solution truly solves the team's problem—that requires my experience and understanding. I can't blindly trust an AI's design without applying my own critical judgment. Furthermore, building the relationships with the team to gather feedback and ensure adoption is a uniquely human part of the process.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+never
 ```
 
 ---
