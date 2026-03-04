@@ -112,6 +112,10 @@ What requires MY judgment and context:
 1. Incident communication: Last Monday, ARIES was down. AI couldn't write customer-facing updates because it doesn't know: What info goes to customers vs. internal team? When should I post updates? What's safe to say publicly vs. technical details only for internal threads? I had to make these judgment calls. AI needs me to set context.
 
 2. Architectural decisions: AI will suggest HTTP calls to fetch billing data. But I know our actual constraints: cost matters, latency matters. I proposed using MCP to collect from multiple clouds (GCP, AWS, Snowflake) and store in BigQuery, then serve via APIs. That reduces both cost and API calls. AI suggested the naive approach; I validated and improved it.
+
+3. Runbooks: AI suggests steps, but I validate each one based on our actual infrastructure. Example: When Prowler crashed last month, AI said "clear the logs and restart the job." At first I believed it. But I knew we were in the middle of a compliance scan — restarting would break it. Instead, I fixed the schema mismatch that caused the crash, then restarted only after the scan completed. AI didn't know about the CIS validation window. I did.
+
+AI is my assistant in these areas, not the decision-maker.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
