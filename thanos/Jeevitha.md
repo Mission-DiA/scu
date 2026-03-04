@@ -84,30 +84,45 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) | I identified a major consistency gap in our workflow and designed a standardized test case template from scratch. Currently, I’m applying this same "problem-first" mindset to architect a POC for an AI Code Review Agent, deciding on the logic and how it should integrate with our current PR process.
+| **Develop** (building / executing it) | I built the framework for the template, ensuring it balanced detail with usability. For my current automation work, I’m building out the scripts from the scratch to ensure they are robust and match the feature's architecture.
+| **Deploy** (shipping / releasing / presenting it) | I presented the new template standard to the entire team, walking them through the "Why" and the benefits. In my current role, I handle the deployment of our automation suites into the CI/CD pipeline so they provide immediate feedback to the devs.
+| **Operate** (monitoring, learning from results, feedback) | I’ve spent the last three years maintaining that template standard, adjusting it based on team feedback to keep it organized. Now, I spend a significant part of my day monitoring our automation health—fixing flaky tests and ensuring the suite stays reliable as the product evolves.
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
-```
-[Your answer]
-```
+ I started doing POC for Code Review Agent and it is in still designing phase. in this, i didnt pass through, develop,deploy and operate.
+
+ Three years ago, I stepped up volunteerly to fix a gap I saw in our workflow by building a new test case template from scratch. I ended up presenting it to the whole team and we’ve been following that same format ever since. It feels good knowing that a standard I set years ago is still helping the team stay organized and that people still appreciate the work I put into it. In this case, i design my the test case template,presented to my team members and received feedbacks, add team requirements as per the feedback. So, here, i designed/developed, deployed and Operated.
+
+ I’ve been handling the full automation stack recently—everything from the initial design and logic setup to building, deploying, and keeping the scripts maintained. It’s been a great way to ensure that the automation I’m shipping is robust and actually matches the architectural needs of the features we’re releasing.
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
-```
-[Your answer — be uncomfortably specific]
-```
+AI can do:
+
+AI can write the initial structure of my Selenium or Playwright scripts in seconds. It can generate Page Object Models (POM) and basic utility functions faster than I can type.
+
+Test Data Generation: Instead of me, manually creating n number of different user profiles or edge-case CSVs, AI can generate perfect data sets instantly.
+
+Basic Documentation: It can take my rough notes and turn them into a polished "Quality Summary Report" or "Test Plan" or "Test case" docs.
+
+Areas where i needed my inputs:
+
+Risk-Based Prioritization: When a release is happening in 2 hours and we only have time to run 10% of our tests, AI doesn't know which features are "Mission Critical" for our specific business stakeholders. I use my relationships with PMs to know which bugs would be "deal-breakers" for our top clients.
+
+Negotiating with Developers: AI cannot sit in a room with a Lead Dev and convince them that a "Minor" CSS bug is actually a "Major" issue because it impacts our brand's trust. That requires my support and i need to negotiate with them.
+
+AI can handle the execution and syntax of my work—the 'Develop-Deploy' speed. However, I provide the Technical Strategy and Business Alignment. I am the bridge that ensures we aren't just 'Deploying Faster,' but 'Deploying Better.' My value lies in my ability to interpret complex stakeholder needs and translate them into a resilient quality framework that AI alone cannot navigate."
+
+We can debug the bugs, i am the one who provides bug info and i am the controller. i need to set context for the output provided by AI.
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
-```
-[Your answer — if the answer is "never" or "I can't remember," write that]
-```
+ I started doing POC for Code Review Agent and it is in still designing phase.I didnt shipped to prod. But i took initiative and doing this.
 
----
+Three years ago, I stepped up volunteerly to fix a gap I saw in our workflow by building a new test case template from scratch. I ended up presenting it to the whole team and we’ve been following that same format ever since. It feels good knowing that a standard I set years ago is still helping the team stay organized and that people still appreciate the work I put into it.
+
 
 ## PHASE 3: THE SELF-TEST
 *From S2E3 — "You have test plans for every feature. What's the test plan for your career?"*
