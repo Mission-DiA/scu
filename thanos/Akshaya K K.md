@@ -19,10 +19,10 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 ## YOUR DETAILS
 
-- **Name: Jerome Christopher J**
-- **Current Role: Associate - SRE**
-- **Years in Current Role: 1 year**
-- **Date Submitted: 04-03-2026**
+- **Name:**Akshaya K K
+- **Current Role:** Senior QA Engineer
+- **Years in Current Role:** 1.5 years
+- **Date Submitted:** 03-March-2026
 
 ---
 
@@ -35,11 +35,11 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | Accomplishment |
 |---|---------------|
-| 1 | Have handled a few production incidents and tasks more independently compared to before|
-| 2 | I had guided the newly joined SRE teammates|
-| 3 | Gained more infra knowledge and understanding |
-| 4 | Have been part of and drived important requirements like SCC, ISO audit, Architecture diagram revamp, etc,. |
-| 5 | Have leveraged the usage of AI in a better way to help me with my requirements |
+| 1 | Started end-to-end automation coverage for a major Apps and Portal module, covering all sanity and high-impact scenarios.| 
+| 2 | 90% developed is completed for the Live Sync bug reporting tool to improve real-time defect visibility and tracking.|
+| 3 | Strengthened defect debugging and root cause analysis, contributing high-value technical insights in discussions.|
+| 4 | Improved stakeholder visibility by proactively demoing work and enhancing personal impact communication after PO feedback.|
+| 5 | Served as a key backbone in significantly reducing production bug tickets, marking a major quality milestone while stepping into a leadership role to drive team execution and development.|
 
 ### Q2. Now be honest — for each one, mark it:
 
@@ -48,22 +48,24 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1 | C | I have been part of incidents, but not have exactly build anything to prevent it from re-occuring |
-| 2 | B | I have shared my insights, to the new joiners. This I see as a building process and it has helped them |
-| 3 | B | I see this as a building phase, as it has helped me in understand the new requirements in a better way|
-| 4 | C & B | I have been part of these activities, most of them have been manual work. I build a new mechanism for revamping the architecture diagram in the future, but have only completed the other tasks and have not build anything to ease it. |
-| 5 | C | I have only used the AI, to help me with my requirements, but have not build anything out of it |
+| 1 | Built| Once automated, sanity and high-impact test cases continuously validate builds, prevent regressions, and safeguard release quality without manual effort. |
+| 2 | Built| A structured reporting system keeps generating visibility, metrics, and insights automatically, enabling ongoing data-driven decisions.|
+| 3 | Built| The analytical frameworks and systemic thinking you introduced continue influencing how defects are identified and prevented across the team. |
+| 4 | Built| Established communication habits and visibility mechanisms sustain stakeholder trust and I get recognition over time.|
+| 5 | Built| Its a prevention of quality controls, improved triage discipline, and strengthened team accountability create a compounding effect, where defect leakage remains low and team performance sustains without requiring your direct oversight in every instance.|
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-I feel like the second one would play an important role as the insights that I have shared and the tips that I have shared would help them to drive forward, in their day to day activities.
+My automation coverage and production bug reduction would continue protecting release quality like they have been embedded into CI/CD and team workflows. The Live Sync reporting tool would still create great value if it is actively adopted and used by the team, where it can be utlized by various department. The strengthened debugging and RCA practices has endure which became a part of the team’s engineering discipline where every L2 validator is praticing it.
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-I want to improve my drive for new knowledge and understanding. And I believe by doing that my title, tasks and other things come along with it.
+My career intention is to build strong leadership capability to drive teams and influence outcomes beyond individual execution. I aim to strengthen my ability to independently automate workflows and resolve defects without relying on developer intervention. I am actively expanding my AI knowledge to build intelligent solutions, not out of fear of replacement, but to enhance my technical effectiveness and elevate the quality of my work.
+
+In essence, I am deliberately building leverage at three levels: technical leverage (automation and tools), process leverage (quality standards and defect prevention), and influence leverage (visibility and leadership).
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
@@ -79,27 +81,27 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | Two major things that I build was the Architecture as code for kissflow infra diagram and automation of the dev chr automation metrics | key forge application|
-| **Develop** (building / executing it) | The architecture diagram I was executing it, cause it was a task that was assigned to me but for the chr metrics, even though it was assgined to me I build it independently | they were building it |
-| **Deploy** (shipping / releasing / presenting it) | Both of these were were released to the team | they presented it to the team|
-| **Operate** (monitoring, learning from results, feedback) | My architecture diagram has been used to revamp easier if required in the future and the chr billing has received it's feedback from the team and am currently working on it | The key-forge application was monitored, got the feedback from the team as well.|
+| **Design** (deciding WHAT to build and WHY) | | |
+| **Develop** (building / executing it) | | |
+| **Deploy** (shipping / releasing / presenting it) | | |
+| **Operate** (monitoring, learning from results, feedback) | | |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-I feel like I am being dominant in the tasks that have been assigned to me, and I am able to provide a deliverable to the fullest capability. But I was not being proactive and have taken up things by myself and have provided a fix for the same. But never too late, cause I have already started on this approach.
+[Your answer]
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-From my line of work, the AI can do the debugging when an issue occurs, provide an information, build applications, handle my recurring AOS tasks, can automatically provide access for ENs, can make required changes in the infra automatically. But all this being said, there has to be an ultimate super-visor who guides the AI on what needs to be done and what not to be done. I feel like I would be playing super-visor role and would guide the AI in the right path, and not implement or perform an action out of it's required scope.
+[Your answer — be uncomfortably specific]
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-Unfortunately, never :/
+[Your answer — if the answer is "never" or "I can't remember," write that]
 ```
 
 ---

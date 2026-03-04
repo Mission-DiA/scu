@@ -19,10 +19,10 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 ## YOUR DETAILS
 
-- **Name: Jerome Christopher J**
-- **Current Role: Associate - SRE**
-- **Years in Current Role: 1 year**
-- **Date Submitted: 04-03-2026**
+- **Name:** Kabilan S
+- **Current Role:** SRE
+- **Years in Current Role:** 5 months
+- **Date Submitted:** 3rd March 2026
 
 ---
 
@@ -35,11 +35,11 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | Accomplishment |
 |---|---------------|
-| 1 | Have handled a few production incidents and tasks more independently compared to before|
-| 2 | I had guided the newly joined SRE teammates|
-| 3 | Gained more infra knowledge and understanding |
-| 4 | Have been part of and drived important requirements like SCC, ISO audit, Architecture diagram revamp, etc,. |
-| 5 | Have leveraged the usage of AI in a better way to help me with my requirements |
+| 1 | Built my own cost spending tracker without coding a single word using AI |
+| 2 | Built a website that scrapes Chennai powercut schedules and sends Telegram alerts at 6am daily — https://minnal-srk.vercel.app/ |
+| 3 | Used to write blogs and post learnings on LinkedIn and Medium, also as media manager at FabLab I used to learn some technical stuffs in 3D printing and laser cutting, but stopped |
+| 4 | Explored many documentation tools at the beginning of my internship and identified Mintlify, but stopped exploration |
+| 5 | Solved Tavern testing errors across all environments at my internship |
 
 ### Q2. Now be honest — for each one, mark it:
 
@@ -48,22 +48,26 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1 | C | I have been part of incidents, but not have exactly build anything to prevent it from re-occuring |
-| 2 | B | I have shared my insights, to the new joiners. This I see as a building process and it has helped them |
-| 3 | B | I see this as a building phase, as it has helped me in understand the new requirements in a better way|
-| 4 | C & B | I have been part of these activities, most of them have been manual work. I build a new mechanism for revamping the architecture diagram in the future, but have only completed the other tasks and have not build anything to ease it. |
-| 5 | C | I have only used the AI, to help me with my requirements, but have not build anything out of it |
+| 1 | B | Still using it daily to manage and track spends. My parents use it too. I'm planning to upgrade it with AI-powered spending analysis |
+| 2 | B | The bot runs automatically every morning at 6am without me doing anything. The website continues to help anyone in Chennai check powercut schedules |
+| 3 | C | Started writing blogs and posting on LinkedIn, then stopped completely after the commencement of internship |
+| 4 | C | Explored and identified Mintlify as the right tool, then moved on to other work |
+| 5 | C | Solved the testing errors and delivered the fix; not actively maintaining it anymore |
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-I feel like the second one would play an important role as the insights that I have shared and the tips that I have shared would help them to drive forward, in their day to day activities.
+Two things would still matter:
+
+1. Cost Tracker — My parents and I still use it daily to track our spending. Even if I stop maintaining it, the spending data we've logged shows our patterns and helps us understand where our money goes.
+
+2. Powercut Bot — The Telegram bot runs automatically every morning at 6am without me doing anything. The website I built continues to help anyone in Chennai check their exact powercut schedules without depending on me to keep it running.
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-I want to improve my drive for new knowledge and understanding. And I believe by doing that my title, tasks and other things come along with it.
+Building tools that solve real problems people face — not just finishing tasks assigned to me. Everyone struggles with metrics dashboards, and I want to be the one who builds something that actually works for them. I want to create tools that people use, tools that adapt to their needs, and tools that keep creating value without me having to maintain them every single day.
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
@@ -79,27 +83,27 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | Two major things that I build was the Architecture as code for kissflow infra diagram and automation of the dev chr automation metrics | key forge application|
-| **Develop** (building / executing it) | The architecture diagram I was executing it, cause it was a task that was assigned to me but for the chr metrics, even though it was assgined to me I build it independently | they were building it |
-| **Deploy** (shipping / releasing / presenting it) | Both of these were were released to the team | they presented it to the team|
-| **Operate** (monitoring, learning from results, feedback) | My architecture diagram has been used to revamp easier if required in the future and the chr billing has received it's feedback from the team and am currently working on it | The key-forge application was monitored, got the feedback from the team as well.|
+| **Design** (deciding WHAT to build and WHY) | | |
+| **Develop** (building / executing it) | | |
+| **Deploy** (shipping / releasing / presenting it) | | |
+| **Operate** (monitoring, learning from results, feedback) | | |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-I feel like I am being dominant in the tasks that have been assigned to me, and I am able to provide a deliverable to the fullest capability. But I was not being proactive and have taken up things by myself and have provided a fix for the same. But never too late, cause I have already started on this approach.
+[Your answer]
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-From my line of work, the AI can do the debugging when an issue occurs, provide an information, build applications, handle my recurring AOS tasks, can automatically provide access for ENs, can make required changes in the infra automatically. But all this being said, there has to be an ultimate super-visor who guides the AI on what needs to be done and what not to be done. I feel like I would be playing super-visor role and would guide the AI in the right path, and not implement or perform an action out of it's required scope.
+[Your answer — be uncomfortably specific]
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-Unfortunately, never :/
+[Your answer — if the answer is "never" or "I can't remember," write that]
 ```
 
 ---

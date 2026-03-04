@@ -19,10 +19,10 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 ## YOUR DETAILS
 
-- **Name: Jerome Christopher J**
-- **Current Role: Associate - SRE**
-- **Years in Current Role: 1 year**
-- **Date Submitted: 04-03-2026**
+- **Name: Pugazhvendhan S**
+- **Current Role: SRE**
+- **Years in Current Role: 4 months**
+- **Date Submitted:03-03-2026**
 
 ---
 
@@ -33,13 +33,13 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 ### Q1. List your top 5 accomplishments from the last 6 months.
 
-| # | Accomplishment |
-|---|---------------|
-| 1 | Have handled a few production incidents and tasks more independently compared to before|
-| 2 | I had guided the newly joined SRE teammates|
-| 3 | Gained more infra knowledge and understanding |
-| 4 | Have been part of and drived important requirements like SCC, ISO audit, Architecture diagram revamp, etc,. |
-| 5 | Have leveraged the usage of AI in a better way to help me with my requirements |
+| # | Accomplishment                                       |
+|---|------------------------------------------------------|
+| 1 | Betterstack alert Streamling                         |
+| 2 | Kubescape security audit                             |
+| 3 | kube DNS chart release                               |
+| 4 | Provisioned a mongo cluter                           |
+| 5 | Provisioned a new realtime analytics service         |
 
 ### Q2. Now be honest — for each one, mark it:
 
@@ -48,22 +48,22 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1 | C | I have been part of incidents, but not have exactly build anything to prevent it from re-occuring |
-| 2 | B | I have shared my insights, to the new joiners. This I see as a building process and it has helped them |
-| 3 | B | I see this as a building phase, as it has helped me in understand the new requirements in a better way|
-| 4 | C & B | I have been part of these activities, most of them have been manual work. I build a new mechanism for revamping the architecture diagram in the future, but have only completed the other tasks and have not build anything to ease it. |
-| 5 | C | I have only used the AI, to help me with my requirements, but have not build anything out of it |
+| 1 | B| As it helps our team to immediately look into the failure and take action according  |
+| 2 | B| It provides Security audit for our production cluster |
+| 3 | C| It has been added into charts which might provide value but not so often |
+| 4 | C| It was a one-time setup for a specific project need. |
+| 5 | B| Through which a POC has been carried out for realtime analytics rather than a delay from snowflake |
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-I feel like the second one would play an important role as the insights that I have shared and the tips that I have shared would help them to drive forward, in their day to day activities.
+The Betterstack alert streamlining would still matter in 6 months. It provides lasting value by enabling the team to take quick, decisive action on failures, even in my absence.
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-I want to improve my drive for new knowledge and understanding. And I believe by doing that my title, tasks and other things come along with it.
+Right now, I'm focused on making our systems smarter and stronger, so we're not just fighting fires. My goal is to build things that last—automating the routine tasks so the team can spend more time on creative solutions and preventing problems before they start. I'm trying to build a foundation of stability  that everyone can rely on.
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
@@ -79,27 +79,27 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | Two major things that I build was the Architecture as code for kissflow infra diagram and automation of the dev chr automation metrics | key forge application|
-| **Develop** (building / executing it) | The architecture diagram I was executing it, cause it was a task that was assigned to me but for the chr metrics, even though it was assgined to me I build it independently | they were building it |
-| **Deploy** (shipping / releasing / presenting it) | Both of these were were released to the team | they presented it to the team|
-| **Operate** (monitoring, learning from results, feedback) | My architecture diagram has been used to revamp easier if required in the future and the chr billing has received it's feedback from the team and am currently working on it | The key-forge application was monitored, got the feedback from the team as well.|
+| **Design** (deciding WHAT to build and WHY) | | |
+| **Develop** (building / executing it) | | |
+| **Deploy** (shipping / releasing / presenting it) | | |
+| **Operate** (monitoring, learning from results, feedback) | | |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-I feel like I am being dominant in the tasks that have been assigned to me, and I am able to provide a deliverable to the fullest capability. But I was not being proactive and have taken up things by myself and have provided a fix for the same. But never too late, cause I have already started on this approach.
+[Your answer]
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-From my line of work, the AI can do the debugging when an issue occurs, provide an information, build applications, handle my recurring AOS tasks, can automatically provide access for ENs, can make required changes in the infra automatically. But all this being said, there has to be an ultimate super-visor who guides the AI on what needs to be done and what not to be done. I feel like I would be playing super-visor role and would guide the AI in the right path, and not implement or perform an action out of it's required scope.
+[Your answer — be uncomfortably specific]
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-Unfortunately, never :/
+[Your answer — if the answer is "never" or "I can't remember," write that]
 ```
 
 ---

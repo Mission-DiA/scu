@@ -9,12 +9,11 @@
 
 | Setting | Value |
 |---------|-------|
-| **Submissions Repo Path** | `TBD` |
-| **Blueprint File Pattern** | `blueprints/{name}.md` |
-| **Full Blueprint Path** | `{submissions_repo}/blueprints/{name}.md` |
+| **Submissions Directory** | `thanos/` (relative to SCU hub root) |
+| **Blueprint File Pattern** | `{name}.md` |
+| **Full Blueprint Path** | `thanos/{name}.md` |
 
-> **NOTE:** Update "Submissions Repo Path" once Director provides the shared repo location.
-> Simmons will report "Submissions path not configured" until this is set.
+> Submissions live in the same repo under `thanos/`. File names match team member names (e.g., `thanos/Jagadeesh.md`).
 
 ---
 
@@ -24,23 +23,35 @@
 
 | Name | Role | Joined | Notes |
 |------|------|--------|-------|
-| <!-- Add team members as they participate --> | | | |
+| Akshaya K K | -- | 2026-03-03 | |
+| Chitra | -- | 2026-03-03 | |
+| Gayathri | -- | 2026-03-03 | |
+| Jagadeesh | -- | 2026-03-03 | |
+| Jeevitha | -- | 2026-03-03 | |
+| Jerome | -- | 2026-03-03 | |
+| Kabilan | -- | 2026-03-03 | |
+| Nandhini | -- | 2026-03-03 | |
+| Naveen | -- | 2026-03-03 | |
+| Pavithra | -- | 2026-03-03 | |
+| Pugazh | -- | 2026-03-03 | |
+| Sankaran | -- | 2026-03-03 | |
+| Saradha | -- | 2026-03-03 | |
+| Sricanth | -- | 2026-03-03 | |
 
 ---
 
 ## Phase Schedule
 
-> Challenge starts Tuesday. One phase per day.
-> Update start date when Director confirms.
+> Challenge starts Tuesday, March 3, 2026. One phase per day.
 
 | Phase | Day | Due Date | Max Score |
 |-------|-----|----------|-----------|
-| Phase 1: Foundation Audit (Q1-Q4) | Tue | TBD | 20 |
-| Phase 2: Loop Map (Q5-Q8) | Wed | TBD | 20 |
-| Phase 3: Self-Test (Q9-Q12) | Thu | TBD | 20 |
-| Phase 4: Mentor Map (Q13-Q16) | Fri | TBD | 10 |
-| Phase 5: Prevention Audit (Q17-Q20) | Mon | TBD | 10 |
-| Phase 6: Architecture + Final (Q21-Q25) | Tue | TBD | 20 |
+| Phase 1: Foundation Audit (Q1-Q4) | Tue | 2026-03-03 | 20 |
+| Phase 2: Loop Map (Q5-Q8) | Wed | 2026-03-04 | 20 |
+| Phase 3: Self-Test (Q9-Q12) | Thu | 2026-03-05 | 20 |
+| Phase 4: Mentor Map (Q13-Q16) | Fri | 2026-03-06 | 10 |
+| Phase 5: Prevention Audit (Q17-Q20) | Mon | 2026-03-09 | 10 |
+| Phase 6: Architecture + Final (Q21-Q25) | Tue | 2026-03-10 | 20 |
 
 ---
 
@@ -69,4 +80,4 @@
 
 ---
 
-*Last updated: 2026-03-02*
+*Last updated: 2026-03-03*
