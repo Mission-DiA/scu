@@ -135,18 +135,13 @@ that drives it — and the accountability for what gets deployed — is always m
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-The most recent one is the GCS bucket size check automation. Over the past few years,
-around 30 cards had been raised just to manually check bucket sizes using gsutil — same
-repetitive task, raised again and again. I noticed this pattern, took the initiative to
-automate it as a self-service Jenkins job triggered via the JYT process, and started
-building it. No one assigned this to me — I identified the gap and decided to act on it.
+The GCS bucket size check automation. Around 30 cards had been raised over the years
+for the same manual gsutil task. I noticed the pattern, took the initiative to automate
+it as a self-service Jenkins job via the JYT process, and started building it without
+being asked.
 
-But it is still in progress. Not shipped yet.
-
-Honestly, if I look back, I cannot clearly say I have shipped something fully self-designed
-end-to-end — from my own idea all the way to deployed and used by real users. I am good at
-building, but closing the loop by actually shipping and seeing it operate — that is the gap
-I need to push through.
+But it is still in progress — not shipped yet. Honestly, before this I cannot clearly
+recall shipping something fully self-designed end-to-end. That is the truth.
 ```
 
 ---
