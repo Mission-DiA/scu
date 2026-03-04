@@ -101,9 +101,9 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-AI can already do a lot of the **Develop–Deploy work** I do — writing test cases, generating automation scripts, analyzing logs, and suggesting edge cases. Most of the repetitive testing work can be sped up with AI.
+AI can already do a lot of the Develop–Deploy work I do — writing test cases, generating automation scripts, analyzing logs, and suggesting edge cases. Most of the repetitive testing work can be sped up with AI.
 
-What AI can’t really do is **decide what actually matters to test**, understand **how the feature behaves in real workflows**, or **discuss failures with developers to figure out what really went wrong**. That still needs context, judgment, and conversations with people.
+What AI can’t really do is decide what actually matters to test, understand how the feature behaves in real workflows, or discuss failures with developers to figure out what really went wrong. That still needs context, judgment, and conversations with people.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
