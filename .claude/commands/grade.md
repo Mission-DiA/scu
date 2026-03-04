@@ -36,7 +36,7 @@ Parse the argument after `/grade` to determine the mode:
 
 ## Step 2: Load Submission (Grade/Full Review/Batch modes)
 
-1. Construct the blueprint path: `{submissions_repo}/blueprints/{name}.md`
+1. Construct the blueprint path: `thanos/{name}.md` (relative to SCU hub root). Note: file names use the person's name as-is, including spaces (e.g., `thanos/Akshaya K K.md`)
 2. Read the person's blueprint file
 3. If file not found, report: `"No blueprint found for {name} at {path}"`
 4. Identify the relevant phase questions based on the phase map below

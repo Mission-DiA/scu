@@ -175,11 +175,39 @@ To add a new series:
 
 ---
 
+## File Ownership — DO NOT MODIFY Rules
+
+| Path | Owner | Rule |
+|------|-------|------|
+| `.claude/commands/grade.md` | Simmons | **DO NOT MODIFY** — grading engine |
+| `grading.config.md` | Simmons | **DO NOT MODIFY** — grading config |
+| `S2_Grading_Rubric.md` | Simmons | **DO NOT MODIFY** — rubric |
+| `GRADING_TRACKER.md` | Simmons | **DO NOT MODIFY** — score tracker |
+| `feedback/*` | Simmons | **DO NOT MODIFY** — grading output |
+| `thanos/*` | Team | Open for edits — submit blueprints here |
+
+**Team members:** Only edit files inside `thanos/`. All other grading-related files are Simmons-owned. If you see something that needs changing, raise it with Director Coulson.
+
+---
+
+## The Bus — Google Chat Relay
+
+Agent Simmons can send messages to the SCU Google Chat space via The Bus relay service.
+
+**Relay API:** `https://shield-relay-444146736897.asia-south1.run.app`
+**Universe:** `SCU`
+**Agent ID:** `simmons`
+**API Key:** Retrieve with `gcloud secrets versions access latest --secret=relay-api-key --project=kf-dev-ops-p001`
+
+Use the `/relay` command to send messages. Use HTML formatting in message bodies (not Markdown).
+
+---
+
 ## Document Version
 
 | Document | Version | Updated |
 |----------|---------|---------|
-| CLAUDE.md (Hub) | 1.0.0 | 2026-02-14 |
+| CLAUDE.md (Hub) | 1.2.0 | 2026-03-03 |
 
 ---
 
