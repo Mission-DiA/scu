@@ -80,7 +80,7 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) Synthetic Data Tool, Analytics Dashboard app - I Designed the logic to create production-like data and analytics dashboards to monitor system performance and user behavior.| I translated high-level requirements into the actual logic for our synthetic data tools and performance dashboards.
+| **Design** (deciding WHAT to build and WHY) | Synthetic Data Tool, Analytics Dashboard app - I Designed the logic to create production-like data and analytics dashboards to monitor system performance and user behavior.| I translated high-level requirements into the actual logic for our synthetic data tools and performance dashboards.
 | **Develop** (building / executing it) | I developed the tools based on the high-level requirements defined by the stakeholders | I took the vision from our stakeholders and built it out, focusing on clean data modeling and a user-friendly interface.
 | **Deploy** (shipping / releasing / presenting it) | I integrated my code into GitHub to make automated data seeding and real-time analytics accessible to everyone on the team.| The DevOps team handled the final rollout, ensuring everything was shipped reliably.
 | **Operate** (monitoring, learning from results, feedback) | I put these tools into practice to automate our data seeding and speed up testing. I also used feedback from our users to keep refining the features.| Users and stakeholders provided the feedback I needed to optimize the generation process and the dashboard.
