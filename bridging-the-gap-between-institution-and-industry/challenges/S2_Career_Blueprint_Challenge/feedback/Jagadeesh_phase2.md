@@ -2,33 +2,37 @@
 
 **Graded by Simmons | 2026-03-04**
 **Resubmission: Clean slate — no cramming penalty**
+**Grading standard: Tough academic (15/20 = difficult to achieve)**
 
 ---
 
 ## Phase 2: Loop Map
-**Score: 20 / 20 | Adjusted: 20 / 20**
+**Score: 15 / 20 | Adjusted: 15 / 20**
 
 **AUTHENTICITY: Clean (0/7 flags)**
-Previous submission: Clean (1/7). This resubmission: Clean (0/7). Both versions were authentic — this one is deeper.
 
 ---
 
 ### Question Breakdown
 
-**Q5: D3O Mapping Honesty — 8 / 8**
-Both columns filled with real names and specific contributions. Aravind on library decisions, Noor on architecture questions, Swami on challenge framing. The "Someone Else" column isn't empty or vague — it's precise enough that you could verify every claim by asking those three people.
+**Q5: D3O Mapping Honesty — 5 / 8**
+Both columns filled with real names and specific contributions — Aravind on library decisions, Noor on architecture, Swami on framing. Good. But all 4 stages claim "me" as primary, and the rubric flags that. More critically: Q5 Operate says "I review outputs, validate anomaly accuracy, cross-check against actual GCP costs." Q6 says "no weekly review, no feedback loop back into the thresholds. I shipped it and moved on." These cannot both be true. Q6 is the honest one. Q5 inflates Operate. A paper that contradicts itself within one page loses marks.
 
 **Q6: Gap Recognition — 4 / 4**
-Opens with the confession that matters: "for the first 4 months here I was in Develop and Deploy only." Then names Operate as the current gap with a specific example — no weekly review on billing thresholds, no feedback loop. The killer line: "the whole point of the system was to detect anomalies reliably, and I have no visibility into whether it's still doing that."
+Best gap recognition in the batch. No notes. "For the first 4 months here I was in Develop and Deploy only" — opens with the confession that matters. Then names Operate with a specific, damning example. The closing: "the whole point of the system was to detect anomalies reliably, and I have no visibility into whether it's still doing that." Full marks under any standard.
 
-**Q7: AI Vulnerability — 4 / 4**
-Names specific automatable tasks (BigQuery SQL, Docker config, unit tests). Then gets granular on what AI can't replicate: the PAP/UBLA org policy discovery that took two days of misdiagnosis, the gspread negotiation with Aravind where the right answer depended on team maintainability, and the relationship judgment of reading review comments. That last point — knowing when a code review comment is a hard requirement vs negotiable — is the kind of institutional intelligence that only builds through months of working together.
+**Q7: AI Vulnerability — 3 / 4**
+Names specific automatable tasks (BigQuery SQL, Docker config, unit tests). Three institutional knowledge examples: PAP/UBLA org policy discovery (excellent — 2 days of misdiagnosis, unique to Kissflow's config), gspread negotiation with Aravind (good — team-context dependent), and "knowing when Aravind's review comment is a hard requirement versus something I can negotiate on." The third point is valid but drifts toward the safe "AI can't replace relationships" territory the rubric warns about. The specific examples save it from being a dodge, but it's close to the line.
 
-**Q8: Last Self-Designed Work — 4 / 4**
-BillingGuard — but the honesty isn't in naming it. It's in admitting the first design was wrong, that Noor's question invalidated the approach, and that the 3-month redesign "wouldn't exist if Noor hadn't asked the one question I couldn't answer." Closing with "That's worth being accurate about" — full marks.
+**Q8: Last Self-Designed Work — 3 / 4**
+Wrong-first-design story is strong. Noor's question invalidating the flat threshold. Three-month redesign. "Built on top of a wrong first version and someone else's question. That's worth being accurate about." But: only one self-designed work named. The rubric doesn't grade on tenure, and the closing line — while honest in content — has a slightly performed quality.
 
 ---
 
 ### Feedback
 
-Two perfect phases. The D3O mapping is the most complete in the batch — real names, real contributions, real gaps. The Operate admission is the thread that connects Phase 1's billing calibration gap to Phase 2's loop gap — he sees the pattern now. The question for defense: you've identified the Operate gap in both phases. What does your weekly Operate rhythm actually look like starting this week? Not the system's — yours.
+15/20 under tough academic standards — earned, not given. Your Q6 is the gold standard for gap recognition in this batch. What cost you: you contradicted yourself between Q5 and Q6 on Operate. You can't claim you "review outputs and validate accuracy" in Q5 and then say "I shipped it and moved on, no weekly review" in Q6. One of those is true. You know which one. For the defense: reconcile Q5 and Q6. And name a second self-designed work — or explain why there isn't one at 7 months. That's not a weakness if you own it.
+
+---
+
+*Cumulative: 79 / 100*
