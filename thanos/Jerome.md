@@ -22,7 +22,7 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 - **Name: Jerome Christopher J**
 - **Current Role: Associate - SRE**
 - **Years in Current Role: 1 year**
-- **Date Submitted: 03-03-2026**
+- **Date Submitted: 04-03-2026**
 
 ---
 
@@ -79,27 +79,27 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) | Two major things that I build was the Architecture as code for kissflow infra diagram and automation of the dev chr automation metrics | key forge application|
+| **Develop** (building / executing it) | The architecture diagram I was executing it, cause it was a task that was assigned to me but for the chr metrics, even though it was assgined to me I build it independently | they were building it |
+| **Deploy** (shipping / releasing / presenting it) | Both of these were were released to the team | they presented it to the team|
+| **Operate** (monitoring, learning from results, feedback) | My architecture diagram has been used to revamp easier if required in the future and the chr billing has received it's feedback from the team and am currently working on it | The key-forge application was monitored, got the feedback from the team as well.|
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+I feel like I am being dominant in the tasks that have been assigned to me, and I am able to provide a deliverable to the fullest capability. But I was not being proactive and have taken up things by myself and have provided a fix for the same. But never too late, cause I have already started on this approach.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+From my line of work, the AI can do the debugging when an issue occurs, provide an information, build applications, handle my recurring AOS tasks, can automatically provide access for ENs, can make required changes in the infra automatically. But all this being said, there has to be an ultimate super-visor who guides the AI on what needs to be done and what not to be done. I feel like I would be playing super-visor role and would guide the AI in the right path, and not implement or perform an action out of it's required scope.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+Unfortunately, never :/
 ```
 
 ---
