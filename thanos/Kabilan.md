@@ -168,18 +168,18 @@ IN 2 YEARS:
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|----|
-| 1 | **Redskull Root Cause System:** Deployed to production, auto-diagnoses node spike issues, used daily by team to prevent firefighting | Partially Met |
-| 2 | **Custom Billing Dashboard:** Design complete, development started, ready for team testing by end of 2-year cycle | Not Met |
+| 1 | **Redskull Root Cause System:** Deployed to production, auto-diagnoses node spike issues, used daily by team to prevent firefighting | Not Met |
+| 2 | **Custom Billing Dashboard:** Design complete, development started, ready for team testing by end of 1-month cycle | Not Met |
 | 3 | **Technical Mastery in Incidents:** Own incident diagnosis without critical questions — solve independently, lead RCA, suggest prevention | Not Met |
-| 4 | **Knowledge Sharing:** Speak at team standup monthly about incident learnings and prevention strategies | Partially Met |
+| 4 | **Prowler Security Automation:** Deployed to production, runs as cronjob, auto-validates CIS 3.0 compliance across all GCP resources, team uses it | Met |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | **Communication Avoidance:** Stay silent when stuck instead of asking for help or speaking up | Speak at least once per standup (even if just asking a question). Make speaking up a weekly habit, not optional. |
-| 2 | **Task Switching / No Prioritization:** Think all tasks are equally important → can't focus on Redskull or Custom Billing completion | Decide 2 "must do" tasks per week, explicitly say NO to others. Time-block these. Review priorities weekly with Noordeen. |
-| 3 | **Over-Dependency on Approval:** Freeze on decisions if Noordeen/Aravindhan/Swami aren't available. Can't own incident diagnosis independently. | Practice making small decisions alone (incident response, debugging). Seek approval AFTER deciding, not before. Escalate only critical decisions. |
+| 1 | **Communication Avoidance:** Staying silent when stuck instead of asking for help or speaking up | Speak at least once per standup (even if just asking a question). Make speaking up a weekly habit, not optional. |
+| 2 | **Task Switching / No Prioritization:** Think all tasks are equally important → can't focus on Redskull or Custom Billing completion | Decide 2 "must do" tasks per week, explicitly say NO to others. Time-block these. Review priorities weekly with Noordeen and Aravindhan. |
+| 3 | **Over-Dependency on Approval:** Freeze on decisions if Noordeen/Aravindhan/Swami/Deepika aren't available. Can't own incident diagnosis independently. | Practice making small decisions alone (incident response, debugging). Seek approval AFTER deciding, not before. Escalate only critical decisions. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
@@ -187,7 +187,7 @@ IN 2 YEARS:
 Yes, I would ship this plan. Here's why:
 
 WHAT'S SOLID:
-- My vision is grounded in real work: Redskull is already 50% done, Custom Billing has a clear design, both are
+- My vision is grounded in real work: Redskull is analysis is going on, Custom Billing has a clear design, both are
   tied to actual problems my team faces every day.
 - My acceptance criteria are honest: I marked 2 "Not Met" and 2 "Partially Met." That's realistic for a 2-year
   goal, not overconfident.
@@ -201,9 +201,7 @@ I go silent instead of asking for help. If I don't break this pattern, two criti
   - Q10 #4: Knowledge sharing (I can't speak at standups if I stay silent)
 
 THE HONEST PART:
-This isn't a perfect plan. It's a challenging plan. But I'm not shipping it hoping things magically work out.
-I'm shipping it with a commitment: I will treat my mitigations like production requirements. Speaking up weekly is
-non-negotiable. Making decisions independently is non-negotiable. Without these, the vision collapses.
+This isn't a perfect plan. It's a challenging plan. I'm shipping it with a commitment: I will treat my mitigations like production requirements. Speaking up weekly is non-negotiable. Making decisions independently is non-negotiable. Without these, the vision collapses.
 
 With these, it's achievable in 2 years.
 
