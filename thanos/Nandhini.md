@@ -21,38 +21,39 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 - **Name:** Nandhini Rajaram
 - **Current Role:** QA Engineer
-- **Years in Current Role:** 2.5 Yrs 
+- **Years in Current Role:** 2.5 Yrs
 - **Date Submitted:** 3 march 2026
 
 ---
 
 ## PHASE 1: THE FOUNDATION AUDIT
+
 *From S2E1 — "That's what you finished. What did you build?"*
 
 Coulson showed Daisy two agents. Same start date. Same effort. Different results. Agent A completed tasks. Agent B built systems, trained people, created frameworks.
 
 ### Q1. List your top 5 accomplishments from the last 6 months.
 
-| # | Accomplishment |
-|---|---------------|
-| 1 |Achieved ~60% automation coverage for a major module, including all sanity and high-impact test cases. |
-| 2 | Initiated feature-level automation to prevent future automation backlog and improve release efficiency.|
-| 3 |Implemented automated chat notifications for Sparrow runs with execution details and result links, improving visibility. |
-| 4 |Initiated to develop slash-command integration in Space chat to trigger Sparrow runs with parameters, streamlining execution workflow. |
-| 5 |Strengthened defect debugging and root cause analysis, contributing impactful ideas in technical discussions. |
+| # | Accomplishment                                                                                                                         |
+| - | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Achieved ~60% automation coverage for a major module, including all sanity and high-impact test cases.                                 |
+| 2 | Initiated feature-level automation to prevent future automation backlog and improve release efficiency.                                |
+| 3 | Implemented automated chat notifications for Sparrow runs with execution details and result links, improving visibility.               |
+| 4 | Initiated to develop slash-command integration in Space chat to trigger Sparrow runs with parameters, streamlining execution workflow. |
+| 5 | Strengthened defect debugging and root cause analysis, contributing impactful ideas in technical discussions.                          |
 
 ### Q2. Now be honest — for each one, mark it:
 
 - **C** = Completed (you did the work, it's done, nothing remains)
 - **B** = Built (it continues to create value without you actively doing it)
 
-| # | C or B? | Why? |
-|---|---------|------|
-| 1 | B|	I finished the 60% goal for the main cases. I am now adding more cases while also handling my other new tasks. |
-| 2 |B | Since we have taking up the feature recently i have started with that feature automation|
-| 3 |B | The tool is built. I am just making some final small changes based on feedback before it goes live|
-| 4 |B | Cureently working on that and fine-tuning how it works|
-| 5 |C|My better debugging and ideas help the team solve problems faster every day. |
+| # | C or B? | Why?                                                                                                           |
+| - | ------- | -------------------------------------------------------------------------------------------------------------- |
+| 1 | B       | I finished the 60% goal for the main cases. I am now adding more cases while also handling my other new tasks. |
+| 2 | B       | Since we have taking up the feature recently i have started with that feature automation                       |
+| 3 | B       | The tool is built. I am just making some final small changes based on feedback before it goes live             |
+| 4 | B       | Cureently working on that and fine-tuning how it works                                                         |
+| 5 | C       | My better debugging and ideas help the team solve problems faster every day.                                   |
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
@@ -75,40 +76,42 @@ Automated Intelligence: Creating tools that don't just 'run' but 'report and ana
 ---
 
 ## PHASE 2: THE LOOP MAP
+
 *From S2E2 — "You're shipping. You're not looping."*
 
 Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate → back to Design.** She'd been stuck in Develop → Deploy. Shipping other people's designs. Never hearing what happened after.
 
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
-| D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
-|-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| D3O Stage                                                       | What YOU Did (be specific) | What SOMEONE ELSE Did |
+| --------------------------------------------------------------- | -------------------------- | --------------------- |
+| **Design** (deciding WHAT to build and WHY)               |      About a month ago I noticed developers rarely checked the Jenkins dashboard, so automation failures were often noticed late. I decided to send Jenkins build results directly to a Google Chat channel called “Automation result” so the team could immediately see the status without opening Jenkins.                      | Jenkins pipelines and automation suites were already maintained by the QA and engineering teams.                      |
+| **Develop** (building / executing it)                     |    I built the integration using a Google Chat webhook. The message included build status, duration, test suites, environment link, Allure report, and screenshots. Version 1 only sent basic status. In version 2 I added test health insights and module-level failure counts to make debugging easier.                        |Developers maintained the pipeline and fixed issues when failures were reported.                       |
+| **Deploy** (shipping / releasing / presenting it)         |I connected the webhook to the Jenkins pipeline so every build automatically posts a summary to the Automation result channel. This made the results visible to the team immediately after execution.                            |Developers and QA used the notifications to quickly access reports and investigate failures.                       |
+| **Operate** (monitoring, learning from results, feedback) |After multiple runs, the notifications showed that most recurring failures were in UI tests, highlighting weaker areas in the automation suite. One gap is that it currently reports failures but does not track long-term trends like flaky tests.                            |Developers used the reports to debug failing tests or code issues.                       |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+I’m strongest in the Design and Develop stages. I identified that Jenkins results were not being monitored consistently and built a Google Chat webhook integration to surface build results. I also contributed to Deploy by connecting it to the Jenkins pipeline for automated notifications. Operate is the weakest stage, as the system improves visibility but does not yet track long-term trends like flaky tests.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+AI could generate the webhook integration script and format the notification payload. However, the key decision was recognizing the real problem. Jenkins results already existed, but developers were not checking the dashboard regularly. Moving the information to Google Chat required understanding the team’s workflow. I also had to decide what information to highlight in the notification, such as module failures and recurring test issues, so the team could quickly identify problems.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+Last month I implemented the Jenkins to Google Chat automation notification integration. Every pipeline run now posts a summary in a shared chat channel with build status, test suites executed, report links, and failure insights. The first version only showed basic build status. Later I improved it by adding test health insights and recurring failure summaries so the team could quickly identify problem areas.
 ```
 
 ---
 
 ## PHASE 3: THE SELF-TEST
+
 *From S2E3 — "You have test plans for every feature. What's the test plan for your career?"*
 
 Daisy had 94% automated coverage on her products and 0% on her own career. Coulson asked: "Would you ship a product with that test plan?"
@@ -122,19 +125,19 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
-|---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| - | ------------------- | ------------------------------------------ |
+| 1 |                     |                                            |
+| 2 |                     |                                            |
+| 3 |                     |                                            |
+| 4 |                     |                                            |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
-|---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| - | ---------------- | --------------- |
+| 1 |                  |                 |
+| 2 |                  |                 |
+| 3 |                  |                 |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
@@ -145,6 +148,7 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ---
 
 ## PHASE 4: THE MENTOR MAP
+
 *From S2E4 — "You don't have to be an expert to help someone. You just have to be one step ahead."*
 
 Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imperfect — and it was exactly what Daisy needed. Because he was one step ahead.
@@ -176,6 +180,7 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ---
 
 ## PHASE 5: THE PREVENTION AUDIT
+
 *From S2E5 — "You're not building your replacement. You're building your ladder."*
 
 Daisy had the fastest incident response on the team. Three SEV-1s in a month, all handled under 4 minutes. Same root cause. She was winning battles in a war she never tried to end.
@@ -183,10 +188,10 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
-|---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| - | -------------- | --------- | -------------------------------------------- |
+| 1 |                |           |                                              |
+| 2 |                |           |                                              |
+| 3 |                |           |                                              |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
@@ -209,6 +214,7 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ---
 
 ## PHASE 6: YOUR ARCHITECTURE
+
 *From S2E6 — "You are the architect. In every universe. Build accordingly."*
 
 This is the one you'll present to the team. All five phases led here.
@@ -279,11 +285,13 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
+
 ```
 [Your answer]
 ```
 
 **Do differently:**
+
 ```
 [Your answer]
 ```
