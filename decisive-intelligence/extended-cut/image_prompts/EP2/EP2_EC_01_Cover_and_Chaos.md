@@ -219,24 +219,30 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL.
 
-SCENE: The clowns eliminate each other — the Joker's system.
+SCENE: The clowns turn on each other — a chain of betrayals. The Joker planned it this way.
 
-LEFT PANEL:
-- One clown-masked figure standing over another who has fallen
-- Bank vault visible in background, open
-- The standing clown holds a weapon loosely
+LEFT PANEL — THE CHAIN BEGINS:
+- Bank corridor, dim fluorescent lighting, concrete walls
+- THREE clown-masked figures in frame showing the CHAIN of elimination:
+  - One figure face-down on the floor in the foreground (eliminated first — he finished cracking the vault)
+  - A second figure standing over the first, gun still raised — but HE is being shot from behind by a THIRD figure in the background doorway
+- The visual reads like dominoes falling — each one betraying the one before
+- All wearing cheap rubber clown masks over dark street clothes
 
-RIGHT PANEL:
-- A different clown-masked figure with another fallen figure
-- Alarm panel visible in background
-- Each robber was told to eliminate the others
+RIGHT PANEL — FEWER MASKS:
+- Same corridor, moments later — the bodies now number TWO on the floor
+- Only ONE clown-masked figure remains standing, bags of cash at his feet
+- He looks toward the lobby door — where ONE MORE FIGURE is silhouetted in the doorway, watching
+- The silhouetted figure is calm, hands at his sides — he has been watching this whole time
+- The standing robber doesn't realize HE is next
 
 TEXT OVERLAY:
 - Caption (dark navy): "Each one was told to eliminate the others. Smaller shares."
 
 WHAT NOT TO DRAW:
-- NO blood or graphic injury — figures on the ground, implied
-- NO removed masks yet
+- NO blood or graphic wounds — figures on the ground with masks still on, implied not graphic
+- NO removed masks — all faces covered
+- NO vault or alarm equipment visible — this is a back corridor connecting rooms
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
