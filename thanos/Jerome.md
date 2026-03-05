@@ -22,7 +22,7 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 - **Name: Jerome Christopher J**
 - **Current Role: Associate - SRE**
 - **Years in Current Role: 1 year**
-- **Date Submitted: 04-03-2026**
+- **Date Submitted: 05-03-2026**
 
 ---
 
@@ -112,30 +112,30 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In two years I would want to be a senior Site Reliability Engineer, with an indepth knowledge on the infra components and also the latest updates on them on the internet. I would like to have a skill level that the others would rely on when something important is required and to also be able to drive people who are junior to me.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Better understanding on the concepts | Partially |
+| 2 | Ability to drive the requirements on my own without the guidance of mentors | Partially |
+| 3 | Ability to propose solutions to issues and new beneficial stratergies | not met |
+| 4 | Guide and provide insights and drive the juniors | partially |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Improper understanding of the requirements | Spend the requirement amount of time on understanding the requirement before proceeding |
+| 2 | Being more proactive than being reactive | Take up new oppurtunities and work on it, without being the one who only works on the requirements that are assgined to me |
+| 3 | Have a better team collaboration | Be open to critisims and feedbacks and give feedbacks for the betterments of others as well |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+with my current test plan, it satisfies all the requirements for the goal I want to achieve in the period of the next two years. So yes I would proceed with this test case.
 ```
 
 ---
