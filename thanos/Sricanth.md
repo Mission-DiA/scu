@@ -84,30 +84,32 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
 
-| D3O Stage                                                 | What YOU Did (be specific) | What SOMEONE ELSE Did |
-| --------------------------------------------------------- | -------------------------- | --------------------- |
-| **Design** (deciding WHAT to build and WHY)               |                            |                       |
-| **Develop** (building / executing it)                     |                            |                       |
-| **Deploy** (shipping / releasing / presenting it)         |                            |                       |
-| **Operate** (monitoring, learning from results, feedback) |                            |                       |
+| D3O Stage                                                 | What YOU Did (be specific)                                                                                                                                                                                                                                                                               | What SOMEONE ELSE Did                                                                                                              |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Design** (deciding WHAT to build and WHY)               | I noticed that we didn’t have a reliable way to validate whether the AI-generated filters were returning accurate results. To reduce manual effort in validating multiple scenarios, I decided to build an automation script to compare expected outputs with the AI responses and measure the accuracy. | Developers designed and implemented the AI/NLP-based filter functionality as part of the feature.                                  |
+| **Develop** (building / executing it)                     | I built the automation script within a short time to run multiple filter scenarios and check whether the AI output matched the expected results.                                                                                                                                                         | Developers implemented the underlying AI logic that generated the filter responses.                                                |
+| **Deploy** (shipping / releasing / presenting it)         | I executed the automation during validation cycles and shared the accuracy results and mismatches with the team.                                                                                                                                                                                         | The engineering pipeline and environments were managed by the development/DevOps team.                                             |
+| **Operate** (monitoring, learning from results, feedback) | I analyzed the mismatches identified by the script and cross-checked the automation logic with the developers. Based on their feedback, I added a few additional scenarios to strengthen the validation coverage.                                                                                        | Developers reviewed the findings and suggested additional scenarios to validate through automation to improve the accuracy checks. |
 
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+ I’m dominant in Develop and Deploy. I build the scripts, run validations, and share results. Operate is the weakest stage for me. I did review results with developers and added a few more scenarios based on their feedback, but I’m not consistently involved in monitoring how things behave in production or feeding those learnings back into the system.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+AI can already do a lot of the Develop–Deploy work I do — writing test cases, generating automation scripts, analyzing logs, and suggesting edge cases. Most of the repetitive testing work can be sped up with AI.
+
+What AI can’t really do is decide what actually matters to test, understand how the feature behaves in real workflows, or discuss failures with developers to figure out what really went wrong. That still needs context, judgment, and conversations with people.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+ 6 months ago, when I shipped the NLP automation script to validate the AI filter accuracy. Instead of manually testing multiple scenarios, I built the automation to validate the results and reduce the manual effort.
 ```
 
 ---

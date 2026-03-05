@@ -81,27 +81,27 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) | I designed the structure and approach for the SLA metrics app. | The requirement originally came from the PS team. |
+| **Develop** (building / executing it) | I guided the development by providing the requirements and continuous inputs to AI, refining the outputs until my expected output was build. | The AI generated and implemented the code to develop the SLA Metrics tool based on my inputs provided.|
+| **Deploy** (shipping / releasing / presenting it) | | The deployment process was fully managed by AI, and I did not interfere in any part of the deployment. |
+| **Operate** (monitoring, learning from results, feedback) | I learned how to create more relevant charts and reports that are will be useful for different departments. |Team and other PO's reviewed the output and provided feedback on usability and metric relevance. |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+From the map, I appear to be dominanting in the Design and Develop stages. Where I was fully involved for defining the structure and approach for the SLA metrics app. The Deploy stage is relatively empty from my side, as the deployment process was fully handled by AI and I did not actively participate in that phase.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+I completely agree with Coulson’s statement. In my recent experience, the designing phase of my project took significantly longer than the development and deployment stages. I had to continuously guide and refine the AI’s output by feeding the right inputs and context until the design document reached the expected quality. It also doesnt understanding the real business impact of defects, prioritizing quality risks and planning the right strategy, there are areas where my judgment, context, and experience needed constantly.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+I have not fully shipped the project yet, but it is about 90% complete. The core design and implementation are already in place, and only a few feedback based changes remain to be implemented. Once those updates are completed, this will be the first project.
 ```
 
 ---

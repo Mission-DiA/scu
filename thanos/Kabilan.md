@@ -83,27 +83,49 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) | Started: Aravindhan assigned the DOOR card with the requirement to automate Prowler (security findings validation). Now: Starting to own design decisions with Swami's guidance | Swami mentoring on design thinking; Aravindhan and Noordeen assigned the ticket and guided on problem-solving approach |
+| **Develop** (building / executing it) | Coded the entire Prowler integration myself, using Claude to understand the framework and debug schema mappings with CIS 3.0 compliance | Claude assisted with code structure and debugging |
+| **Deploy** (shipping / releasing / presenting it) | Created Jenkins pipeline and Cloud Run job for automation; configured cronjob scheduling and deployment workflow. Currently under verification with Deepika before production release | Deepika reviewing before production sign-off |
+| **Operate** (monitoring, learning from results, feedback) | Monitoring it solo — watching security findings and learning how to rectify them by comparing with CIS 3.0 standards | No one else is monitoring this. Feedback comes directly in Google Space |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+Dominant stages: Develop and Deploy — I coded and deployed Prowler.
+
+Empty/weak before: Design was completely assigned to me initially. I spent the first 2-3 months purely in Develop-Deploy — given a ticket, I executed it. No design involvement.
+
+Growth happening NOW: In the last month with Swami's mentorship, I'm starting to own Design. For Custom Billing Dashboard, I'm now writing design docs, understanding requirements deeply, and suggesting approaches (like using MCP instead of HTTP to reduce cost). I'd estimate I'm now ~40% capable in Design and still improving. Still mostly Develop-Deploy, but the Design responsibility is growing.
+
+Operate is all mine: I monitor what I build. That's different from before when I just shipped and moved on.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+What AI can do in my SRE work:
+- Log analysis and pattern matching (scan huge logs fast)
+- Config generation for routine infrastructure (if context is set)
+- Patch automation suggestions
+
+What requires MY judgment and context:
+1. Incident communication: Last Monday, ARIES was down. AI couldn't write customer-facing updates because it doesn't know: What info goes to customers vs. internal team? When should I post updates? What's safe to say publicly vs. technical details only for internal threads? I had to make these judgment calls. AI needs me to set context.
+
+2. Architectural decisions: AI will suggest HTTP calls to fetch billing data. But I know our actual constraints: cost matters, latency matters. I proposed using MCP to collect from multiple clouds (GCP, AWS, Snowflake) and store in BigQuery, then serve via APIs. That reduces both cost and API calls. AI suggested the naive approach; I validated and improved it.
+
+3. Runbooks: AI suggests steps, but I validate each one based on our actual infrastructure. Example: When Prowler crashed last month, AI said "clear the logs and restart the job." At first I believed it. But I knew we were in the middle of a compliance scan — restarting would break it. Instead, I fixed the schema mismatch that caused the crash, then restarted only after the scan completed. AI didn't know about the CIS validation window. I did.
+
+AI is my assistant in these areas, not the decision-maker.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+At work: Prowler was assigned to me, not designed by me. But NOW — Custom Billing Dashboard is my first real design. It solves a real problem: teams need to see billing data from multiple clouds (GCP, AWS, Snowflake, MongoDB) in one place. I'm writing the design docs, making architectural choices, and proposing solutions. I'm not shipping it yet, but I'm starting to own the Design stage.
+
+Personally: Minnal (September 2025) shows my design process. I identified a real problem: power cuts in Chennai. I couldn't remember when they'd happen, and I wanted alerts. I spent a week learning web scraping (Flask + parsing nested HTML), deployed to Vercel, and set up Telegram alerts at 6am. That took 1 week because I owned all 4 D3O stages.
+
+Why the gap at work? Honestly, it's because I'm new (5 months). I've been learning the codebase, the infrastructure, the team processes. I spent the first 3 months just executing assigned tasks to get up to speed. Now, with Swami's mentorship, I have confidence to design. Custom Billing Dashboard is that inflection point.
 ```
 
 ---

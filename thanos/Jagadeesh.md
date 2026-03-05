@@ -50,7 +50,7 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1 | B | The system fires at 10 AM every morning without me. BigQuery pulls data, Python runs the Z-score calculations, Google Chat gets the alert, Drive stores the chart. I am not in that loop. The team has production cost visibility they didn't have before — on a daily cadence — without anyone doing anything manually. |
+| 1 | B (with a caveat I should name) | The system fires at 10 AM every morning without me. BigQuery pulls data, Python runs the Z-score calculations, Google Chat gets the alert, Drive stores the chart. I am not in that loop. But I also haven't gone back to validate the thresholds since deployment. The model was calibrated against billing patterns from 3-6 months ago — I can't actually confirm it's still detecting accurately as our GCP usage has evolved. It runs. Whether it's still right is a different question I haven't answered. |
 | 2 | B | Newton P used the phrase "business as usual" in the announcement. The evidence workflows, the population requirements tracker, the audit preparation habits are repeatable now. The next SOC cycle doesn't start from scratch. That institutional reliability isn't mine — it belongs to the company. |
 | 3 | B (with one honest caveat) | 94 deleted channels don't return. The 26 silent alerts are wired to real channels — every day without a missed production incident is that fix still protecting the team and the customers behind it. Honest caveat: 4 alerts are stuck on cross-project filter dependencies, and the org policy that permanently prevents sprawl hasn't been applied yet. Without it, the numbers will slowly drift. That's an open risk I need to close. |
 | 4 | B | The relationship is built. Google doesn't invite companies to their office for routine vendor conversations — something about how Kissflow is building earned that invitation. The credibility established in that call continues to exist regardless of whether I'm actively working on it. |
@@ -61,28 +61,28 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-Three things would still be actively protecting Kissflow whether I'm there or not.
+The billing anomaly detection system keeps running — 10 AM every day, no
+one touching it. That stays active regardless of who's around.
 
-The billing anomaly detection system runs at 10 AM every day without me.
-Cost spikes that used to go unnoticed until someone manually checked are now
-surfaced automatically in Google Chat. The team has cost visibility they
-didn't have before — on a daily cadence — and it costs nothing to maintain.
-That keeps running regardless of who's in the building.
+The 26 silent alerts being wired — production incidents were reaching nobody
+before. Now they reach someone. Those channels don't unwire on their own.
 
-The 26 silent alerts — production incidents were triggering nothing before.
-No Slack ping, no wakeup, no one even knew. Now they reach someone. Those
-channels don't unwire themselves when I'm not around.
+I want to be careful with the SOC one. Deepika and I did that together. The
+evidence workflows and the tracker are documented and I think the next cycle
+doesn't rebuild from scratch. But that's partly her work too, not mine alone.
+I'd be overstating it to claim it fully.
 
-The SOC part I'll be honest about. Deepika and I worked on that together.
-The evidence workflows and the population requirements tracker are documented,
-and I think the next cycle can pick up where we left off. But I'm not going
-to claim that one as entirely mine — it was a joint thing.
+Here's the one I'm less comfortable admitting: the billing system. The
+thresholds — Z-score at 3.5, the 15%+$30 rule — I calibrated those against
+billing patterns from 3-6 months ago. I've never gone back to check if they're
+still right. If our GCP usage profile has shifted, the model could be missing
+real anomalies or generating noise right now and I wouldn't know. The system
+"runs by itself" but I can't actually tell you if it's still doing its job
+correctly. That's a gap I haven't closed.
 
-The one thing that would NOT still matter is the RedSkull root cause analysis.
-I found the problem. I documented it. But the PDB fix hasn't been deployed.
-If I disappeared tomorrow, the same eviction scenario can repeat — 3 pods
-on the same node, one autoscaler action, 28 failed requests. I found it, I
-haven't closed it. That's still on me, and it's what I'm doing this week.
+RedSkull — I found it, I documented it, the fix is not deployed. Same
+eviction scenario can repeat today. That's not "still matters." That's
+still open.
 ```
 
 ---
@@ -90,30 +90,36 @@ haven't closed it. That's still on me, and it's what I'm doing this week.
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-Honestly, sitting with this question — the clearest answer I can give is
-that I keep finding things that weren't in the ticket.
+For the first 3 months here, I had no answer to this question. I was picking
+up DOOR tickets and executing them. Someone opens a card, I do the work, I
+close it. That was the whole loop. I wasn't designing anything or looking for
+anything outside the scope. I was just getting through the queue.
 
-Monitoring cleanup was assigned as "clean up the channels." I mapped all 7
-GCP projects first and found 26 alerts where real production incidents were
-going completely unnoticed. Nobody asked me to look for that. Billing
-automation — every time I thought I was close to done, I'd ask "what does
-this version miss?" That question alone added weeks to the timeline. RedSkull,
-I could have stopped at "pod eviction caused 502s." Instead I traced it back
-to the anti-affinity configuration that let all three pods end up on the same
-node in the first place.
+The first time I actually looked up from the assigned scope was DOOR-0794.
+Noor asked me in a review about cross-project alert dependencies and I
+realized I couldn't answer it — because I'd been making changes to the system
+without ever mapping what the full system looked like. I had no idea what was
+in the other 6 GCP projects. That question sent me back to build a complete
+inventory first. That's where I found 26 alerts with zero notification channels
+attached — production incidents going completely unnoticed. I didn't plan to
+find those. I found them because I couldn't answer one question and had to go
+look properly.
 
-None of those extra findings came from a ticket. They came from spending more
-time on the full system than on the assigned part.
+Same thing happened in billing automation. I had a working version early —
+flat threshold, if a service spikes by X%, send an alert. Clean, simple,
+testable. I thought I was close to done. Noor asked: "Why does a $200 spike
+in GKE matter more than a $200 spike in Cloud Run?" I didn't have a good
+answer. Because my design treated all services the same, and they're not.
+That one question added 3 months to the timeline and is the reason the
+statistical model exists at all. I wouldn't have gotten there without being
+pushed.
 
-When Swami told the whole team he was "suspicious and excited" about the
-BillingGuard design review — from a 7-month fresher — that wasn't feedback I
-was expecting. And when Google Cloud invited us to their office after the
-cross-functional call, that came directly from walking them through how we
-think about our infrastructure, not just listing what we'd shipped.
-
-So what am I building: the habit of looking at the whole system before I
-touch the assigned piece, and doing it on purpose every single time — not
-just when something feels off.
+So if I'm naming what I'm building — I'm still figuring out the right words
+for it. The pattern I keep seeing: the extra time I spend on the full system
+before touching the assigned piece keeps producing things that matter more
+than the thing I was assigned. I'm trying to make that a deliberate habit
+instead of something that happens only when someone asks a question I can't
+answer.
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
@@ -137,15 +143,19 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-Design and Develop are my strongest. I owned both fully on the billing automation —
-the statistical model, the architecture, the code, the deployment. Most of my first
-months here was Develop and Deploy only — executing other people's designs.
+Honest answer: for the first 4 months here I was in Develop and Deploy only.
+I want to say that clearly because it's easy to look at the billing automation
+now and think I've always worked this way. I didn't. I was picking up tickets
+and executing them. Someone else decided what to build and why. I showed up
+for the build.
 
-Operate is my gap. The system runs every day but I don't formally track whether
-detection quality is improving or degrading. No weekly review, no feedback loop
-back into the design. The system shipped and I moved to the next thing. Six
-months later I have no idea if the thresholds are still calibrated correctly
-for how our costs have changed. That's the part I haven't fixed yet.
+Design only became mine when I started asking questions I had no answer to.
+And Operate is still mostly empty. The billing system runs every day and I
+don't track whether it's still doing its job correctly. No weekly review,
+no feedback loop back into the thresholds. I shipped it and moved on. That's
+the gap — and if I'm being honest, it's bigger than it sounds because the
+whole point of the system was to detect anomalies reliably, and I have no
+visibility into whether it's still doing that.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
@@ -179,17 +189,25 @@ working together, not through reading a codebase.
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-The BillingGuard design document, January 2026. I designed the full statistical
-model, the three-filter architecture, the notification workflow — 1800 lines
-from scratch. First review came back with Daisy praising it without major
-changes. Swami publicly told the whole team he was "suspicious and excited"
-about a fresher producing design work at that level. May cleared it. Aravind
-and Noor signed off.
+BillingGuard — but the first version I designed was wrong.
 
-Before that — the monitoring audit approach for DOOR-0794. Nobody told me to
-map all 7 GCP projects before cleaning anything. I designed that approach
-myself. The 26 silent alerts and 16 ghost references I found came directly from
-that design decision. They wouldn't exist if I'd just executed the assigned scope.
+My original design was a flat threshold system. If a service's cost spikes
+by more than X%, alert on it. I had it working in test, I thought it was
+nearly ready to ship. Noor asked in the first review: "Why does a $200 spike
+in GKE matter more than a $200 spike in Cloud Run?" I didn't have an answer.
+Because I'd designed something that treated all GCP services identically —
+and they're not. GKE has naturally volatile billing patterns. Cloud Run is
+fairly stable. A flat threshold on GKE generates constant noise. A flat
+threshold on Cloud Run misses real anomalies because the baseline is so low.
+
+That question sent me back to the design from scratch. The three-filter
+statistical model — Z-score, business rule, minimum floor — came from that.
+Three extra months of work that wouldn't exist if Noor hadn't asked the one
+question I couldn't answer in the first review.
+
+Swami calling it "suspicious and excited" after the final review — that was
+good to hear. But the design that earned that was built on top of a wrong
+first version and someone else's question. That's worth being accurate about.
 ```
 
 ---

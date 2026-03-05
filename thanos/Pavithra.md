@@ -79,27 +79,69 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) | Took ownership of the problem, defined the goals, drove the design direction, and produced the design document with AI assistance. Completed. | Noordeen identified the problem (manual Kissflow card updates after every prod build with wrong status). Claude (AI) helped structure and document the design. Aravind gave suggestions on the some areas. |
+| **Develop** (building / executing it) | POC completed. Main Cloud Functions code is done (Jenkins API polling for PROD, BLOM, SCG, Firestore writes, Kissflow auto-completion logic). Currently integrating it with the Jenkinsfile. In Progress. | Claude (AI) assists with code generation and problem-solving throughout development. |
+| **Deploy** (shipping / releasing / presenting it) | Not yet done. Next step — integrating Jenkins with the Kissflow PBR process and validating the end-to-end flow in a real environment. | Will involve DevOps team review before production rollout. |
+| **Operate** (monitoring, learning from results, feedback) | Not yet reached. Once deployed, will monitor Cloud Function logs, Firestore writes, and Kissflow card updates to ensure the system runs without manual intervention. | End users (DevOps/Dev team) will operate and benefit from auto-completed Kissflow cards. |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+Dominant: Design and Develop.
+
+Design — I took full ownership here. Even though Noordeen identified the problem, I chose
+to act on it, defined the solution, structured the architecture, and produced the design
+document. That ownership mindset is what separates completing tasks from building systems.
+
+Develop — This is where I am spending most of my time right now. I built the POC,
+completed the main Cloud Functions code, and am now integrating it with the Jenkinsfile.
+I am not just executing someone else's instructions — I am making real technical decisions
+at every step. This is my strongest stage.
+
+Empty (not yet reached): Deploy and Operate.
+
+Deploy — I haven't shipped anything to end users yet. The system exists, but no one is
+using it in production. Until it goes live, it has created zero real-world impact.
+
+Operate — This is completely blank. I have no feedback from users, no production metrics,
+no signal on whether the system actually works as expected at scale. This is the most
+critical gap — without Operate, there is no loop back to Design, which means I am still
+shipping, not looping.
+
+The honest takeaway: I am strong at building but I haven't closed the D3O loop yet.
+The value of this project will only be proven once it is deployed and operating — and
+that's the part I still need to own and push through.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+Honestly, AI already does a big part of my Design and Develop work — and I use it deliberately.
+I have fed my complete Kissflow infrastructure knowledge to AI, and because of that context,
+it can write Python scripts, debug issues, generate Cloud Functions code, and suggest fixes
+faster than I could do alone. That's real, and I won't pretend otherwise.
+
+But what AI cannot do is decide what to build in the first place. Every time I say
+"can you do this?" — that direction comes from me. My knowledge of the system, my
+understanding of what's broken, my call on what's safe to change in production — that
+is what AI depends on. Without my input, it has nothing to work with.
+
+What still requires my judgment is knowing which problem matters, understanding the
+Kissflow infra history, and validating whatever AI produces. AI can be wrong, and my
+domain knowledge is what catches it. So while AI accelerates my execution, the thinking
+that drives it — and the accountability for what gets deployed — is always mine.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+The GCS bucket size check automation. Around 30 cards had been raised over the years
+for the same manual gsutil task. I noticed the pattern, took the initiative to automate
+it as a self-service Jenkins job via the JYT process, and started building it without
+being asked.
+
+But it is still in progress — not shipped yet. Honestly, before this I cannot clearly
+recall shipping something fully self-designed end-to-end. That is the truth.
 ```
 
 ---

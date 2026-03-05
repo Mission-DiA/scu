@@ -89,30 +89,41 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
 
-| D3O Stage                                                 | What YOU Did (be specific) | What SOMEONE ELSE Did |
-| --------------------------------------------------------- | -------------------------- | --------------------- |
-| **Design** (deciding WHAT to build and WHY)               |                            |                       |
-| **Develop** (building / executing it)                     |                            |                       |
-| **Deploy** (shipping / releasing / presenting it)         |                            |                       |
-| **Operate** (monitoring, learning from results, feedback) |                            |                       |
+**Project: Sprint Metrics Dashboard** *(This project looped through D3O multiple times — Design → Develop → Deploy → Operate → back to Design)*
+
+| D3O Stage                                                 | What YOU Did (The Iterative Journey) | What SOMEONE ELSE Did |
+| --------------------------------------------------------- | ------------------------------------ | --------------------- |
+| **Design** (deciding WHAT to build and WHY)               | **V1 (Foundational):** Identified zero visibility into automation individual performance. Designed a Fibonacci-based scoring system (Crit=8, High=5, Med=3, Low=1). **V2 (Performance Pivot):** Realized priority alone ignored speed. Redesigned logic to include time-based scoring (bonuses for early completion) and overdue thresholds. **V3 (Scope Expansion):** Identified that the tool missed non-automation tasks. Designed the QA Tracker sub-dashboard for production bug management and feature testing. | **Independent Initiative:** No third-party involvement in the design. Every iteration was self-directed based on gaps identified during the "Operate" phase. |
+| **Develop** (building / executing it)                     | **Full-Stack Execution:** Built the entire Next.js/React application across all three versions. **Core Features:** Integrated Kissflow APIs with auto-refresh, developed the complex scoring engine, interactive velocity charts, and drill-down modals. **Optimization:** Conducted major code refactoring and design-dev iterations to ensure the UI could handle real-time performance analytics and conversation tracking. | — |
+| **Deploy** (shipping / releasing / presenting it)         | **Local Rollout:** Managed all local deployments and presented the dashboard to the QA chapter for sprint reviews and retrospectives. **Platform Integration:** While the app was ready, I navigated a dependency on the Helicarrier team for final production release. | **Helicarrier Team:** Provided the deployment infrastructure and SDK. The final app was launched as part of the Helicarrier V2 ecosystem. |
+| **Operate** (monitoring, learning from results, feedback) | **The Feedback Loop:** Actively monitored the tool's impact after each release. 1. **Post-V1:** Observed that scoring was too flat; looped back to Design for time-metrics. 2. **Post-V2:** Realized the "Automation-only" limitation; looped back to Design for the QA Tracker. | **Manager:** Provided feedback confirming that they needed broader visibility beyond automation progress. |
 
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+I am dominant in Design, Develop, and Operate — all three stages were fully owned by me across every iteration. Design was entirely self-initiated; no one told me what to build. Develop was end-to-end mine. Operate is where I generated the insights that fueled the next Design cycle, completing the loop three times.
+
+Deploy is my weakest stage. I owned local rollouts and team presentations, but for production deployment I was dependent on the Helicarrier team. I built the product but couldn't ship it to production independently. That's the gap I need to close — owning the full delivery pipeline, not just the code.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+AI can do our work faster and in a much better way, but it needs our assistance to complete it. It can write the code, build the components, and debug logic — but it cannot initiate the work on its own.
+
+What requires MY judgment, relationships, and context:
+- AI doesn't know the impact that needs to be addressed. It didn't know that our team had no visibility into individual sprint performance. It didn't know that workload management for feature testing and production bug management was a blind spot. Those problems were identified because I was living in that context daily.
+- Sometimes we need to oversee the decisions AI makes to verify it achieved the goals we envisioned. AI can build what you describe, but it cannot validate whether the output actually solves the real-world problem. I had to review every scoring logic, every chart, every metric to ensure it reflected the team's reality — not just technically correct output.
+- The iterative pivots (V1 → V2 → V3) came from operating the tool and understanding what was missing. AI built what I asked, but I decided what to ask next.
+
+In short: AI is the accelerator, not the driver. The driver should be us — and with the help of AI, we can accelerate more than ever before.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+About a month ago. The Sprint Dashboard itself was assigned to me, but while operating it, I saw the team lacked visibility into workload management for feature testing and production bugs — a problem no one asked me to solve. I initially thought of building a separate app for it, but then decided to integrate it within the existing Sprint Dashboard. That decision — identifying the problem, choosing the approach, designing and building the QA Tracker — was entirely self-initiated. Not because it was assigned, but because I saw the problem and wanted to resolve it.
 ```
 
 ---

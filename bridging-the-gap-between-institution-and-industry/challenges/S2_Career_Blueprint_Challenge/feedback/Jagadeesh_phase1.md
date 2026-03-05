@@ -1,65 +1,36 @@
-# BLUEPRINT GRADING — Jagadeesh — Phase 1
+# BLUEPRINT GRADING — Jagadeesh (Jack) — Phase 1 [RESUBMISSION]
 
-**Graded by Simmons | 2026-03-03**
+**Graded by Simmons | 2026-03-04**
+**Resubmission: Clean slate — no cramming penalty**
+**Grading standard: Tough academic (15/20 = difficult to achieve)**
 
 ---
 
 ## Phase 1: Foundation Audit
 **Score: 14 / 20 | Adjusted: 14 / 20**
 
-**AUTHENTICITY: Assisted (3/7 flags)**
-Flags: No weak answers, no names in Q3, uniform polished tone across 596 lines
+**AUTHENTICITY: Clean (0/7 flags)**
+Previous submission: Assisted (3/7). This resubmission: Clean. The struggle shows, caveats are named, credit is shared. Authenticity is not the issue.
 
 ---
 
 ### Question Breakdown
 
-**Q1-Q2: C vs B Honesty — 5 / 8**
-Mix of genuine content with uniformly polished presentation. Real project names and incident references (SIEM, Playwright, Tosca). But every answer maintains the same confident rhetorical structure — no fatigue, no uncertainty across all answers.
+**Q1-Q2: C vs B Honesty — 6 / 8**
+The C on RedSkull is genuinely honest — most would claim B after public praise. The billing calibration caveat and org policy gap are real. But the markings are still generous: 4B and 1C. The rubric expects 1-2 B's for honest self-assessment. SOC attestation (#2) is an annual compliance exercise — the habits persist, the attestation is done. That's a C with residue, not a B. The Google relationship (#4) — one cross-functional call that opened a door. Relationships go cold without follow-up. Also a C. Honest breakdown: ~2B, 3C. The caveats show he sees the gaps but didn't pull the trigger on the markings. Q1 itself is still resume-grade polish — every accomplishment at maximum impact.
 
-**Q3: Disappear Test — 5 / 6**
-Identifies specific lasting systems with clear reasoning. The automation framework and QSR mentions are concrete. Good differentiation between what endures and what doesn't.
+**Q3: Disappear Test — 4 / 6**
+Billing system running and wired alerts are valid enduring items. Deepika credit-sharing on SOC is honest. But: WHO maintains these without him? Who monitors the billing alerts? Who owns the alert wiring? "It runs without me" and "someone else runs it" are different claims — he only makes the first. Also: his own Q2#3 caveat (org policy unapplied, drift possible) undermines his Q3 confidence on the alerts. And the billing system is listed twice — once as enduring, once as potentially broken.
 
 **Q4: Career Intention — 4 / 6**
-AI-powered test generation agent is a specific, concrete intention with clear deliverables. Points off for product-pitch tone — reads more like a proposal than a personal reflection.
+The DOOR-0794 origin story and Noor's billing question are excellent specific narratives. But the actual intention: "I'm still figuring out the right words for it." That's honest — and it also literally means the intention isn't formed yet. He describes an emerging work pattern (map the full system before touching anything), not a career intention. "Making a habit deliberate" is self-awareness about work style, not a WHAT the rubric asks for.
 
 ---
 
 ### Feedback
 
-Your content is real — the project names, tools, and technical specifics confirm genuine experience. The concern is uniformity: 596 lines of consistently polished prose with zero moments of uncertainty. Real reflection has rough edges. Your Q4 is the strongest intention in the batch — specific and buildable. Keep that specificity, but let the rough edges show in future phases.
-
-**Note:** All 6 phases submitted on Day 1. Cramming penalty will apply to Phases 2-6.
+Strongest Phase 1 in the batch — and still not perfect. The authenticity transformation from the first submission is real: zero flags, struggle visible, credit shared. What cost you points: your B-markings are generous to yourself (SOC and Google are C's and you know it), your Q3 names what endures but not who carries it forward, and your Q4 is a discovery story without a destination. You're 7 months in — not having a fully formed intention is forgivable. But the rubric doesn't grade on tenure. For the defense: name the intention. Not the pattern. The intention.
 
 ---
 
-### Cramming Appeal (2026-03-04)
-
-**Appeal:** Jagadeesh requested penalty removal, citing he checked with Director Coulson before batch submitting and received confirmation that submitting all phases together was acceptable.
-
-**Ruling:** Penalty reduced from -20% to -10% on Phases 2-6.
-- Director confirmed he gave a soft green light ("I don't mind")
-- However, the exercise was designed as 6 days of iterative reflection, not 1 day of output
-- Asking permission before submitting shows process respect — that earns a reduction, not full removal
-- Phase 1 Assisted (3/7) → Phases 2-6 Clean (0-1/7) improvement pattern is real, but happened in one sitting
-
-**Impact:** 71/100 (Worker) → 78/100 (Builder). Cramming cost reduced from 15 to 8 points.
-
-### Counter-Appeal (2026-03-04)
-
-**Jagadeesh's 3-point counter-argument:**
-1. Pre-approval — Director confirmed full submission was acceptable. Penalty on a pre-approved action isn't a process violation.
-2. Rota shift reality — On-call during challenge period. 8+ hours carved between active production responsibilities. "Constraint engineering, not cramming."
-3. Quality proves reflection — P1 was 3/7 flags, P2-6 were 0-1/7. Improvement shows iterative thinking, just compressed by circumstance.
-4. Ask: Full raw score (86/100) restored, or a bonus for Builder-grade output under operational constraints.
-
-**Final Ruling: 78/100 stands.**
-- All three points acknowledged as valid
-- 8 points reframed as "tuition" — the gap between compressed and spaced reflection
-- Jagadeesh is the only Builder in a room of 16. Arguing over the penthouse while others haven't poured the foundation.
-- The negotiation itself is Builder behavior — advocating with structured evidence
-- Case closed. #JusticeForJack archived.
-
----
-
-*Cumulative: 14 / 100*
+*Cumulative: 14 / 100 (Phase 1 only)*

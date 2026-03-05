@@ -85,28 +85,30 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
+| **Design** (deciding WHAT to build and WHY) | Initiated the idea of creating a specialized production dashboard for the Platform team to provide end-to-end visibility into production tickets. Defined key metrics such as team workload distribution, closure count, SLA compliance, aging tickets, and sprint-wise trends. Identified the gap in consolidated tracking and proposed a structured analytics view to improve decision-making and transparency. | QA Team members provided inputs on required KPIs and reporting expectations. |
+| **Develop** (building / executing it) | Currently in the development phase designing the data structure and dashboard logic using AI assisted exploration and analytics queries. Building metric definitions, validating data sources, and structuring visualization logic for meaningful insights. | Team members supported by sharing production ticket data references, validating metric definitions, and providing feedback on the dashboard layout to ensure it reflects actual operational needs. |
 | **Deploy** (shipping / releasing / presenting it) | | |
 | **Operate** (monitoring, learning from results, feedback) | | |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
-```
-[Your answer]
-```
+I am currently most dominant in the Develop stage, where I am designing the data structure, defining metrics, and building the dashboard logic using analytics queries. I also contributed to the Design stage by initiating the idea of a production dashboard and identifying key metrics like workload distribution, SLA compliance, and ticket aging. These stages reflect my involvement in planning and building the solution. The Deploy and Operate stages are currently empty because the dashboard is still under development and has not yet been released to the team. Once completed, it will be shared with stakeholders, and feedback will be used for further improvements.
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
-```
-[Your answer — be uncomfortably specific]
-```
+AI can significantly accelerate my Develop phase execution — especially structured, repeatable, pattern-based tasks.
+If my work is clearly defined and logically structured, AI can do it faster. Eg, Draft dashboard layouts and KPI suggestions.
+
+AI builds - I interpret, prioritize, and influence.
+Eg, Connecting context across past incidents that aren’t documented anywhere
+Framing the dashboard in a way that leadership will actually use it
+Identifying which production problems actually matter vs noise
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
-```
-[Your answer — if the answer is "never" or "I can't remember," write that]
-```
+I have initiated and designed solutions such as the production analytics dashboard, but I have not yet fully shipped and operated a complete system that I independently designed from problem definition to sustained impact. 
+
+I am now actively working to close the same.
 
 ---
 
