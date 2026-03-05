@@ -217,3 +217,106 @@ scratch based on a problem I identified.
 
 ```
 ---
+
+## PHASE 3: THE SELF-TEST
+*From S2E3 — "You have test plans for every feature. What's the test plan for your career?"*
+
+### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
+
+```
+In 2 years, I want to be a Senior DevOps Engineer who thinks like a DevOps
+Architect:
+
+Title/Role:
+- Senior DevOps Engineer (with architectural mindset)
+- Recognized as a technical decision-maker, not just an executor
+- The person who thinks architecturally about DevOps solutions — not just
+  implementing tools, but designing how systems should work together
+
+Responsibilities:
+- OWNS the Design stage — I identify infrastructure problems before I'm assigned
+  them, and I propose solutions with clear "why" reasoning
+- DRIVES architectural decisions for DevOps infrastructure and processes
+- THINKS like an architect — considering scalability, maintainability, cost,
+  and long-term implications, not just "make it work"
+- LEADS projects from Design → Operate → back to Design (full loop ownership)
+- MENTORS 2-3 junior engineers in infrastructure and DevOps practices
+- INFLUENCES team direction by using Operate insights to propose what we should
+  Design next
+
+Skill Level:
+- Can design DevOps architecture independently (not just implement it)
+- Can evaluate trade-offs between approaches and defend my decisions with
+  architectural reasoning
+- Can translate business requirements into technical solutions
+- Can lead technical discussions and explain complex concepts to non-technical
+  stakeholders
+- Have deep expertise in at least one domain (Kubernetes, CI/CD, or cloud
+  infrastructure) that makes me the go-to person
+
+The key shift: From "excellent executor of assigned work" to "DevOps architect
+who identifies problems, designs scalable solutions, and drives them through
+the full loop."
+```
+
+---
+
+### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
+
+| # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
+|---|--------------------|--------------------------------------------|
+| 1 | **Shipped 3+ projects that I designed from scratch** — not assigned, not asked to do, but problems I identified and proposed solutions for. Evidence: project proposals, design docs, PRs with context. | **Partially Met** — Currently working on Jenkins to Cloud Build migration where I'm designing the solution from scratch (in progress). At current company: 0 completed self-designed projects yet, but I've started doing design-led work. |
+| 2 | **Led at least 2 full D3O loops** — from identifying the problem (Design) through implementation (Develop-Deploy) to monitoring results (Operate) and proposing the next iteration based on learnings. Evidence: documented loop with clear "what we learned → what we're doing next" connections. | **Partially Met** — I joined the company a few months back. I have driven the full loop execution on assigned work (GKE migration from Design through Operate), but I haven't contributed the idea or identified the problem myself — it was assigned to me. I can execute the full loop, but I haven't yet initiated one from problem identification. |
+| 3 | **Mentored 2-3 junior engineers with measurable impact** — they can now do things independently that they couldn't do before because of my guidance. Evidence: their shipped work, their feedback, their reduced dependency on seniors. | **Not Met** — I haven't actively mentored anyone yet. I've helped colleagues when asked, but no structured mentorship. |
+| 4 | **Influenced 2+ major architectural decisions** — my analysis, proposal, or recommendation changed the team's direction. Evidence: design docs I authored that were approved and implemented, architecture decisions recorded in team docs that cite my input. | **Partially Met** — During the GKE migration, I conducted cost analysis and provided insights the team didn't know previously (GKE Enterprise vs Standard cost differences, automatic conversion from Enterprise to Standard). I informed the team of findings that influenced their understanding. However, I haven't yet driven architectural decisions from initial proposal to implementation. I'm contributing valuable analysis, but not yet leading the decision-making process. |
+| 5 | **Built or automated 2+ recurring problems** — turned firefighting into prevention. Evidence: monitoring dashboards, automation scripts, runbooks, or infrastructure that prevents issues instead of just fixing them. | **Partially Met** — Lambda pipelines at past company (B). Haven't built prevention systems at current company yet. |
+
+---
+
+### Q11. What are your edge cases — the risks that could derail your career path?
+
+| # | Edge Case / Risk | Mitigation Plan |
+|---|-----------------|-----------------|
+| 1 | **Comfort zone trap:** I stay in Develop-Deploy because I'm good at it and it feels safe. I keep accepting assigned tasks instead of identifying problems myself. | **Mitigation:** I've already started doing this — I share ideas with my senior mentors and I'm growing on it. I review recent projects and propose improvements based on what I learned. I'm building the habit of asking "what problem can I solve that nobody assigned me?" and tracking my self-initiated vs assigned work. |
+| 2 | **AI displacement:** AI gets better at Develop-Deploy (where I'm strongest) faster than I move upstream to Design-Operate. My execution skills become commoditized. | **Mitigation:** I've already started working on Design-Operate with small ideas. For example, when AWS zones were recently attacked in ME-CENTRAL1 region, I proactively told my senior we should think about similar risks in GCP. I discussed the related data with my senior, and now I've been assigned a task related to this. I'm deliberately shifting time from pure execution to design thinking and proposing solutions. |
+| 3 | **Waiting for permission:** I wait for my manager or senior to give me more Design ownership instead of taking it. I assume I need a title change before I can act differently. | **Mitigation:** Start proposing small improvements NOW without waiting for permission. Bring 1 problem + proposed solution to my 1:1 meetings every 2 weeks. Don't wait for "Senior" title to act like a senior — demonstrate the behavior first, then the title follows. |
+| 4 | **Analysis paralysis:** I spend too long learning/researching and not enough shipping. I use "I'm not ready yet" as an excuse to avoid Design ownership. | **Mitigation:** I accept this is a real issue for me. I keep doing deep analysis so I can prove I'm perfectly right, but I should change that. Instead of deep analysis until perfection, I should start sharing ideas earlier — even if imperfect. Set a rule: If I've spent 2 weeks researching something, I MUST propose a solution. Use Viktor's lesson: "You don't have to be an expert to help someone. You just have to be one step ahead." |
+
+---
+
+### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
+
+```
+Honestly? No. I wouldn't ship this test plan as-is.
+
+Here's why:
+
+1. **High-risk dependencies:** 4 out of 5 acceptance criteria are "Partially Met."
+   If this were a product, I'd flag this as "in progress but not ready for
+   production." The foundation is being built, but it's not solid yet.
+
+2. **Unclear timeline:** I said "2 years" but I didn't break down when each
+   acceptance criterion needs to be met. No milestones. No checkpoints. In a
+   product test plan, I'd have quarterly targets.
+
+3. **Missing feedback loops:** My mitigation plans are one-way actions. There's
+   no "check after 3 months and adjust" mechanism. No way to know if the
+   mitigations are working.
+
+4. **Incomplete edge case coverage:** I listed 4 risks, but there are probably
+   more I'm not seeing (organizational changes, team restructuring, tech stack
+   shifts, burnout, etc.).
+
+What would make this shippable:
+
+- Add quarterly milestones for each acceptance criterion
+- Define "what good looks like" at 6 months, 12 months, 18 months
+- Build in feedback checkpoints: "If X isn't true by Month 6, I need to
+  adjust Y"
+- Add monitoring: How will I measure progress monthly? What metrics will tell
+  me I'm on track vs off track?
+
+The brutal truth: I've been treating my career like a product I'd never ship.
+I need to apply the same rigor to this test plan that I'd apply to production
+infrastructure.
+```
