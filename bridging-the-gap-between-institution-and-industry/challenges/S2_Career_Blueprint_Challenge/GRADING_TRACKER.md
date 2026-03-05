@@ -10,21 +10,21 @@
 | Name | Role | P1 | P2 | P3 | P4 | P5 | P6 | Total | Grade | Misses | Penalties |
 |------|------|----|----|----|----|----|----|----- -|-------|--------|-----------|
 | Jagadeesh | QA Automation | 14 | 15 | 16 | 9 | 9 | 16 | 79 | Builder | 0 | P1-P2 resubmitted (Option A clean slate). Re-graded under tough academic standard. P3-P6 retain original adjusted scores. |
-| Kabilan | SRE | 13 | 15 | -- | -- | -- | -- | 28 | ... | 0 | None |
-| Gayathri | DevOps | 8 | 15 | -- | -- | -- | -- | 23 | ... | 0 | None |
-| Pavithra | DevOps | 13 | 14 | -- | -- | -- | -- | 27 | ... | 0 | None |
-| Sankaran | QA Automation | 10 | 14 | -- | -- | -- | -- | 24 | ... | 0 | None |
-| Sricanth | QA | 12 | 12 | -- | -- | -- | -- | 24 | ... | 0 | None |
-| Jeevitha | QA | 7 | 13 | -- | -- | -- | -- | 20 | ... | 0 | None |
-| Pugazh | SRE | 10 | 11 | -- | -- | -- | -- | 21 | ... | 0 | None |
-| Jerome | SRE | 11 | 8 | -- | -- | -- | -- | 19 | ... | 0 | None |
-| Chitra | QA | 10 | 10 | -- | -- | -- | -- | 20 | ... | 0 | None |
-| Saradha | Performance | 5 | 10 | -- | -- | -- | -- | 15 | ... | 0 | Resubmission approved for P1 (pending). P2 original score. |
-| Akshaya K K | QA | 6 | 9 | -- | -- | -- | -- | 15 | ... | 0 | None |
-| Santhosh Kumar | QA-Automation | !! | 6 | -- | -- | -- | -- | 6 | ... | 1 | 1st miss warning (P1). P2 submitted — thin but engaged. |
-| Nandhini | QA | 9 | !! | -- | -- | -- | -- | 9 | ... | 1 | 1st miss warning (P2 not submitted). |
-| Naveen | DevOps | 9 | !! | -- | -- | -- | -- | 9 | ... | 1 | 1st miss warning (P2 not submitted). |
-| Deepika Shree | -- | !! | !! | -- | -- | -- | -- | 0 | ... | 2 | 2nd miss. Future phases at -20% max. |
+| Kabilan | SRE | 13 | 15 | 19 | -- | -- | -- | 47 | ... | 0 | None |
+| Gayathri | DevOps | 8 | 15 | 19 | -- | -- | -- | 42 | ... | 0 | None |
+| Sankaran | QA Automation | 10 | 14 | 16 | -- | -- | -- | 40 | ... | 0 | None |
+| Pavithra | DevOps | 13 | 14 | 10 | -- | -- | -- | 37 | ... | 0 | None |
+| Jeevitha | QA | 7 | 13 | 16 | -- | -- | -- | 36 | ... | 0 | None |
+| Sricanth | QA | 12 | 12 | 11 | -- | -- | -- | 35 | ... | 0 | None |
+| Chitra | QA | 10 | 10 | 14 | -- | -- | -- | 34 | ... | 0 | None |
+| Pugazh | SRE | 10 | 11 | 9 | -- | -- | -- | 30 | ... | 0 | None |
+| Akshaya K K | QA | 6 | 9 | 10 | -- | -- | -- | 25 | ... | 0 | None |
+| Naveen | DevOps | 9 | !! | 16 | -- | -- | -- | 25 | ... | 1 | 1st miss warning (P2). Strong P3 return. |
+| Jerome | SRE | 11 | 8 | 5 | -- | -- | -- | 24 | ... | 0 | Declining trend: 11→8→5. |
+| Saradha | Performance | 5 | 10 | 8 | -- | -- | -- | 23 | ... | 0 | P1 Suspect pattern continues. Resubmission pending. |
+| Nandhini | QA | 9 | !! | 9 | -- | -- | -- | 18 | ... | 1 | 1st miss warning (P2). Returned for P3. |
+| Santhosh Kumar | QA-Automation | !! | 6 | 8 | -- | -- | -- | 14 | ... | 1 | 1st miss (P1). Quality jump P2→P3 noted. |
+| Deepika Shree | -- | !! | !! | ~~ | -- | -- | -- | 0 | ... | 3 | 3rd miss. P3 scores ZERO. Future phases ZERO. |
 
 **Legend:** `##` = score | `!!` = missed | `--` = pending | `~~` = zeroed (3rd+ miss)
 
@@ -308,7 +308,7 @@
 **Cumulative:** 0 / 100
 **Grade:** ...
 **Authenticity:** No submissions
-**Miss Count:** 2
+**Miss Count:** 3 (P3 = 3rd miss → ZERO. Future phases ZERO.)
 
 ---
 
@@ -348,6 +348,14 @@
 | 2026-03-05 | Santhosh Kumar P2 submitted | Missed P1 but submitted P2 (6/20). Thin but now engaging. |
 | 2026-03-05 | Gayathri P2 standout | Jumped from P1: 8 to P2: 15. Most honest Q8 in batch. Biggest improvement. |
 | 2026-03-05 | Leaderboard shift | After P2: Kabilan (28) leads active graders. Jagadeesh (79) still overall leader with all 6 phases done. |
+| 2026-03-05 | Phase 3 batch graded | 14 submitted (12 today + Pugazh/Sricanth from yesterday). Scores: 5-19/20. Avg: 11.4/20 (57%). Top: Kabilan & Gayathri (19). Tough academic standard. |
+| 2026-03-05 | Gayathri P3 standout | 8→15→19 trajectory. Most self-critical Q12 in batch: "Honestly? No." + 4 specific reasons. Co-leader with Kabilan. |
+| 2026-03-05 | Naveen P3 strong return | Missed P2 but scored 16/20 on P3. "You cannot fix what you will not face." Most honest Q12 closing. |
+| 2026-03-05 | Jerome declining | 11→8→5. Third phase trending down. Answers not dishonest — just incomplete. Needs private conversation. |
+| 2026-03-05 | Deepika Shree 3rd miss | P3 not submitted. 3rd consecutive miss = ZERO. Future phases also ZERO per penalty rules. |
+| 2026-03-05 | Saradha P3 Suspect | 4/7 flags again (consistent with P1). Life responsibilities admission in Q12 feels genuine. Pattern: polished surface, thin depth. |
+| 2026-03-05 | Santhosh quality jump noted | P2: 6/20 (terse). P3: 8/20 (suddenly polished). Quality jump + generic content = monitoring. |
+| 2026-03-05 | Leaderboard after P3 | Kabilan (47) and Gayathri (42) lead active graders. Jagadeesh (79) overall leader. Sankaran (40) in 3rd. |
 
 ---
 
