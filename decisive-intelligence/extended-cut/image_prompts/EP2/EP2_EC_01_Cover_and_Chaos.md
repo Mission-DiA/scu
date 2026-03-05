@@ -53,14 +53,14 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 
 SCENE: Batman remembers his training while studying the chessboard.
 
-LEFT PANEL — PRESENT:
+LEFT PANEL — BATMAN AT CHESSBOARD:
 - Extreme close-up on a chessboard on a rooftop ledge
 - Four chess pieces glowing: Knight (BLUE), Queen (RED), Rook (WHITE), Bishop (ORANGE)
 - Batman's gloved hand hovering above, not touching
 - Night, Gotham skyline beyond
 
-RIGHT PANEL — FLASHBACK:
-- Semi-transparent, faded — a MEMORY
+RIGHT PANEL — MONASTERY TRAINING:
+- Semi-transparent, faded, ghostly overlay
 - Monastery interior — stone walls, firelight
 - Ra's Al Ghul (Liam Neeson) in brown robes, training stance, facing young Bruce
 - The image is ghostly, overlaid
@@ -82,6 +82,11 @@ CHARACTER 2 — HENRI DUCARD (RIGHT PANEL):
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) left panel: "Ra's taught him the framework."
 - Caption (dark navy) right panel: "Four principles. Forged in fire."
+
+WHAT NOT TO DRAW:
+- NO text labels like "PRESENT", "FLASHBACK", "MEMORY" or any panel description rendered as visible text
+- NO other characters
+- NO desks, chairs, coffee cups
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
