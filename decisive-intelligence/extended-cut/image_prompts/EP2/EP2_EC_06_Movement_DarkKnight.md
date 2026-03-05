@@ -1,13 +1,13 @@
 > **Part of:** EP2 Extended Cut Prompts | **Production Rules:** See `EP2_EC_00_Header.md`
-> **Slides:** 93-120 | **Scenes:** 20 (The Lie) + 21 (The Hunt) + 22 (Bat-Signal) + 23 (Dark Knight) + 24 (Four Pillars) + 25 (Chessboard Returns) + 26 (Joker's Final Word) + 27 (Black Page) + 28 (Bane Tease)
+> **Slides:** 96-123 | **Scenes:** 25 (The Lie) + 26 (The Hunt) + 27 (Bat-Signal) + 28 (Dark Knight) + 29 (Four Pillars) + 30 (Chessboard Returns) + 31 (Joker's Final Word) + 32 (Black Page)
 
 ---
 
-# SCENE 20: THE LIE — 4 Slides (93-96)
+# SCENE 25: THE LIE — 4 Slides (96-99)
 
 ---
 
-### SLIDE 93 — Panels 20.1+20.2 SPLIT PANEL
+### SLIDE 96 — Panels 25.1+25.2 SPLIT PANEL
 **SPLIT PANEL — THE FOURTH CHOICE**
 
 ```
@@ -57,7 +57,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 94 — Panels 20.3+20.4 SPLIT PANEL
+### SLIDE 97 — Panels 25.3+25.4 SPLIT PANEL
 **SPLIT PANEL — THE QUESTION AND THE ANSWER**
 
 ```
@@ -105,7 +105,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 95 — Panels 20.5+20.6 SPLIT PANEL
+### SLIDE 98 — Panels 25.5+25.6 SPLIT PANEL
 **SPLIT PANEL — REFUSAL AND REASON**
 
 ```
@@ -152,7 +152,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 96 — Panel 20.7 SINGLE PANEL
+### SLIDE 99 — Panel 25.7 SINGLE PANEL
 **SINGLE SPLASH — MOVEMENT NAMING**
 
 ```
@@ -197,11 +197,11 @@ STYLE: Photorealistic, cinematic, wide. Full bleed to all edges. WATERMARK: "DI 
 
 ---
 
-# SCENE 21: THE HUNT BEGINS — 4 Slides (97-100)
+# SCENE 26: THE HUNT BEGINS — 4 Slides (100-103)
 
 ---
 
-### SLIDE 97 — Panels 21.1+21.2 SPLIT PANEL
+### SLIDE 100 — Panels 26.1+26.2 SPLIT PANEL
 **SPLIT PANEL — HESITATION AND MEMORY**
 
 ```
@@ -249,7 +249,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 98 — Panels 21.3+21.4 SPLIT PANEL
+### SLIDE 101 — Panels 26.3+26.4 SPLIT PANEL
 **SPLIT PANEL — THE BUTTON AND THE ORDER**
 
 ```
@@ -291,7 +291,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 99 — Panels 21.5+21.6 SPLIT PANEL
+### SLIDE 102 — Panels 26.5+26.6 SPLIT PANEL
 **SPLIT PANEL — THE RESPONSE AND THE WATCHER**
 
 ```
@@ -333,7 +333,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 100 — Panels 21.7+21.8 SPLIT PANEL
+### SLIDE 103 — Panels 26.7+26.8 SPLIT PANEL
 **SPLIT PANEL — THE RUNNER AND THE EMPTY ROOFTOP**
 
 ```
@@ -376,11 +376,11 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-# SCENE 22: BAT-SIGNAL — 5 Slides (101-105)
+# SCENE 27: BAT-SIGNAL — 5 Slides (104-108)
 
 ---
 
-### SLIDE 101 — Panels 22.1+22.2 SPLIT PANEL
+### SLIDE 104 — Panels 27.1+27.2 SPLIT PANEL
 **SPLIT PANEL — GORDON AND THE SIGNAL**
 
 ```
@@ -427,7 +427,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 102 — Panel 22.3 SINGLE PANEL
+### SLIDE 105 — Panel 27.3 SINGLE PANEL
 **SINGLE SPLASH — THE LOOK**
 
 ```
@@ -470,7 +470,7 @@ STYLE: Photorealistic, cinematic, single. Full bleed to all edges. WATERMARK: "D
 
 ---
 
-### SLIDE 103 — Panels 22.4+22.5 SPLIT PANEL
+### SLIDE 106 — Panels 27.4+27.5 SPLIT PANEL
 **SPLIT PANEL — THE EXPLANATION AND THE AXLE**
 
 ```
@@ -516,7 +516,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 104 — Panel 22.6 SINGLE PANEL
+### SLIDE 107 — Panel 27.6 SINGLE PANEL
 **SINGLE SPLASH — KEY VISUAL: THE SIGNAL DESTROYED**
 
 ```
@@ -554,7 +554,7 @@ STYLE: Photorealistic, cinematic, dramatic. Full bleed to all edges. WATERMARK: 
 
 ---
 
-### SLIDE 105 — Panels 22.7+22.8 SPLIT PANEL
+### SLIDE 108 — Panels 27.7+27.8 SPLIT PANEL
 **SPLIT PANEL — THE LAST LIGHT AND THE DARKNESS**
 
 ```
@@ -602,11 +602,11 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-# SCENE 23: THE DARK KNIGHT — 5 Slides (106-110)
+# SCENE 28: THE DARK KNIGHT — 5 Slides (109-113)
 
 ---
 
-### SLIDE 106 — Panels 23.1+23.2 SPLIT PANEL
+### SLIDE 109 — Panels 28.1+28.2 SPLIT PANEL
 **SPLIT PANEL — THE PILLAR HELD AND THE CITY TURNS**
 
 ```
@@ -648,7 +648,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 107 — Panels 23.3+23.4 SPLIT PANEL
+### SLIDE 110 — Panels 28.3+28.4 SPLIT PANEL
 **SPLIT PANEL — THE WEIGHT AND THE TURN**
 
 ```
@@ -691,7 +691,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 108 — Panels 23.5+23.6 SPLIT PANEL
+### SLIDE 111 — Panels 28.5+28.6 SPLIT PANEL
 **SPLIT PANEL — THE LEAP AND THE FLIGHT**
 
 ```
@@ -734,7 +734,7 @@ STYLE: Photorealistic, cinematic, aerial. Full bleed to all edges. WATERMARK: "D
 
 ---
 
-### SLIDE 109 — Panels 23.7+23.8 SPLIT PANEL
+### SLIDE 112 — Panels 28.7+28.8 SPLIT PANEL
 **SPLIT PANEL — LANDING AND VANISHING**
 
 ```
@@ -775,7 +775,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 110 — Panels 23.9+23.10+23.11 VERTICAL TRIPTYCH
+### SLIDE 113 — Panels 28.9+28.10+28.11 VERTICAL TRIPTYCH
 **VERTICAL TRIPTYCH — FORWARD IS THE ONLY DIRECTION**
 
 ```
@@ -817,11 +817,11 @@ STYLE: Photorealistic, cinematic, vertical triptych. Full bleed to all edges. WA
 
 ---
 
-# SCENE 24: FOUR PILLARS — THE CHAIN — 3 Slides (111-113)
+# SCENE 29: FOUR PILLARS — THE CHAIN — 3 Slides (114-116)
 
 ---
 
-### SLIDE 111 — Panels 24.1+24.2 SPLIT PANEL
+### SLIDE 114 — Panels 29.1+29.2 SPLIT PANEL
 **SPLIT PANEL — CLARITY AND COURAGE**
 
 ```
@@ -864,7 +864,7 @@ STYLE: Photorealistic, crystallized, tinted. Full bleed to all edges. WATERMARK:
 
 ---
 
-### SLIDE 112 — Panels 24.3+24.4 SPLIT PANEL
+### SLIDE 115 — Panels 29.3+29.4 SPLIT PANEL
 **SPLIT PANEL — COMMITMENT AND MOVEMENT**
 
 ```
@@ -906,7 +906,7 @@ STYLE: Photorealistic, crystallized, tinted. Full bleed to all edges. WATERMARK:
 
 ---
 
-### SLIDE 113 — Panel 24.5 SINGLE PANEL
+### SLIDE 116 — Panel 29.5 SINGLE PANEL
 **SINGLE SPLASH — THE 2×2 QUAD GRID**
 
 ```
@@ -938,11 +938,11 @@ STYLE: Photorealistic, clean quad grid, cinematic. Full bleed to all edges. WATE
 
 ---
 
-# SCENE 25: CHESSBOARD RETURNS — 3 Slides (114-116)
+# SCENE 30: CHESSBOARD RETURNS — 3 Slides (117-119)
 
 ---
 
-### SLIDE 114 — Panels 25.1+25.2 SPLIT PANEL
+### SLIDE 117 — Panels 30.1+30.2 SPLIT PANEL
 **SPLIT PANEL — THE BOARD AND THE CELL**
 
 ```
@@ -984,7 +984,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 115 — Panels 25.3+25.4 SPLIT PANEL
+### SLIDE 118 — Panels 30.3+30.4 SPLIT PANEL
 **SPLIT PANEL — THE LIE WORKS AND THE EXILE BEGINS**
 
 ```
@@ -1026,7 +1026,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 116 — Panel 25.5 SINGLE PANEL
+### SLIDE 119 — Panel 30.5 SINGLE PANEL
 **SINGLE SPLASH — THE CITY SURVIVED**
 
 ```
@@ -1062,11 +1062,11 @@ STYLE: Photorealistic, cinematic, wide establishing. Full bleed to all edges. WA
 
 ---
 
-# SCENE 26: JOKER'S FINAL WORD — 3 Slides (117-119)
+# SCENE 31: JOKER'S FINAL WORD — 3 Slides (120-122)
 
 ---
 
-### SLIDE 117 — Panels 26.1+26.2+26.3 VERTICAL TRIPTYCH
+### SLIDE 120 — Panels 31.1+31.2+31.3 VERTICAL TRIPTYCH
 **VERTICAL TRIPTYCH — ARKHAM APPROACH**
 
 ```
@@ -1114,7 +1114,7 @@ STYLE: Photorealistic, cinematic, vertical triptych. Full bleed to all edges. WA
 
 ---
 
-### SLIDE 118 — Panels 26.4+26.5 SPLIT PANEL
+### SLIDE 121 — Panels 31.4+31.5 SPLIT PANEL
 **SPLIT PANEL — THE DECLARATION AND THE SMILE**
 
 ```
@@ -1163,7 +1163,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-### SLIDE 119 — Panels 26.6+26.7 SPLIT PANEL
+### SLIDE 122 — Panels 31.6+31.7 SPLIT PANEL
 **SPLIT PANEL — THE PUSH AND THE LAUGH**
 
 ```
@@ -1206,60 +1206,35 @@ STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI
 
 ---
 
-# SCENE 27+28: BLACK PAGE + BANE TEASE — 1 Slide (120)
+# SCENE 32: BLACK PAGE — 1 Slide (123)
 
 ---
 
-### SLIDE 120 — BLACK PAGE + BANE TEASE VERTICAL TRIPTYCH
-**VERTICAL TRIPTYCH — THE END AND WHAT COMES AFTER**
+### SLIDE 123 — Panel 32.1 SINGLE PANEL
+**SINGLE SPLASH — BLACK PAGE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. VERTICAL TRIPTYCH — three panels stacked side by side, divided by thin 1-2px white vertical lines.
+Create a cinematic comic panel in 16:9 aspect ratio. SINGLE PANEL — pure black.
 
-SCENE: A resting point. Then a pit. Then the thing in the pit — waiting.
+SCENE: The end. Darkness. Words only.
 
-LEFT PANEL — BLACK PAGE:
-- Pure black fill — ink dark, no environment, no figures
-- Two text elements only on the black:
-  Line 1 (larger, white, centered): "The framework was tested. The framework held."
-  Line 2 (smaller, white, below): "But a new opponent was preparing. One who wouldn't test the framework — he'd try to break it."
-- Nothing else — darkness with words
-
-CENTER PANEL — THE PIT:
-- A stone pit — walls impossibly high, vertical, ancient
-- A pinhole of light visible far above — the only way out, seemingly unreachable
-- The scale of imprisonment — the distance from here to light
-- In the pit's shadow: a MASSIVE SILHOUETTE — enormous shoulders, a MASK with tubes — undetailed, just shape and size
-- The figure is not struggling. He is still. He is patient.
-
-RIGHT PANEL — CLOSE ON BANE'S MASK:
-- Tight on BANE's face — the breathing apparatus mask filling the lower frame
-- Metal and leather construction, tubes connecting to the harness
-- Cold eyes above the mask — patient, calculating, looking upward at the light
-- The eyes of a man who has been waiting and does not mind waiting
-
-CHARACTER — BANE FULL DESCRIPTION (RIGHT PANEL):
-- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes, thick neck, enormous shoulders, 6'2"
-- Mask: Iconic breathing apparatus — metal and leather structure covering lower face entirely, tubes running down from the mask along the jaw and neck
-- Costume: Military tactical vest (olive/brown #5D5436) over bare massive arms visible at vest edges, dark cargo pants (#3D3D3D), heavy combat boots, fingerless gloves
-- Expression: Cold patience, calculating — looking up toward the light
-- Action: Looking upward, still, waiting
-- Position: Right panel, tight on mask and eyes, foreground
+COMPOSITION:
+- Pure black fill — ink dark, no environment, no figures, no objects
+- Two text elements centered on the black field
+- Nothing else — this is a resting point, a breathing space before what comes next
 
 TEXT OVERLAY:
-- No additional text in center panel — image only conveys scale and shadow
-- Caption (dark navy, white text) center panel: "Eight years later... Someone was climbing out."
-- Speech bubble (white fill, black text — heavy, muffled style border) Bane, right panel: "When Gotham is ashes... you have my permission to die."
-- Caption (very small, bottom of right panel, dark navy): "DECISIVE INTELLIGENCE / Episode 2: THE TEST — Complete / Episode 3: THE ADAPTATION — Coming Soon"
+- Line 1 (larger, white, centered vertically above center): "The framework was tested. The framework held."
+- Line 2 (smaller, white, centered vertically below center): "But a new opponent was preparing. One who wouldn't test the framework — he'd try to break it."
 
 WHAT NOT TO DRAW:
-- NO Batman in any panel
-- NO other characters — Bane only
-- NO light in the pit other than the distant pinhole above
-- NO desks, chairs, coffee cups
+- NO characters of any kind
+- NO environments, buildings, rooms
+- NO objects, props, furniture
+- ONLY pure black and white text
 
-STYLE: Photorealistic, cinematic, vertical triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Pure black page with white text. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
