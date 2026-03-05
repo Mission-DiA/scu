@@ -138,30 +138,79 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In 2 years, I want to be the SRE who shifts our team from firefighting to prevention.
+
+TODAY: We manually monitor alerts in Redskull and react. Node count spikes → we investigate manually. We know
+WHAT failed but not WHY or how to prevent it next time.
+
+IN 2 YEARS:
+
+1. Automated Root Cause Detection System:
+   - When node count increases, the system auto-diagnoses WHY (memory leak? traffic spike? misconfiguration?)
+   - Suggests preventive steps before the next incident
+   - Team validates and implements the fix, so it never repeats
+   - This moves us from "react faster" to "prevent entirely"
+
+2. Custom Billing Dashboard in Production:
+   - Used by 10+ people daily (all DevOps/SRE + Newton + Finance)
+   - Tracks spending across GCP, AWS, Snowflake, MongoDB
+   - Teams see the data, identify cost inefficiencies, and propose cuts
+   - Business impact: Save measurable % on annual cloud costs
+
+3. Technical Strength:
+   - Own GCP infrastructure and DevOps/SRE domain expertise
+   - Lead incident diagnosis and root cause analysis
+   - Design preventive systems, not just responsive automation
+
+I'm not pursuing management. I'm pursuing mastery. I want to be the person Noordeen (Tony Stark) looks to when
+production breaks — not because I fix it fast, but because I prevent it from breaking.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
-|---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+|---|--------------------|----|
+| 1 | **Redskull Root Cause System:** Deployed to production, auto-diagnoses node spike issues, used daily by team to prevent firefighting | Partially Met |
+| 2 | **Custom Billing Dashboard:** Design complete, development started, ready for team testing by end of 2-year cycle | Not Met |
+| 3 | **Technical Mastery in Incidents:** Own incident diagnosis without critical questions — solve independently, lead RCA, suggest prevention | Not Met |
+| 4 | **Knowledge Sharing:** Speak at team standup monthly about incident learnings and prevention strategies | Partially Met |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | **Communication Avoidance:** Stay silent when stuck instead of asking for help or speaking up | Speak at least once per standup (even if just asking a question). Make speaking up a weekly habit, not optional. |
+| 2 | **Task Switching / No Prioritization:** Think all tasks are equally important → can't focus on Redskull or Custom Billing completion | Decide 2 "must do" tasks per week, explicitly say NO to others. Time-block these. Review priorities weekly with Noordeen. |
+| 3 | **Over-Dependency on Approval:** Freeze on decisions if Noordeen/Aravindhan/Swami aren't available. Can't own incident diagnosis independently. | Practice making small decisions alone (incident response, debugging). Seek approval AFTER deciding, not before. Escalate only critical decisions. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+Yes, I would ship this plan. Here's why:
+
+WHAT'S SOLID:
+- My vision is grounded in real work: Redskull is already 50% done, Custom Billing has a clear design, both are
+  tied to actual problems my team faces every day.
+- My acceptance criteria are honest: I marked 2 "Not Met" and 2 "Partially Met." That's realistic for a 2-year
+  goal, not overconfident.
+- My mitigations are specific and actionable: Not vague promises, but concrete weekly actions (speak once per
+  standup, decide 2 must-dos, make decisions independently).
+
+WHAT SCARES ME:
+My biggest risk is communication avoidance. It's a pattern I've had for years — when I'm stuck or uncertain,
+I go silent instead of asking for help. If I don't break this pattern, two critical criteria fail:
+  - Q10 #3: Technical mastery (I can't own diagnosis if I stay dependent on approval)
+  - Q10 #4: Knowledge sharing (I can't speak at standups if I stay silent)
+
+THE HONEST PART:
+This isn't a perfect plan. It's a challenging plan. But I'm not shipping it hoping things magically work out.
+I'm shipping it with a commitment: I will treat my mitigations like production requirements. Speaking up weekly is
+non-negotiable. Making decisions independently is non-negotiable. Without these, the vision collapses.
+
+With these, it's achievable in 2 years.
+
+So YES, I would ship this — because the vision is real, the criteria are measurable, and I'm committing to the
+one thing that actually matters: breaking the silence.
 ```
 
 ---
