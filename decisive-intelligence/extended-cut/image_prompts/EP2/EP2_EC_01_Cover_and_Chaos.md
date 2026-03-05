@@ -360,12 +360,13 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 SCENE: Gotham's financial district — multiple mob-connected banks hit in a single night. The criminal underworld's money supply destroyed.
 
 COMPOSITION:
-- WIDE ESTABLISHING — Gotham financial district, night/early morning
-- Three bank exteriors visible, all crime scenes — shattered glass, police tape, forensic teams
-- Yellow police tape crossing the foreground
-- Evidence markers scattered across sidewalks
-- In the background: mob bosses' vehicles torched in a parking structure, smoke still rising
-- The destruction is systematic, not random — every mob bank targeted
+- WIDE ESTABLISHING — ONE bank exterior, night/early morning
+- Gotham National Bank — shattered front windows, police tape across the entrance, forensic team in white suits working the scene
+- Yellow "POLICE LINE — DO NOT CROSS" tape crossing the foreground at knee height
+- Numbered evidence markers scattered across the sidewalk
+- In the background across the street: two mob vehicles torched and still smoking, fire truck nearby
+- Police cruisers with lights flashing, parked at angles along the curb
+- This is ONE crime scene at ONE bank — the aftermath of the heist from the previous scene
 
 ATMOSPHERE:
 - Methodical devastation — not chaos, but DESIGNED chaos
@@ -378,6 +379,9 @@ WHAT NOT TO DRAW:
 - NO named characters — forensic teams and police only
 - NO Joker visible
 - NO blood or graphic violence
+- NO multiple bank buildings — this is ONE bank, ONE crime scene
+- NO "BANK" text on more than one building
+- NO visible text other than police tape and the watermark
 
 STYLE: Photorealistic, cinematic, wide establishing. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
@@ -393,20 +397,28 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 
 SCENE: The Joker targets the institutions — judiciary and law enforcement, one after the other.
 
-LEFT PANEL — JUDGE SURILLO:
-- Courthouse steps, morning
-- A charred vehicle at the curb, still smoking — JUDGE SURILLO's car, bombed
+LEFT PANEL — JUDGE SURILLO'S CAR:
+- Courthouse exterior, DAYTIME — bright midday sun, clear sky
+- A charred Mercedes-Benz at the curb, still smoking — JUDGE SURILLO's car, bombed
 - Driver's door blown open, forensic team working the blast zone
-- Courthouse behind: imposing marble, American flag at half-mast
-- Courthouse staff behind the tape, shocked
-- A small CHESS PIECE detail: a gavel-shaped piece on the courthouse step — placed, not accidental
+- Courthouse behind: imposing marble columns, American flag
+- Police tape and officers securing the perimeter
+- A small CHESS PIECE visible on the courthouse step — a gavel-shaped piece, placed deliberately
 
-RIGHT PANEL — COMMISSIONER LOEB:
-- GCPD Commissioner's office — dark wood paneling, American flag, commendations on wall
-- Commissioner LOEB slumped forward at his desk, glass of whiskey still in hand, face grey
-- Officers rushing through the door, one calling for medics
-- Whiskey bottle on desk with evidence marker already placed
-- He's been POISONED — the Joker got to the supply chain
+RIGHT PANEL — COMMISSIONER LOEB'S OFFICE:
+- GCPD Commissioner's office, DAYTIME — sunlight through blinds
+- Dark wood paneling, American flag, commendations on wall
+
+CHARACTER — COMMISSIONER LOEB (RIGHT PANEL):
+- Face & Body: Colin McFarlane, Black British man, late 50s, heavy build, clean-shaven, grey hair, 6'2"
+- Costume: GCPD Commissioner dress uniform — dark navy, gold badge, collar insignia
+- Expression: Face grey, eyes glazed — mid-collapse
+- Action: Slumped forward at his desk, glass of whiskey still in hand
+- Position: Behind his desk, center of the right panel
+
+SUPPORTING (RIGHT PANEL):
+- Lt. James Gordon (Gary Oldman) rushing through the doorway, face horrified, reaching toward Loeb
+- Whiskey bottle on desk — the source of the poison
 
 TEXT OVERLAY:
 - None — dual image, no dialogue. The devastation speaks.
@@ -414,7 +426,8 @@ TEXT OVERLAY:
 WHAT NOT TO DRAW:
 - NO Joker visible in either panel
 - NO graphic injury detail — implied through staging
-- NO desks other than Loeb's (it's his office)
+- NO nighttime lighting — BOTH scenes are DAYTIME
+- NO visible text other than the watermark
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
