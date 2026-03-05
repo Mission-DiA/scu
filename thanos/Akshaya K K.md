@@ -114,30 +114,32 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+Since I was recently promoted as Quality Lead, I want to strengthen myself in this role by driving quality initiatives, improving automation strategies, and contributing more to system-level quality improvements. I want to be someone who drives automation strategy, improves production quality, and helps teams release more reliable software.
+
+I also want to strengthen my technical depth in debugging, automation, and AI-assisted engineering tools, so I can independently automate workflows, analyze issues, and even fix bugs when needed. At the same time, I want to build my leadership capability by guiding teammates, sharing knowledge, and helping the team improve their overall quality practices.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 |I have successfully led and delivered a few major quality initiatives such as automation systems, internal tools, or metrics platforms that the team actively uses |Partially Met |
+| 2 |I can clearly show that my work helped reduce production bugs or improved release quality with measurable results |Partially Met |
+| 3 |I regularly help or mentor a few team members in automation, debugging, or testing practices |Not Met |
+| 4 |I have built and deployed at least one AI-assisted tool that the team uses in their workflow |Partially Met |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |Getting stuck only doing execution work instead of building bigger systems or initiatives |Proactively take ownership of projects and propose improvements that benefit the team |
+| 2 |Since AI technology evolving faster than my ability to learn and apply it |Continuously learn and experiment with AI tools in my daily work |
+| 3 |My work and impact are not being visible that much to the leadership level |Regularly demo projects, share progress, and communicate outcomes clearly |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+Yes, I would ship it, but I would treat it as version 1. The direction is clear, and the goals are defined, but some areas still need improvement, especially mentoring others and showing measurable impact. Just like any product, this plan will need continuous learning, feedback, and adjustments as I progress in my career.
 ```
 
 ---

@@ -53,14 +53,14 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 
 SCENE: Batman remembers his training while studying the chessboard.
 
-LEFT PANEL — PRESENT:
+LEFT PANEL — BATMAN AT CHESSBOARD:
 - Extreme close-up on a chessboard on a rooftop ledge
 - Four chess pieces glowing: Knight (BLUE), Queen (RED), Rook (WHITE), Bishop (ORANGE)
 - Batman's gloved hand hovering above, not touching
 - Night, Gotham skyline beyond
 
-RIGHT PANEL — FLASHBACK:
-- Semi-transparent, faded — a MEMORY
+RIGHT PANEL — MONASTERY TRAINING:
+- Semi-transparent, faded, ghostly overlay
 - Monastery interior — stone walls, firelight
 - Ra's Al Ghul (Liam Neeson) in brown robes, training stance, facing young Bruce
 - The image is ghostly, overlaid
@@ -82,6 +82,11 @@ CHARACTER 2 — HENRI DUCARD (RIGHT PANEL):
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) left panel: "Ra's taught him the framework."
 - Caption (dark navy) right panel: "Four principles. Forged in fire."
+
+WHAT NOT TO DRAW:
+- NO text labels like "PRESENT", "FLASHBACK", "MEMORY" or any panel description rendered as visible text
+- NO other characters
+- NO desks, chairs, coffee cups
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
@@ -169,25 +174,38 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 
 SCENE: The bank heist opening — Dark Knight's iconic first scene.
 
-LEFT PANEL — EXTERIOR:
-- Gotham National Bank exterior, morning light
-- Yellow school bus at curb among other school buses — field trip camouflage
-- Through glass facade, FIVE FIGURES in colorful clown masks moving in the lobby
-- Each mask different — grotesque, painted, theatrical
+LEFT PANEL — BANK EXTERIOR WITH BUS:
+- Wide establishing shot — Gotham National Bank facade dominates the frame, tall stone pillars, carved lettering above entrance
+- Yellow school bus parked at curb in foreground — LARGE, taking up bottom third of frame
+- Other yellow school buses lined along the street — field trip camouflage
+- Through the bank's glass windows, FIVE SMALL FIGURES visible inside — silhouettes in cheap rubber clown masks, barely distinguishable at this distance
+- The figures are TINY relative to the building — this is a wide architectural shot, not a character close-up
+- Morning light, grey Gotham sky
 
-RIGHT PANEL — INTERIOR:
-- Inside the bank — marble floors, teller windows
-- Clown-masked robbers forcing everyone to the floor
-- One cracking the vault, one disabling alarm, one holding gun on bank manager
-- One clown APART from the others — watching, observing
+RIGHT PANEL — BANK LOBBY:
+- Inside the bank main lobby ONLY — marble floors, high ceilings, teller windows with brass bars, grand columns
+- Two robbers in cheap rubber clown masks in the lobby — the masks are simple, mass-produced, plastic/rubber with painted features (one has a red nose, one has exaggerated eyebrows). NOT elaborate face paint or theatrical costumes. They wear dark street clothes (dark jackets, pants) with the masks pulled over their heads
+- One robber holding a shotgun on the BANK MANAGER in the center of the lobby
+- One clown standing APART near the entrance — watching, observing, not participating yet
+- NO vault, NO alarm panel, NO back rooms visible — this is the public lobby only. The vault work is happening elsewhere off-screen.
+
+CHARACTER — BANK MANAGER FULL DESCRIPTION (RIGHT PANEL):
+- Face & Body: William Fichtner, Caucasian American man, mid-50s, sharp angular features, steely blue eyes, lean build, receding hairline, 6'0"
+- Costume: Dark navy (#1E3A5F) suit, white dress shirt, conservative tie — professional banker
+- Expression: Defiant, not cowering — jaw set, eyes hard, staring down the robbers
+- Action: Hands raised but posture upright, dignified
+- Position: Right panel, center foreground, facing the robber with shotgun
 
 TEXT OVERLAY:
 - Caption (dark navy): "It started like every robbery. Masks. Guns. A plan."
 - Caption (dark navy): "But the clowns had a problem."
 
 WHAT NOT TO DRAW:
-- NO Joker face visible yet — all figures in clown masks
+- NO Joker face visible yet — all figures in clown masks only
 - NO blood or graphic violence
+- NO elaborate face paint or circus costumes on the robbers — they wear cheap rubber masks over street clothes, movie-accurate to The Dark Knight (2008)
+- NO figures in the left panel larger than the bus — they are SMALL, seen through windows at distance
+- NO vault door, safe, or alarm panel visible in the right panel — this is the public bank lobby only, not the back rooms
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```

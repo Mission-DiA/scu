@@ -144,9 +144,20 @@ SOURCE CONCEPT → STORY → SCREENPLAY → GEMINI PROMPTS → IMAGES → EDITOR
 | Source Analysis | Simmons | Concept extraction from PDF |
 | Story Development | Simmons | Season arc, episode beats |
 | Screenplay | Simmons | Scene-by-scene script with dialogue |
-| Gemini Prompts | Simmons | Panel-by-panel image generation prompts |
+| **Gemini Prompts** | **Simmons** | **Panel-by-panel image generation prompts** |
 | Editorial Review | May | Accessibility, clarity, effectiveness checks |
 | Quality Gate | May | Final sign-off before image generation |
+
+### Gemini Prompt Writing — MANDATORY Pre-Read
+
+**BEFORE writing or editing ANY image generation prompts, READ:**
+1. `reference/SCU_Gemini_Production_Lessons.md` — Quick Reference Rules table (R-001+)
+2. The relevant series Header file (e.g., `EP2_EC_00_Header.md`) — Production rules
+
+**AFTER a Gemini rendering issue is identified and fixed:**
+1. Log the lesson in `reference/SCU_Gemini_Production_Lessons.md`
+2. Extract the rule and add to the Quick Reference table
+3. Note any pending instances where the same fix should be applied
 
 ---
 
