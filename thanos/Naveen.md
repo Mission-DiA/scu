@@ -79,27 +79,37 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) | I decided to move to a single stack architecture to reduce time. | Identified that multiple stack setup was causing slow infra creation. |
+| **Develop** (building / executing it) | Currently building the single stack Pulumi setup — restructuring the existing multi-stack configuration. | — |
+| **Deploy** (shipping / releasing / presenting it) | wrote a CI/CD for deploy the infrastructure with atlantis | — |
+| **Operate** (monitoring, learning from results, feedback) | Not yet — project is still in build phase. | — |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+Dominant in Design (I identified the problem and proposed the solution independently) and Develop
+(currently executing the build). Deploy and Operate stages are empty — I haven't shipped it yet
+and haven't seen real-world results. The loop is incomplete.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+AI could do: Running pulumi up, managing state files, generating boilerplate stack configs, monitoring
+infra drift, writing basic Pulumi modules from templates.
+
+Requires my judgment: Deciding WHEN to consolidate stacks (knowing the team's workflow and pain
+points), understanding which services can share state and which can't, knowing what "reduced infra
+creation time" actually means in context of our CI/CD pipelines, and navigating team resistance to
+architectural changes.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+Pulumi Revamping — right now. I identified the problem with multiple stacks independently, decided
+the single stack approach, and I'm currently building it. This is the first time in this role that
+I designed the solution, not just executed someone else's plan.
 ```
 
 ---
@@ -112,30 +122,43 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+Title: Senior DevOps Engineer
+
+Responsibility: Own and drive the automation of deployment processes and infrastructure at scale.
+Not just executing pipelines — designing the systems that others build on. IaC ownership (Pulumi),
+CI/CD architecture, and infra decisions that reduce manual work across teams.
+
+Skill level: Expert in IaC (Pulumi), proficient in CI/CD design end-to-end (from code commit to
+production), capable of architecting infra from scratch — not just revamping what exists.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Designed and shipped at least 2 infra systems end-to-end (from problem identification to operate stage) | Not Met |
+| 2 | Am the go-to person for IaC (Pulumi) decisions in the team | Partially |
+| 3 | Have built a CI/CD pipeline that reduced deployment time or manual effort measurably | Partially — pipeline built but not fully working yet |
+| 4 | Can independently scope, design, and present an infra solution without guidance from senior engineers | Not Met — still working under senior engineer guidance |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Staying in execution mode too long — only building what others design, never owning the problem | Actively propose solutions before being asked. Pulumi revamping is a start — keep identifying problems and pitching fixes. |
+| 2 | Depending on senior guidance without building independent judgment | After each senior review, ask WHY they made that decision. Build a habit of attempting a full design before asking for help. |
+| 3 | Work becoming routine — same CI/CD and infra tasks with no growth into new problem spaces | Every quarter, identify one new area (observability, security, cost optimization) and own a small project in it. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+No. I would not ship it.
+
+3 out of 4 criteria are Not Met or Partially met. I am still early in my journey — 2 months in,
+still working under senior guidance, and haven't completed a full D3O loop even once. The intention
+is there and I have started moving in the right direction with Pulumi revamping, but the test plan
+is not production-ready yet. Acknowledging this is the most honest thing I can do right now.
+You cannot fix what you will not face.
 ```
 
 ---
