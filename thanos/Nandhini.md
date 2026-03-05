@@ -105,7 +105,7 @@ AI could generate the webhook integration script and format the notification pay
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-Last month I implemented the Jenkins to Google Chat automation notification integration. Every pipeline run now posts a summary in a shared chat channel with build status, test suites executed, report links, and failure insights. The first version only showed basic build status. Later I improved it by adding test health insights and recurring failure summaries so the team could quickly identify problem areas.
+Last month I started working on the Jenkins to Google Chat automation notification integration. The goal is to post a summary of each pipeline run in a shared chat channel with build status, test suites executed, report links, and failure insights. The first version currently sends only the basic build status. I’m still in the development phase and working on improving it by adding test health insights and recurring failure summaries so the team can quickly identify problem areas once it is fully deployed.
 ```
 
 ---
