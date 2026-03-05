@@ -119,30 +119,92 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+[I want to work in a role where I can use my skills to build and maintain high-quality software products. I want to be part of a team that values quality over quantity and believes in continuous improvement.
+
+My goal is to become a Full Stack Developer who can design, develop, deploy, and operate applications. Recently, I have been learning and improving my skills in AI. While doing this, I also made sure to complete my regular tasks and support my team when needed. I have tried to apply what I learned about AI in my daily work to make things more efficient.
+
+However, I felt that something was missing in my career path. Because of that, I decided to take the next step and focus more on full stack development. I believe this is an important direction for the future. Many people can use AI, but it is more important to understand when and how to apply AI effectively in real work. Using AI in the right way can create a strong impact for the organization and help both the company and employees grow together.
+
+My long-term goal is to become a Full Stack AI Engineer. In this role, I want to combine full stack development skills with AI to build smarter and more efficient solutions.
+
+As part of my responsibility, I also want to help guide my team to grow with these skills. I would like to support them in learning full stack development and show them how they can use AI in their tasks to work smarter, not just harder.
+
+
+Title
+
+Full Stack AI Engineer 
+
+
+                                        |
+Responsibilities
+
+1.Design, develop, deploy, and operate full stack applications.
+2.Build and maintain high-quality software products with a focus on quality over quantity.
+3.Apply AI in the right areas of the development process to improve efficiency and productivity.
+4.Use AI tools to automate repetitive tasks and improve development workflows.
+5.Support and guide the team in learning full stack development practices.
+6.Help the team understand how to use AI in their daily work to work smarter and deliver better results.
+7.Contribute to continuous improvement in both technology and team processes.
+
+
+Skill Level
+
+Full Stack Development
+
+1.Frontend development (UI design, modern frameworks)
+
+2.Backend development (APIs, services, business logic)
+
+3.Database design and management
+
+4.Application deployment and operations
+
+AI & Automation
+
+1.Understanding how to apply AI in software development workflows
+
+2.Using AI tools to improve productivity and automation
+
+3.Integrating AI capabilities into applications where it creates real value
+
+Engineering & Collaboration
+
+1.Problem solving and system design
+
+2.Continuous learning and improvement
+
+3.Team collaboration and knowledge sharing]
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Able to design and build a complete full stack application (frontend, backend, database) and deploy it successfully in a working environment. | Met |
+| 2 | Guide or support team members in using AI tools or better development practices that improve team productivity. | Not Met| 
+| 3 | Successfully integrate AI features into at least one real application or internal tool to improve productivity or automate a task | Partially
+| 4 | Demonstrate the ability to manage the full development lifecycle: design, development, testing, deployment, and monitoring of an application. | Partially
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Focusing too much on learning tools or technologies without applying them in real projects.| Practice by building real applications and applying what I learn in my daily work. |
+| 2 | Technology and AI are changing very fast, so some of the skills I learn today may become outdated in the future. | I will make sure to keep learning, stay updated with industry trends, and improve my skills continuously. 
+| 3 | Sometimes it can be challenging to balance my regular work while learning AI and finding enough time to apply it in my daily tasks | Plan my learning schedule properly and focus on small, consistent progress instead of trying to learn everything at once.
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+[I would say partially. I have a clear idea of where I want to grow and what I want to achieve, but I also feel the plan may still need some improvements.
+
+As I continue learning and applying these skills in my work, I may find better ways to improve this plan. So I see this as a starting point, and I will keep refining it as I gain more experience and feedback.
+
+I believe a career plan can change over time. Even if I have a clear goal and direction, staying consistent is more important. That consistency should not break in any situation.
+
+My career path is a little different compared to others. Sometimes I cannot follow a fixed timeline because I have more responsibilities in life. Balancing everything and staying consistent can be challenging
+
+Because of this, my growth may not always look as deep as my years of experience. It’s not that I didn’t learn, but my learning and skill upgrades may not always happen very fast. Still, I keep learning and improving whenever I get the chance]
 ```
 
 ---
