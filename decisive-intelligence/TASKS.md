@@ -82,7 +82,7 @@ ONLY after Director signs off on the screenplay. Rebuild all EC image prompts us
 | 4.2 | EC_02 — Prologue P5-P9 (Slides 14-23) | `EP2_EC_02_Prologue_P5_P9.md` | ✅ DONE (v2) | 10 slides. Harvey, Gambol, Hong Kong, RICO, Ultimatum. Full rebuild. |
 | 4.3 | EC_03 — Act 1 CLARITY C1-C8 (Slides 24-40) | `EP2_EC_03_Clarity.md` | ✅ DONE (v2) | 17 slides. Full rebuild. Burma ★ pillar moment (Slides 32-34). |
 | 4.4 | EC_04 — Act 2 COURAGE K1-K4 (Slides 41-57) | `EP2_EC_04_Courage.md` | ✅ DONE (v2) | 17 slides. "Endure" ★ (42), Interrogation 7-slide sequence (48-54), Two-Face born (57). |
-| 4.5 | EC_05 — Act 3 COMMITMENT M1-M7 (Slides 69-94) | `EP2_EC_05_Commitment.md` | ☐ PENDING | Money burn, Letter, Hospital ★, Walk-away, Sonar ★, Revenge, Ferry ★ |
+| 4.5 | EC_05 — Act 3 COMMITMENT M1-M7 (Slides 58-75) | `EP2_EC_05_Commitment.md` | ✅ DONE (v2) | 18 slides. Full rebuild. Hospital Speech ★ (63-65), Fox Sonar ★ (68-69), Tattooed Prisoner ★ (74). |
 | 4.6 | EC_06 — Act 4 MOVEMENT V1-V4 + Closing X1-X3 (Slides 95-116) | `EP2_EC_06_Movement.md` | ☐ PENDING | Prewitt, Ace in Hole, Two-Face stand, Dark Knight ★, Cost, Arkham, Bane |
 | 4.7 | EC_07 — Post-Credits + Transition Cards (Slides 117-148) | `EP2_EC_07_PostCredits.md` | ☐ PENDING | "This Was the Crisis" (25 panels) + 6 transition cards |
 | 4.8 | Update Header + Reshoot Board + Production Lessons | — | ☐ PENDING | EP2_EC_00_Header.md version bump to EC 3.0.0 |
