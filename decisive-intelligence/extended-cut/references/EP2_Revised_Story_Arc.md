@@ -594,8 +594,10 @@ SCENE V4: THE DARK KNIGHT ★ (pp. 137-141) — ~8 slides
     CUT TO BLACK.
 
 ═══════════════════════════════════════════════════════════════
-CLOSING: THE COST (~6-8 slides)
+CLOSING: THE COST + THE PROPHECY (~10-12 slides)
 ═══════════════════════════════════════════════════════════════
+
+SCENE X1: THE COST — The Chessboard (~4 slides)
 ├── The chessboard — scorched but standing. Four pieces remain.
 │   But the player who held them is gone.
 ├── Pillar cards:
@@ -604,8 +606,44 @@ CLOSING: THE COST (~6-8 slides)
 │   COMMITMENT: "He held when others broke."
 │   MOVEMENT: "He moved when others wouldn't."
 ├── "The framework survived. The man who used it paid everything."
-├── S.P. Easter Egg (subtle — in final detail shot)
-└── Tease: "Eight years later..." (Bane's shadow, broken mask)
+└── S.P. Easter Egg (subtle — in final detail shot)
+
+SCENE X2: ARKHAM — The Joker's Prophecy (SCU INVENTION) (~3-4 slides)
+├── Arkham Asylum. Long corridor. Fluorescent flicker.
+│   A cell at the end. Reinforced glass. No furniture.
+│   The Joker sits on the floor, cross-legged. Calm. Not raging.
+│   Glasgow smile scars visible. Eyes open. Staring at nothing.
+│   He's LISTENING to something only he can hear.
+├── A guard passes. The Joker speaks without looking up.
+│   "You know what's funny? He thinks the hard part is over."
+│   Guard: "Who?"
+│   Joker: "The Bat." *(Smile.)* "He survived ME. The chaos.
+│   The test of whether his little RULES could hold."
+│   *(Beat. The smile fades — something almost like respect.)*
+│   "But what's coming next... it's not chaos."
+├── Close on the Joker's face. The smile returns. But different.
+│   Not manic. KNOWING.
+│   "Chaos you can outsmart. Force... force just BREAKS you."
+│   *(Leans forward, whispers.)*
+│   "And he's already broken."
+└── The Joker LAUGHS. Not his manic laugh. A quiet one.
+    The laugh of someone who knows the punchline before it's told.
+
+SCENE X3: THE BANE TEASE (~3-4 slides)
+├── SMASH CUT: Darkness. Underground. Stone walls.
+│   Heavy breathing. Rhythmic. Like a machine.
+│   A massive silhouette. Shoulders like architecture.
+│   The breathing is mechanical — a MASK.
+├── A voice. Deep. Resonant. Distorted by the mask.
+│   "The fire rises."
+│   OR: A single shot of a broken Batman mask/cowl
+│   held in an enormous hand. Fingers closing around it.
+├── TEXT CARD:
+│   "Eight years later..."
+│   "The framework was tested by chaos."
+│   "It will be BROKEN by force."
+└── EPISODE 3: THE BREAK
+    Coming soon.
 
 ═══════════════════════════════════════════════════════════════
 POST-CREDITS: "THIS WAS THE CRISIS" — Short Movie (~18-22 slides)
@@ -635,18 +673,17 @@ Per Director's order: cover the ENTIRE Dark Knight. All scenes IN. This resolves
 | **5** | Prewitt Building | **IN** — Full hostage/clown swap + final fight (6 slides) | ✅ RESOLVED |
 | **6** | Post-Credits Tone | **(C) Starts dark, ends warm** — Per Director | ✅ RESOLVED |
 | **7** | Prologue Scope | **FULL** — All Act 1 scenes (22-26 slides) | ✅ RESOLVED |
-| **8** | Arkham Scene | **PENDING** — Remove (Simmons rec) or keep as SCU invention? | ⏳ NEEDS SIGN-OFF |
+| **8** | Arkham Scene | **(B) KEEP** — SCU invention. Joker gets TWO exits: Prewitt (philosophy) + Arkham (prophecy → Bane tease) | ✅ RESOLVED |
 
-### Decision #8: Arkham Scene (Still Needs Sign-Off)
+### Decision #8: Arkham Scene — RESOLVED
 
-Our current screenplay (v1.0.0) has a Scene 26: "Arkham / Joker Last Word." There is NO Arkham scene in TDK. The Joker's last appearance is hanging upside down at Prewitt Building.
+**Director's call: KEEP IT.** The Joker gets two final scenes with different purposes:
 
-| Option | Treatment |
-|---|---|
-| **(A) Remove Arkham** | Joker's last scene is at Prewitt (accurate to TDK). "Madness is like gravity" placed correctly at the building. |
-| **(B) Keep as SCU invention** | Our screenplay adds an Arkham coda not in TDK — Joker in a cell, final prophecy. Creative license. |
+1. **Prewitt Building (TDK-accurate):** "Madness is like gravity. All it takes is a little push." — His philosophical exit. Hanging upside down, laughing. The thesis delivered. SWAT approaching below.
 
-**Simmons' Recommendation: (A) Remove.** The Joker hanging upside down, laughing, with SWAT approaching below, is a MORE powerful last image than a cell scene. "We're going to do this forever" + "Madness is like gravity" is his perfect exit. An Arkham scene weakens it.
+2. **Arkham (SCU invention):** The Joker in his cell. Calm. Not raging. KNOWING. He survived. He lost the ferry experiment. He won via Harvey. But he senses something else — something coming that even HE respects. The Bane tease grows out of THIS scene. The Joker isn't warning Batman. He's laughing because Batman survived the test of CHAOS... but what's coming next isn't chaos. It's FORCE. And force is worse.
+
+**Why this works:** Prewitt is the Joker's DRAMATIC exit. Arkham is the NARRATIVE bridge to EP3. Different jobs. Both essential. The Joker's Arkham prophecy makes the Bane tease land harder — if the agent of chaos is IMPRESSED by what's coming, the audience feels the weight.
 
 ---
 
@@ -660,10 +697,10 @@ Our current screenplay (v1.0.0) has a Scene 26: "Arkham / Joker Last Word." Ther
 | **Act 2: COURAGE** | K1-K4 | 24-28 |
 | **Act 3: COMMITMENT** | M1-M7 | 26-30 |
 | **Act 4: MOVEMENT** | V1-V4 | 24-28 |
-| Closing: The Cost | — | 6-8 |
+| Closing: The Cost + Arkham + Bane Tease | X1-X3 | 10-12 |
 | **Post-Credits: "This Was the Crisis"** | Short Movie (incl. Jack/Joker) | 25 |
 | Transition Cards | — | 6 |
-| **TOTAL** | | **~155-180 slides** |
+| **TOTAL** | | **~160-190 slides** |
 
 ### Comparison to EP1 Extended Cut
 
