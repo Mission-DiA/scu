@@ -215,12 +215,14 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-  Jagadesh, Kabilan, Pughaz, Naveen, Jerome, and Gayathri — all juniors on
-  the team. I am consistently one step ahead of them technically and in
-  terms of how I approach problems. Whenever I am around, I guide and
-  support them without being asked — not because it's expected, but
-  because it's the right thing to do. I genuinely want to share whatever
-  knowledge I have with them.
+Jagadesh, Kabilan, Pughaz, Naveen, Jerome, and Gayathri — all juniors
+on the team. I am consistently one step ahead of them in production  
+systems knowledge, GCP infrastructure, Jenkins pipelines, branching
+strategy, debugging approaches, and how to navigate real problems in
+our environment. Whenever I am around, I guide and support them without
+being asked — not because it's expected, but because it's the right
+thing to do. I genuinely want to share whatever knowledge I have
+with them.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
@@ -246,11 +248,14 @@ This week specifically, I shared knowledge with four people:
   how the entire system works, identified the root cause, and guided him
   to the solution.
 
+Not next quarter. This week. All four.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
+Honestly, nothing stops me. The examples from Q14 prove that.
+
   I didn't wait to be assigned a mentor role. I pinged Gayathri to check
   what she had done so far — she didn't come to me. I walked Naveen
   through production release until he understands completely. I pointed Kabilan to
