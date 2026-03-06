@@ -217,25 +217,70 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+[ Noordeen from the DevOps team. Not because I am ahead of him — honestly, he is someone I look up to.
+
+Actually, he is someone I genuinely look up to. He is the kind of person who knows something about everything. 
+
+In every meeting, every discussion, every situation — he shows up. He doesn't just do what is assigned to him. He picks up things that nobody asked him to, figures them out, and delivers. That extra ownership, that curiosity, that ability to manage even what he doesn't fully know yet — that is what makes him stand out.                
+
+Watching him made me stop and think about myself. I have 8 years behind me. I went through manual testing, then automation, then performance. I built real things. But if I am being honest, I was mostly doing what was put in front of me, and sometimes going a little extra. Noordeen doesn't operate like that at all. For him, everything is his responsibility — whether it's written in his job description or not.
+
+That hit me. Because I have learned so much through struggling and figuring things out on my own over the years. But I was keeping it to myself. I wasn't passing it on to anyone. What Noordeen does every day — owning things, showing up fully, not waiting to be perfect before acting — that is what I want to model for the people who are one step behind where I am now. You don't need to know everything. You just need to show up and try. That is the thing I want to teach.]
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+[  This week, I can sit with someone and walk them through how to think about
+  performance testing — not the tools first, but the mindset.
+
+  Most juniors get scared of performance testing because they think it is only for
+  experts. I can show them how I started — by first understanding what the system
+  is supposed to do, and then asking "what happens when it does too much?"
+
+  Specifically, I can share how I set up a basic k6 script, explain why we do load
+  testing and what we are actually looking for, and how synthetic data matters before
+  you even run a test. These are things that took me months to understand on my own.
+  I can compress that for someone in one conversation this week.
+
+  It doesn't have to be a formal training. Even a 30-minute walkthrough of one tool
+  or one concept is more than what I had when I was starting out.]
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+[  Honestly? Two things.
+
+  First — I kept thinking I am not expert enough yet. I always felt like I still have
+  more to learn before I can teach. I spent 8 years learning on my own, figuring things
+  out, failing and retrying. Because my journey was so self-driven and personal,
+  I always felt like what I know is not "formal" enough to share. I thought people
+  might ask me something I don't know and I would look bad.
+
+  Second — I was always focused on surviving and growing. Every stage of my career
+  was about pushing myself forward — learning the next skill, earning the next raise,
+  proving myself to the next team. I was in "achieve mode" for so long that I never
+  stopped to look back and help someone else move forward.
+
+  I had mentors and guardians at different stages of my life and career who helped me.
+  I am grateful for every one of them. But I haven't actively played that role for
+  someone else yet. That is something I have to change.]
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+[Yes. And if I am honest, it was never really about not having time or not knowing enough.It was fear. Every time someone came to me with a question or looked at me like I might have an answer — something in me pulled back. A voice that said, what if I say the wrong thing? What if they try what I suggest and it doesn't work? What if they ask a follow-up and I don't have the answer? I would rather say nothing than say something and look like I don't know what I'm doing.
+
+That fear felt even bigger because of how I grew in my career. I didn't come through a clean path. I struggled at every stage. I was figuring things out while also dealing with pressure from all sides — financial pressure, family responsibility, the constant need to prove myself.
+
+And that feeling — that I need to be fully ready, fully sure, fully expert before I open my mouth — that is what stopped me every single time. Not once did I think I was one step ahead. I always thought I was still not enough.
+
+Viktor's line hit me because that is exactly the fear I carry. He was still figuring it out himself, and he almost didn't say anything at all. I understood that completely. Because I have been that person — sitting on 8 years of experience, staying quiet because I was scared my answer might not be perfect.
+
+The suffering in each stage is not something to be ashamed of. It is the most honest thing I can pass on to someone.
+]
 ```
 
 ---
