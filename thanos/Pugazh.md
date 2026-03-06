@@ -114,30 +114,44 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In two years, I aim to be a **Senior Site Reliability Engineer**.
+
+**Title:** Senior SRE
+
+**Responsibilities:**
+*   Lead the design and implementation of large-scale, high-impact projects that improve the reliability and performance of our systems.
+*   Mentor junior engineers on the team, helping them grow their skills and careers.
+*   Take a leading role in architectural decisions, ensuring that we are building for scalability and resilience from the ground up.
+*   Become a subject matter expert in a critical area, such as cloud cost optimization or advanced observability.
+
+**Skill Level:**
+*   Deepen my expertise in system design and architecture.
+*   Achieve advanced proficiency in Go for automation and building internal tools.
+*   Master advanced concepts in Kubernetes and our observability stack.
+*   Develop stronger leadership and communication skills to influence and guide the team.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
-| # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
-|---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| # | Acceptance Criteria                                                                                                                                                             | Current Status (Met / Partially / Not Met) |
+|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 1 | I have successfully led a major project from design to completion, where I was the primary owner of the technical design and architecture.                                          | Not Met                                    |
+| 2 | Contributed to the team's knowledge base by writing at least two pieces of internal documentation and have presented a topic in a team meeting.                                  | Partially                                   |
+| 3 | I am the go-to person on the team for at least one critical system or technology (e.g., Kubernetes networking, Prometheus internals), and I have contributed a significant internal tool or automation written in Go. | Not Met                                    |
+| 4 | I have successfully presented a technical design to a cross-functional team, and it was approved with minimal changes. I have also led a post-mortem for a critical incident, resulting in actionable follow-up items. | Not Met                                    |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
-| # | Edge Case / Risk | Mitigation Plan |
-|---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| # | Edge Case / Risk                               | Mitigation Plan                                                                                                                                                           |
+|---|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | **Burnout** from the aggressive pace of learning. | I will proactively manage my workload, communicate openly with my manager about my capacity, and ensure I take adequate time off to recharge.                               |
+| 2 | **Impatience and Frustration** with the long path. | To manage this, I will set realistic short-term goals, celebrate small wins, and be open with my manager or mentor when I am struggling.                                   |
+| 3 | **Technology Shifts** making my skills obsolete. | I will focus on learning fundamental principles (e.g., networking, distributed systems) that are transferable and stay adaptable by keeping up with industry trends.          |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+Honestly, it's a little intimidating. The goal of reaching Senior SRE in two years is a huge stretch, and looking at it all laid out like this makes the risks of burnout and frustration feel very real. But I'm not going to back down from a challenge. I'd ship this plan, not because it's perfect, but because it's a start. It's a map for a very steep climb, and I'll have to be smart and adjust my path as I go. But yes, I'm ready to take the first step.
 ```
 
 ---

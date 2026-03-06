@@ -154,30 +154,44 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+Title: Senior DevOps Engineer
+
+Responsibility:
+Right now I am in a learning-and-doing phase — I execute well, I build
+systems, but I still rely on direction from others for scope and priorities.
+In 2 years, I want to be the person who defines the scope. I want to own
+infrastructure decisions end-to-end — not just the Develop stage, but the
+full D3O loop: Design → Develop → Deploy → Operate → back to Design.
+
+Skill Level:
+Today I am strong at building and designing, but Deploy and Operate are
+gaps. In 2 years, I want those gaps closed. I want to be proficient in
+production deployments, incident response patterns, and reading operational
+signals to improve what I originally designed. I also want to be confident
+enough to review and guide others' work — not just do my own.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Led at least one project through the full D3O loop — designed, deployed to production, and monitored post-deployment independently | Partially — strong in Design + Develop, Deploy and Operate not yet done |
+| 2 | Build a clear understanding of concepts before implementing — not just executing but knowing why | Partially |
+| 3 | Drive and share knowledge when someone asks — able to explain and guide without hesitation | Met |
+| 4 | Take complete ownership of what I am doing — not just executing tasks but being fully accountable for the outcome end-to-end | Partially |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Getting stuck in the same problem for too long — losing time that should go to other tasks and concepts | Set a personal time limit — if stuck for more than X time, move on and come back with fresh eyes or ask for help |
+| 2 | Learning concepts but not implementing them — knowledge stays theoretical and never becomes a real skill | Practice "learning by doing" — every concept learned must have a hands-on task attached to it |
+| 3 | Overthinking — spending too much time analyzing instead of acting, which delays progress and execution | Set a decision deadline — think, decide, act. Revisit and correct if wrong rather than waiting for the perfect answer |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+Yes, I would ship this plan. It’s not perfect, and I’m aware that some criteria are only partially met. However, it is grounded in real execution, not assumptions. I clearly understand my gaps — especially in Deploy and Operate — and I recognize the risks of overthinking and learning without applying. A shippable plan doesn’t need to be flawless; it needs to be honest, actionable, and based on reality. This one meets that bar.
 ```
 
 ---

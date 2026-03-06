@@ -1601,15 +1601,33 @@ THE JOKER (NURSE) FULL DESCRIPTION:
 
 ---
 
-### Panel 15.8 — THE ANARCHY
-**Composition:** Joker pressing the coin into Harvey's hand. One side clean, one side scarred.
+### Panel 15.8 — THE NAMES *(NEW — NARRATIVE FIX)*
+**Composition:** Joker leaning in conspiratorially. Like he's sharing a secret. One finger tapping Harvey's bedframe.
+
+**Text:**
+- **Joker Speech (jagged):** "You wanna know who picked Rachel up that night?"
+- **Joker Speech (jagged):** "Gordon's people. His own unit. Wuertz. Ramirez."
+
+---
+
+### Panel 15.9 — THE ACCUSATION *(NEW — NARRATIVE FIX)*
+**Composition:** Close on Harvey's face — the unbandaged side. Shock turning to cold fury. This isn't abstract anymore. This is specific.
+
+**Text:**
+- **Joker Speech (jagged):** "Gordon's hand-picked cops. He KNEW they were dirty, Harvey. He used them anyway."
+- **Joker Speech (jagged):** "And where was Gordon when Rachel burned?"
+
+---
+
+### Panel 15.10 — THE WEAPON *(NEW — NARRATIVE FIX)*
+**Composition:** Joker pressing the coin into Harvey's hand. One side clean, one side scarred. But now Harvey isn't just grieving — he has TARGETS.
 
 **Text:**
 - **Joker Speech (jagged):** "Introduce a little anarchy. You know the thing about chaos?"
 
 ---
 
-### Panel 15.9 — HARVEY'S EYES
+### Panel 15.11 — HARVEY'S EYES *(renumbered from 15.9)*
 **Composition:** Close on Harvey's eyes — one normal, one exposed and bloodshot from burn damage. Something changing. Breaking. Rebuilding wrong.
 
 **Text:**
@@ -1617,7 +1635,7 @@ THE JOKER (NURSE) FULL DESCRIPTION:
 
 ---
 
-### Panel 15.10 — THE COIN *(NEW — EXPANSION)*
+### Panel 15.12 — THE COIN *(renumbered from 15.10)*
 **Composition:** Harvey's hand closing around the coin. Both sides of his face visible — handsome and ruined. The White Knight is dying. Something else is being born.
 
 **Character Block:**
@@ -1635,7 +1653,7 @@ TWO-FACE FULL DESCRIPTION:
 
 ---
 
-### Panel 15.11 — THE CORRUPTION COMPLETE
+### Panel 15.13 — THE CORRUPTION COMPLETE *(renumbered from 15.11)*
 **Composition:** Harvey holding the coin up. Two-Face is born. The Joker watching from the bedside, satisfied. His work here is done.
 
 **Text:**
@@ -1986,6 +2004,59 @@ THE JOKER FULL DESCRIPTION:
 ---
 
 
+## SCENE 19B: HARVEY'S RECKONING *(NEW — NARRATIVE FIX)*
+**Location:** Various — Gotham streets, bar, warehouse
+**Purpose:** Show Harvey's descent from victim to vigilante. He doesn't go straight to Gordon — he follows the chain. The Joker gave him names. Now he uses them.
+
+### Panel 19B.1 — WUERTZ
+**Composition:** A dingy bar. Detective WUERTZ sitting alone, drinking. Two-Face slides into the booth opposite. Wuertz's face goes white.
+
+**Character Block:**
+```
+TWO-FACE FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, LEFT side handsome, RIGHT side burned — exposed muscle, missing eyelid, charred skin, 6'0"
+- Costume: Navy suit, half-burned on right side, scorched shirt, scarred coin in hand
+- Expression: Cold, methodical, no rage — just process
+- Action: Sitting across from Wuertz, coin on the table
+- Position: Opposite side of booth
+```
+
+**Text:**
+- **Two-Face Speech:** "You picked up Rachel. Gordon's orders."
+- **Wuertz Speech:** "Harvey, I didn't know what they were gonna—"
+- **Two-Face Speech:** "Heads or tails, Wuertz."
+
+---
+
+### Panel 19B.2 — THE COIN DECIDES
+**Composition:** Close on the coin spinning on the bar table. Wuertz staring at it. Two-Face watching without emotion. The coin lands.
+
+**Text:**
+- **Caption Box:** "Harvey Dent used to believe in the system."
+- **Caption Box:** "Now he believed in the coin."
+
+---
+
+### Panel 19B.3 — RAMIREZ
+**Composition:** Detective RAMIREZ in her car, parked on a dark Gotham street. Two-Face in the passenger seat — he was already there when she got in. Her hand frozen on the steering wheel.
+
+**Text:**
+- **Two-Face Speech:** "You called Rachel. Lured her to the warehouse. Gordon trusted you."
+- **Ramirez Speech:** "They had my mother in the hospital, Harvey! They said they'd kill her—"
+- **Two-Face Speech:** "Tell that to Rachel."
+
+---
+
+### Panel 19B.4 — THE PATTERN
+**Composition:** Wide shot — Gotham from above. Two locations marked by red and blue police lights. Two corrupt cops. Two coin flips. Harvey isn't random. He's climbing the chain — toward the man at the top.
+
+**Text:**
+- **Caption Box:** "Wuertz. Ramirez. Gordon's people. Gordon's failure."
+- **Caption Box:** "One name left on Harvey's list."
+
+---
+
+
 ## SCENE 20: TWO-FACE REVEALED
 **Location:** Warehouse (Harvey's choice)
 **Purpose:** See what Harvey has become — the symbol corrupted
@@ -2046,15 +2117,16 @@ TWO-FACE FULL DESCRIPTION:
 **Composition:** TWO-FACE steps into full light. Both sides visible. Coin in one hand, gun in the other.
 
 **Text:**
-- **Two-Face Speech:** "The world showed me its true face."
+- **Two-Face Speech:** "Your people, Jim. YOUR cops. Wuertz picked me up. Ramirez called Rachel."
 
 ---
 
-### Panel 20.6 — THE COIN
-**Composition:** Close on the coin in Two-Face's fingers. Clean side. Scarred side.
+### Panel 20.6 — THE ACCUSATION
+**Composition:** Close on the coin in Two-Face's fingers. Clean side. Scarred side. His voice is calm — that's what makes it terrifying.
 
 **Text:**
-- **Two-Face Speech:** "The only way to live in a cruel world... is to become cruel yourself."
+- **Two-Face Speech:** "You knew they were dirty. You used them anyway. And Rachel paid for it."
+- **Two-Face Speech:** "The only way to live in a world this corrupt... is to leave it to chance."
 
 ---
 

@@ -62,7 +62,7 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-In 6 months, the integration automation framework and the revamped production defect workflow would continue to create value as they are embedded into the team’s regular operations. The AI-assisted test case creation practice would also sustain impact if adoption continues independently. However, the AI-assisted debugging improvement is currently dependent on my direct involvement and would require formalization to have lasting impact.
+In 6 months, the integration automation framework and the revamped production defect workflow would continue to create value as they are embedded into the team's regular operations. The AI-assisted test case creation practice would also sustain impact if adoption continues independently. However, the AI-assisted debugging improvement is currently dependent on my direct involvement and would require formalization to have lasting impact.
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
@@ -86,7 +86,7 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage                                                 | What YOU Did (be specific)                                                                                                                                                                                                                                                                               | What SOMEONE ELSE Did                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Design** (deciding WHAT to build and WHY)               | I noticed that we didn’t have a reliable way to validate whether the AI-generated filters were returning accurate results. To reduce manual effort in validating multiple scenarios, I decided to build an automation script to compare expected outputs with the AI responses and measure the accuracy. | Developers designed and implemented the AI/NLP-based filter functionality as part of the feature.                                  |
+| **Design** (deciding WHAT to build and WHY)               | I noticed that we didn't have a reliable way to validate whether the AI-generated filters were returning accurate results. To reduce manual effort in validating multiple scenarios, I decided to build an automation script to compare expected outputs with the AI responses and measure the accuracy. | Developers designed and implemented the AI/NLP-based filter functionality as part of the feature.                                  |
 | **Develop** (building / executing it)                     | I built the automation script within a short time to run multiple filter scenarios and check whether the AI output matched the expected results.                                                                                                                                                         | Developers implemented the underlying AI logic that generated the filter responses.                                                |
 | **Deploy** (shipping / releasing / presenting it)         | I executed the automation during validation cycles and shared the accuracy results and mismatches with the team.                                                                                                                                                                                         | The engineering pipeline and environments were managed by the development/DevOps team.                                             |
 | **Operate** (monitoring, learning from results, feedback) | I analyzed the mismatches identified by the script and cross-checked the automation logic with the developers. Based on their feedback, I added a few additional scenarios to strengthen the validation coverage.                                                                                        | Developers reviewed the findings and suggested additional scenarios to validate through automation to improve the accuracy checks. |
@@ -95,7 +95,7 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
- I’m dominant in Develop and Deploy. I build the scripts, run validations, and share results. Operate is the weakest stage for me. I did review results with developers and added a few more scenarios based on their feedback, but I’m not consistently involved in monitoring how things behave in production or feeding those learnings back into the system.
+I'm dominant in Develop and Deploy. I build the scripts, run validations, and share results. Operate is the weakest stage for me. I did review results with developers and added a few more scenarios based on their feedback, but I'm not consistently involved in monitoring how things behave in production or feeding those learnings back into the system.
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
@@ -103,13 +103,13 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ```
 AI can already do a lot of the Develop–Deploy work I do — writing test cases, generating automation scripts, analyzing logs, and suggesting edge cases. Most of the repetitive testing work can be sped up with AI.
 
-What AI can’t really do is decide what actually matters to test, understand how the feature behaves in real workflows, or discuss failures with developers to figure out what really went wrong. That still needs context, judgment, and conversations with people.
+What AI can't really do is decide what actually matters to test, understand how the feature behaves in real workflows, or discuss failures with developers to figure out what really went wrong. That still needs context, judgment, and conversations with people.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
- 6 months ago, when I shipped the NLP automation script to validate the AI filter accuracy. Instead of manually testing multiple scenarios, I built the automation to validate the results and reduce the manual effort.
+6 months ago, when I shipped the NLP automation script to validate the AI filter accuracy. Instead of manually testing multiple scenarios, I built the automation to validate the results and reduce the manual effort.
 ```
 
 ---
@@ -123,34 +123,50 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In two years, I aim to operate at a Quality Systems Engineer, where my responsibility goes beyond validating features to owning how quality is engineered into the system.
+
+At that stage, I want to be responsible for designing and operating quality systems that combine automation, observability, and AI-assisted tooling to continuously validate product behavior across development and production. My focus would be on building frameworks that reduce repetitive testing effort, improve early defect detection, and create strong feedback loops from production signals back into development and testing strategies.
+
+I also want to contribute to cross-functional engineering decisions, working closely with development and product teams to ensure we are not only building software correctly but also building the right solutions for users. That means integrating user feedback, operational data, and production insights into how features are designed, tested, and monitored.
+
+From a capability standpoint, I expect to operate with stronger depth in automation architecture, system observability, and AI-assisted engineering workflows, enabling me to proactively identify risks, inefficiencies, or gaps in the system before they become production issues.
+
+Ultimately, I want to be someone who improves how the engineering team builds and validates software by creating reusable systems, influencing technical decisions, and establishing practices that make quality scalable rather than dependent on manual effort.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 
-| #   | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
-| --- | ------------------- | ------------------------------------------ |
-| 1   |                     |                                            |
-| 2   |                     |                                            |
-| 3   |                     |                                            |
-| 4   |                     |                                            |
+| #   | Acceptance Criteria                                                                                                                                                                                                                                  | Current Status (Met / Partially / Not Met) |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1   | Designed and implemented a reusable quality or automation system that supports multiple testing cycles and reduces repetitive validation work.                                                                                                        | Partially                                  |
+| 2   | Actively collaborate across the development lifecycle (design discussions, development, testing, and release) to ensure quality considerations are built into every stage rather than validated only at the end.                                      | Partially                                  |
+| 3   | Established a feedback loop from production or user insights where recurring issues or behavior patterns are converted into improved validation or testing mechanisms.                                                                                | Partially                                  |
+| 4   | Contributed to engineering decisions or technical strategy related to system reliability, testing architecture, or development efficiency that improved product stability.                                                                            | Not Met                                    |
 
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 
-| #   | Edge Case / Risk | Mitigation Plan |
-| --- | ---------------- | --------------- |
-| 1   |                  |                 |
-| 2   |                  |                 |
-| 3   |                  |                 |
+| #   | Edge Case / Risk                                                                                                                  | Mitigation Plan                                                                                                                                                                                                                  |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Remaining too execution-focused on testing tasks instead of evolving toward designing systems and frameworks.                     | Intentionally prioritize work that involves building reusable automation or quality systems and seek opportunities to design solutions rather than only execute test activities.                                                  |
+| 2   | Over-reliance on tools or AI assistance without strengthening deeper system understanding and engineering judgment.               | Continuously improve core technical understanding of system behavior, debugging, and architecture, and use AI tools as accelerators rather than decision-makers.                                                                 |
+| 3   | Limited exposure to product strategy or user context, which could restrict the ability to influence the right quality decisions.  | Collaborate more closely with product managers, developers, and users, actively participate in design discussions, and incorporate production and user feedback loops into testing and quality strategies.                        |
 
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+I would not ship this version yet.
+
+The direction is right, but the evidence is still incomplete. Most of the acceptance criteria are only partially met — especially around influencing engineering decisions and consistently turning production insights into improvements in the quality system. Right now, I'm still contributing within the system rather than fully shaping it.
+
+If this were a product, I would call it a working build but not production-ready. The foundation is there — automation, AI-assisted debugging, and early collaboration — but the team does not yet consistently depend on systems I've built.
+
+The gap is clear: I need to move from improving processes to designing systems the team relies on, and demonstrate that impact over time.
+
+Until that evidence is visible in the team's workflow and outcomes, I would continue iterating rather than shipping.
 ```
 
 ---
