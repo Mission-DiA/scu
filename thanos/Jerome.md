@@ -148,25 +148,28 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I think I am ahead of my fellow SRE teammates - Jagadheesh, Pugazh and Kabilan. I have been here for almost a year and I have one step ahead of them in my experience, infra understanding and knowledge.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+I have already shared my insights to them on an everyday basis. For an example instance, On Monday we faced a production incident in the APAC region and there was a flaw at the Incident commander role. Since I was into debubbing at the time at the incident, I was not able to guide them on how to play the role as I had the experience on how it should be done, from the previous incidents.
+As I missed it on the day of the incident, we scheduled a SRE team syncup yesterday and I shared my insights on the importance of the Incident commander role and how it should be done.
+
+Additionally whenever they approach me for doubts or clarification, I share my knowledge and my understanding to them. Further more additionally I am also sharing, little tips on how to approach a few tasks, cause as Victor was struggling at the start even I was, but now I got a grip and I share the tips to them as well.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+Yes, the question is valid. A few times I feel a little hesitant to help. As inferred in the question, it is all the 3. I would be held up with my own tasks, and would not be able to provide guidance at times. And as mentioned earlier, for the things I am absolutely sure, I provide an absolute answer. But for the one's I am not absolutely sure, I tend to feel a little hesitant and have second thoughts on what if I am wrong, and I guide them incorrectly.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+I don't stop myself from guiding them, I provide my first level of insights and them request them to get a confirmation from the senior team members and proceed accordingly. This way, I did help, but also they were guided in the right direction, and when I am unsure about something, I get the knowledge transferred from the senior teammates as well.
 ```
 
 ---
