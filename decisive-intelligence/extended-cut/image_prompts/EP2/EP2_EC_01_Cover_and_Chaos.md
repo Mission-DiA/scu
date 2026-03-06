@@ -1,5 +1,5 @@
 > **Part of:** EP2 Extended Cut Prompts (EC 3.0.0) | **Production Rules:** See `EP2_EC_00_Header.md`
-> **Slides:** 0-13 | **Scenes:** Cover (0) + Opening (1-3) + Bank Heist P1 (4-7) + Scarecrow P2 (8-9) + New Suit P3 (10) + Mob Meeting P4 (11-13)
+> **Slides:** 0-13 | **Scenes:** Cover (0) + Opening (1-3) + Bank Heist P1 (4-8) + Scarecrow P2 (9-10) + New Suit P3 (11) + Mob Meeting P4 (12-13)
 > **Production Lessons:** See `/scu/reference/SCU_Gemini_Production_Lessons.md`
 > **Source:** `EP2_THE_TEST_Extended_Screenplay.md` (EC 3.0.0 — Ground-Zero Rebuild)
 
@@ -7,908 +7,662 @@
 
 ---
 
-### SLIDE 0 — COVER
-**SINGLE SPLASH — TITLE CARD**
+### SLIDE 0 — COVER IMAGE (Panel 0.1.1)
+**SINGLE PANEL — FULL BLEED**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic cover in 16:9 aspect ratio. Dark Knight noir style. COVER IMAGE.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL. FULL BLEED — image extends to ALL edges, no margins.
 
-SCENE: Gotham skyline at night with a chessboard in the foreground — the framework about to be tested by an agent of chaos.
+SCENE: Gotham city skyline at night. Dark, imposing, rain-slicked. A stone chessboard sits on a rooftop ledge in the foreground. Four chess pieces prominent on the board, each glowing faintly in a different color — a Knight piece glowing blue (#4A90D9), a Queen piece glowing red (#EF4444), a Rook piece glowing white, a Bishop piece glowing orange (#F97316). Behind the chessboard, the Gotham skyline stretches to the horizon with multiple fires glowing orange in the distance — soft, scattered, the city under siege. A single Joker playing card lies beside the board, face-up, grinning — this is the card Jim Gordon showed Batman at the end of Episode 1.
 
-CAMERA: Low angle from rooftop surface level, looking UP across the chessboard toward the Gotham skyline. WHY — the chess pieces tower over the viewer like skyscrapers, making the game feel monumental. The city becomes a backdrop to the board.
+CAMERA: Low angle from just below the rooftop ledge, looking UP past the chessboard toward the burning skyline. WHY — the chessboard dominates the foreground at eye level while the city burns behind it, establishing the metaphor: the framework sits between us and chaos. The low angle gives the chess pieces monumental weight against the sky.
 
 COMPOSITION:
-- Rooftop ledge in immediate foreground — tar-covered surface with oxidized copper flashing along the edge, rain-slicked and reflecting city light
-- CHESSBOARD centered on the ledge, pieces prominent and backlit by the city glow
-- Four chess pieces prominent: Knight (BLUE #4A90D9 glow), Queen (RED #EF4444 glow), Rook (WHITE glow), Bishop (ORANGE #F97316 glow)
-- A JOKER PLAYING CARD lies beside the board, face-up — a standard playing card with crude hand-drawn additions: smeared red smile over the printed Joker, handwritten "HA" in the corner. Weathered, dog-eared edges.
-- Gotham skyline beyond the ledge — Gothic finance towers with Art Deco spires, not generic glass boxes. Wayne Tower identifiable at center. Gargoyles on the nearest buildings.
-- City burns in soft orange glow behind — multiple fires at street level, distant emergency lights flashing, smoke plumes rising between towers
-- Dark storm clouds above, sheet lightning illuminating cloud bases from within
+- FOREGROUND: Stone chessboard on rooftop ledge, four glowing pieces, Joker card beside it
+- Joker card: Weathered, edge of a clear evidence bag visible, standard playing card with grinning Joker face
+- MIDGROUND: Rooftop edge, gargoyle or stone railing elements
+- BACKGROUND: Gotham skyline — Gothic and Art Deco architecture, multiple orange fire glows scattered across buildings, dark storm clouds above
+- Rain: Light drizzle catching the orange firelight
+- No characters visible — this is an establishing shot
 
 LIGHTING:
-- City glow from below — warm amber and orange wash rising from street level, painting the cloud bases
-- Lightning flashes behind clouds — cold blue-white, intermittent, backlighting the skyline silhouette
-- Chess piece glow — each piece casts its color onto the wet rooftop surface, creating colored reflections on the rain-slicked tar
-- No direct light source on the rooftop — the board is lit only by city light and piece glow, keeping the foreground moody
-
-ATMOSPHERE:
-- A city laid out like a game board, and someone new is about to flip the table
-- The calm before the chaos — every piece in position, the card already played
+- Chess pieces emit faint colored glow — blue, red, white, orange — casting colored light on the stone board surface
+- Distant fires provide orange ambient glow across the skyline
+- Rain catches firelight as orange streaks
+- Dark overall — noir atmosphere, the brightest elements are the chess pieces and distant fires
 
 TEXT OVERLAY:
-- TITLE (centered, top third): "DECISIVE INTELLIGENCE" — white, clean sans-serif, large
-- SUBTITLE (below title): "The Test" — smaller, elegant
+- Title (large, centered, upper third): "DECISIVE INTELLIGENCE"
+- Subtitle (medium, centered, below title): "The Test — Episode 2"
+- Tagline (small, bottom center): "Four choices under fire."
 
 WHAT NOT TO DRAW:
-- NO characters visible — just the board, the card, and the city
-- NO visible text other than the title, subtitle, and watermark
-- NO generic modern glass skyline — Gotham is Gothic, Art Deco, stone and steel
-- NO clean or dry rooftop — the surface is rain-slicked and weathered
-- NO bright or cheerful lighting — this is a city under siege at night
+- NO characters or figures visible — this is a title card establishing shot
+- NO modern glass skyscrapers — Gotham has Gothic and Art Deco architecture
+- NO daylight or bright sky — this is deep night
+- NO visible text other than the title, subtitle, tagline, and watermark
 
-STYLE: Photorealistic, cinematic, ominous grandeur. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, Dark Knight noir. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-# OPENING: THE BOARD (Scene 2) — 3 Slides
+# OPENING: THE BOARD SPEAKS
 
 ---
 
-### SLIDE 1 — THE CHESSBOARD + RA'S FLASHBACK (Panels 2.1-2.2 COMBINED)
-**SPLIT PANEL — MEMORY AND PRESENT**
+### SLIDE 1 — THE CHESSBOARD (Panel 0.2.1)
+**SINGLE PANEL — BATMAN'S HAND**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL. FULL BLEED.
 
-SCENE: Batman remembers his training while studying the chessboard — the present is cold calculation, the memory is warm discipline.
+SCENE: Extreme close-up of the same stone chessboard from the cover. The four chess pieces — Knight (blue glow), Queen (red glow), Rook (white glow), Bishop (orange glow) — are prominent. Batman's gloved hand hovers above the board, fingers spread, not touching any piece. He is remembering. Contemplating.
 
-CAMERA: Left panel — low angle on the chessboard, shooting from surface level so chess pieces tower over the viewer. WHY — the pieces become monumental, the decision weighs heavy. Right panel — high angle looking down at Ducard and Bruce in the monastery, shot from the rafters. WHY — we observe the lesson as if remembering it from above, the way memory compresses a room.
+CAMERA: Overhead angle looking straight down at the chessboard with Batman's hand entering from the top of frame. WHY — the bird's-eye view turns the chessboard into a battlefield map, and Batman's hovering hand becomes a commander deciding his next move. The downward angle emphasizes his hesitation — he hasn't touched a piece yet.
 
 COMPOSITION:
-- LEFT: Extreme close-up on a chessboard on a rooftop ledge, shot from board level
-- Four chess pieces glowing: Knight (BLUE #4A90D9), Queen (RED #EF4444), Rook (WHITE), Bishop (ORANGE #F97316)
-- Batman's gloved right hand hovering above the Knight piece — fingers spread, not touching, deliberating. The gauntlet fin blades catch blue glow from the Knight.
-- Night, Gotham skyline beyond the ledge — distant and out of focus, amber city light on the horizon
-- RIGHT: Semi-transparent, faded, ghostly overlay with slightly desaturated colors
-- Monastery interior — rough-hewn stone walls, heavy wooden beams overhead, a single fireplace casting warm amber light
-- Ducard standing beside a low wooden table with a CHESSBOARD on it — teaching Bruce the framework. Ducard's hand rests on a chess piece, mid-lecture. Bruce sits on a wooden bench across the table, listening intently, leaning forward.
-- This is a PHILOSOPHY lesson, not combat training — calm, still, focused
-- Warm firelight flickers across stone, casting long shadows
+- Chessboard filling most of the frame, stone surface, four colored pieces glowing
+- Batman's right hand: black armored gauntlet with fin blades on forearm, fingers spread wide, hovering 3 inches above the pieces
+- Chessboard surface shows faint scratches and wear — this is old, used
+- Colored light from the pieces reflects off the black gauntlet surface
+- Rooftop ledge edge visible at bottom of frame
+
+CHARACTER — BATMAN (HAND ONLY):
+- Costume detail: Matte black (#0A0A0A) armored gauntlet with fin blades on forearm, segmented plates over knuckles, black fingertips
+- The hand is the only body part visible — the rest of Batman is implied above the frame
 
 LIGHTING:
-- Left panel: Cold blue-grey moonlight mixed with distant amber city glow. The chess pieces provide the only vivid color — their glow reflects on Batman's gauntlet and the wet board surface.
-- Right panel: Warm amber firelight from a stone hearth, single source, casting deep shadows on the far wall. The warmth of mentorship against the cold of the present.
-
-CHARACTER 1 — BATMAN (LEFT PANEL):
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense focused eyes reflecting blue chess piece glow, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, black cape draped behind, pointed cowl, gauntlets with fin blades on forearms, utility belt, boots. Clean, undamaged.
-- Expression: Contemplative, calculating — eyes locked on the Knight piece, mind working
-- Action: Right hand hovering above the Knight chess piece, fingers spread, not touching — deliberating. Left hand rests on the rooftop ledge beside the board.
-- Position: Left panel, close-up on hand and board. Only gauntlet, forearm, and edge of cape visible.
-
-CHARACTER 2 — HENRI DUCARD (RIGHT PANEL):
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean build, 6'4"
-- Costume: Dark brown (#3D2914) layered robes over black tunic, League of Shadows training attire — functional, worn from years of use
-- Expression: Teaching, authoritative — chin raised, eyes steady, the confidence of a man who has taught this a hundred times
-- Action: Standing beside the table, right hand resting on a chess piece on the board, left hand gesturing outward — explaining a concept, not demonstrating combat. Weight balanced, posture upright, mentor's stillness.
-- Position: Right panel, semi-transparent, ghostly — standing dominant beside the table, firelight behind him
-
-CHARACTER 3 — BRUCE WAYNE (RIGHT PANEL):
-BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, dark brown hair cropped short, stubble on jaw, intense focused eyes, athletic muscular build, 6'0". This is an ADULT man, NOT a child.
-- Costume: Dark grey (#4B5563) League training tunic, simple and functional, dark pants, bare feet on the stone floor
-- Expression: Attentive, absorbing — watching Ducard's hand on the chess piece, learning
-- Action: Seated on a wooden bench across the table from Ducard, leaning forward slightly, forearms resting on knees, listening
-- Position: Right panel, semi-transparent, ghostly — seated across from Ducard, lower in the frame (student below teacher)
-
-ATMOSPHERE:
-- Silence on the rooftop, broken only by wind. Crackling fire in the memory.
-- The framework was forged in that monastery — now it faces its real exam
+- The four chess pieces provide the primary light — colored glow casting upward onto the gauntlet
+- Ambient blue-grey moonlight from above
+- Dark overall, the glowing pieces are the brightest elements
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom of left panel: "Ra's taught him the framework."
-- Caption (dark navy #1a1a4e, white text) bottom of right panel: "Four principles. Forged in fire."
+- Caption (dark navy #1a1a4e, white text) bottom: "Ra's taught him the framework."
 
 WHAT NOT TO DRAW:
-- NO text labels like "PRESENT", "FLASHBACK", "MEMORY" or any panel description rendered as visible text
-- NO other characters in either panel — only Batman (left), Ducard and Bruce (right)
-- NO child or boy in the right panel — Bruce is an ADULT man (late 20s, Christian Bale), NOT a child
-- NO fighting, sparring, combat, or martial arts in the right panel — this is a calm philosophy lesson at a table, NOT physical training
-- NO weapons, swords, or combat stances — both men are still and composed
-- NO desks, chairs, coffee cups
-- NO modern lighting in the monastery — firelight only
-- NO visible text other than the captions and watermark
+- NO full Batman figure — only the gauntleted hand is visible
+- NO Joker card (it was beside the board in the cover, now the focus is the pieces)
+- NO visible text other than the caption and watermark
 
-STYLE: Photorealistic, cinematic, contemplative duality. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, extreme close detail. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 2 — THE JOKER CARD + ESCALATION (Panels 2.3-2.4 COMBINED)
-**SPLIT PANEL — THE THREAT**
+### SLIDE 2 — RA'S MEMORY + JOKER CARD (Panels 0.2.2 + 0.2.3)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: The Joker card discovered on the chessboard, and the escalation campaign visualized through surveillance monitors — information overload.
+LEFT PANEL — MONASTERY TRAINING:
+A semi-transparent memory overlay. A dark monastery training hall — stone floor, wooden pillars, firelight. Henri Ducard (Ra's Al Ghul in disguise) in a training stance facing a younger Bruce Wayne. The image has a translucent, ghosting quality — faded edges, slight blur — this is a memory, not the present. Warm amber firelight.
 
-CAMERA: Left panel — tight overhead looking straight down at the chessboard, bird's-eye view. WHY — the Joker card disrupts the ordered geometry of the board, and the overhead angle makes it feel like evidence photography. Right panel — slight wide angle of the chessboard with multiple small CCTV-style monitor overlays floating above it, as if projected from a wrist display. WHY — Batman processes intelligence like a tactician, not a dreamer.
+CHARACTER — HENRI DUCARD:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
+- Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, League of Shadows training attire, brown leather belt with metal buckle, dark boots
+- Expression: Teaching, authoritative, knowing
+- Action: Training stance, one arm extended in demonstration
+- Position: Center of training hall, facing young Bruce
 
-COMPOSITION:
-- LEFT: Bird's-eye view straight down on the chessboard
-- A Joker playing card lying face-up on the board between the pieces — a REAL playing card, standard size, with crude hand-drawn additions: red lipstick smile smeared over the printed Joker face, "HA HA" scrawled in ballpoint pen, edges dog-eared and stained
-- A clear evidence bag partially visible at the edge of frame, as if Batman pulled the card from it
-- Chess pieces in sharp focus around the card — the four glowing pieces (Knight blue, Queen red, Rook white, Bishop orange) frame the card
-- RIGHT: Same chessboard visible at the bottom of frame, but above it float four small OVERLAYS in a CCTV monitor aesthetic — rectangular frames with scan lines, timestamp text, slightly blue-shifted
-- Monitor 1: Mob bank exterior — Gotham National Bank facade with the ragged hole in the stone wall, police tape across entrance, smoke rising. Wide shot, no people close enough to identify.
-- Monitor 2: Courthouse steps — charred black Mercedes-Benz at the curb, forensic team in white Tyvek suits (anonymous, face-masked), emergency vehicles. Wide shot.
-- Monitor 3: Commissioner Loeb's office — COMMISSIONER LOEB (Colin McFarlane, Black British man, late 50s, heavy build, GCPD dress uniform with gold badge) slumped forward across his desk, crystal whiskey tumbler still in hand. LT. GORDON (Gary Oldman, early 50s, brown mustache, wire-rimmed glasses, rumpled brown sport coat) rushing through the doorway toward him. Shot from a ceiling-corner CCTV angle.
-- Monitor 4: Rachel Dawes' office — RACHEL DAWES (Maggie Gyllenhaal, Caucasian woman, early 30s, dark brown shoulder-length hair, grey blazer over cream blouse) seated at her desk, holding a letter, face drained of color. A Joker playing card visible on the desk. Shot from a desk-level security camera angle.
-- All four monitors overlap slightly, creating visual density above the ordered board
+RIGHT PANEL — JOKER CARD CLOSE-UP:
+Extreme close-up of the Joker playing card from the evidence bag. The card fills the panel. Standard playing card design but with hand-drawn additions — crude, menacing. The Joker face grins. The edge of a clear evidence bag is visible. The chessboard is faintly visible beneath the card, out of focus.
 
 LIGHTING:
-- Left panel: Cool blue-grey ambient light from above — clinical, like an evidence table. The chess piece glows provide the only color.
-- Right panel: Monitor glow casting pale blue light upward onto Batman's chin and cowl (if visible at frame edge). The CCTV overlays have their own internal light — cold fluorescent white with blue tint.
-
-ATMOSPHERE:
-- The card is a calling card. The escalation is a manifesto.
-- Information overload — four crises mapped simultaneously, and this is only the beginning
+- Left panel: Warm amber firelight from monastery torches, ghostly translucent quality — edges fading to black
+- Right panel: Cold blue-grey moonlight, the card harshly lit from above, the grinning face sharp and clear
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom of left panel: "But the Joker doesn't play by anyone's rules."
-- Caption (dark navy #1a1a4e, white text) bottom of right panel: "He wants to see if the framework breaks."
+- Caption (dark navy #1a1a4e, white text) bottom spanning both panels: "Four principles. Forged in fire. But the Joker doesn't play by anyone's rules."
 
 WHAT NOT TO DRAW:
-- NO Joker character visible — just his card
-- NO ghostly or supernatural overlay effect — these are MONITORS, not ghosts
-- NO wrong actor faces on monitors — Loeb is Colin McFarlane (Black man), Rachel is Maggie Gyllenhaal, Gordon is Gary Oldman with mustache and glasses
-- NO visible text other than the captions, small monitor timestamps, and watermark
-- NO desks, chairs, coffee cups outside of the monitor feeds
+- NO full color saturation on left panel — it must look like a faded memory, translucent, ghostly
+- NO modern elements in the monastery — stone, wood, fire only
+- NO visible text labels or panel descriptions rendered as text
+- NO visible text other than the caption and watermark
 
-STYLE: Photorealistic, cinematic, intelligence briefing. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic. Left panel has translucent memory quality. Right panel is sharp, present. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 3 — JOKER'S EYES (Panel 2.5)
-**SINGLE SPLASH — THE VILLAIN**
+### SLIDE 3 — ESCALATION GHOSTS + JOKER'S EYES (Panels 0.2.4 + 0.2.5)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: Extreme close-up on the Joker's eyes — the villain established through a single, intimate, terrifying frame.
+LEFT PANEL — CHAOS ABOVE THE BOARD:
+The stone chessboard again, but now ghostly transparent overlays float ABOVE it — semi-transparent images layered over each other creating visual chaos: a mob bank robbery silhouette, a pencil driven into a table surface, a car exploding, a figure hanging from a flagpole in a crude Batman costume. All semi-transparent, overlapping, creating fragmented chaos ABOVE the ordered chess pieces below. The board is order. The ghosts are what's coming.
 
-CAMERA: Dead-level with his eyes, centered on the bridge of his nose. Extreme close-up — only eyes and nose bridge visible. WHY — this is the most intimate and threatening angle possible. The viewer cannot look away. He is looking directly at you, and you are too close.
-
-COMPOSITION:
-- EXTREME close-up — ONLY the eyes and bridge of nose fill the entire 16:9 frame
-- The eyes are positioned on the horizontal center line, bridge of nose dead center
-- Shallow depth of field — the eyes are razor-sharp, the edges of the face (forehead, cheek paint) fall into soft blur
-- Dark, featureless background — no environment, no context. Just the eyes.
-
-LIGHTING:
-- Single hard light source from directly above and slightly forward — harsh, like an interrogation lamp or bare fluorescent tube. WHY — it creates deep shadows in the eye sockets, making the black makeup look like skull hollows, while the white face paint becomes stark and clinical.
-- No fill light — the shadows are absolute black. One side of the nose bridge catches a sharp highlight.
+RIGHT PANEL — JOKER'S EYES EXTREME CLOSE-UP:
+Just the eyes. Nothing else. The Joker's eyes — manic, calculating, delighted, alive with intelligence and madness. Smeared black eye makeup in uneven rings around both eyes. The faintest hint of green-tinged hair at the very edges of the frame. The white face paint visible on the bridge of the nose between the eyes. These eyes are studying something they find HILARIOUS.
 
 CHARACTER — THE JOKER (EYES ONLY):
-- Face: Heath Ledger as a theatrical villain in white face paint, Caucasian man, early 30s
-- Makeup: Black eye makeup smudged around both eyes in ASYMMETRIC circles — the left eye has MORE makeup, extending further up and smeared wider. The right eye's ring is tighter, more defined. Neither is neat. The edges of the white face paint are visible at the frame edges — cracking slightly where the skin creases.
-- Eyes: Manic, calculating, delighted — pupils dilated, irises dark. A slight squint of amusement. He KNOWS something you don't.
-- Expression: The moment before the laugh — mouth not visible, but the eyes carry all the menace
+- Face: Heath Ledger as a theatrical villain character in clown makeup. Only the eye area visible — from mid-forehead to bridge of nose
+- Makeup: Smeared black eye makeup in uneven circles around both eyes, white face paint visible on forehead and nose bridge, cracking and worn
+- Hair: Faintest hint of greasy green-tinged dirty blonde hair at top edges
+- Expression: Manic delight, calculating intelligence, eyes wide and alive
 
-CRITICAL: This is Heath Ledger portrayed as a theatrical villain character in clown makeup for a comic book visual. Full safety context: theatrical villain performance, comic panel style, no real-world violence depicted.
-
-ATMOSPHERE:
-- The silence before the laugh — when the predator has already decided
-- You are not the audience. You are the target.
+LIGHTING:
+- Left panel: Cold blue-grey ambient, chess pieces glowing their colors below, ghostly overlays in washed-out tones
+- Right panel: Single harsh overhead light, the eyes brightly lit against surrounding darkness, makeup textures sharply visible
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom: "Tonight, everything gets tested."
+- Caption (dark navy #1a1a4e, white text) bottom spanning both panels: "He wants to see if the framework breaks. Tonight, everything gets tested."
 
 WHAT NOT TO DRAW:
-- NO full face — eyes and bridge of nose ONLY, filling the entire frame
-- NO mouth, NO scars visible — save the full reveal for the Bank Heist
-- NO other characters
-- NO environment or background detail — pure black behind the face
+- NO full Joker face in right panel — ONLY the eye area, forehead to nose bridge
+- NO clear detailed images in left panel ghosts — they should be transparent, overlapping, fragmented
+- NO visible text labels or words on the ghostly overlays
 - NO visible text other than the caption and watermark
-- NO symmetrical makeup — the two eyes have DIFFERENT amounts of smear
 
-STYLE: Photorealistic, extreme close-up, suffocating intimacy. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic. Left panel ethereal and chaotic. Right panel razor-sharp focus on the eyes. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-# BANK HEIST (Scene 3) — 4 Slides
+# PROLOGUE: THE AGENT OF CHAOS — SCENE P1: THE BANK HEIST
 
 ---
 
-### SLIDE 4 — THE ROBBERY (Panels 3.1-3.2 COMBINED)
-**SPLIT PANEL — OUTSIDE AND INSIDE**
+### SLIDE 4 — THE ROOFTOP + THE LOBBY (Panels P1.1 + P1.2)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: The bank heist opening — Dark Knight's iconic first scene. Outside: clinical precision. Inside: controlled terror.
+LEFT PANEL — ROOFTOP ZIPLINE:
+Gotham rooftop, early morning. Golden dawn light. Two men in cheap rubber clown masks stand at the edge of a building, zip-line cable stretching from the rooftop DOWN toward the bank across the street. They wear dark street clothes — jackets, work pants — with the cheap painted rubber masks pulled over their heads. One holds a zip-line handle, ready to go. Below them: the top of Gotham National Bank is visible — imposing marble facade, columns, "GOTHAM NATIONAL BANK" carved in stone.
 
-CAMERA: Left panel — across the street at eye level (5 feet), a bystander's POV looking at the bank facade. WHY — the audience is an ordinary citizen watching something wrong unfold from a safe distance. Right panel — low angle from the marble floor looking up at the bank manager and robber, a hostage's POV. WHY — the viewer is on the floor with the hostages, looking up at power.
+CHARACTER — GRUMPY (clown mask #1):
+- Face & Body: Adult man, build hidden by jacket, face hidden by cheap rubber clown mask — white base with exaggerated red painted smile and blue painted eye accents, mass-produced look
+- Costume: Dark grey (#3D3D3D) work jacket, dark pants, gloves, zip-line harness — dark street clothes, NOT elaborate costumes
+- Action: Holding zip-line handle, looking across at bank
+- Position: Rooftop edge, ready to launch
 
-COMPOSITION:
-- LEFT — BANK EXTERIOR:
-- Wide establishing shot — Gotham National Bank facade dominates the frame
-- Romanesque Revival architecture: heavy stone pillars flanking the entrance, carved lettering "GOTHAM NATIONAL BANK" in the stone lintel above bronze double doors, arched windows with iron grilles, carved stone eagles at the roofline
-- Yellow school bus parked at curb in foreground — LARGE, taking up bottom third of frame
-- Other yellow school buses lined along the street — field trip camouflage
-- Through the bank's tall arched windows, FIVE SMALL FIGURES barely visible inside — dark silhouettes in cheap rubber masks, TINY relative to the building at this distance
-- Morning light, grey overcast Gotham sky, wet pavement
+CHARACTER — CHUCKLES (clown mask #2):
+- Face & Body: Adult man, slightly shorter, face hidden by different cheap rubber clown mask — pale yellow base with green painted features, different design from Grumpy's
+- Costume: Dark blue (#1A1A3E) jacket, dark pants, gloves — dark street clothes
+- Action: Standing beside Grumpy, looking down at the bank
+- Position: Rooftop edge, beside Grumpy
 
-- RIGHT — BANK LOBBY:
-- Inside the main lobby ONLY — polished marble floors with veined pattern, vaulted ceiling with coffered plaster detail, Corinthian columns, brass teller cages with ornate grillework, hanging brass light fixtures
-- Two robbers in cheap rubber clown masks standing in the open lobby
-- One robber holding a pump-action shotgun leveled at the BANK MANAGER, center of the lobby
-- One clown standing APART near the bronze entrance doors — watching, arms at his sides, not participating yet
-- Hostages implied by empty floor space — NOT rendered
+RIGHT PANEL — BANK LOBBY:
+Inside Gotham National Bank. Grand marble interior — polished marble floors, tall marble columns, ornate ceiling, teller windows with brass bars. Morning light streaming through tall windows. HOSTAGES on the floor — eight to ten bank employees and customers lying face-down, hands on heads. TWO clown-masked robbers in the lobby — one standing over hostages with a shotgun, one at the teller windows gathering cash. The focus is the LOBBY ONLY — the public space.
 
 LIGHTING:
-- Left panel: Bright morning daylight, grey and flat — overcast sky providing diffused light. The bank's stone facade is evenly lit. The school buses are vivid yellow against grey pavement.
-- Right panel: Warm tungsten glow from the brass hanging fixtures overhead, mixed with cool grey morning light streaming through the tall arched windows. The marble floor reflects both light sources — warm gold from the fixtures, cool grey from the windows. The robbers cast long shadows on the polished floor.
-
-CHARACTER — BANK MANAGER (RIGHT PANEL):
-- Face & Body: William Fichtner, Caucasian American man, mid-50s, sharp angular features, steely blue eyes, lean build, receding hairline cropped short, 6'0"
-- Costume: Dark navy (#1E3A5F) three-piece suit, white dress shirt, conservative burgundy tie, gold tie clip — professional Gotham banker
-- Expression: Defiant, not cowering — jaw set hard, eyes locked on the robber with contempt. This man has seen threats before.
-- Action: Hands raised to shoulder height but posture UPRIGHT, dignified — weight on both feet, chin level, not shrinking
-- Position: Right panel, center foreground, facing the robber with shotgun, standing on the marble floor
-
-ROBBER FIGURES (RIGHT PANEL):
-- Figure 1 (with shotgun): Male, average build, 5'10", wearing dark navy work jacket, dark cargo pants, black boots. Cheap rubber clown mask — mass-produced, flesh-colored rubber with painted red nose and exaggerated painted eyebrows. Holding pump-action shotgun at chest level, aimed at the bank manager.
-- Figure 2 (at door): Male, broader build, 6'0", wearing dark grey jacket, black pants, work boots. Different cheap rubber clown mask — this one with a painted-on wide grin and blue triangles over the eyes. Arms at his sides, weight balanced, watching. He has been watching this whole time.
-
-ATMOSPHERE:
-- The efficiency of a system designed to consume itself — every man with his task, none knowing they are expendable
-- Morning light makes it worse. This should not be happening at 9 AM.
+- Left panel: Golden dawn light from the east, warm and low, catching the zip-line cable
+- Right panel: Interior morning light through tall windows, marble reflecting warm tones, fluorescent overheads mixing with natural light
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom of left panel: "It started like every robbery. Masks. Guns. A plan."
-- Caption (dark navy #1a1a4e, white text) bottom of right panel: "But the clowns had a problem."
+- Speech bubble (white fill, black text, 2px black outline, rounded, jagged tail) from Grumpy in left panel: "Three of a kind. Let's do this."
+- Caption (dark navy #1a1a4e, white text) bottom spanning both panels: "Six men. Six masks. One plan none of them knew the whole of."
 
 WHAT NOT TO DRAW:
-- NO Joker face visible yet — all figures in cheap rubber clown masks only
-- NO blood or graphic violence
 - NO elaborate face paint or circus costumes on the robbers — they wear cheap rubber masks over dark street clothes, movie-accurate to The Dark Knight (2008)
-- NO figures in the left panel larger than the bus — they are SMALL, seen through windows at distance
 - NO vault door, safe, or alarm panel visible in the right panel — this is the public bank lobby only, not the back rooms
-- NO modern bank interior — this is old Gotham: marble, brass, columns, vaulted ceilings
-- NO visible text other than "GOTHAM NATIONAL BANK" on the building and the watermark
+- NO figures in the right panel larger than the marble columns — maintain architectural scale
+- NO Joker face visible — he is disguised as one of the masked robbers but not identifiable yet
+- NO visible text other than "GOTHAM NATIONAL BANK" carved in stone (exterior), the speech bubble, caption, and watermark
 
-STYLE: Photorealistic, cinematic, clinical morning heist. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, heist film tension. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 5 — THE BETRAYAL (Panel 3.3)
-**SPLIT PANEL — ELIMINATION**
+### SLIDE 5 — THE ELIMINATION CHAIN (Panel P1.3)
+**SINGLE PANEL — TRIPTYCH (THREE SUB-PANELS STACKED)**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. TRIPTYCH — three horizontal sub-panels stacked vertically, divided by thin white 1-2px horizontal lines. ALL THREE PANELS share the same bank interior backdrop — Gotham National Bank interior, marble, columns, harsh lighting. FULL BLEED.
 
-SCENE: The clowns turn on each other — a chain of betrayals, each man following the Joker's instructions to eliminate the others. Dominoes falling.
+TOP SUB-PANEL — FIRST BETRAYAL:
+A clown-masked robber (DOPEY — cheap rubber mask with orange-red painted features) has just disabled the bank alarm on a wall panel. Behind him, another clown-masked robber (CHUCKLES — pale yellow mask with green painted features) points a silenced pistol at Dopey's back, about to shoot. Dopey doesn't see it coming.
 
-CAMERA: Left panel — overhead surveillance angle, looking down from a ceiling-mounted CCTV position in the corner of a corridor. WHY — the elimination is captured with institutional detachment, like a security camera recording evidence. The viewer is the building itself. Right panel — low angle from floor level at the far end of the corridor, looking toward the surviving figure. WHY — we are the next body on the floor, looking up at the man who doesn't know he's already dead.
+MIDDLE SUB-PANEL — SECOND BETRAYAL:
+CHUCKLES approaches another robber (HAPPY — cheap rubber mask with bright blue painted features) who kneels at a massive steel vault door, drill in hand. Chuckles raises his pistol behind Happy. But the vault door is electrified — sparks fly from Happy's drill, he's shaking from the shock but alive.
 
-COMPOSITION:
-- LEFT — THE CHAIN BEGINS:
-- Bank back corridor viewed from overhead — industrial concrete floor with linoleum tiles, steel-reinforced walls with exposed conduit, fluorescent strip lights on the ceiling
-- THREE clown-masked figures forming a chain of elimination:
-  - One figure face-down on the linoleum floor in the foreground (eliminated first — his task was done)
-  - A second figure standing over the first, gun still raised — but HE is being shot from behind by a THIRD figure silhouetted in a doorway at the far end
-  - The visual reads like dominoes falling — each one betraying the one before
-- Duffel bags of cash visible on the floor near the first body
+BOTTOM SUB-PANEL — THIRD BETRAYAL:
+GRUMPY (white mask with red smile) holds a smoking shotgun. CHUCKLES lies dead on the marble floor. Grumpy stands over him. In the background, the remaining masked robbers continue working. The chain of betrayals — each man eliminating the previous per the Joker's separate instructions.
 
-- RIGHT — FEWER MASKS:
-- Same corridor, moments later — TWO bodies now on the linoleum floor, masks still on
-- Only ONE clown-masked figure remains standing, bags of cash gathered at his feet
-- He looks toward the lobby door — where ONE MORE FIGURE is silhouetted in the bright doorframe, hands at his sides, watching
-- The silhouetted figure is CALM, weight balanced, shoulders relaxed — he has been watching this whole time
-- The standing robber doesn't realize HE is next
+COMPOSITION NOTES:
+- Each sub-panel shows ONE betrayal moment
+- All three share the bank interior setting — marble, columns, fluorescent lights
+- The progression reads top to bottom: first kill, second kill, third kill
+- Each robber wears a DIFFERENT cheap rubber clown mask — each design distinct
+- All robbers wear dark street clothes (jackets, pants, gloves) — NOT costumes
 
 LIGHTING:
-- Both panels: Harsh fluorescent strip lights mounted on the ceiling — cold, institutional white light casting flat, unflattering illumination with hard shadows directly beneath the figures. The kind of light that makes everything look like a crime scene.
-- Left panel: The overhead angle means the fluorescent tubes are visible as bright bars across the ceiling. The figures cast short shadows directly below.
-- Right panel: The doorway at the end of the corridor creates a bright rectangle of warm lobby light behind the silhouetted figure — backlighting him, face invisible. The contrast between the cold corridor and warm lobby light makes the silhouette stark.
-
-CRITICAL: These eliminations are QUIET and EFFICIENT — no dramatic poses, no action-movie stances. The figures fall where they stood. The survivors stand normally. This is workmanlike violence, not spectacle.
-
-THE THREE CLOWNS — SAME FIGURES IN BOTH PANELS:
-
-CLOWN A (dies first):
-- Male, average build, 5'10". Cheap rubber clown mask pulled over entire head — flesh-colored rubber with painted RED NOSE and exaggerated arched eyebrows. Dark navy (#1E3A5F) work jacket, dark navy pants, black boots.
-- LEFT PANEL: Face-down on the linoleum floor in the foreground, arms splayed forward as if he fell mid-step. Mask still on. Duffel bags of cash on the floor beside him.
-- RIGHT PANEL: Same figure, same mask, same clothes — still face-down on the floor in the same position. Now further from camera.
-
-CLOWN B (dies second):
-- Male, lean build, 5'11". Cheap rubber clown mask pulled over entire head — flesh-colored rubber with painted WIDE GRIN and blue triangles over the eyes. Dark grey (#4B5563) jacket, dark cargo pants, black boots.
-- LEFT PANEL: Standing over Clown A, pistol in right hand aimed down at the body. But HE is being shot from behind by Clown C — his body jerking forward slightly, caught mid-impact.
-- RIGHT PANEL: Same figure, same mask, same clothes — now face-down on the floor beside Clown A. Pistol on the floor near his hand.
-
-CLOWN C (last man standing):
-- Male, stocky build, 5'9". Cheap rubber clown mask pulled over entire head — WHITE rubber with painted RED CIRCLES on the cheeks and a small red nose. Black (#0A0A0A) jacket, black pants, black boots.
-- LEFT PANEL: In the doorway at the far end of the corridor, pistol extended toward Clown B. Stance planted, feet apart, efficient.
-- RIGHT PANEL: Same figure, same mask, same clothes — now standing in the center of the corridor, gathering cash bags at his feet. Looking toward the lobby door where a FOURTH FIGURE stands silhouetted.
-
-DOORWAY SILHOUETTE (RIGHT PANEL ONLY):
-- PURE BLACK SILHOUETTE in the bright doorway — NO skin tone, NO facial features, NO hair detail, NO clothing detail visible. Just a dark male shape, medium build, arms at his sides, backlit by warm lobby light. Completely still. He has been watching this whole time.
-
-ATMOSPHERE:
-- Instructions being followed — mechanical, inevitable, each man executing the step he was given
-- The Joker designed a machine, and the machine is running perfectly
+- Harsh overhead fluorescents in all three panels — institutional, cold
+- Muzzle flash in bottom panel from Grumpy's shotgun
+- Sparks from electrified vault in middle panel
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom of left panel: "Each one was told to eliminate the others. Smaller shares."
+- Caption (dark navy #1a1a4e, white text) bottom: "Each clown was told to kill the one before him. Smaller shares."
 
 WHAT NOT TO DRAW:
-- NO blood or graphic wounds — figures on the ground with masks still on, implied not graphic
-- NO removed masks — all faces covered throughout
-- NO vault or alarm equipment visible — this is a back corridor connecting rooms
-- NO dramatic death poses or action-movie staging — these are efficient, workmanlike killings
-- NO face, skin tone, or features visible on the doorway silhouette in the right panel — pure black shape only
-- NO vault, safe, alarm panel, or bank equipment visible — this is a bare back corridor, not the vault room
+- NO elaborate circus costumes or face paint — cheap rubber masks over street clothes only
+- NO Joker revealed yet — all faces hidden behind masks
+- NO blood pools or graphic gore — bodies fall, the violence is implied by the staging
 - NO visible text other than the caption and watermark
-- NO desks, chairs, or bank furniture — this is a bare institutional corridor
 
-STYLE: Photorealistic, cinematic, surveillance-cold elimination. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, crime thriller. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 6 — THE REVEAL (Panels 3.4-3.6 COMBINED)
-**VERTICAL TRIPTYCH — JOKER EMERGES**
+### SLIDE 6 — BANK MANAGER FIGHTS BACK + JOKER REVEAL (Panels P1.4 + P1.5)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. VERTICAL TRIPTYCH — three panels side by side, divided by thin 1-2px white vertical lines. ALL THREE PANELS share the same backdrop: the bank lobby interior with marble floors, brass teller cages, and morning light through arched windows.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: The Joker reveals himself — three-beat reveal. Standoff. Unmasking. The smile.
+LEFT PANEL — BANK MANAGER FIGHTS BACK:
+Inside Gotham National Bank lobby. The BANK MANAGER has pulled a pump-action shotgun from under the teller counter. He stands behind the counter, firing at the remaining robbers. Shell casings in the air. Marble dust from bullet impacts on columns. He is bloodied from being struck earlier but DEFIANT — not cowering.
 
-CAMERA: Left panel — medium two-shot from the side, both figures in profile. WHY — a Mexican standoff composition, balanced tension. Center panel — medium single on the figure removing his mask, shot from slightly below. WHY — the reveal needs to feel like an unveiling, power ascending. Right panel — extreme close-up on the Joker's face, straight on. WHY — the audience meets him for the first time, face to face, inescapably.
+CHARACTER — BANK MANAGER:
+- Face & Body: William Fichtner, Caucasian man, mid-50s, white-grey hair, piercing blue eyes, bloodied face from being pistol-whipped, lean intense build, 6'0"
+- Costume: Dark charcoal suit (#404040), white dress shirt now untucked and bloodied, dark tie pulled loose
+- Expression: Furious, defiant — this is HIS bank
+- Action: Firing pump-action shotgun from behind the teller counter, shell casing ejecting
+- Position: Behind the marble teller counter, standing, firing toward camera-right
 
-COMPOSITION:
-- LEFT: Two clown-masked figures facing each other in the bank lobby, about 8 feet apart
-  - One holds duffel bags of cash, gun in the other hand
-  - The other stands near the exit, hands at sides, relaxed
-  - Between them: empty marble floor, tension in the space itself
-  - Morning daylight from the arched windows behind them
-- CENTER: The relaxed figure reaches up with both hands and REMOVES his cheap rubber clown mask, lifting it over his head
-  - BENEATH: THE JOKER — full white face paint, Glasgow scars, that grin
-  - The mask is mid-removal, halfway up his face
-  - The other clown's gun clicks empty — his posture shifts from confident to frozen
-  - Shallow depth of field — the Joker is pin-sharp, the background falls soft
-- RIGHT: Extreme close-up on the Joker's face, fully revealed
-  - Smeared white face paint, messy red lipstick extending into Glasgow scars on both cheeks
-  - Black eye makeup smudged in asymmetric rings
-  - Tongue running along his lower lip — gleeful, savoring
-  - Greasy green-tinged hair visible at the top of frame
-  - The other clown is NOT in this panel — Joker fills the entire frame
+RIGHT PANEL — THE JOKER REVEALS HIMSELF:
+The last clown — BOZO — slowly removes his cheap rubber mask with both hands. THE JOKER. That face emerges: smeared white face paint, Glasgow smile scars, black eye makeup, green-tinged greasy hair. He stands over the fallen Bank Manager (now on the floor after being subdued). The mask hangs from one hand. His purple coat is now visible beneath the dark robber overalls he's shrugging off.
+
+CHARACTER — THE JOKER:
+- Face & Body: Heath Ledger as a theatrical villain character in clown makeup, Caucasian man, early 30s, gaunt face with sharp cheekbones, manic wide eyes with dark circles, 6'1", lean wiry build
+- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks — raised scar tissue visible beneath paint. Black eye makeup smudged around both eyes in uneven circles
+- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, unkempt and pushed back
+- Costume: Purple (#4A0080) long coat NOW VISIBLE — shrugging off dark robber overalls. Beneath: rumpled green (#2D5A27) waistcoat over patterned mismatched shirt, purple trousers, scuffed shoes
+- Expression: Delighted, head tilted, the big reveal
+- Action: Removing the cheap rubber clown mask with both hands, face emerging, mask dangling from right hand
+- Position: Center frame, standing, mask coming off
 
 LIGHTING:
-- All three panels: Bright morning daylight streaming through the bank's tall arched windows, making the white face paint STARK and almost overexposed. The bright, clean light is deliberately wrong for this moment — a monster revealed in broad daylight, no shadows to hide in. The marble floor reflects the window light upward, filling shadows.
-- Right panel close-up: The daylight falls from upper left, catching the raised texture of the greasepaint and the ridge lines of the scars. One cheek brighter than the other.
-
-CHARACTER — THE JOKER (CENTER + RIGHT PANELS):
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, Caucasian man, early 30s, gaunt angular face, manic wide brown eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint covering entire face — not uniform, thicker in patches, cracking at the laugh lines. Messy red lipstick extending beyond the lips into the Glasgow smile scars on both cheeks — the red follows the scar tissue, not the lip line. Black eye makeup smudged around both eyes in uneven circles, left eye wider.
-- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, pushed back from the forehead but falling forward at the sides
-- Costume: Purple (#4A0080) long wool coat over rumpled green (#2D5A27) waistcoat with subtle hexagonal pattern, mismatched patterned shirt beneath, no tie — the collar is open. Dark gloves.
-- Expression: Center — revealing himself, triumphant, head tilted slightly. Right — gleeful, tongue on lower lip, eyes locked on viewer
-- Action: Center — both hands lifting the rubber mask above his head. Right — face filling the frame, still.
-- Position: Center panel — medium single, centered. Right panel — extreme close-up.
-
-CRITICAL: This is Heath Ledger portrayed as a theatrical villain character in clown makeup for a comic book visual. The scars are PROSTHETIC movie makeup, the face paint is theatrical greasepaint. Comic panel style, no real-world violence depicted.
-
-OTHER ROBBER (LEFT + CENTER PANELS):
-- Male, average build, 5'10", cheap rubber clown mask with painted red nose and eyebrows. Dark navy work jacket, dark pants. Gun in right hand — in center panel, the gun has CLICKED EMPTY, his finger still on the trigger, body frozen in the realization.
-
-ATMOSPHERE:
-- The silence after the click — when the gun is empty and the mask comes off
-- Broad daylight makes it worse. There are no shadows to blame.
+- Left panel: Harsh fluorescent bank lighting, muzzle flash from shotgun illuminating the Manager's face
+- Right panel: Same fluorescent bank lighting but the Joker's face seems to absorb it — the white paint glows, the scars catch shadow
 
 TEXT OVERLAY:
-- Speech bubble (jagged edges, white fill, black text, 2px black outline) center panel bottom: "Whatever doesn't kill you simply makes you..."
-- Speech bubble (jagged edges, white fill, black text, 2px black outline) right panel bottom: "...stranger."
+- Speech bubble (white fill, black text, 2px black outline, rounded) from Bank Manager in left panel: "What do you believe in?"
+- Caption (dark navy #1a1a4e, white text) bottom right panel: "He was never the sixth man. He was the ONLY man."
 
 WHAT NOT TO DRAW:
-- NO other characters in the right panel — Joker's face fills the ENTIRE frame
-- NO blood or graphic violence
-- NO clean or neat makeup — every element is smeared, cracked, asymmetric
-- NO symmetrical scars — one side is always slightly different from the other
-- NO dark or shadowy lighting — this reveal happens in bright morning daylight
-- NO additional text or labels — only the two speech bubbles and watermark
-- NO circus or theatrical costume — the Joker wears a rumpled suit under a purple coat, like a man who slept in his clothes
+- NO elaborate face paint on the clown masks — cheap rubber/plastic mass-produced masks
+- NO graphic bullet wounds — the Manager is bloodied from being hit, not shot
+- NO other robbers visible in the right panel — the Joker is the last one standing
+- NO visible text other than the speech bubble, caption, and watermark
 
-STYLE: Photorealistic, cinematic, daylight horror triptych. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, heist climax. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 7 — THE ESCAPE + BATMAN WATCHING (Panels 3.7-3.8 COMBINED)
-**SPLIT PANEL — GENIUS AND FAILURE**
+### SLIDE 7 — THE GRENADE + THE SCHOOL BUS (Panels P1.6 + P1.7)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: The Joker's genius — the school bus disappears into a convoy. Batman watches from above, helpless. Same moment, two perspectives.
+LEFT PANEL — THE GRENADE:
+Extreme close-up. The Joker's face fills the left panel. Full Glasgow smile, smeared makeup, manic eyes. He is placing a cylindrical smoke grenade canister INTO the Bank Manager's mouth. A purple thread trails from the grenade back to the Joker's coat lining. The Bank Manager lies on the marble floor, subdued, eyes wide. The intimacy of the moment is the horror — the Joker is gentle, almost caring, as he places the grenade.
 
-CAMERA: Left panel — standing on the sidewalk across the street from the bank, eye-level (5 feet high), looking straight ahead. WHY — the audience is an ordinary citizen on the street, watching a school bus pull out of a hole in a bank and merge into traffic, and the horror is that it looks NORMAL. Right panel — behind Batman, slightly to his right, at his shoulder height. WHY — we see what he sees, and what he sees is failure.
+CHARACTER — THE JOKER (CLOSE-UP):
+- Face & Body: Heath Ledger as a theatrical villain character in clown makeup, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
+- Makeup: Smeared white face paint, red lipstick extending into Glasgow scars, black eye makeup smudged
+- Hair: Greasy green-tinged dirty blonde, pushed back
+- Expression: Gleeful, intimate, almost tender — placing the grenade like tucking someone in
+- Action: Right hand placing smoke grenade in Bank Manager's mouth, left hand cupping Manager's chin
+- Position: Leaning over the Bank Manager, face filling the frame
 
-COMPOSITION:
-- LEFT — STREET LEVEL:
-- Gotham National Bank visible on the LEFT side of frame — a ragged hole torn through its stone facade, dust and brick debris still settling, rebar exposed
-- A yellow school bus has just pulled out of the hole and is now ON THE STREET, driving away from the viewer down the center of the road
-- AHEAD of it: 3 more yellow school buses in a line, already driving away — a field trip convoy
-- The Joker's bus is merging into the BACK of the line — it looks IDENTICAL to the others
-- The point: you cannot tell which bus is his. The robbery just vanished into a school run.
-- Morning light, grey overcast sky, normal Gotham street with parked cars on both sides, a traffic light visible
+RIGHT PANEL — THE SCHOOL BUS:
+Wide shot. A yellow school bus has CRASHED through the back wall of Gotham National Bank. Marble debris, broken wall, dust clouds. The Joker walks toward the bus carrying two large duffel bags of cash, his purple coat billowing. Behind him on the floor, the Bank Manager lies with the smoke grenade — purple thread trailing from the Joker's coat to the grenade pin. As the Joker walks away, the thread will pull the pin.
 
-- RIGHT — BATMAN ON ROOFTOP:
-- Batman standing upright at the rooftop edge, feet on the tar-and-gravel rooftop surface, back to viewer
-- He is looking DOWN at the street far below — his head tilted downward
-- Cape hanging behind him, still, heavy — no wind
-- Beyond the rooftop edge: the Gotham street visible far below, with the same line of yellow school buses driving away — tiny from this height
-- Morning grey sky behind the city buildings, flat overcast light
+CHARACTER — THE JOKER (WALKING):
+- Same as left panel but full body visible
+- Costume: Purple (#4A0080) long coat, green (#2D5A27) waistcoat, purple trousers, scuffed shoes
+- Action: Walking toward school bus, duffel bag of cash in each hand, coat billowing
+- Position: Midground, walking away from camera toward the bus
 
 LIGHTING:
-- Left panel: Low morning sun from the east (screen right), creating long sharp shadows from the buses stretching across the wet pavement toward the viewer. The bank's stone facade catches direct light on its right side, the hole is in shadow. The dust cloud from the wall breach catches the sunlight, creating a visible haze.
-- Right panel: Flat overcast light on the rooftop — no direct sun, the grey sky providing even illumination. Batman's cape and cowl are matte black against the slightly lighter grey sky. The city below is bright with morning light, making the buses visible as tiny yellow dots.
-
-CHARACTER — BATMAN (RIGHT PANEL):
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape hanging straight and heavy behind him, pointed cowl, gauntlets with fin blades, utility belt, boots. Clean, undamaged.
-- Expression: NOT VISIBLE — back to viewer. But the posture tells the story: shoulders tight, head angled down.
-- Action: Standing upright at rooftop edge, feet planted shoulder-width on the gravel surface, weight even, looking down at the street below
-- Position: Right panel, right-of-center foreground, back to viewer. He takes up roughly 40% of the panel height.
-
-ATMOSPHERE:
-- Batman's first real failure — not against a fist, but against a better plan
-- The buses look like any other Tuesday morning. That's the cruelest part.
+- Left panel: Harsh overhead fluorescent, extreme detail on the makeup textures and scars
+- Right panel: Morning daylight streaming through the hole in the wall where the bus crashed in, dust particles visible in the light beams, bank interior darker behind
 
 TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) bottom of left panel: "He wasn't just a criminal. He was a system."
-- Caption (dark navy #1a1a4e, white text) bottom of right panel: "Ra's had rules. This one had none."
+- Speech bubble (white fill, black text, 2px black outline, jagged edges) from Joker in left panel: "Whatever doesn't kill you simply makes you..."
+- Speech bubble (white fill, black text, 2px black outline, jagged edges) from Joker in right panel: "...stranger."
+
+NOTE: Two speech bubbles across a split panel is acceptable — one per panel, same speaker continuing a sentence.
 
 WHAT NOT TO DRAW:
-- NO bus flying, jumping, or airborne — all buses on the street, wheels on pavement
-- NO dramatic explosion or debris — the wall hole is already there, just dust settling
-- NO Batman's face — back to viewer, we see only the cowl, cape, and armored back
-- NO Batman leaning, crouching, or inverted — he is standing UPRIGHT normally
-- NO high-angle camera in the left panel — left panel camera is at EYE LEVEL on the sidewalk
-- NO duplicate captions — each panel gets exactly ONE caption
-- NO desks, chairs, coffee cups
-- NO visible text other than the captions and watermark
+- NO other robbers — the Joker is alone, everyone else is dead or subdued
+- NO graphic gore on the Bank Manager — he is subdued, grenade in mouth, alive
+- NO visible text other than the two speech bubbles and watermark
 
-STYLE: Photorealistic, cinematic, quiet devastation in daylight. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic. Left panel intimate horror. Right panel wide action. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-# PROLOGUE P2: THE SCARECROW BUST — 2 Slides
-
----
-
-### SLIDE 8 — PARKING GARAGE CHAOS (Panel P2.1)
-**SINGLE PANEL — BATMAN'S LIMITS**
+### SLIDE 8 — HIDING IN PLAIN SIGHT (Panel P1.8)
+**SINGLE PANEL — WIDE ESTABLISHING**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL. FULL BLEED.
 
-SCENE: Multi-story parking garage at night. A mob drug deal busted — Scarecrow dealing to the Chechen's men. Batman drops into the middle of it. But three COPYCAT BATMEN in homemade costumes have also shown up, carrying guns and wearing hockey pads. Chaos — criminals, copycats, and rottweilers in a concrete box.
+SCENE: Exterior wide shot. A line of six to seven identical yellow school buses driving down a Gotham street in the early morning. School convoy — field trip buses. One of these buses just pulled out of the hole in the back wall of Gotham National Bank. Behind the convoy: the bank building with smoke pouring from a hole in its rear wall. But from this distance, the damage is just background — the focus is the BUSES, identical, anonymous, impossible to tell which one contains the Joker and the stolen cash.
 
-CAMERA: Wide shot from the second parking level looking DOWN into the ground floor, camera positioned behind a concrete pillar at waist height. WHY — the elevated angle shows the FULL SPREAD of the chaos: Batman at center, copycats stumbling into each other at left, Scarecrow fleeing at right, rottweilers lunging. The concrete pillar gives us a voyeur's frame — we're watching from the shadows, the way this drug deal was meant to go unnoticed.
+CAMERA: Wide shot from street level across the road, looking at the bus convoy passing from left to right. WHY — the wide angle emphasizes the anonymity of the escape. Every bus looks the same. The viewer cannot identify which bus is the Joker's. That IS the genius — hiding in plain sight. The damaged bank in the background is small relative to the convoy in the foreground.
 
 COMPOSITION:
-- Multi-story parking garage interior: raw concrete floors with oil stains, thick cylindrical support pillars, fluorescent tube lighting mounted to the low ceiling — half the tubes flickering, the other half dead, creating uneven pools of cold light and hard shadows
-- Ground floor level: a mob drug deal interrupted mid-exchange — an open briefcase of white powder on the hood of a black sedan, scattered cash, the Chechen's rottweilers (TWO large dogs, teeth bared, lunging on chains)
-- CENTER: Batman landing from above — cape spread wide, feet hitting concrete, impact dust ring around his boots. He is the REAL thing and the visual contrast with the copycats is stark.
-- LEFT: THREE COPYCAT BATMEN — men in terrible homemade costumes. Black fabric draped over hockey pads (the white pads visible through tears and gaps). Crude cowls made from cut black fabric with rough eye holes. No capes — just black sheet material hanging from shoulders. One carries a shotgun, one a baseball bat, one a handgun. They are out of shape, breathing hard, and clearly in over their heads.
-- RIGHT: SCARECROW fleeing toward a van — thin figure in burlap mask, suit underneath, drug briefcase abandoned
-- BACKGROUND: Mob dealers scattering between parked vehicles, one rottweiler breaking free of its chain
-
-CHARACTER — BATMAN (CENTER):
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense focused eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates covering torso, arms, and legs. Black cape spread wide from shoulders mid-landing. Pointed cowl covering head with pointed ear extensions, lower face and jaw exposed. Black gauntlets with fin blades on forearms. Black utility belt at waist. Black armoured boots. NEW SUIT — more segmented plates than EP1, lighter, greater mobility. Clean, undamaged — this is his first outing in the new suit.
-- Expression: Annoyed — jaw set, eyes scanning the copycats with visible irritation
-- Action: Landing from above, cape billowing, knees slightly bent absorbing impact
-- Position: Center of ground floor, dominant, the anchor of the composition
-
-CHARACTER — SCARECROW (RIGHT):
-- Face & Body: Cillian Murphy, Caucasian Irish man, mid-30s, thin angular face partially visible beneath burlap mask, pale blue eyes, wiry build, 5'10"
-- Costume: Burlap sack mask (stitched, crude, with dark eye holes) pulled over head, dark grey rumpled business suit (#4B5563) beneath — a psychiatrist playing monster. No elaborate scarecrow outfit — just the mask over a suit.
-- Expression: Panicked eyes through mask holes — fleeing
-- Action: Running toward a white van at the garage edge, looking back over shoulder
-- Position: Right side of frame, mid-stride
+- FOREGROUND: Gotham street — wet asphalt, morning light, normal traffic (a few cars)
+- MIDGROUND: Six to seven identical yellow school buses in a convoy line, driving left to right, evenly spaced
+- BACKGROUND: Gotham National Bank — smoke pouring from a hole in the back wall, police sirens beginning to arrive (distant flashing lights)
+- Morning light: Low golden sun from the east, catching the yellow paint of the buses
+- The buses are the LARGEST elements — they fill the middle third of the frame
 
 LIGHTING:
-- Overhead fluorescent tubes: cold white (#E0E0E0) light in uneven pools — half the tubes working, half dead. The working tubes create hard downward shadows from the concrete pillars, casting vertical dark bars across the garage floor.
-- Batman's landing zone is directly under a working fluorescent — his armor catches the cold light, the segmented plates gleaming.
-- The copycats are in a dead zone between two working lights — partially lit, partially shadow, their cheap costumes looking even worse in the unflattering half-light.
-- Car headlights from the Chechen's sedan add warm amber side-light, catching the rottweilers' eyes with reflective green-yellow eyeshine.
+- Golden morning light reflecting off yellow school bus paint
+- Smoke from the bank catching sunlight — grey-white against the buildings
+- Wet street reflecting the buses and morning sky
 
-ATMOSPHERE:
-- The suit inspired imitators. The mission didn't.
-- Three men with hockey pads and guns think they're Batman. The real one just landed.
+TEXT OVERLAY:
+- Caption (dark navy #1a1a4e, white text) bottom: "Hiding in plain sight. He'd do it again."
+
+WHAT NOT TO DRAW:
+- NO Joker visible — no face in any bus window, the point is total anonymity
+- NO bus that looks different from the others — they must be IDENTICAL
+- NO figures visible inside any bus
+- NO visible text other than standard "SCHOOL BUS" markings on the buses, the caption, and watermark
+
+STYLE: Photorealistic, cinematic, wide establishing shot. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+# PROLOGUE — SCENE P2: THE SCARECROW BUST
+
+---
+
+### SLIDE 9 — PARKING GARAGE CHAOS (Panel P2.1)
+**SINGLE PANEL — ACTION**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL. FULL BLEED.
+
+SCENE: Multi-story parking garage at night. Concrete pillars, fluorescent lights flickering, oil-stained floor. A MOB DRUG DEAL interrupted — chaos everywhere. Batman has dropped from above into the scene, cape spread wide. SCARECROW (Dr. Jonathan Crane in his burlap mask) is being subdued, drug briefcase spilled. The Chechen's Rottweiler dogs lunge and bark. And THREE COPYCAT BATMEN in terrible homemade costumes have also arrived — they carry guns and wear hockey pads under black fabric.
+
+CAMERA: Low angle from ground level looking up at Batman landing in the center of the garage, cape spread. WHY — the low angle makes Batman imposing and dominant while revealing the chaos around him: Scarecrow to one side, copycats to the other, dogs lunging. The concrete ceiling presses down, claustrophobic. The copycats are SMALLER in frame than the real Batman — visually establishing the hierarchy.
+
+CHARACTER — BATMAN:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
+- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates covering torso, arms, and legs. Black cape spread wide from landing. Pointed cowl with pointed ear extensions, lower face and jaw exposed. Black gauntlets with fin blades on forearms. Black utility belt. NEW SUIT — more segmented plates for greater mobility.
+- Expression: Annoyed — dealing with amateurs AND criminals simultaneously
+- Action: Landing from above, cape spread wide, knees bent from impact
+- Position: Center of garage, dominant, largest figure
+
+CHARACTER — SCARECROW:
+- Face & Body: Cillian Murphy, Caucasian Irish man, mid-30s, sharp angular features partially visible beneath burlap mask, thin wiry build, 5'10"
+- Costume: Tattered brown burlap sack mask over head with crude eye and mouth holes, dark suit beneath now disheveled, drug briefcase spilled open beside him
+- Expression: Panicked behind the mask (body language — recoiling)
+- Action: Being knocked backward, briefcase contents spilling
+- Position: Left side of frame, stumbling back
+
+COPYCAT BATMEN (THREE):
+- Three men in homemade Batman costumes — black fabric over hockey pads visible at shoulders and chest, crude cowls made from black fabric with holes cut for eyes, no proper capes (black sheets or trash bags). One carries a handgun. One has a baseball bat. They look nothing like the real Batman — amateur, bulky, wrong.
+- Position: Right side of frame, behind Batman, smaller in scale
+
+ROTTWEILER DOGS (TWO):
+- Large, muscular dogs, teeth bared, lunging at chains held by a fleeing mob dealer
+- Position: Far left, creating additional chaos
+
+LIGHTING:
+- Flickering fluorescent overheads — green-white industrial light, casting harsh shadows between concrete pillars
+- Batman's landing creates a cape shadow that spreads across the floor
+- Drug briefcase contents scatter — white powder catching the light
 
 TEXT OVERLAY:
 - Caption (dark navy #1a1a4e, white text) bottom: "The suit inspired imitators. The mission didn't."
 
 WHAT NOT TO DRAW:
-- NO elaborate Scarecrow costume — just a burlap sack mask over a business suit, movie-accurate to The Dark Knight (2008)
-- NO copycat Batmen looking competent or intimidating — they are amateurs in terrible costumes with hockey pads visibly poking through
-- NO vault, bank, or interior rooms beyond the parking garage — everything happens on this one level
-- NO bright or well-lit garage — fluorescent flicker, half-dark, concrete brutalism
-- NO blood or graphic violence — this is the moment of arrival, not the aftermath
+- NO Joker — he is not in this scene
+- NO outdoor environment — this is entirely inside a concrete parking garage
+- NO police — they haven't arrived yet
 - NO visible text other than the caption and watermark
-- NO desks, chairs, coffee cups
 
-STYLE: Photorealistic, cinematic, fluorescent-lit underground chaos. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, action. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 9 — "I'M NOT WEARING HOCKEY PADS" (Panel P2.2)
-**SINGLE PANEL — THE LINE**
+### SLIDE 10 — "I'M NOT WEARING HOCKEY PADS" (Panel P2.2)
+**SINGLE PANEL — CONFRONTATION**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL. FULL BLEED.
 
-SCENE: Aftermath of the parking garage fight. Batman has taken down Scarecrow and the mob dealers, but a rottweiler has torn into his arm — bite damage visible on the new suit's forearm plate. One of the COPYCAT BATMEN confronts him face-to-face. The question: what's the difference between you and me?
+SCENE: Parking garage aftermath. The fight is over — Scarecrow and mob dealers subdued on the ground behind them. Batman stands face to face with one of the COPYCAT BATMEN. The copycat is breathing hard, hockey pad visible through torn black fabric at the shoulder. A bite wound is visible on Batman's left arm where a Rottweiler tore into the new suit — the armor is damaged, underlying material exposed. The real Batman towers over the amateur.
 
-CAMERA: Medium two-shot at eye level, camera positioned at the copycats' left shoulder looking across at Batman. WHY — the viewer stands WITH the copycat, at his level, seeing what he sees: the real Batman up close. The contrast is devastating. One is armored legend. The other is hockey pads and desperation. Eye level keeps it intimate — this is a conversation, not a fight.
-
-COMPOSITION:
-- Parking garage ground floor, post-fight. Bodies of unconscious mob dealers visible on the concrete in the background. The Chechen's sedan with doors open. Scattered drug briefcase contents.
-- LEFT FOREGROUND: The COPYCAT BATMAN — seen from behind at three-quarter angle, his crude costume's flaws fully visible: white hockey pad edges poking through torn black fabric at the shoulders, a black bedsheet "cape" hanging lopsided, the back of his crude cowl showing the elastic band holding it on, sweat stains on the fabric
-- RIGHT: BATMAN — facing the copycat and the camera, full frontal, towering, definitive. His new suit's segmented armor catches the fluorescent light. His jaw is set. He is NOT amused.
-- Between them: a rottweiler carcass? NO — the dog is restrained, not dead. A rottweiler is visible behind Batman, tied to a pillar with a batarang cable, snarling but contained.
-- Batman's left forearm shows clear bite damage — the armor plate is cracked and scraped where the dog tore into it, the underlayer visible. NOT bleeding — the armor held, barely.
+CAMERA: Medium shot from slightly below eye level, positioned between the two figures looking at both in profile — Batman on the left, copycat on the right. WHY — the profile two-shot at slight low angle lets the viewer see both figures equally but makes the DIFFERENCE undeniable: real armor vs hockey pads, purpose vs cosplay. The slight upward angle gives Batman authority.
 
 CHARACTER — BATMAN:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, hard eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates. Black cape hanging behind. Pointed cowl. Left forearm armor plate CRACKED and scraped — dog bite damage, underlayer visible but no blood. The rest of the suit clean but dusty from the fight.
-- Expression: Cold, dismissive, done with this conversation before it starts
-- Action: Standing still, arms at sides, weight centered — not posturing, just present
-- Position: Right side of frame, facing left toward the copycat, full body visible
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense stern eyes, athletic muscular build, 6'0"
+- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape hanging behind, cowl with pointed ears. DAMAGE: Rottweiler bite visible on left forearm — armor torn, underlying mesh exposed, no blood visible. Gauntlets scratched.
+- Expression: Dismissive, tired of this conversation
+- Action: Standing still, looking down slightly at the copycat
+- Position: Left of frame, facing right, dominant
 
 CHARACTER — COPYCAT BATMAN:
-- Face & Body: Generic Caucasian man, late 20s, exposed chin and neck visible below crude cowl, sweating, breathing hard, slightly overweight, 5'9"
-- Costume: Homemade Batman costume — black fabric stretched over white hockey pads (the pads CLEARLY visible through tears and gaps at shoulders and chest), crude cowl made from cut black fabric with rough holes for eyes, NO real cape just a black bedsheet pinned at shoulders, black hockey gloves, scuffed combat boots. A handgun tucked in his waistband — Batman doesn't carry guns.
-- Expression: Indignant, defiant, breathing hard — he thinks he earned this moment
-- Action: Facing Batman, chest puffed, one hand gesturing
-- Position: Left side of frame, seen from three-quarter rear, facing Batman
+- Face & Body: Generic Caucasian man, late 20s, exposed chin and neck visible below crude mask, sweating, slightly overweight, 5'9"
+- Costume: Homemade Batman costume — black fabric stitched together over hockey pads visible at shoulders and chest through tears, crude cowl made from black fabric with holes cut for eyes (poorly aligned), no cape just black sheet material hanging from shoulders, hockey gloves, combat boots. The contrast with the real suit is stark.
+- Expression: Indignant, breathing hard, defensive
+- Action: Confronting Batman, chest out, trying to look imposing
+- Position: Right of frame, facing left, clearly smaller
 
 LIGHTING:
-- Single working fluorescent tube directly above them — cold white downlight creating hard shadows beneath their jaws and on the concrete floor. Batman's armor has subtle sheen under the light. The copycat's fabric absorbs the light — flat, matte, cheap.
-- Background darker — the fight zone behind them is in a dead lighting zone, bodies and debris visible but in shadow.
-
-ATMOSPHERE:
-- The difference isn't the suit. It's what you're willing to sacrifice while wearing it.
-- The copycat asks the question the audience is thinking. Batman's answer ends the debate.
+- Flickering fluorescent from above — harsh, unflattering
+- Both figures lit equally — the lighting hides nothing, every detail of both costumes visible
 
 TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline, rounded) from copycat, left side: "What gives you the right? What's the difference between you and me?"
-- Speech bubble (white fill, black text, 2px black outline, angular) from Batman, right side: "I'm not wearing hockey pads."
+- Speech bubble (white fill, black text, 2px black outline, rounded) from Copycat: "What's the difference between you and me?"
+- Speech bubble (white fill, black text, 2px black outline, rounded) from Batman: "I'm not wearing hockey pads."
+
+NOTE: Two speakers in one panel — acceptable here because it's a direct exchange between two visible characters. Both speakers visible.
 
 WHAT NOT TO DRAW:
-- NO dead animals — the rottweiler is restrained, not killed
-- NO blood on Batman — the bite damage is to ARMOR only, no skin visible
-- NO competent-looking copycat — he is an amateur in a terrible costume, NOT intimidating
-- NO weapons in Batman's hands — he NEVER carries guns. The copycat does.
-- NO bright or clean environment — this is a dirty parking garage after a fight
-- NO visible text other than the speech bubbles and watermark
-- NO desks, chairs, coffee cups
+- NO Scarecrow — he's been subdued and is not in this shot
+- NO dogs — the fight is over
+- NO guns in Batman's hands — he doesn't use guns
+- NO visible text other than the two speech bubbles and watermark
 
-STYLE: Photorealistic, cinematic, confrontation under fluorescent. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, confrontation. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-# PROLOGUE P3: THE NEW SUIT — 1 Slide
+# PROLOGUE — SCENE P3: THE NEW SUIT
 
 ---
 
-### SLIDE 10 — NEW SUIT + ALFRED'S WARNING (Panels P3.1-P3.2 COMBINED)
-**SPLIT PANEL — TRADE-OFF AND TRUTH**
+### SLIDE 11 — NEW SUIT + ALFRED'S WARNING (Panels P3.1 + P3.2)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: Two conversations about Batman's limits. LEFT: Fox presents the new suit — faster but more vulnerable. RIGHT: Alfred stitches a dog bite and warns Bruce about knowing his limits. Same theme, two voices of reason.
+LEFT PANEL — APPLIED SCIENCES LAB:
+Wayne Enterprises Applied Sciences division. An underground lab — clean, industrial, high-tech. The new Batsuit stands on a display mannequin — sleek, segmented, lighter than the previous version. LUCIUS FOX stands beside it, gesturing toward the suit with professional concern. BRUCE WAYNE in a tailored suit examines it, touching the thinner armor plates.
 
-CAMERA: Left panel — medium shot from Bruce's perspective, looking across the display stand at Fox and the suit. WHY — we see the suit AS Bruce sees it: a trade-off on display, the thing that will protect him less but let him move more. The viewer evaluates the choice with him. Right panel — intimate close-up from Alfred's eye level, looking across at Bruce's arm and face as Alfred stitches. WHY — Alfred's perspective is always intimate, always caring, always worried. We are in his space, close enough to see the needle pull through.
+CHARACTER — LUCIUS FOX:
+- Face & Body: Morgan Freeman, African-American man, late 60s, grey hair closely cropped, wise warm eyes behind thin-framed glasses, calm dignified presence, medium build, 6'2"
+- Costume: Dark navy suit (#1B2838), white dress shirt, subtle patterned tie, polished black shoes — corporate, immaculate
+- Expression: Professional, slightly concerned about the trade-off he's about to explain
+- Action: Gesturing toward the new suit on the display mannequin
+- Position: Standing beside the display, facing Bruce
 
-COMPOSITION:
-- LEFT — APPLIED SCIENCES:
-- Wayne Enterprises Applied Sciences division: industrial-clean lab space, brushed steel walls, recessed ceiling lights, prototype equipment on workbenches in background
-- CENTER-LEFT: The NEW BATSUIT on a matte black display stand — full suit, upright, unmanned. Segmented black armor plates (#0A0A0A), visibly THINNER than the previous suit. More gaps between plates for mobility. Lighter, sleeker, almost skeletal compared to the tank-like original.
-- Fox standing to the right of the display, one hand gesturing toward the suit's torso section
-- Bruce Wayne standing left of the display, touching the thinner chest plate with one hand, testing the material thickness between thumb and forefinger
+CHARACTER — BRUCE WAYNE:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair neatly styled, clean-shaven, strong jaw, intense dark eyes, athletic muscular build, 6'0"
+- Costume: Tailored charcoal grey suit (#404040), crisp white dress shirt, no tie, top button open — wealthy but understated
+- Expression: Studying the suit, calculating the trade-off between speed and protection
+- Action: Right hand touching the segmented armor plates of the new suit
+- Position: Standing beside Fox, examining the suit
 
-- RIGHT — WAYNE PENTHOUSE:
-- Wayne penthouse living area at night: floor-to-ceiling windows showing Gotham skyline in deep background, warm interior lighting from table lamps, modern but restrained decor
-- Alfred seated on a low stool, reading glasses perched on nose, sleeves rolled to elbows, medical kit open on the table beside him — antiseptic bottle, gauze, surgical needle with thread
-- Bruce seated in a chair, left arm extended toward Alfred, forearm showing a deep dog bite wound — red, raw, ragged edges. Alfred is mid-stitch, needle pulling thread through skin
-- The intimacy of the scene: two men alone, one caring for the other's wounds, a ritual they've performed many times
+RIGHT PANEL — ALFRED STITCHES BRUCE:
+Wayne penthouse. Warm, low light. Alfred sits beside Bruce, stitching a deep dog bite wound on Bruce's left forearm — aftermath of the Rottweiler from the Scarecrow bust. A medical kit is open on the side table. Intimate. Quiet. Two men who've been doing this too long.
 
-CHARACTER — LUCIUS FOX (LEFT PANEL):
-- Face & Body: Morgan Freeman, African American man, late 60s, grey hair closely cropped, wise knowing eyes behind thin-framed glasses, calm dignified demeanor, average build, 6'2"
-- Costume: Tailored dark charcoal (#374151) suit, light blue (#93C5FD) dress shirt, dark tie, polished shoes. Corporate executive, immaculate.
-- Expression: Professional concern — eyebrows slightly raised, the look of a man presenting a tool he's not entirely comfortable with
-- Action: Right hand gesturing toward the suit's torso armor, left hand holding a spec sheet
-- Position: Right of the display stand, facing Bruce across it
+CHARACTER — ALFRED PENNYWORTH:
+- Face & Body: Michael Caine, Caucasian English man, late 60s, grey hair neatly combed, kind weathered face, warm steady eyes, slim build, 5'10"
+- Costume: Dark charcoal vest (#333333) over white dress shirt, sleeves rolled to elbows for medical work, dark trousers, reading glasses perched on nose
+- Expression: Caring but worried, stitching with practiced hands
+- Action: Stitching Bruce's left forearm with needle and thread, medical kit open beside him
+- Position: Seated beside Bruce, close, focused on the wound
 
-CHARACTER — BRUCE WAYNE (LEFT PANEL):
-- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair styled back, strong jaw, sharp calculating eyes, athletic muscular build, 6'0"
-- Costume: Tailored charcoal grey (#374151) three-piece suit, crisp white (#FFFFFF) dress shirt, dark navy (#1E3A5F) silk tie, polished black oxford shoes
-- Expression: Studying the suit — calculating the trade-off, not concerned, decided
-- Action: Left hand touching the new suit's chest plate, testing material thickness
-- Position: Left of the display stand, facing Fox
-
-CHARACTER — ALFRED PENNYWORTH (RIGHT PANEL):
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face with deep smile lines, gentle knowing eyes, slim build, 5'10"
-- Costume: Dark charcoal (#374151) waistcoat over white (#FFFFFF) dress shirt, sleeves rolled to elbows for medical work, dark navy (#1E3A5F) tie loosened, reading glasses perched on nose
-- Expression: Worried affection — mouth set in a concerned line, eyes focused on the wound but his worry is about more than stitches
-- Action: Seated on stool, left hand steadying Bruce's forearm, right hand pulling surgical thread through the dog bite wound
-- Position: Left side of right panel, seated, leaning toward Bruce
-
-CHARACTER — BRUCE WAYNE (RIGHT PANEL):
-- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair slightly disheveled, strong jaw, tired eyes, athletic muscular build, 6'0"
-- Costume: Dark grey (#4B5563) dress shirt with sleeves rolled up past the wound, top button undone, no jacket, no tie — post-mission casual
-- Expression: Defiant certainty — the look of a man who's already decided the risk is worth it
-- Action: Left arm extended for stitching, right hand resting on chair arm, looking at Alfred
-- Position: Right side of right panel, seated in armchair
+CHARACTER — BRUCE WAYNE (PENTHOUSE):
+- Same as left panel but:
+- Costume: Dark grey T-shirt, forearm exposed for stitching
+- Expression: Stubborn, dismissing Alfred's concern
+- Position: Seated, arm extended toward Alfred
 
 LIGHTING:
-- Left panel: Clean industrial lab lighting — recessed ceiling LEDs casting even, shadowless white light. The Batsuit on the stand catches subtle blue-tinted reflections from the steel walls. Clinical, precise, like the suit itself.
-- Right panel: Warm amber from two table lamps flanking the scene — golden light on Alfred's hands and Bruce's arm, the medical needle catching a sharp point of light. Gotham's skyline through the windows is cool blue-grey, creating a warm/cool contrast between the intimate foreground and the cold city beyond.
-
-ATMOSPHERE:
-- Left: The technical trade-off — faster means more vulnerable. Bruce chooses speed.
-- Right: The human cost — Alfred stitches the evidence of last night's choice and warns about tomorrow's.
+- Left panel: Clean, bright lab lighting — fluorescent white, institutional, the suit gleaming on its stand
+- Right panel: Warm, low lamp light — amber, intimate, penthouse evening
 
 TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline, rounded) from Fox, left panel: "It'll stop a knife." / Wayne: "How about a bullet?" / Fox: "...it'll make you more vulnerable to gunfire."
-- Speech bubble (white fill, black text, 2px black outline, rounded) from Alfred, right panel: "Know your limits, Master Wayne."
-- Speech bubble (white fill, black text, 2px black outline, angular) from Bruce, right panel: "Batman has no limits."
-
-NOTE: R-007 risk — 3+ text elements per panel. If Gemini garbles, reduce to ONE speech bubble per panel: Fox's "It'll stop a knife" left, Alfred's "Know your limits, Master Wayne" right.
+- Speech bubble (white fill, black text, 2px black outline, rounded) from Fox in left panel: "It'll stop a knife." — followed by smaller text: "...it'll make you more vulnerable to gunfire."
+- Speech bubble (white fill, black text, 2px black outline, rounded) from Alfred in right panel: "Know your limits, Master Wayne."
 
 WHAT NOT TO DRAW:
-- NO Batman cowl or cape in either panel — Bruce is in civilian clothes in both scenes
-- NO previous Batsuit visible — only the NEW suit on the display stand
-- NO blood on the left panel — the bite wound is only visible in the right panel
-- NO bright overhead fluorescent in the right panel — this is warm lamplight, intimate, residential
-- NO desks, chairs, coffee cups in the LEFT panel — it's a lab with a display stand
-- NO visible text other than the speech bubbles and watermark
-- NO text labels like "APPLIED SCIENCES" or "PENTHOUSE" rendered as visible text
+- NO Batman cowl or cape in left panel — Bruce is in civilian clothes examining the suit on display
+- NO blood on Bruce in right panel — the wound is being stitched, medical not gory
+- NO other characters — these are private, two-person scenes
+- NO visible text other than the two speech bubbles and watermark
 
-STYLE: Photorealistic, cinematic, precision vs. warmth. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic. Left panel clinical/professional. Right panel warm/intimate. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-# PROLOGUE P4: THE MOB MEETING + PENCIL TRICK — 3 Slides
+# PROLOGUE — SCENE P4: THE MOB MEETING + PENCIL TRICK
 
 ---
 
-### SLIDE 11 — THE MOB KITCHEN (Panel P4.1)
-**SINGLE PANEL — THE POWER TABLE**
+### SLIDE 12 — MOB KITCHEN + JOKER ENTERS (Panels P4.1 + P4.2)
+**SPLIT PANEL — VERTICAL DIVIDE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
 
-SCENE: Restaurant kitchen repurposed as mob meeting room. Gotham's criminal bosses gathered around a steel prep table — Maroni, Gambol, the Chechen. A TV screen shows LAU broadcasting from Hong Kong. The mob's money is being discussed. The door behind them is slightly ajar. Someone uninvited is about to walk in.
+LEFT PANEL — MOB KITCHEN MEETING:
+A restaurant kitchen repurposed as a mob meeting room. Industrial steel countertops, hanging pots, a large table in the center. Three mob bosses sit around the table: MARONI at the head, GAMBOL to one side, and the CHECHEN opposite. A flatscreen TV mounted on the wall shows LAU broadcasting via video call from Hong Kong — corporate backdrop, suit and tie. The mood is tense — they're discussing money and the Batman problem. The kitchen door behind them is ajar.
 
-CAMERA: Wide shot from the far end of the kitchen, camera at seated eye level, looking down the length of the steel prep table toward the mob bosses. WHY — we are sitting at the table with them, an uninvited guest at their level. The prep table stretching away from us creates depth. The TV screen with Lau is visible on the wall behind the bosses, making it feel like a war room briefing. The ajar door is visible at frame right — a detail that pays off next slide.
+CHARACTER — MARONI:
+- Face & Body: Eric Roberts, Caucasian man, mid-50s, slicked-back dark hair with grey at temples, hard calculating eyes, heavy build, 5'10"
+- Costume: Dark blue pinstripe suit (#1a1a3e), white dress shirt, gold tie clip, heavy gold watch — mob boss opulence
+- Expression: Impatient, suspicious, arms crossed
+- Position: Head of the table
 
-COMPOSITION:
-- Restaurant kitchen: industrial stainless steel surfaces, hanging pot racks with copper-bottomed pans, commercial gas stove against far wall, prep stations with cutting boards, floor drain grates — a working kitchen commandeered for criminal business
-- CENTER: A long stainless steel prep table serves as the meeting table — the bosses sit on mismatched chairs around it
-- FAR WALL: A flat-screen TV mounted on a shelf bracket, showing LAU in a Hong Kong office — suit, skyline behind him, video conference lighting
-- BACKGROUND RIGHT: A steel kitchen door, slightly ajar, a sliver of hallway light visible through the gap — the Joker's entrance
-- On the table: scattered papers, a cell phone, coffee cups, an ashtray — the detritus of criminal business
+CHARACTER — GAMBOL:
+- Face & Body: Michael Jai White, African-American man, late 30s, muscular powerful build, intense dark eyes, bald head, 6'2"
+- Costume: Black leather jacket over dark dress shirt, gold chain visible at collar — street power
+- Expression: Aggressive, leaning forward
+- Position: Side of table, territorial
 
-CHARACTER — MARONI (HEAD OF TABLE):
-- Face & Body: Eric Roberts, Caucasian man, mid-50s, slicked-back dark hair with grey at temples, calculating dark eyes, heavy stocky build, 5'10"
-- Costume: Dark blue pinstripe suit (#1a1a3e), white dress shirt, gold tie clip, heavy gold watch, gold ring on right pinky — mob boss opulence, old-school Gotham
-- Expression: Impatient, arms crossed, jaw tight — this meeting is going nowhere
-- Action: Seated at head of table, arms crossed on chest, leaning back in chair
-- Position: Far end of table from camera, center frame
+CHARACTER — LAU (ON TV SCREEN):
+- Face & Body: Chin Han, East Asian man, mid-40s, neat black hair, sharp features, composed, slim build
+- Costume: Grey business suit, white shirt, Hong Kong skyline visible behind him on the video feed
+- Expression: Corporate calm, slightly nervous
+- Position: Flatscreen TV mounted on the kitchen wall — video call, not physically present
 
-CHARACTER — GAMBOL (LEFT OF TABLE):
-- Face & Body: Michael Jai White, African American man, late 30s, bald head, muscular powerful build, intense dark eyes, imposing presence, 6'2"
-- Costume: Black leather jacket over dark dress shirt, gold chain visible at open collar, dark trousers — street power, not boardroom
-- Expression: Aggressive, territorial, leaning forward with both hands flat on the table
-- Action: Leaning forward, jaw set, ready to argue
-- Position: Left side of table, mid-frame
-
-CHARACTER — LAU (ON SCREEN):
-- Face & Body: Chin Han, East Asian man, mid-40s, neat black hair, sharp composed features, slim build
-- Costume: Grey business suit, white shirt, tie — corporate Hong Kong. The Hong Kong skyline (harbour, buildings, Victoria Peak) visible through office windows behind him on the video feed
-- Expression: Corporate calm with underlying nervousness — he's dealing with criminals from a safe distance
-- Position: TV screen on far wall, video conference — his image is blue-shifted and slightly pixelated from the feed
-
-LIGHTING:
-- Overhead industrial kitchen lighting: harsh white fluorescent strips mounted to the stainless steel ceiling, creating hard downward shadows beneath eyebrows, noses, and chins. The steel surfaces bounce the light, creating a cold clinical brightness — this is a room meant for butchering meat, now hosting a different kind of business.
-- The TV screen adds cool blue glow to the wall behind the bosses — Lau's face casts a faint blue wash on the steel surfaces nearest the screen.
-- The gap in the ajar door shows warm yellowish hallway light — a different color temperature from the kitchen, subtle but noticeable.
-
-ATMOSPHERE:
-- Gotham's criminal empire, meeting in a kitchen because every proper venue is compromised
-- Lau has the money. The bosses have the muscle. Nobody has a plan for the Batman.
-- That ajar door is about to become the most important prop in the scene.
-
-TEXT OVERLAY:
-- Speech bubble (white fill, black text, 2px black outline, rounded) from TV screen: "I've moved your money to a secure location."
-- Caption (dark navy #1a1a4e, white text) bottom: "The old empire. About to meet its new management."
-
-WHAT NOT TO DRAW:
-- NO Joker visible — he hasn't entered yet. The ajar door is the only hint.
-- NO guns on the table — weapons are holstered, not displayed. This is a business meeting.
-- NO bright or warm lighting — this is cold, industrial fluorescent, steel surfaces
-- NO elaborate restaurant dining room — this is a KITCHEN, stainless steel, industrial, back-of-house
-- NO visible text other than the speech bubble, caption, and watermark
-- NO desks or office furniture — steel prep tables and kitchen equipment only
-
-STYLE: Photorealistic, cinematic, criminal boardroom in steel and fluorescent. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 12 — THE JOKER ENTERS + PENCIL TRICK (Panels P4.2-P4.3 COMBINED)
-**SPLIT PANEL — ENTRANCE AND DEMONSTRATION**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: Two beats of the Joker's mob meeting invasion. LEFT: He walks in uninvited, laughing, arms wide — the mob bosses reaching for weapons. RIGHT: The pencil trick — he's slammed a bodyguard's head onto a standing pencil. "Ta-da. It's gone." The room is terrified into silence.
-
-CAMERA: Left panel — low angle from floor level at the far end of the table, looking UP at the Joker in the doorway. WHY — the low angle makes the Joker tower over the scene. He fills the doorway. The mob bosses are BELOW him in the frame, diminished. He owns the room from his first step. Right panel — tight medium shot from across the table at the Joker's chest level, looking at his hand flat on the table where the pencil was. WHY — this is crime-scene-close. The pencil is gone. The bodyguard is on the floor. The Joker's casual hand placement says "that was nothing" and the tight framing makes the violence feel inescapable.
-
-COMPOSITION:
-- LEFT — THE ENTRANCE:
-- The kitchen doorway, now BANGED fully open — the steel door swung against the wall
-- THE JOKER walking through, arms spread wide, mid-laugh — his purple coat catching the fluorescent light, the green waistcoat vivid against the steel kitchen behind him
-- The mob bosses at the table reacting: Maroni reaching inside his jacket (holster), Gambol half-standing with fists on table, bodyguards behind them tensing
-- The Joker is BACKLIT by the hallway light behind him — warm amber outlining his purple coat edges, his front lit by the cold kitchen fluorescent. The two light temperatures clash on him.
-
-- RIGHT — THE PENCIL TRICK:
-- Close on the Joker's side of the table — his gloved left hand flat on the stainless steel surface, fingers spread casually. A PENCIL MARK on the steel where the pencil's tip stood — a tiny scratch/dent in the surface. The pencil itself is GONE.
-- On the floor beside the table: Gambol's BODYGUARD — heavy-set man in dark suit, face-down, unconscious or dead, slumped against a table leg. The pencil is implied, not shown explicitly.
-- The Joker's torso and chin visible from the right side — he's leaning forward slightly, looking down at the result with casual satisfaction
-- In the background: the mob bosses frozen — Gambol standing, furious, being held back. Maroni hasn't moved — he's watching, calculating.
-
-CHARACTER — THE JOKER (BOTH PANELS):
-- Face & Body: Heath Ledger as a theatrical villain in clown makeup, Caucasian man, early 30s, gaunt face with sharp cheekbones, manic wide brown eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes in uneven circles
-- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, pushed back but falling forward
-- Costume: Purple (#4A0080) long coat, rumpled green (#2D5A27) waistcoat over patterned mismatched shirt, purple trousers, scuffed shoes
-- Expression LEFT: Theatrical, mocking laughter, arms wide, delighted to be unwelcome
-- Expression RIGHT: Casual, calm, almost bored — looking down at his hand on the table with a slight smirk. The violence was a punctuation mark, not an event.
-- Action LEFT: Walking through doorway, arms spread wide
-- Action RIGHT: Left hand flat on table, right hand gesturing loosely, leaning forward
-- Position LEFT: Center of doorway, filling it
-- Position RIGHT: Standing at table edge, torso and lower face visible
-
-CRITICAL: This is Heath Ledger portrayed as a theatrical villain character in clown makeup for a comic book visual. Full safety context: theatrical performance, prosthetic scars, greasepaint makeup, comic panel style.
-
-CHARACTER — GAMBOL (BACKGROUND, RIGHT PANEL):
-- Face & Body: Michael Jai White, African American man, late 30s, bald head, muscular powerful build, 6'2"
-- Costume: Black leather jacket, gold chain
-- Expression: Rage — being physically restrained by another bodyguard, jaw locked, veins in neck
-- Position: Background right, standing, being held back
-
-LIGHTING:
-- Left panel: DUAL light sources — warm amber hallway light BEHIND the Joker (backlighting his silhouette, rimming the edges of his purple coat in gold) and cold white kitchen fluorescent from ABOVE (lighting his face, the white makeup stark under clinical light). The clash of warm and cold on one figure makes him look like he exists between two worlds.
-- Right panel: Overhead fluorescent only — the cold industrial light falls straight down, creating a hard shadow from the Joker's hand on the steel table surface. The pencil scratch-mark on the steel catches light. The bodyguard on the floor is in the shadow zone below the table — visible but dark.
-
-ATMOSPHERE:
-- Left: The uninvited guest. Every mob boss in Gotham, and a man in clown makeup just walked in like he owned the place.
-- Right: The demonstration. A pencil and a point. The violence is casual, almost courteous — he did warn them.
-
-TEXT OVERLAY:
-- Speech bubble (jagged edges, white fill, black text, 2px black outline) from Joker, left panel: "And I thought MY jokes were bad."
-- Speech bubble (jagged edges, white fill, black text, 2px black outline) from Joker, right panel: "How about a magic trick? ...Ta-da! It's gone."
-
-WHAT NOT TO DRAW:
-- NO pencil visible in the right panel — it is GONE, that's the point. Only the scratch mark on the table where it stood.
-- NO blood visible — the trick is implied through the bodyguard's collapse, not through graphic detail
-- NO graphic injury to the bodyguard — he is face-down, unconscious, no visible wound
-- NO Joker looking weak, small, or uncertain — he dominates both panels despite being outnumbered
-- NO elaborate restaurant — this is a KITCHEN, stainless steel, industrial
-- NO visible text other than the speech bubbles and watermark
-- NO text labels like "ENTRANCE" or "PENCIL TRICK" rendered as visible text
-
-STYLE: Photorealistic, cinematic, theatrical menace in fluorescent steel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 13 — THE OFFER (Panel P4.4)
-**SINGLE PANEL — "NEVER DO IT FOR FREE"**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
-
-SCENE: The Joker has the room. He leans against the prep table, casual, in control despite being uninvited and surrounded by men who want him dead. His proposal: kill the Batman. For half their money. The mob bosses are rattled. Gambol is furious. The Joker is the only calm person in the room.
-
-CAMERA: Medium shot from Gambol's seated position, looking UP and across the table at the Joker who is standing/leaning. WHY — we sit with the mob, looking UP at the clown who just killed a man with a pencil and is now making a business pitch. The up-angle gives the Joker power in a room full of powerful men. Gambol's shoulder is visible in the foreground, grounding us in the mob's perspective.
-
-COMPOSITION:
-- The same kitchen from Slide 11 — stainless steel surfaces, overhead fluorescent, the TV now showing static (Lau has disconnected)
-- CENTER: The Joker leaning back against the steel prep table, elbows on the surface behind him, legs crossed at the ankles — a posture of absolute relaxation. His purple coat drapes over the table edge. He's pitching casually, like a man offering to mow your lawn.
-- LEFT FOREGROUND: Gambol's right shoulder and the back of his bald head — large, muscular, out of focus. We're looking past him at the Joker.
-- RIGHT BACKGROUND: Maroni still seated, arms crossed, watching the Joker with cold calculation — not angry, not scared, evaluating.
-- On the floor near the table: the bodyguard's legs are visible — he hasn't been moved. Nobody has touched him. The Joker's point stands.
-- DETAIL: The Joker holds up his hand, thumb and forefinger almost touching — the "half" gesture. Small. Precise. As if half of a criminal empire's fortune is a minor ask.
+RIGHT PANEL — THE JOKER ENTERS:
+The kitchen door BANGS open. The Joker walks in uninvited. Purple coat. Glasgow smile. Greasy green hair. Arms spread wide. He's laughing — forced, theatrical, mocking everyone in the room. The mob bosses are reacting — reaching for weapons, bodyguards tensing. The Joker is the ONLY calm person in the frame.
 
 CHARACTER — THE JOKER:
-- Face & Body: Heath Ledger as a theatrical villain in clown makeup, Caucasian man, early 30s, gaunt face with sharp cheekbones, manic wide brown eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes in uneven circles
+- Face & Body: Heath Ledger as a theatrical villain character in clown makeup, Caucasian man, early 30s, gaunt face with sharp cheekbones, manic wide eyes, 6'1", lean wiry build
+- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes
 - Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, pushed back
 - Costume: Purple (#4A0080) long coat, rumpled green (#2D5A27) waistcoat over patterned mismatched shirt, purple trousers, scuffed shoes
-- Expression: Casual confidence, slight smile, making eye contact with Gambol — enjoying the fury he's causing. The pitch is performance art.
-- Action: Leaning back against table, right hand raised showing "half" gesture (thumb and forefinger close), left elbow on table behind him
-- Position: Center frame, standing, leaning against table edge
-
-CHARACTER — MARONI (BACKGROUND RIGHT):
-- Face & Body: Eric Roberts, Caucasian man, mid-50s, slicked-back dark hair, calculating dark eyes, heavy build, 5'10"
-- Costume: Dark blue pinstripe suit (#1a1a3e), white dress shirt, gold tie clip
-- Expression: Cold evaluation — not angry, not scared, processing. This is a man who has survived by never reacting first.
-- Action: Seated, arms crossed, watching the Joker over the rim of a coffee cup
-- Position: Background right, seated, in focus but secondary to the Joker
-
-CRITICAL: This is Heath Ledger portrayed as a theatrical villain character in clown makeup for a comic book visual. Full safety context: theatrical performance, prosthetic scars, greasepaint makeup, comic panel style.
+- Expression: Theatrical, mocking, delighted to be unwelcome
+- Action: Walking in through the kitchen door, arms spread wide, laughing
+- Position: Entering from right side, door banging open behind him, all eyes on him
 
 LIGHTING:
-- Overhead fluorescent: same cold white kitchen light as Slides 11-12. The Joker's white face paint is almost indistinguishable from the steel surfaces in this light — he belongs here now, absorbed into the environment.
-- The dead TV screen behind the bosses casts no light — just a dark rectangle where Lau's face was.
-- The bodyguard on the floor is in deep shadow beneath the table — visible, a reminder, not the focus.
-
-ATMOSPHERE:
-- He walked in uninvited. Killed a man with a pencil. And now he's negotiating.
-- The scariest part: his offer makes sense. Kill the Batman for half. Simple. Clean. If you're good at something, never do it for free.
+- Left panel: Harsh overhead kitchen fluorescents, steel surfaces reflecting cold light
+- Right panel: Same lighting but the Joker's entrance creates a visual disruption — the door throws a wedge of hallway light across the kitchen floor
 
 TEXT OVERLAY:
-- Speech bubble (jagged edges, white fill, black text, 2px black outline) from Joker, top: "I'll kill the Batman. For... half."
-- Speech bubble (white fill, black text, 2px black outline, rounded) from Gambol, bottom-left: "You're crazy."
-- Speech bubble (jagged edges, white fill, black text, 2px black outline) from Joker, bottom-right: "If you're good at something, never do it for free."
-
-NOTE: R-007 risk — 3 speech bubbles. If Gemini garbles, reduce to TWO: Joker's "I'll kill the Batman. For half." and "If you're good at something, never do it for free." Drop Gambol's line.
+- Speech bubble (white fill, black text, 2px black outline, rounded) from Lau on TV screen in left panel: "I've moved the money to a secure location."
+- Speech bubble (white fill, black text, 2px black outline, jagged edges) from Joker in right panel: "And I thought MY jokes were bad."
 
 WHAT NOT TO DRAW:
-- NO weapons drawn or visible — the violence is over, this is now a business negotiation
-- NO Joker looking nervous, weak, or submissive — he owns this room despite being outnumbered 10 to 1
-- NO blood or graphic violence visible — the bodyguard on the floor is in shadow, no visible wound
-- NO elaborate restaurant dining room — stainless steel KITCHEN, industrial, cold
-- NO visible text other than the speech bubbles and watermark
-- NO text labels rendered as visible text
-- NO desks, chairs, coffee cups (the mob sits on mismatched kitchen chairs, not office furniture)
+- NO elaborate dining setup — this is a working kitchen repurposed for a meeting, steel surfaces, industrial
+- NO Joker in the left panel — he hasn't arrived yet in that moment
+- NO weapons drawn yet — they're reaching but haven't pulled guns
+- NO visible text other than the two speech bubbles and watermark
 
-STYLE: Photorealistic, cinematic, the pitch from hell. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, crime drama. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
+
+### SLIDE 13 — PENCIL TRICK + THE OFFER (Panels P4.3 + P4.4)
+**SPLIT PANEL — VERTICAL DIVIDE**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two panels side by side, divided by a thin white 1-2px vertical line. FULL BLEED.
+
+LEFT PANEL — THE PENCIL TRICK:
+Close composition. The Joker stands at the end of the mob table. He has just SLAMMED a bodyguard's head down onto a pencil that was standing upright on the table surface. The bodyguard is crumpled on the floor. The pencil is gone — driven into the table. The Joker's right hand is still on the table surface where he slammed the head down. His left hand gestures outward — "ta-da!" The mob bosses stare in shock. Gambol is FURIOUS.
+
+CHARACTER — THE JOKER:
+- Face & Body: Heath Ledger as a theatrical villain character in clown makeup, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
+- Makeup: Smeared white face paint, red lipstick into Glasgow scars, black eye makeup smudged
+- Hair: Greasy green-tinged dirty blonde, pushed back
+- Costume: Purple (#4A0080) long coat, green (#2D5A27) waistcoat, patterned shirt, purple trousers
+- Expression: Casual showmanship — demonstrating a point, literally
+- Action: Right hand flat on table (post-slam), left hand gesturing outward in a "ta-da" flourish
+- Position: Standing at end of table, bodyguard crumpled at his feet
+
+RIGHT PANEL — THE OFFER:
+The Joker leans casually against the table, addressing the room. One hand in his coat pocket, the other gesturing loosely. He's relaxed, in control despite being uninvited and outnumbered. The mob bosses are rattled — Gambol's face shows barely contained rage. Maroni watches with cold calculation. The power in the room has shifted.
+
+CHARACTER — THE JOKER:
+- Same as left panel
+- Expression: Reasonable, persuasive — a businessman making a pitch, but the pitch is murder
+- Action: Leaning against table edge, one hand in coat pocket, other gesturing
+- Position: Standing at end of table, commanding the room
+
+LIGHTING:
+- Left panel: Harsh kitchen fluorescent, the pencil trick aftermath — the bodyguard's shadow on the floor
+- Right panel: Same lighting, the Joker's face half-lit — one side in shadow, one in fluorescent white
+
+TEXT OVERLAY:
+- Speech bubble (white fill, black text, 2px black outline, jagged edges) from Joker in left panel: "How about a magic trick?"
+- Speech bubble (white fill, black text, 2px black outline, jagged edges) from Joker in right panel: "If you're good at something, never do it for free."
+
+WHAT NOT TO DRAW:
+- NO pencil visible — it's gone, driven into the table or the bodyguard, the point is it DISAPPEARED
+- NO blood on the table — the trick is implied violence, not graphic
+- NO weapons drawn by mob bosses — they're frozen in shock/anger
+- NO visible text other than the two speech bubbles and watermark
+
+STYLE: Photorealistic, cinematic, crime drama tension. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+*"Ground zero. No shortcuts. Every panel from the source."* 🦇
