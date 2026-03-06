@@ -2,7 +2,7 @@
 
 > **Owner:** Simmons (Creative Lead)
 > **Series:** Decisive Intelligence
-> **Updated:** 2026-03-06 (Phase 1 COMPLETE)
+> **Updated:** 2026-03-06 (Phase 2 COMPLETE — awaiting Director sign-off)
 
 ---
 
@@ -41,11 +41,12 @@ Compare the TDK screenplay against our current EP2 story arc (Four Choices struc
 
 | # | Task | Status | Notes |
 |---|------|--------|-------|
-| 2.1 | Audit current EP2 story arc against TDK screenplay | ☐ PENDING | Current: 4 choices mapped to CLARITY/COURAGE/COMMITMENT/MOVEMENT |
-| 2.2 | Map TDK's actual dramatic structure to our framework | ☐ PENDING | Which TDK scenes map to which pillars? |
-| 2.3 | Identify iconic scenes we're missing or got wrong | ☐ PENDING | Bank heist details already flagged as wrong |
-| 2.4 | Draft revised story arc | ☐ PENDING | |
-| 2.5 | **Director review + consensus** | ☐ BLOCKED | Blocked on 2.4 |
+| 2.1 | Audit current EP2 story arc against TDK screenplay | ✅ DONE | Output: `extended-cut/references/TDK_EP2_Audit.md` — Sections A-E |
+| 2.2 | Map TDK's actual dramatic structure to our framework | ✅ DONE | Section D of audit file — pillar-to-TDK mapping with page numbers |
+| 2.3 | Identify iconic scenes we're missing or got wrong | ✅ DONE | Section E: 16 MISSING, 8 WRONG, 5 UNDERSOLD |
+| 2.4 | Draft revised story arc | ✅ DONE | Output: `extended-cut/references/EP2_Revised_Story_Arc.md` v3.0.0 — FULL TDK coverage per Director's order |
+| 2.5 | Draft post-credits short movie treatment | ✅ DONE | Output: `extended-cut/references/EP2_Post_Credits_Treatment.md` — "This Was the Crisis" |
+| 2.6 | **Director review + consensus** | ⏳ AWAITING SIGN-OFF | Full TDK arc + post-credits treatment ready. Decision #8 (Arkham) still pending. |
 
 ---
 
