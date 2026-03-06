@@ -191,7 +191,18 @@ enough to review and guide others' work — not just do my own.
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-Yes, I would ship this plan. It’s not perfect, and I’m aware that some criteria are only partially met. However, it is grounded in real execution, not assumptions. I clearly understand my gaps — especially in Deploy and Operate — and I recognize the risks of overthinking and learning without applying. A shippable plan doesn’t need to be flawless; it needs to be honest, actionable, and based on reality. This one meets that bar.
+No — not yet.
+
+Most of my criteria are partially met, and I know why. I overthink
+before acting, I learn without always implementing, and jen-pbr is
+still in testing after months of building. That pattern shows up
+in my career plan too.
+
+But the plan is honest. I didn't write what I wanted to hear — I
+wrote what is true. That's the starting point.
+
+I'll ship it when Deploy and Operate are no longer blank stages
+for me. Until then, this stays in staging.
 ```
 
 ---
@@ -204,25 +215,76 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+  Jagadesh, Kabilan, Pughaz, Naveen, Jerome, and Gayathri — all juniors on
+  the team. I am consistently one step ahead of them technically and in
+  terms of how I approach problems. Whenever I am around, I guide and
+  support them without being asked — not because it's expected, but
+  because it's the right thing to do. I genuinely want to share whatever
+  knowledge I have with them.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+This week specifically, I shared knowledge with four people:
+
+  Gayathri — was manually fetching GCS bucket sizes across 30-40 folders,
+  which was taking too long. I shared the Jenkins job from my Bucket-size
+  automation (still in progress) so she could get the results faster without
+  waiting for the script to be fully complete. Immediate, practical value.
+
+  Naveen — was releasing analyticsworkerv2 to production. I guided him
+  through our branching strategy, explained what changes need to happen
+  and where, and walked him through the full production release process
+  step by step.
+
+  Kabilan — was working on STG environment stabilization. I didn't do it
+  for him — I pointed him to the right metrics, told him where to check
+  CPU utilization, and let him do the analysis. We fixed it together.
+
+  Jagadesh — got stuck on an image index mismatch in prod. I explained
+  how the entire system works, identified the root cause, and guided him
+  to the solution.
+
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+  I didn't wait to be assigned a mentor role. I pinged Gayathri to check
+  what she had done so far — she didn't come to me. I walked Naveen
+  through production release until he understands completely. I pointed Kabilan to
+  the right metrics instead of just fixing it myself. I explained the
+  entire system to Jagadesh until he understood, not just until he had
+  the answer.
+
+  I don't step back when someone needs help. Not because of a process
+  or expectation — just because that's how I work.
+
+  If there is one honest gap, it's this: I share when I notice someone
+  is stuck. But I don't always proactively share what I know before
+  they get stuck. That's the difference between reactive mentoring and
+  building knowledge in others before the problem hits.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
-```
-[Your answer]
+```                                                                                                                                                                               
+  I don't hold back even when I'm not fully expert in the area.                                                                                                                         
+   
+  Whatever I know that's relevant to the problem, I share it — without                                                                                                                  
+  hesitation. I don't wait until I'm 100% sure before helping. If I'm
+  mid-way through figuring it out myself, I still engage.
+
+  And if I don't have the answer in that moment, I don't pretend or
+  guess — I say "give me a minute, let me check" and come back with
+  the right answer. That's not a weakness. That's honesty, and it
+  builds more trust than faking confidence.
+
+  Viktor's fear — "what if my advice is wrong?" — isn't mine. My
+  approach has always been: share what I know, be honest about what
+  I don't, and never leave someone stuck just because I'm not the
+  expert in the room.
 ```
 
 ---
