@@ -50,19 +50,23 @@ Compare the TDK screenplay against our current EP2 story arc (Four Choices struc
 
 ---
 
-### Phase 3: Screenplay Rewrite
+### Phase 3: Screenplay Rewrite — Ground Zero Rebuild
 
-Rewrite the EP2 Extended Cut screenplay from the ground up, scene by scene, using the TDK screenplay as the primary source.
+Rewrite the EP2 Extended Cut screenplay from scratch. Full TDK coverage. Every scene. Source: `EP2_Revised_Story_Arc.md` v3.0.0 + `TDK_Scene_Index.md`.
 
 | # | Task | Status | Notes |
 |---|------|--------|-------|
-| 3.1 | Rewrite EP2 Extended Cut Screenplay — Act 1 | ☐ PENDING | Bank heist, mob, Batman + Joker introduction |
-| 3.2 | Rewrite EP2 Extended Cut Screenplay — Act 2A | ☐ PENDING | Escalation, Alfred's Burma story, CLARITY + COURAGE |
-| 3.3 | Rewrite EP2 Extended Cut Screenplay — Act 2B | ☐ PENDING | Hospital, Two-Face, ferry, COMMITMENT |
-| 3.4 | Rewrite EP2 Extended Cut Screenplay — Act 3 | ☐ PENDING | Construction site, Dark Knight ending, MOVEMENT |
-| 3.5 | Rewrite Post-Credits + Transition Cards | ☐ PENDING | Workplace story + Bane tease |
-| 3.6 | Update Character Bible with TDK-accurate details | ☐ PENDING | Costumes, locations, props from the actual script |
-| 3.7 | **Director review + consensus on full screenplay** | ☐ BLOCKED | Blocked on 3.1-3.5 |
+| 3.0 | Screenplay header, overview, costume tracking, famous lines | ✅ DONE | EC 3.0.0 header, structure map, costume tracking, 28 famous lines |
+| 3.1 | Opening: The Board (6 panels) | ✅ DONE | Cover + Board Speaks (5 panels) |
+| 3.2 | Prologue: Agent of Chaos — P1-P9 (25 panels) | ✅ DONE | Bank heist (8), Scarecrow (2), New suit (2), Mob/Pencil (4), Dent (3), Gambol (2), Hong Kong (1), RICO (2), Ultimatum (2) |
+| 3.3 | Act 1: CLARITY — C1-C8 (23 panels) | ✅ DONE | Fundraiser (3), Attacks (1), Proposal (1), Fundraiser crash (5), Burma story ★ (4), Forensics (2), Funeral/Gordon (4), Coin-flip (2) |
+| 3.4 | Act 2: COURAGE — K1-K4 (22 panels) | ✅ DONE | "I Am the Batman" (4), Convoy chase (5), Interrogation ★ (8), Rachel dies/Two-Face (5) |
+| 3.5 | Act 3: COMMITMENT — M1-M7 (26 panels) | ✅ DONE | Money burn (3), Letter (2), Hospital speech ★ (6), Walk-away (3), Sonar ★ (2), Revenge (3), Ferry ★ (5) |
+| 3.6 | Act 4: MOVEMENT — V1-V4 (22 panels) | ✅ DONE | Prewitt (4), Ace in Hole (3), Two-Face last stand (4), Dark Knight ★ (6) + montage (4) + ride (1) |
+| 3.7 | Closing: Cost + Arkham + Bane — X1-X3 (10 panels) | ✅ DONE | Pillar cards (3), Joker prophecy (4), Bane tease (3) |
+| 3.8 | Post-Credits: "This Was the Crisis" (~55-65 panels) | ☐ PENDING | Jack (Joker), Harvey breaks, Bruce takes fall. From treatment doc. Placeholder in screenplay. |
+| 3.9 | Transition Cards (6 slides) | ✅ DONE | CLARITY/COURAGE/COMMITMENT/MOVEMENT + audience + closer |
+| 3.10 | **Director review + consensus on full screenplay** | ☐ BLOCKED | Blocked on 3.8 (post-credits) |
 
 ---
 

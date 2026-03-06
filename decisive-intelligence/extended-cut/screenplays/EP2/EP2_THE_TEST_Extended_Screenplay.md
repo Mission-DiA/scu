@@ -2,12 +2,13 @@
 ## THE TEST — Director's Extended Cut
 ### The Joker / Heath Ledger — "Test the Framework"
 
-> **Version:** EC 2.0.0
-> **Date:** 2026-03-05
-> **Status:** Extended Cut — Full Depth
-> **Delivery:** During event (~35 min story + ~5 min workplace post-credits + ~2 min Bane tease)
+> **Version:** EC 3.0.0 — Ground-Zero Rebuild
+> **Date:** 2026-03-06
+> **Status:** Extended Cut — Full TDK Coverage
+> **Delivery:** During event (~45 min story + ~8 min workplace post-credits + ~2 min Bane tease)
 > **Visual Style:** Dark Knight noir — photorealistic, high-contrast, Nolan-esque cinematography
-> **Source:** Original 150-panel screenplay (restored, expanded, iconic scenes added)
+> **Source:** TDK Screenplay (141pp, Nolan/Nolan) via `TDK_Scene_Index.md` + `EP2_Revised_Story_Arc.md` v3.0.0
+> **Supersedes:** EC 2.0.0 (written from memory, pre-screenplay-read)
 
 ---
 
@@ -17,12 +18,12 @@
 |-------|-------|
 | **Dominant Villain** | The Joker |
 | **Framework Phase** | TEST — The four pillars are NAMED and APPLIED |
-| **Original Scenes** | 28 |
-| **Extended Scenes** | 34 (28 original + 5 restored: Scenes 3, 10, 16, 19, 17 + 1 workplace story) |
-| **Panels** | ~244 (150 original + 32 new + 25 expanded + 37 rework/added) |
-| **Pillar Naming** | YES — each pillar named at its choice moment |
-| **New Characters** | Rachel Dawes, Harvey Dent, Two-Face, The Joker (4 costumes + workplace), Lucius Fox (sonar + workplace), Ferry Prisoner, Gordon's Son, Gordon's Wife, Bane |
-| **Famous Lines** | 12 Joker + 3 Alfred + 4 Gordon + 2 Two-Face + 1 Bane |
+| **Structure** | Opening + Prologue + 4 Acts + Closing + Post-Credits + Transition Cards |
+| **Panel Estimate** | ~350-400 panels |
+| **Slide Estimate** | ~160-190 slides |
+| **Pillar Naming** | YES — each pillar named at its ★ moment |
+| **Famous Lines** | 23 tracked, page-verified against TDK screenplay |
+| **Source Coverage** | FULL TDK — every major scene dramatized |
 
 ---
 
@@ -30,9 +31,27 @@
 
 Ra's Al Ghul taught the framework. The Joker **tests** it.
 
-The Joker doesn't attack the framework head-on — he creates conditions where every pillar demands a cost. CLARITY requires ignoring dying people. COURAGE requires acting when the outcome is rigged. COMMITMENT requires destroying the symbol you protect. MOVEMENT requires becoming the villain.
+The Joker doesn't attack the framework head-on — he attacks PEOPLE, and the pillars emerge from how those people respond. CLARITY requires understanding an enemy who defies all rational models. COURAGE requires acting when every option costs something. COMMITMENT requires holding the line when allies break. MOVEMENT requires becoming whatever is needed — even if that means becoming the villain.
+
+**The Joker's real weapon is not chaos — it's PEOPLE.** Harvey Dent is the target. Everything else is distraction.
 
 **The framework holds. But holding costs everything.**
+
+---
+
+## STRUCTURE MAP
+
+```
+OPENING: THE BOARD                        Slides 1-5      (~5 panels)
+PROLOGUE: THE AGENT OF CHAOS (TDK Act 1)  Slides 6-30     (~55 panels)
+ACT 1: CLARITY                            Slides 31-54    (~50 panels)
+ACT 2: COURAGE                            Slides 55-82    (~60 panels)
+ACT 3: COMMITMENT                         Slides 83-112   (~65 panels)
+ACT 4: MOVEMENT                           Slides 113-140  (~60 panels)
+CLOSING: THE COST + ARKHAM + BANE         Slides 141-152  (~25 panels)
+POST-CREDITS: "THIS WAS THE CRISIS"       Slides 153-177  (~55 panels)
+TRANSITION CARDS                          Slides 178-183  (6 cards)
+```
 
 ---
 
@@ -41,88 +60,131 @@ The Joker doesn't attack the framework head-on — he creates conditions where e
 ### Batman
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 1-13 | Pristine | Pre-explosion, hunting the Joker |
-| 14-34 | Battle-worn | Post-warehouse explosion, through to exile |
+| Opening, P2-P9, C1-C8 | Pristine (New Suit) | Lighter armor, more segmented — traded protection for speed |
+| K1-K4 | Pristine → Battle-Damaged | Convoy chase damages suit. Interrogation = intense but suit intact |
+| M1-M7 | Battle-Worn | Post-warehouse, through ferry resolution |
+| V1-V4 | Battle-Worn → Bleeding | Prewitt fight: stabbed in ribs by Joker, shot by Two-Face |
+| X1 | Bleeding, Limping | Final scenes: takes the fall, rides into light |
 
 ### The Joker
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 3 | Standard (Bank Heist) | Clown mask → revealed face, purple coat |
-| 4, 6 | Standard | Video call, escalation orchestration |
-| 10 | Standard | Batpod confrontation, "Hit me!" |
-| 11 | Interrogation | No coat, cuffed, makeup worn |
-| 15 | Nurse Disguise | White nurse uniform, cap, absurd |
-| 16 | Nurse (Walk-Away) | Same nurse outfit, detonator, explosion behind |
-| 19 | Standard | Construction site, dogs, detonator |
-| 31 | Arkham/Straitjacket | Faded makeup, padded cell |
+| P1 | Bank Heist — Clown Mask → Revealed | Mask off at end, purple coat hidden under robber clothes |
+| P4 | Mob Meeting — Standard | Purple coat, green waistcoat, pencil trick |
+| P6 | Gambol's Death — Standard | Body bag trick, knife, scar story #1 |
+| P9 | Video Ultimatum — Standard | Handheld video, Brian Douglas's body |
+| C4 | Fundraiser Crash — Standard | Purple coat among tuxedos, shoe blade |
+| K2 | Convoy Chase — Standard | Garbage truck, RPG, "Hit me!" |
+| K3 | Interrogation — Stripped | No coat, handcuffed. Makeup worn and smeared. |
+| M3 | Hospital — Nurse Disguise | White nurse uniform, wig, scrubs. Absurd and terrifying. |
+| M4 | Hospital Walk-Away — Nurse | Same nurse outfit, detonator, explosion behind |
+| V1-V2 | Prewitt Building — Standard | Final fight, dogs, knife. Ends hanging upside down. |
+| X2 | Arkham — Straitjacket | Faded makeup, padded cell. Calm, not raging. KNOWING. |
 
 ### Harvey Dent / Two-Face
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 3 (cameo), 4-13 | Harvey Dent (Before) | Target, mentioned |
-| 14 | Transition | Rescue, face burning |
-| 15 | Hospital | Bandaged, Joker corrupts |
-| 20-23 | Two-Face | Burned, coin, gun |
+| P5, P8 | Harvey Dent — White Knight | Courtroom, bat-signal, confident, double-headed coin |
+| C1-C3, C7-C8 | Harvey Dent — Under Pressure | Fundraiser, funeral, coin-flip interrogation of Schiff |
+| K1 | Harvey Dent — "I Am the Batman" | Press conference, takes fall for Batman |
+| K4 | Harvey Dent — Transition | Strapped to chair, diesel burns LEFT side of face |
+| M3 | Two-Face — Hospital | Bandaged then revealed. Joker converts him. First coin flip as Two-Face. |
+| M6 | Two-Face — Revenge | Burns exposed. Kills Wuertz, confronts Maroni, lures Ramirez. |
+| V3 | Two-Face — Last Stand | Gordon's family at gunpoint. Three coin flips. Dead — coin good side up. |
 
 ### Alfred Pennyworth
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 8-9 | Standard | Batcave, CLARITY intervention |
+| P3 | New Suit — Penthouse | Stitching dog bite, "Know your limits" |
+| C5 | Burma Story — Penthouse | Low light, coffee, THE CLARITY scene |
+| K1 | "Endure" Speech — Bat-bunker | Burns documents, "the right choice" |
+| M2 | Rachel's Letter — Alone | Reads letter, hides it. His commitment begins. |
+| V4 | Final Montage — Fireplace | Burns the letter. His commitment completed. |
 
 ### Jim Gordon
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 13-14 | Standard | Parallel rescue — Avenue X, too late for Rachel |
-| 20-28 | Standard | Warehouse, GCPD, Bat-Signal |
-
-### Lucius Fox (NEW — Extended Cut)
-| Scene Range | Variation | Notes |
-|-------------|-----------|-------|
-| 17 | Standard (Corporate) | Wayne Enterprises, sonar objection |
-| 33 | Workplace | Senior architect, ethical question about rollback |
+| P5, P8 | Standard — GCPD / Bat-signal | Planning with Dent and Batman |
+| C7 | "Death" + Reveal | Takes bullet for Mayor, fakes death, captures Joker |
+| K2 | Commissioner — Convoy | Reveals himself alive. "We got you, you son of a bitch." |
+| K3-K4 | MCU / Warehouse | Interrogation room, races to wrong address |
+| V3 | Last Stand — 250 52nd | Dent holds his family. Gordon on his knees. |
+| V4 | Dark Knight — Rooftop | Axe + bat-signal. "Because we have to chase him." |
 
 ### Rachel Dawes
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 4, 13-14 | Professional / Captive | Warehouse, phone call with Harvey, death |
+| C1, C3-C4 | Professional / Social | Fundraiser, engagement uncertainty, slugs Joker |
+| K1 | Dent's Cell | Visits Harvey after "I Am the Batman," gives Alfred the letter |
+| K4 | Captive — Warehouse | Tied to chair, fuel barrels. "Okay." Dies alone. |
 
-### The Joker (Workplace — NEW)
+### Lucius Fox
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 33 | Workplace (Chaos Agent) | The reckless deployer who caused the crisis |
+| P3 | Applied Sciences | New suit presentation |
+| P7 | Hong Kong | Plants sonar phone in LSI Holdings |
+| C6 | Bat-bunker | Fingerprint reconstruction, shuts down Reese |
+| M5 | Wayne Enterprises Lab | Sonar discovery: "Beautiful. Unethical. Dangerous." |
+| V4 | Final Montage | Types his name. Sonar self-destructs. |
 
 ### Bane
 | Scene Range | Variation | Notes |
 |-------------|-----------|-------|
-| 34 | Standard | Post-credits tease, The Pit |
+| X3 | Tease — Underground | Massive silhouette, mechanical breathing, mask |
+
+### Supporting Cast
+| Character | Actor | Scene(s) | Notes |
+|-----------|-------|----------|-------|
+| Bank Manager | William Fichtner | P1 | Fights back with shotgun, grenade in mouth |
+| Scarecrow / Crane | Cillian Murphy | P2 | Parking garage bust |
+| Fake Batmen (Copycats) | — | P2 | Hockey pads, "What's the difference between you and me?" |
+| Gambol | Michael Jai White | P4, P6 | Mob boss, killed by Joker |
+| Lau | Chin Han | P4, P7, P8, M1 | Mob accountant, Hong Kong, tied to money pile |
+| Maroni | Eric Roberts | P4, M6 | Mob boss, limo off bridge |
+| Mayor Garcia | Nestor Carbonell | P8, C7 | Assassination target at funeral |
+| Schiff | David Dastmalchian | C8 | Paranoid schizophrenic, Dent's coin-flip victim |
+| Reese | Joshua Harto | C6, M3 | Discovers Batman's identity, Joker wants him dead |
+| Wuertz | Ron Dean | M6 | Corrupt cop, killed by Two-Face |
+| Ramirez | Monique Gabriela Curnen | M6 | Corrupt cop, coin saves her |
+| Tattooed Prisoner | Tommy "Tiny" Lister | M7 | Throws detonator out the window — COMMITMENT moment |
+| Gordon's Son (James Jr.) | Nathan Gamble | C7, V3, V4 | "Why's he running, Dad?" |
 
 ---
 
-## FAMOUS LINES PLACEMENT
+## FAMOUS LINES — VERIFIED PLACEMENT
 
-| Line | Scene | Speaker | Impact |
-|------|-------|---------|--------|
-| "Whatever doesn't kill you simply makes you... stranger." | 3 | Joker | THE opening line — bank heist |
-| "Do I really look like a guy with a plan?" | 6 | Joker | Philosophy reveal |
-| "I'm just a dog chasing cars." | 6 | Joker | Mask of chaos |
-| "Tick tock, Batman." | 4 | Joker | Ultimatum |
-| "Some men just want to watch the world burn." | 8 | Alfred | Burma story — CLARITY anchor |
-| "Some men aren't looking for anything logical. They can't be bought, bullied, reasoned, or negotiated with." | 8 | Alfred | Burma story FULL |
-| "You burned the forest?" / "Yes." | 8 | Alfred / Batman | Burma story payoff |
-| "Come on. Come on. I want you to do it. HIT ME!" | 10 | Joker | Batpod dare |
-| "You made a choice. That makes you just like me." | 11 | Joker | Interrogation philosophy |
-| "I am NOTHING like you." | 11 | Batman | Interrogation response |
-| "Oh, it's just... you have RULES." | 11 | Joker | Rules observation |
-| "I'm not a monster. I'm just ahead of the curve." | 15 | Joker | Hospital corruption |
-| "Nobody panics when things go according to plan." | 15 | Joker | Chaos philosophy |
-| "Introduce a little anarchy... It's fair." | 15 | Joker | Corruption of Harvey |
-| "The only morality in a cruel world is chance." | 15 | Two-Face | Harvey broken |
-| "Beautiful. Unethical. Dangerous." | 17 | Fox | Sonar objection |
-| "As long as this machine is at Wayne Enterprises, I won't be." | 17 | Fox | COMMITMENT line |
-| "He's the hero Gotham deserves, but not the one it needs right now." | 27 | Gordon | THE Dark Knight speech |
-| "He's a silent guardian. A watchful protector. A Dark Knight." | 28 | Gordon (V.O.) | Closing monologue |
-| "Madness, as you know, is like gravity. All it takes is a little push." | 31 | Joker | Final prophecy |
-| "When Gotham is ashes, you have my permission to die." | 34 | Bane | EP3 tease |
+| Line | Scene | Speaker | Page | Verified |
+|------|-------|---------|------|----------|
+| "Whatever doesn't kill you simply makes you... stranger." | P1 | Joker | p. 11 | ✅ |
+| "I'm not wearing hockey pads." | P2 | Batman | p. 16 | ✅ |
+| "Know your limits, Master Wayne." / "Batman has no limits." | P3 | Alfred / Wayne | p. 18 | ✅ |
+| "How about a magic trick?" | P4 | Joker | p. 22 | ✅ |
+| "If you're good at something, never do it for free." | P4 | Joker | p. 22 | ✅ |
+| "My father was a drinker and a fiend..." | P6 | Joker | p. 28 | ✅ |
+| "I believe in Harvey Dent." | C1 | Wayne | p. 48 | ✅ |
+| "We are tonight's entertainment." | C4 | Joker | p. 54 | ✅ |
+| "Why so serious?" | C4 | Joker | p. 56 | ✅ |
+| "Some men just want to watch the world burn." | C5 ★ | Alfred | p. 61 | ✅ |
+| "Endure, Master Wayne... the right choice." | K1 ★ | Alfred | p. 76 | ✅ |
+| "I am the Batman." | K1 | Dent | p. 77 | ✅ |
+| "Hit me. Come on. HIT ME." | K2 | Joker | p. 82 | ✅ |
+| "You. Complete. Me." | K3 ★ | Joker | p. 88 | ✅ |
+| "I'm not a monster. I'm just ahead of the curve." | K3 | Joker | p. 89 | ✅ |
+| "Tonight you're going to break your one rule." | K3 | Joker | p. 90 | ✅ |
+| "It's not about money. It's about sending a message." | M1 | Joker | p. 97 | ✅ |
+| "Do I really look like a guy with a plan?" | M3 ★ | Joker | p. 104 | ✅ |
+| "I'm an agent of chaos." | M3 | Joker | p. 104 | ✅ |
+| "Beautiful. Unethical. Dangerous." | M5 ★ | Fox | p. 108 | ✅ |
+| "We're going to do this forever." | V2 | Joker | p. 132 | ✅ |
+| "Madness is like gravity. All it takes is a little push." | V2 | Joker | p. 132 | ✅ |
+| "The only morality in a cruel world is chance." | V3 | Dent | p. 135 | ✅ |
+| "Because you were the best of us." | V3 | Batman | p. 135 | ✅ |
+| "You either die a hero..." | V4 ★ | Batman | p. 138 | ✅ |
+| "I'm whatever Gotham needs me to be." | V4 ★ | Batman | p. 138 | ✅ |
+| "He's a silent guardian... a dark knight." | V4 | Gordon | p. 140 | ✅ |
+| "Because we have to chase him." | V4 | Gordon | p. 140 | ✅ |
+
+★ = Pillar naming moment
 
 ---
 
@@ -134,12 +196,11 @@ The Joker doesn't attack the framework head-on — he creates conditions where e
 
 ---
 
-
-## SCENE 1: COVER
+## SCENE 0.1: COVER
 **Location:** Gotham skyline, night
 **Purpose:** Establish tone, connect to EP1
 
-### Panel 1.1 — COVER IMAGE — FULL BLEED
+### Panel 0.1.1 — COVER IMAGE — FULL BLEED
 **Composition:** Gotham skyline at night. Dark. Massive. Rain-slicked streets far below. A single chessboard sits on a rooftop ledge, four pieces prominent — Knight (blue #4A90D9), Queen (red #EF4444), Rook (white), Bishop (orange #F97316). The city burns in soft orange glow behind it — multiple fires, distant chaos. A Joker playing card lies beside the board, face-up, grinning. This is the card Gordon showed Batman at the end of EP1.
 
 **Elements:**
@@ -156,19 +217,18 @@ The Joker doesn't attack the framework head-on — he creates conditions where e
 
 ---
 
-
-## SCENE 2: THE BOARD SPEAKS
+## SCENE 0.2: THE BOARD SPEAKS
 **Location:** Rooftop, close on chessboard
 **Purpose:** Connect to EP1, introduce the test
 
-### Panel 2.1 — THE CHESSBOARD (EXTREME CLOSE)
+### Panel 0.2.1 — THE CHESSBOARD (EXTREME CLOSE)
 **Composition:** Extreme close-up of the chessboard. The four prominent pieces — Knight, Queen, Rook, Bishop — glow faintly in their colors (blue, red, white, orange). Batman's gloved hand hovers above, not touching. He's remembering.
 
 **Character Block:**
 ```
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates covering torso, arms, and legs. Black cape draped from shoulders. Pointed cowl covering head with pointed ear extensions, lower face and jaw exposed. Black gauntlets with fin blades on forearms. Black utility belt at waist. Black armoured boots. Clean, undamaged, ready state.
+- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates covering torso, arms, and legs. Black cape draped from shoulders. Pointed cowl covering head with pointed ear extensions, lower face and jaw exposed. Black gauntlets with fin blades on forearms. Black utility belt at waist. Black armoured boots. NEW SUIT — more segmented, greater mobility, lighter armor (traded protection for speed).
 - Expression: Contemplative, remembering
 - Action: Gloved hand hovering above chessboard
 - Position: Standing at rooftop ledge, looking down at board
@@ -179,7 +239,7 @@ BATMAN (PRISTINE) FULL DESCRIPTION:
 
 ---
 
-### Panel 2.2 — FLASHBACK: RA'S
+### Panel 0.2.2 — FLASHBACK: RA'S
 **Composition:** Quick flash — Ra's Al Ghul in the monastery, training Bruce. Semi-transparent overlay. The memory of EP1.
 
 **Character Block:**
@@ -197,8 +257,8 @@ HENRI DUCARD FULL DESCRIPTION:
 
 ---
 
-### Panel 2.3 — THE JOKER CARD
-**Composition:** Close on the Joker card from EP1's ending. Crude drawing. Grinning face. Evidence bag visible at edge.
+### Panel 0.2.3 — THE JOKER CARD
+**Composition:** Close on the Joker card from EP1's ending. Crude drawing. Grinning face. Evidence bag visible at edge. The chessboard faintly visible beneath.
 
 **Elements:**
 - Joker card: Hand-drawn, crude, gleeful menace
@@ -210,3244 +270,2420 @@ HENRI DUCARD FULL DESCRIPTION:
 
 ---
 
-### Panel 2.4 — THE ESCALATION (GHOSTLY)
-**Composition:** Same chessboard, but now four ghostly overlays float above it — transparent images of an escalating campaign. A mob bank in flames. A judge's car bombed on courthouse steps. A commissioner collapsed at his desk. Rachel Dawes clutching a threat letter. All semi-transparent, overlapping. Visual chaos ABOVE the ordered board.
+### Panel 0.2.4 — THE ESCALATION (GHOSTLY)
+**Composition:** Same chessboard, but now ghostly overlays float above it — transparent images of what's coming. A mob bank robbery. A pencil driven into a table. A judge's car exploding. A man hung from a flagpole in a Batman costume. All semi-transparent, overlapping, creating visual chaos ABOVE the ordered board.
 
 **Text:**
 - **Caption Box:** "He wants to see if the framework breaks."
 
 ---
 
-### Panel 2.5 — JOKER'S EYES (EXTREME CLOSE)
-**Composition:** Extreme close-up of the Joker's eyes. Just the eyes. Manic. Calculating. Delighted. Smeared black makeup rings.
+### Panel 0.2.5 — JOKER'S EYES (EXTREME CLOSE)
+**Composition:** Extreme close-up of the Joker's eyes. Just the eyes. Manic. Calculating. Delighted. Smeared black makeup rings. The green-tinged hair barely visible at the edges.
 
 **Text:**
 - **Caption Box:** "Tonight, everything gets tested."
 
 ---
 
-# ACT 1: THE CHAOS
+# PROLOGUE: THE AGENT OF CHAOS
+*TDK Act 1 — The world before chaos. Everything at its peak.*
 
 ---
 
+## SCENE P1: THE BANK HEIST
+**Location:** Gotham National Bank — exterior rooftop → interior vault → lobby → street
+**Purpose:** THE Dark Knight opening — establish Joker's genius. Each clown kills the previous per Joker's plan.
+**Pillar Seed:** The "chaos" is meticulously planned. Every death choreographed.
+**TDK Reference:** Scene 1, pp. 1-11
 
-## SCENE 3: THE BANK HEIST *(NEW — RESTORED)*
-**Location:** Gotham National Bank — morning
-**Purpose:** THE Dark Knight opening — establish Joker's chaotic genius before the main crises
-**Pillar Connection:** Chaos operates by its OWN rules
-
-### Panel 3.1 — WIDE ESTABLISHING
-**Composition:** Gotham National Bank exterior. Morning. A yellow school bus idles at the curb among other school buses — nothing unusual. Inside the bank's glass facade, we see FIVE FIGURES in clown masks moving through the lobby. Each mask is different — grotesque, painted, theatrical.
+### Panel P1.1 — THE ROOFTOP — WIDE
+**Composition:** Gotham rooftop, morning. Two men in clown masks — GRUMPY and CHUCKLES — stand at the edge, zip-line equipment ready. Below: Gotham National Bank, marble facade, morning light. They look at each other through grotesque painted masks.
 
 **Elements:**
-- Bank exterior: Imposing marble, morning light
-- School bus: Yellow, ordinary, hiding in plain sight
-- Clown masks: Visible through glass, five distinct figures
-- Other school buses: Lined up, field trip camouflage
+- Rooftop: Urban, cables, equipment
+- Bank below: Imposing marble, Gotham National Bank sign
+- Two clown masks: Grotesque, painted, each distinct
+- Morning light: Golden, the calm before
 
-**Text:**
-- **Caption Box:** "It started like every robbery. Masks. Guns. A plan."
+**GRUMPY:** "Three of a kind. Let's do this."
+
+**CHUCKLES:** "That's it? Three guys?"
+
+**GRUMPY:** "Two guys on the roof. Every guy gets a share. Five shares is plenty."
+
+**CHUCKLES:** "Six shares. Don't forget the guy who planned the job."
+
+**GRUMPY:** "He thinks he can sit it out and still take a slice? I know why they call him the Joker."
 
 ---
 
-### Panel 3.2 — INTERIOR — THE ROBBERY
-**Composition:** Inside the bank. CLOWN-MASKED ROBBERS forcing everyone to the floor. One is cracking the vault. One is disabling the alarm. One is holding a gun on the bank manager. Professional. Efficient. But something is wrong — one of the clowns is WATCHING the others.
+### Panel P1.2 — THE LOBBY — INTERIOR
+**Composition:** Inside Gotham National Bank. Marble floors, teller windows, imposing chandeliers. FIVE clown-masked robbers working simultaneously. One cracking the vault (HAPPY — barefoot, sneakers on hands for grip). One disabling the alarm (DOPEY). One holding hostages (GRUMPY). One covering the lobby (CHUCKLES). One driving the bus outside (BUS DRIVER). Professional. Efficient. But there's a sixth mask sitting empty on a counter.
 
 **Elements:**
-- Bank interior: Marble floors, teller windows, chandeliers
-- Robbers: Five clown masks, each working a different task
-- Hostages: On the floor, terrified
-- One clown: Apart from the others, observing
+- Bank interior: Marble, chandeliers, teller windows
+- Five robbers: Distinct masks, each at a station
+- Hostages: On the floor, hands on heads
+- Sixth mask: On the counter, waiting
+- Vault door: Massive, being cracked
 
-**Text:**
-- **Caption Box:** "But the clowns had a problem."
+**Caption Box:** "Six men. Six masks. One plan none of them knew the whole of."
 
 ---
 
-### Panel 3.3 — THE BETRAYAL
-**Composition:** A split-panel sequence. LEFT: One clown shoots another in the back — eliminating a partner. RIGHT: A different clown garrotes a third — eliminating another. Each robber has been instructed to kill the others after their task is done. The crew is destroying itself from within.
+### Panel P1.3 — THE ELIMINATION CHAIN
+**Composition:** Split-panel sequence showing the chain of betrayals. TOP LEFT: Dopey disables the alarm — CHUCKLES shoots him in the back. "The alarm guy? He's done. Joker told me to take him out once the alarm was done." TOP RIGHT: Happy opens the vault — electrified, he's shaken but alive. CHUCKLES approaches to eliminate him. BOTTOM: GRUMPY shoots CHUCKLES. "The Joker told ME to eliminate whoever finished the alarm."
 
 **Elements:**
-- LEFT: Clown shooting clown, vault in background
-- RIGHT: Clown eliminating clown, alarm panel in background
-- Both: The shock of betrayal
+- Three sub-panels showing the chain
+- Each killing follows the Joker's instructions
+- Each man thinks he's the last one standing
+- The plan eats itself from within
 
-**Text:**
-- **Caption Box:** "Each one was told to eliminate the others. Smaller shares."
-
----
-
-### Panel 3.4 — TWO REMAIN
-**Composition:** Two clowns left. One holds bags of money. The other stands near the school bus exit. The money-holder raises his gun — his orders are clear. He's the last elimination.
-
-**Elements:**
-- Two clowns: Facing each other, one with bags, one near door
-- Bank: Chaos behind them, hostages on floor
-- Tension: Who kills whom?
-
-**Text:**
-- **Caption Box:** "Two left. One with the gun. One with the plan."
+**Caption Box:** "Each clown was told to kill the one before him. Smaller shares."
 
 ---
 
-### Panel 3.5 — THE REVEAL
-**Composition:** The money-holder pulls the trigger — click. Empty. The other clown tilts his head. Slowly reaches up and REMOVES HIS MASK. THE JOKER. That face. That makeup. Those scars. He's been here the whole time.
+### Panel P1.4 — THE BANK MANAGER FIGHTS BACK
+**Composition:** The BANK MANAGER (William Fichtner) — white-haired, bloodied, furious — has pulled a shotgun from under the counter. He fires at GRUMPY and the last clown (BOZO). Grumpy is hit. The Manager advances, reloading.
 
 **Character Block:**
 ```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes in uneven circles
-- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, unkempt and pushed back
-- Costume: Purple (#4A0080) long coat over rumpled green (#2D5A27) waistcoat, patterned mismatched shirt, purple trousers, scuffed shoes — HIDDEN UNDER bank robber clothing until mask removal
-- Expression: Delighted, tilting head, the big reveal
-- Action: Removing clown mask, face revealed
-- Position: Center frame, standing over last robber
+BANK MANAGER FULL DESCRIPTION:
+- Face & Body: William Fichtner, Caucasian man, mid-50s, white hair, intense blue eyes, bloodied face from being struck, athletic build, 6'0"
+- Costume: Dark grey suit (#404040), white dress shirt, dark tie loosened, BLOODIED — hit in the face during the robbery
+- Expression: Furious, defiant, firing
+- Action: Advancing with pump-action shotgun
+- Position: Behind teller counter, firing toward robbers
 ```
 
-**Text:**
-- **Joker Speech (jagged):** "Whatever doesn't kill you simply makes you..."
+**BANK MANAGER:** "Think you're smart, huh? The guy that hired you, he'll just do the same to you. Oh — criminals in this town used to believe in things. HONOR. RESPECT. Look at you. What do you believe in?"
 
 ---
 
-### Panel 3.6 — THE SMILE
-**Composition:** Close on the Joker's face. Full reveal. That Glasgow smile. That makeup. He licks his lips. The bank manager on the floor behind him, a smoke grenade canister in the manager's mouth.
+### Panel P1.5 — THE REVEAL
+**Composition:** The last clown — BOZO — tilts his head at the Bank Manager's speech. Slowly reaches up with both hands. Removes his mask. THE JOKER. That face. That makeup. Those scars. Glasgow smile. Smeared white paint. Black eyes. Green-tinged hair. He's been here the entire time — the sixth man, the one they never counted.
 
 **Character Block:**
 ```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes in uneven circles
-- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, unkempt and pushed back
-- Costume: Purple (#4A0080) long coat visible now, green waistcoat beneath
-- Expression: Gleeful, licking lips, triumphant
-- Action: Standing over bank manager, delivering line
-- Position: Center frame, full figure
+THE JOKER (BANK HEIST) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face with sharp cheekbones, manic wide eyes with dark circles, 6'1", lean wiry build
+- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks — raised scar tissue visible beneath the paint. Black eye makeup smudged around both eyes in uneven circles, giving hollow skull appearance
+- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, unkempt and pushed back from face
+- Costume: Purple (#4A0080) long coat NOW VISIBLE — was hidden under bank robber overalls which he's shrugged off. Beneath: rumpled green (#2D5A27) waistcoat over patterned shirt, purple trousers, scuffed shoes
+- Expression: Delighted, head tilted, the big reveal — "you've been talking to me this whole time"
+- Action: Removing clown mask with both hands, face emerging
+- Position: Center frame, standing over the Bank Manager
 ```
 
-**Text:**
-- **Joker Speech (jagged):** "...stranger."
+**Caption Box:** "He was never the sixth man. He was the ONLY man."
 
 ---
 
-### Panel 3.7 — THE SCHOOL BUS
-**Composition:** The Joker drives the school bus OUT THROUGH THE BANK WALL. Bricks and glass exploding outward. The bus slots perfectly into a LINE OF OTHER SCHOOL BUSES passing by. A field trip convoy. The robbery disappears into Gotham's morning traffic. Genius hiding in plain sight.
+### Panel P1.6 — THE GRENADE
+**Composition:** Close on the Joker's face. Full reveal. That Glasgow smile. He licks his lips. In one hand: a smoke grenade canister trailing a purple thread from inside his coat lining. He places the grenade IN the Bank Manager's mouth. The thread pulls taut — if the Manager moves, it detonates.
+
+**Character Block:**
+```
+THE JOKER (BANK HEIST) FULL DESCRIPTION:
+[Same as P1.5]
+- Expression: Gleeful, intimate, almost gentle as he places the grenade
+- Action: Placing smoke grenade in Bank Manager's mouth, holding purple thread
+```
+
+**Joker:** "I believe whatever doesn't kill you simply makes you..."
+
+---
+
+### Panel P1.7 — THE SCHOOL BUS
+**Composition:** Wide shot. A SCHOOL BUS crashes through the bank's back wall. The Joker doesn't flinch. He picks up the duffel bags of cash. Walks to the bus. Behind him, the Bank Manager lies on the floor, grenade in mouth, thread trailing to the Joker's coat. As the Joker steps onto the bus, the thread pulls the pin — smoke billows. The bus reverses out of the bank.
 
 **Elements:**
-- School bus: Crashing through bank wall
-- Other buses: Line of identical buses on the street
-- Debris: Bricks, glass, dust
-- Camouflage: The bus merges seamlessly
+- School bus: Yellow, crashing through marble wall
+- Joker: Walking toward bus, bags of cash, coat billowing
+- Bank Manager: On floor, smoke grenade detonating
+- Debris: Marble dust, broken wall, chaos
 
-**Text:**
-- **Caption Box:** "He wasn't just a criminal. He was a system."
+**Joker:** "...stranger."
 
 ---
 
-### Panel 3.8 — BATMAN WATCHING
-**Composition:** High angle — a rooftop across from the bank. BATMAN watches the school bus merge into traffic. He's been too late. The bus is already one of many. Unreachable.
+### Panel P1.8 — HIDING IN PLAIN SIGHT
+**Composition:** Exterior. The Joker's school bus pulls out of the bank — and slots PERFECTLY into a line of other school buses driving past. A school convoy. Field trip. The bank robbery bus disappears among identical yellow buses. Genius. Invisible. Gone.
+
+**Elements:**
+- School bus convoy: 6-7 yellow buses in a line
+- Joker's bus: Indistinguishable from the others
+- Bank behind: Smoke pouring from the hole in the wall
+- Morning traffic: Normal, oblivious
+
+**Caption Box:** "Hiding in plain sight. He'd do it again."
+
+**WHAT NOT TO DRAW:** Do NOT show the Joker driving the bus. The point is the bus is anonymous — no face visible.
+
+---
+
+## SCENE P2: THE SCARECROW BUST
+**Location:** Multi-story parking garage → rooftop
+**Purpose:** Establish Batman's limits + the copycat problem. "I'm not wearing hockey pads."
+**Pillar Seed:** Batman's identity can't be replicated — foreshadows the ending where identity is what he sacrifices.
+**TDK Reference:** Scene 2, pp. 12-17
+
+### Panel P2.1 — PARKING GARAGE — CHAOS
+**Composition:** Multi-story parking garage at night. Chaos. A MOB DEAL interrupted — Scarecrow (Crane) selling drugs to the Chechen. Rottweilers barking. Batman drops from above into the scene. But he's not alone — THREE COPYCAT BATMEN in homemade costumes have also shown up, carrying guns, wearing hockey pads and black fabric.
 
 **Character Block:**
 ```
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, black cape, pointed cowl, gauntlets with fin blades, utility belt, armoured boots. Clean, undamaged.
-- Expression: Jaw clenched, calculating, this enemy is different
-- Action: Standing at rooftop edge, watching the bus disappear
-- Position: Foreground, city behind, bank chaos below
+- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates covering torso, arms, and legs. Black cape draped from shoulders. Pointed cowl with pointed ear extensions, lower face and jaw exposed. Black gauntlets with fin blades on forearms. Black utility belt at waist. NEW SUIT — more segmented plates, greater mobility.
+- Expression: Annoyed, dealing with amateurs AND criminals simultaneously
+- Action: Landing from above, cape spreading
+- Position: Center of garage, criminals and copycats scattered around
 ```
 
-**Text:**
-- **Caption Box:** "Ra's had rules. This one had none."
-
-**WHAT NOT TO DRAW:** No blood. No graphic violence. The deaths are implied through staging, not detail.
-
----
-
-
-## SCENE 4: THE JOKER'S ESCALATION
-**Location:** Multiple Gotham locations (fragmented)
-**Purpose:** Establish the Joker's escalating campaign — cognitive overload through building chaos
-
-### Panel 4.1 — MOB BANK AFTERMATH — WIDE
-**Composition:** Gotham's financial district. Multiple mob-connected banks hit in a single night. Shattered glass, police tape, forensic teams. The criminal underworld's money supply — destroyed. Not by law enforcement. By the Joker. He's destabilizing everyone.
-
 **Elements:**
-- Bank exteriors: Three visible, all crime scenes
-- Police tape: Yellow lines crossing frame
-- Evidence markers: Scattered across sidewalks
-- Mob bosses' cars: Torched in the parking structure behind
+- Parking garage: Concrete, fluorescent flicker, levels visible
+- Scarecrow: Burlap mask, thin build, drug briefcase
+- Rottweilers: Chechen's dogs, lunging, teeth bared
+- Copycat Batmen: Three men in terrible homemade costumes, hockey pads, guns
+- Mob dealers: Scattering
 
-**Text:**
-- None (image only — let the visual establish)
-
----
-
-### Panel 4.2 — JUDGE SURILLO — MEDIUM
-**Composition:** Courthouse steps. Morning. A charred vehicle sits at the curb, still smoking. JUDGE SURILLO's car — bombed. Yellow evidence markers. A forensic team working the scene. The justice system's first line — taken out. Gotham's judiciary targeted.
-
-**Elements:**
-- Courthouse: Imposing marble, American flag at half-mast
-- Car: Charred skeleton, driver's door blown open
-- Evidence team: Working the blast zone
-- Onlookers: Courthouse staff, shocked, behind the tape
-
-**Text:**
-- None (image only)
+**Caption Box:** "The suit inspired imitators. The mission didn't."
 
 ---
 
-### Panel 4.3 — COMMISSIONER LOEB — MEDIUM
-**Composition:** GCPD Commissioner's office. COMMISSIONER LOEB slumped at his desk, a glass of whiskey still in his hand. Officers rushing in. He's been POISONED — the Joker got to the supply chain. The system's protector, taken from within.
-
-**Elements:**
-- Office: Dark wood, American flag, commendations on wall
-- Loeb: Slumped forward, glass in hand, grey-faced
-- Officers: Rushing in through the door, one calling for medics
-- Whiskey bottle: On desk, evidence marker already placed
-
-**Text:**
-- None (image only)
-
----
-
-### Panel 4.4 — RACHEL AND HARVEY — SPLIT
-**Composition:** SPLIT PANEL. LEFT: RACHEL DAWES at her desk, opening a letter. Her face drains of color — a direct threat, the Joker's crude handwriting, a playing card tucked inside. RIGHT: HARVEY DENT's DA office, windows SHOT OUT, bullet holes stitched across the wall. Harvey being pulled behind his desk by security. The personal edge — the Joker is targeting the people, not just the institutions.
-
-**Elements:**
-- LEFT: Rachel at desk, letter in hand, Joker card visible
-- RIGHT: Harvey's office, shattered windows, bullet damage, security dragging him down
-- Both: The personal stakes made visceral
-
-**Text:**
-- None (image only)
-
----
-
-### Panel 4.5 — FOUR CRISES — FRAGMENTED GRID
-**Composition:** All four previous panels shown together in a FRAGMENTED, OVERLAPPING layout. Panels at angles, edges bleeding into each other. The visual composition itself creates cognitive overload. Mob banks burning. Judge assassinated. Commissioner poisoned. Rachel and Harvey targeted. This is what Batman sees. This is what the Joker designed.
-
-**Text:**
-- **Caption Box:** "The Joker doesn't want chaos."
-
----
-
-### Panel 4.6 — THE JOKER — EXTREME CLOSE
-**Composition:** THE JOKER in extreme close-up. Just his face filling the panel. Smeared makeup. Glasgow scars. Those eyes — manic, calculating, delighted. He's looking directly at us.
+### Panel P2.2 — "I'M NOT WEARING HOCKEY PADS"
+**Composition:** Batman has taken down Scarecrow and the mob dealers, but a Rottweiler has torn into his arm — bite damage visible on the new suit. One of the COPYCATS confronts him, breathing hard, hockey pad showing through torn black fabric.
 
 **Character Block:**
 ```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes in uneven circles
-- Hair: Greasy, stringy, green-tinged dirty blonde hair
-- Costume: Purple (#4A0080) long coat collar visible at bottom of frame
-- Expression: Manic delight, eyes locked on viewer, intimate and terrifying
-- Action: Leaning toward camera, filling frame
-- Position: Extreme close-up, face only
+COPYCAT BATMAN FULL DESCRIPTION:
+- Face & Body: Generic man, late 20s, exposed chin and neck, sweating, out of shape
+- Costume: Homemade Batman costume — black fabric over hockey pads, crude cowl made from black fabric with holes cut for eyes, no cape just black sheet material, hockey gloves, combat boots
+- Expression: Indignant, breathing hard
+- Action: Confronting the real Batman
+- Position: Face to face with Batman, parking garage
 ```
 
-**Text:**
-- **Joker Speech (jagged):** "Tick tock, Batman."
-- **Caption Box:** "He wants you to create it by trying to stop it."
+**COPYCAT:** "What gives you the right? What's the difference between you and me?"
+
+**BATMAN:** "I'm not wearing hockey pads."
+
+**Caption Box:** "The difference isn't the suit. It's what you're willing to sacrifice while wearing it."
 
 ---
 
-### Panel 4.7 — THE CLOCK *(NEW — EXPANSION)*
-**Composition:** A visual composition — four timers, each counting down. Each timer connected by a faint line to a different chess piece (Knight/blue, Queen/red, Rook/white, Bishop/orange). The framework and the chaos, mapped together.
+## SCENE P3: THE NEW SUIT
+**Location:** Wayne Enterprises Applied Sciences → Wayne penthouse
+**Purpose:** Setup: Batman trades protection for speed. Alfred warns about limits.
+**Pillar Seed:** CLARITY about self — the gap between who you think you are and what you can survive.
+**TDK Reference:** Scene 3, pp. 17-19
 
-**Elements:**
-- Four timers: Different times, all counting down
-- Four chess pieces: Each connected to a timer
-- Lines: Faint, showing the structure within chaos
-
-**Text:**
-- **Caption Box:** "Four crises. Four choices. One framework."
-
----
-
-### Panel 4.8 — GOTHAM WIDE *(NEW — EXPANSION)*
-**Composition:** Gotham from above. Night. Four locations pulsing with faint light — the financial district, the courthouse, GCPD headquarters, the DA's office. Helicopter spotlights sweeping. A city under siege from within.
-
-**Elements:**
-- Gotham aerial: Dark, sprawling
-- Four pulse points: Glowing locations across the city
-- Helicopters: Searchlights
-- Chaos: Visible at multiple institutions
-
-**Text:**
-- **Caption Box:** "Gotham was the board. The Joker was playing all four sides."
-
----
-
-
-## SCENE 5: BATMAN PARALYZED
-**Location:** The Batcave
-**Purpose:** Show information overload leading to paralysis
-
-### Panel 5.1 — THE BATCAVE (WIDE)
-**Composition:** The Batcave — massive, dark, filled with screens. BATMAN stands at the center console, surrounded by monitors showing all four crises simultaneously. Police scanners, news feeds, GPS tracking. He's not moving. Frozen.
+### Panel P3.1 — APPLIED SCIENCES
+**Composition:** Wayne Enterprises Applied Sciences division. Lucius Fox presents the new Batsuit on a display stand — sleek, segmented, lighter. Bruce Wayne in a tailored suit examines it. The suit is more mobile but visibly thinner than the previous version.
 
 **Character Block:**
 ```
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, black cape, pointed cowl, gauntlets with fin blades, utility belt, armoured boots. Clean, undamaged.
-- Expression: Overwhelmed, jaw tight, eyes scanning rapidly
-- Action: Standing rigid at console, not moving
-- Position: Center of Batcave, surrounded by screens
+LUCIUS FOX FULL DESCRIPTION:
+- Face & Body: Morgan Freeman, African-American man, late 60s, grey hair closely cropped, wise warm eyes behind thin-framed glasses, calm dignified presence, medium build, 6'2"
+- Costume: Dark navy suit (#1B2838), white dress shirt, subtle patterned tie, polished black shoes — corporate, immaculate
+- Expression: Professional, slightly concerned about the trade-off
+- Action: Gesturing toward the new suit on display
+- Position: Standing beside display stand, facing Bruce
 ```
 
-**Text:**
-- **Caption Box:** "The problem isn't lack of information."
-
----
-
-### Panel 5.2 — BATMAN'S EYES (EXTREME CLOSE)
-**Composition:** Extreme close-up on Batman's eyes through the cowl. They're moving rapidly — left, right, up, down — trying to process everything.
-
-**Text:**
-- **Caption Box:** "It's too much of it."
-
----
-
-### Panel 5.3 — THE SCREENS (DETAIL)
-**Composition:** Close-up on the multiple screens. Each one showing a different crisis, a different countdown. Text overlays, GPS coordinates, radio chatter visualized as waveforms. Pure noise.
-
-**Elements:**
-- Screens: 12+ monitors, each showing different feed
-- Waveforms: Audio visualized
-- GPS: Coordinates overlapping
-- Timers: Multiple countdowns
-
-**Text:**
-- **Radio chatter (multiple overlapping small speech bubbles):**
-  - "Judge Surillo's vehicle confirmed destroyed—"
-  - "Commissioner Loeb's security detail reporting poisoning—"
-  - "Harvey Dent's office has been shot up—"
-  - "Rachel Dawes received a direct threat—"
-
----
-
-
-## SCENE 6: THE JOKER'S VOICE
-**Location:** Batcave (audio intrusion)
-**Purpose:** Joker's first direct communication — establishing his philosophy
-
-### Panel 6.1 — THE JOKER'S CALL
-**Composition:** Batman at the console. One screen has changed — it now shows a PHONE ICON, incoming call. All other screens still showing chaos. Batman's hand reaches for the answer button.
-
-**Character Block:**
 ```
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw visible below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots. Clean.
-- Expression: Wary, calculating
-- Action: Hand reaching for screen, answering
-- Position: At console, leaning forward
+BRUCE WAYNE FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair neatly styled, clean-shaven, strong jaw, intense dark eyes, athletic muscular build, 6'0"
+- Costume: Tailored charcoal grey suit (#404040), crisp white dress shirt, no tie, top button open — wealthy but understated
+- Expression: Studying the suit, calculating the trade-off
+- Action: Examining the new suit, touching the thinner armor
+- Position: Standing beside Fox, penthouse lab
 ```
 
-**Text:**
-- None (tension)
+**FOX:** "It'll stop a knife."
+
+**WAYNE:** "How about a bullet?"
+
+**FOX:** "...it'll make you more vulnerable to gunfire."
+
+**WAYNE:** "I'll be faster."
 
 ---
 
-### Panel 6.2 — JOKER ON SCREEN
-**Composition:** The screen now shows THE JOKER, filming himself on a shaky handheld camera. Behind him, unclear location. He's grinning. Makeup fresh. This was planned.
-
-**Character Block:**
-```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint, messy red lipstick extending into Glasgow smile scars, black eye makeup smudged around eyes
-- Hair: Greasy, stringy, green-tinged dirty blonde hair
-- Costume: Purple (#4A0080) long coat, green (#2D5A27) waistcoat visible
-- Expression: Gleeful, conspiratorial, performing for camera
-- Action: Holding camera close to face, grinning
-- Position: ON SCREEN — shown within monitor frame
-```
-
-**Text:**
-- **Joker Speech (jagged):** "Do I really look like a guy with a plan?"
-
----
-
-### Panel 6.3 — JOKER CONTINUES
-**Composition:** Same screen shot, Joker leaning closer. Intimate. Conspiratorial. The camera wobbles.
-
-**Text:**
-- **Joker Speech (jagged):** "I'm just a dog chasing cars. I wouldn't know what to do with one if I caught it."
-
----
-
-### Panel 6.4 — JOKER'S LOGIC *(NEW — EXPANSION)*
-**Composition:** The Joker pulling back from the camera, spreading his arms wide. His eyes sharpen — the "aw shucks" mask slipping for a moment. Behind him, glimpses of Gotham burning on smaller screens.
-
-**Text:**
-- **Joker Speech (jagged):** "You know what I am? I'm like a dog chasing cars. But the thing is..."
-- **Joker Speech (jagged):** "...I already caught one."
-
----
-
-### Panel 6.5 — THE TAUNT
-**Composition:** Joker leaning close to the camera again. Conspiratorial. Daring. The screens behind him show Gotham's institutions in flames — the judge, the commissioner, the mob banks. He's proud of the chaos.
-
-**Text:**
-- **Joker Speech (jagged):** "You think you can stop this? You think your little RULES can contain me?"
-- **Joker Speech (jagged):** "Come find me, Bats."
-
----
-
-### Panel 6.6 — JOKER'S EXIT
-**Composition:** The Joker blowing a kiss at the camera. Then the screen goes dead. Static.
-
-**Text:**
-- **Joker Speech (jagged):** "I'll be waiting."
-
----
-
-### Panel 6.7 — BATMAN'S REACTION
-**Composition:** Batman's full body in the Batcave. Shoulders tense. Fists clenched. The screens behind him show the escalating crisis — institutions falling, people targeted. The Joker is everywhere and nowhere. He's still not moving.
-
-**Character Block:**
-```
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots.
-- Expression: Anguished, frozen between too many threats
-- Action: Standing rigid, fists clenched at sides
-- Position: Center frame, screens behind showing chaos across Gotham
-```
-
-**Text:**
-- **Batman Internal Monologue (grey box, italic):** "He's not making demands. He's not negotiating. He's just... destroying."
-
----
-
-
----
-
-# ACT 2: CLARITY
-## "Know what matters — even when everything is on fire."
-
----
-
-
-## SCENE 7: THE FRAMEWORK SURFACES
-**Location:** Batcave
-**Purpose:** Batman remembers Ra's training — setup for CLARITY
-
-### Panel 7.1 — BATMAN FROZEN
-**Composition:** Batman standing before screens, paralyzed by choices. His reflection visible in the dark glass between monitors.
-
-**Character Block:**
-```
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots.
-- Expression: Lost, searching for the answer
-- Action: Standing motionless, reflection in dark glass
-- Position: Center, facing screens
-```
-
-**Text:**
-- **Caption Box:** "Ra's voice echoed in his mind."
-
----
-
-### Panel 7.2 — FLASHBACK: RA'S TRAINING
-**Composition:** Semi-transparent overlay — Ra's Al Ghul in the monastery, blindfolded training scene from EP1.
-
-**Character Block:**
-```
-HENRI DUCARD FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, weathered face with calm authority, tall lean powerful build, 6'4"
-- Costume: Dark brown (#3D2914) layered robes over black (#0A0A0A) tunic, League training attire
-- Expression: Teaching, fierce, demanding attention
-- Action: Standing over blindfolded Bruce, semi-transparent overlay
-- Position: Center, monastery background faded
-```
-
-**Text:**
-- **Ra's Speech (ghostly, faded bubble):** "Always mind your surroundings."
-
----
-
-### Panel 7.3 — FLASHBACK: THE LESSON
-**Composition:** Another flash — Ra's and Bruce face to face, the execution refusal scene from EP1.
-
-**Text:**
-- **Ra's Speech (ghostly, faded bubble):** "The training is nothing. The will to act is everything."
-
----
-
-### Panel 7.4 — BATMAN'S EYES (CLARITY MOMENT)
-**Composition:** Batman's eyes. Something is changing. The chaos is the same, but he's seeing differently. A faint blue (#4A90D9) glow at the edges of the frame — CLARITY approaching.
-
-**Text:**
-- **Caption Box:** "The framework was there. He just needed to use it."
-## SCENE 8: ALFRED'S INTERVENTION
-**Location:** Batcave
-**Purpose:** The CLARITY moment — ruthless subtraction + Alfred's Burma story (FULL)
-
-### Panel 8.1 — ALFRED ENTERS
-**Composition:** ALFRED PENNYWORTH walks into frame from the right. He's carrying a tea tray — but his expression is all business. He sees the screens. He sees Batman frozen. He sets down the tray without ceremony.
+### Panel P3.2 — ALFRED'S WARNING
+**Composition:** Wayne penthouse. Alfred stitches a deep dog bite on Bruce's arm — aftermath of the Scarecrow bust. Medical kit on the table. Intimate. Quiet. Two men who've been doing this too long.
 
 **Character Block:**
 ```
 ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face with deep smile lines, gentle knowing eyes, slim build, 5'10"
-- Costume: Dark charcoal (#374151) waistcoat over white (#FFFFFF) dress shirt, dark navy (#1E3A5F) tie, charcoal dress trousers, polished black shoes
-- Expression: Concerned but composed, assessing the situation
-- Action: Setting down tea tray, eyes on the screens
-- Position: Right side of frame, entering
+- Face & Body: Michael Caine, Caucasian English man, late 60s, grey hair neatly combed, kind weathered face, warm steady eyes, upright posture despite age, slim build, 5'10"
+- Costume: Dark charcoal vest (#333333) over white dress shirt, sleeves rolled to elbows for medical work, dark trousers, reading glasses perched on nose
+- Expression: Caring but worried, stitching with practiced hands
+- Action: Stitching Bruce's arm, medical kit open
+- Position: Seated beside Bruce, penthouse, low warm light
 ```
 
-**Text:**
-- None (action)
+**ALFRED:** "Know your limits, Master Wayne."
+
+**WAYNE:** "Batman has no limits."
+
+**ALFRED:** "Well, you do, sir."
+
+**Caption Box:** "The first lesson of CLARITY: knowing yourself. Even when you don't want to."
 
 ---
 
-### Panel 8.2 — ALFRED APPROACHES CONSOLE
-**Composition:** Alfred walking past Batman, directly to the console. Batman doesn't stop him. Alfred's hand reaches for the screen controls.
+## SCENE P4: THE MOB MEETING + PENCIL TRICK
+**Location:** Restaurant kitchen (mob meeting)
+**Purpose:** Joker enters the power structure. Pencil trick. "Never do it for free."
+**Pillar Seed:** Joker enters systems he wasn't invited to and takes over.
+**TDK Reference:** Scene 4, pp. 19-23
+
+### Panel P4.1 — THE MOB KITCHEN — WIDE
+**Composition:** Restaurant kitchen repurposed as mob meeting room. Industrial steel surfaces. MARONI, CHECHEN, and GAMBOL sit around a table. A TV screen shows LAU broadcasting from Hong Kong — suit, skyline behind him. Mob money discussion. The door behind them is ajar.
 
 **Character Block:**
 ```
-ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair neatly combed, kind weathered face, knowing eyes, slim build, 5'10"
-- Costume: Dark charcoal (#374151) waistcoat over white (#FFFFFF) dress shirt, dark navy tie, charcoal trousers, polished black shoes
-- Expression: Determined, no nonsense
-- Action: Walking to console, hand reaching for controls
-- Position: At console, Batman behind him
+MARONI FULL DESCRIPTION:
+- Face & Body: Eric Roberts, Caucasian man, mid-50s, slicked-back dark hair with grey temples, hard calculating eyes, heavy build, 5'10"
+- Costume: Dark blue pinstripe suit (#1a1a3e), white dress shirt, gold tie clip, heavy gold watch — mob boss opulence
+- Expression: Impatient, suspicious
+- Position: Head of table, arms crossed
+
+GAMBOL FULL DESCRIPTION:
+- Face & Body: Michael Jai White, African-American man, late 30s, muscular powerful build, intense dark eyes, bald head, 6'2"
+- Costume: Black leather jacket over dark dress shirt, gold chain visible at collar, dark trousers — street power
+- Expression: Aggressive, leaning forward
+- Position: Side of table, territorial
+
+LAU (ON SCREEN) FULL DESCRIPTION:
+- Face & Body: Chin Han, East Asian man, mid-40s, neat black hair, sharp features, composed, slim build
+- Costume: Grey business suit, white shirt, Hong Kong skyline visible behind him on video feed
+- Expression: Corporate calm, slightly nervous
+- Position: TV screen mounted on wall, video conference
 ```
 
-**Text:**
-- **Alfred Speech:** "Master Wayne."
+**LAU (on screen):** "As I said, I've moved the money to a secure location. If the police were to gain leverage over one of you, everyone's money would be at stake."
 
 ---
 
-### Panel 8.3 — ALFRED ACTS
-**Composition:** Alfred's hand on the console. He's TURNING OFF screens. The escalation feeds — gone. The mob aftermath — gone. The news broadcasts — gone. He's physically removing the noise.
+### Panel P4.2 — THE JOKER ENTERS
+**Composition:** The kitchen door BANGS open. The Joker walks in uninvited. Purple coat. Glasgow smile. Greasy green hair. He's laughing — a forced, theatrical laugh, mocking them all. The mob bosses reach for weapons. Bodyguards tense.
 
-**Text:**
-- **Alfred Speech:** "You can't save everyone tonight."
+**Character Block:**
+```
+THE JOKER (STANDARD) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face with sharp cheekbones, manic wide eyes, 6'1", lean wiry build
+- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes
+- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, pushed back
+- Costume: Purple (#4A0080) long coat, rumpled green (#2D5A27) waistcoat over patterned mismatched shirt, purple trousers, scuffed shoes
+- Expression: Theatrical, mocking, delighted to be unwelcome
+- Action: Walking in, arms wide, laughing
+- Position: Entering through kitchen door, all eyes on him
+```
+
+**Joker (laughing):** "Ha ha ha ha... And I thought MY jokes were bad."
 
 ---
 
-### Panel 8.4 — TWO SCREENS REMAIN
-**Composition:** Wide shot of the console. Where there were twelve screens of chaos, now only TWO remain lit. One showing Harvey Dent — Gotham's White Knight, now a target. The other showing the Joker's last known transmission. The visual noise has been eliminated.
+### Panel P4.3 — THE PENCIL TRICK
+**Composition:** Close on the Joker at the table. He's placed a pencil — STANDING UPRIGHT — on the table surface. Gambol's bodyguard approaches threateningly. The Joker doesn't look at him. In one motion, he GRABS the bodyguard's head and SLAMS it down on the pencil. The pencil disappears. The bodyguard drops.
 
-**Text:**
-- **Alfred Speech:** "But you can stop the thing that collapses everything else."
+**Character Block:**
+```
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as P4.2]
+- Expression: Casual, demonstrating a point — literally
+- Action: One hand on table after slamming bodyguard's head, other hand gesturing
+- Position: Standing at end of table, bodyguard crumpled on floor
+```
+
+**Joker:** "How about a magic trick?"
+*(SLAM)*
+**Joker:** "Ta-da! It's... gone."
 
 ---
 
-### Panel 8.5 — BATMAN'S SHOULDERS DROP
-**Composition:** Close on Batman. His shoulders have dropped. He's breathing. The paralysis is breaking. He's looking at the two remaining screens with focus, not panic.
+### Panel P4.4 — THE OFFER
+**Composition:** The Joker leans against the table, addressing the room. Casual. In control despite being uninvited. The mob bosses are rattled. Gambol is furious. The Joker's proposal: kill Batman for half their money.
+
+**Joker:** "Let's wind the clocks back a year. These cops and lawyers wouldn't DARE cross any of you. I mean, what happened? Did your — did your balls drop off?"
+
+**Joker:** "I know why you choose to have your little — group therapy sessions — in broad daylight. I know why you're afraid to go out at night. The BATMAN."
+
+**Joker:** "I'll kill the Batman. For... half."
+
+**GAMBOL:** "You're crazy."
+
+**Joker:** "I'm not. No, I'm not. If you're good at something, never do it for free."
+
+---
+
+## SCENE P5: HARVEY DENT — THE WHITE KNIGHT
+**Location:** Gotham courtroom → bat-signal rooftop
+**Purpose:** Establish Harvey Dent — everything Two-Face will destroy is shown here.
+**Pillar Seed:** The coin. The confidence. The faith in the system.
+**TDK Reference:** Scene 5, pp. 23-27
+
+### Panel P5.1 — THE COURTROOM
+**Composition:** Gotham courtroom. Harvey Dent on his feet, prosecuting. A MOB WITNESS on the stand pulls a gun — points it at Dent. Click. Misfire. Chinese-made, cheap. Dent doesn't flinch. He PUNCHES the witness. The courtroom erupts. Rachel Dawes watches from the gallery, proud and concerned.
+
+**Character Block:**
+```
+HARVEY DENT FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, sandy blonde hair neatly combed, square jaw, bright blue eyes, handsome commanding presence, athletic build, 6'0"
+- Costume: Charcoal grey suit (#3D3D3D), crisp white dress shirt, dark blue tie, American flag pin on lapel — the picture of public service
+- Expression: Unflinching as gun is pointed at him, then fierce as he punches the witness
+- Action: Punching mob witness after gun misfires
+- Position: Standing at prosecution table, courtroom
+```
+
+```
+RACHEL DAWES FULL DESCRIPTION:
+- Face & Body: Maggie Gyllenhaal, Caucasian woman, mid-30s, dark brown hair pulled back in professional twist, intelligent warm dark eyes, natural beauty, medium build, 5'9"
+- Costume: Dark navy blazer (#1B2838) over cream blouse, tailored trousers, minimal jewelry — ADA professional
+- Expression: Watching Harvey with mixture of pride and worry
+- Action: Seated in gallery, leaning forward
+- Position: Courtroom gallery, watching
+```
+
+**DENT (examining the gun):** "Carbon fiber. 28 caliber. Made in China. If you want to kill a public servant, Mr. Maroni — I'd recommend something American-made."
+
+**Caption Box:** "Gotham's White Knight. Handsome. Fearless. Idealistic. Everything the Joker would destroy."
+
+---
+
+### Panel P5.2 — THE DOUBLE-HEADED COIN
+**Composition:** Close detail shot. Harvey's hand flips a coin — it catches the courtroom light. Both sides are heads. A TRICK COIN. His lucky charm. He winks at Rachel as he pockets it. She rolls her eyes, smiling.
+
+**Elements:**
+- Coin: Silver dollar, both sides showing Lady Liberty (heads)
+- Harvey's hand: Confident flip, practiced
+- Light: Courtroom fluorescent catching the metal
+
+**Caption Box:** "His lucky coin. Heads on both sides. Harvey Dent didn't believe in chance."
+
+**WHAT NOT TO DRAW:** Do NOT show the scarred coin. That comes later. This coin is pristine, clean, perfect — like Harvey himself.
+
+---
+
+### Panel P5.3 — THE BAT-SIGNAL ROOFTOP
+**Composition:** Night. GCPD rooftop. The bat-signal blazing behind three figures: Batman, Harvey Dent, and Jim Gordon. Three men. One alliance. Planning strategy for the Joker. The city spread below them. This is the system WORKING — three pillars of justice cooperating.
 
 **Character Block:**
 ```
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots.
-- Expression: Relief breaking through, focus returning
-- Action: Shoulders dropping, breathing, looking at two screens
-- Position: At console, body visibly decompressing
+[Same as Panel 0.2.1]
+- Expression: Evaluating Dent, cautiously impressed
+- Position: Standing apart from the other two, cape in wind
+
+HARVEY DENT FULL DESCRIPTION:
+[Same as P5.1]
+- Costume: Same suit, tie loosened for the rooftop meeting
+- Expression: Confident, earnest, wanting to be trusted
+- Position: Between Batman and Gordon, facing Batman
+
+JIM GORDON FULL DESCRIPTION:
+- Face & Body: Gary Oldman, Caucasian English man, late 50s, greying brown hair, thick-framed glasses, moustache, tired but kind eyes, medium build, 5'9"
+- Costume: GCPD detective — brown overcoat (#5C4033) over rumpled white dress shirt, loosened dark blue tie, dark trousers, badge on belt — the look of a man who works too much
+- Expression: Cautious, arms crossed, not fully trusting Dent yet
+- Position: Beside the bat-signal, observing both men
 ```
 
-**Text:**
-- **Caption Box (blue #4A90D9 background, white text):** "CLARITY: Know what matters."
+**DENT (to Gordon):** "If I didn't work with cops you investigated, I'd be working alone."
+
+**BATMAN:** "The Joker's just a taste of things to come. We have to fix what's wrong."
+
+**Caption Box:** "Three men. One goal. The alliance at its peak."
 
 ---
 
-### Panel 8.6 — ALFRED'S BURMA STORY (SETUP) *(NEW — RESTORED)*
-**Composition:** Alfred standing beside Batman, both facing the two screens. Alfred's expression changes — he's remembering something.
+## SCENE P6: JOKER KILLS GAMBOL
+**Location:** Gambol's office/pool hall
+**Purpose:** Scar story #1. The Joker has no fixed identity — different origin stories each time.
+**Pillar Seed:** Two different scar stories = Joker has no fixed identity. He is whatever the moment requires. (Mirror of Batman's ending.)
+**TDK Reference:** Scene 6, pp. 27-29
+
+### Panel P6.1 — THE BODY BAG
+**Composition:** Gambol's pool hall. Dark. Gambol at his table. Three BOUNTY HUNTERS drag in a body bag — the Joker, "dead," collected for the bounty Gambol put on his head. They dump the bag on the table. Gambol leans in to verify. The body bag RIPS OPEN from inside — the Joker springs alive, knife in hand, CUTS Gambol's cheeks open on both sides.
 
 **Character Block:**
 ```
-ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair, kind weathered face, eyes growing distant with memory, slim build, 5'10"
-- Costume: Dark charcoal (#374151) waistcoat over white dress shirt, tie, trousers
-- Expression: Distant, remembering, a story he doesn't want to tell
-- Action: Standing beside Batman, looking at screens but seeing the past
-- Position: Side by side with Batman at console
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as P4.2]
+- Expression: Wild-eyed, springing from the body bag, intimate with the knife
+- Action: Bursting from body bag, knife at Gambol's face
+- Position: On the table, emerging from black body bag, face to face with Gambol
 ```
 
-**Text:**
-- **Alfred Speech:** "I served in Burma once. A long time ago. My friends and I were working for the local government..."
+```
+GAMBOL FULL DESCRIPTION:
+[Same as P4.1]
+- Expression: Shock, horror, knife at his cheeks
+- Position: Leaning over the table, now trapped
+```
+
+**Joker:** "Wanna know how I got these scars?"
 
 ---
 
-### Panel 8.7 — THE BURMA BANDIT *(NEW — RESTORED)*
-**Composition:** Semi-transparent flashback overlay — a dense jungle. A BANDIT figure in the trees, shadowy, distributing rubies to villagers. The villagers take the rubies and throw them away. Confusion.
-
-**Elements:**
-- Jungle: Dense, Burma, golden-green light
-- Bandit figure: Shadowy, tossing rubies from trees
-- Villagers: Receiving gems, throwing them away
-- Semi-transparent: Overlay on the Batcave scene
-
-**Text:**
-- **Alfred Speech (V.O.):** "A bandit had been stealing precious stones — rubies the size of tangerines. We tried to bribe the local chiefs to help us capture him."
-
----
-
-### Panel 8.8 — THE RUBIES *(NEW — RESTORED)*
-**Composition:** Close on scattered rubies in jungle mud. Beautiful. Worthless. Thrown away by the very people who received them.
-
-**Text:**
-- **Alfred Speech (V.O.):** "But their children were playing with the rubies. Throwing them in the river."
-
----
-
-### Panel 8.9 — BATMAN'S QUESTION *(NEW — RESTORED)*
-**Composition:** Back to the Batcave. Batman turns to Alfred. The question forming.
+### Panel P6.2 — SCAR STORY #1
+**Composition:** Extreme close on the Joker's face as he tells the story. Knife held inside Gambol's cheek. Intimate. Whispered. The bodyguards can't move — Joker's men hold them.
 
 **Character Block:**
 ```
-BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, 6'0"
-- Costume: Full black Batsuit — matte black armoured plates, cape, cowl
-- Expression: Genuinely curious, recognizing the parallel
-- Action: Turning toward Alfred, asking
-- Position: At console, facing Alfred
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as P4.2]
+- Expression: Nostalgic, almost tender, telling a bedtime story while holding a knife
+- Action: Knife blade inside Gambol's cheek, other hand cupping Gambol's face
+- Position: Extreme close-up, face filling frame
 ```
 
-**Text:**
-- **Batman Speech:** "So why did the bandit steal them?"
+**Joker:** "My father was a drinker... and a fiend. And one night, he goes off crazier than usual. Mommy gets the kitchen knife to defend herself. He doesn't like that. NOT. ONE. BIT. So — me watching — he takes the knife to her, laughing while he does it. He turns to me, and he says: 'Why so serious?' He comes at me with the knife... 'Why so serious?!' He sticks the blade in my mouth... 'Let's put a smile on that face!'"
+
+**Caption Box:** "Scar story number one. There will be another. They won't match."
 
 ---
 
-### Panel 8.10 — ALFRED'S ANSWER *(NEW — RESTORED)*
-**Composition:** Close on Alfred's face. The kindest, saddest eyes. He's about to deliver the line that defines the Joker — and every adversary who can't be negotiated with.
+## SCENE P7: HONG KONG EXTRACTION
+**Location:** Hong Kong — LSI Holdings tower → sky
+**Purpose:** Fox plants sonar phone (setup for Act 3). Batman's most audacious physical feat.
+**Pillar Seed:** Fox's sonar phone planted HERE pays off in Act 3 ("Beautiful. Unethical. Dangerous.").
+**TDK Reference:** Scene 7, pp. 30-38
 
-**Character Block:**
-```
-ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair, kind weathered face, eyes holding old pain, slim build, 5'10"
-- Costume: Dark charcoal waistcoat, white dress shirt, navy tie
-- Expression: Sad, knowing, the truth he wishes weren't true
-- Action: Meeting Batman's eyes, delivering the truth
-- Position: Close-up, face fills the frame
-```
-
-**Text:**
-- **Alfred Speech:** "Some men aren't looking for anything logical, like money."
-- **Alfred Speech:** "They can't be bought, bullied, reasoned, or negotiated with."
-
----
-
-### Panel 8.11 — THE FOREST BURNS *(NEW — RESTORED)*
-**Composition:** Semi-transparent flashback — the Burma jungle ON FIRE. Massive flames consuming everything. And a figure walking out — the bandit, silhouetted against the inferno. The only way to catch him was to destroy everything.
-
-**Elements:**
-- Jungle: Engulfed in flames
-- Bandit silhouette: Walking out of the fire
-- Destruction: Total — forest, villages, everything
-
-**Text:**
-- **Alfred Speech:** "Some men just want to watch the world burn."
-
----
-
-### Panel 8.12 — BATMAN'S REALIZATION
-**Composition:** Batman's face. He understands now. The Joker IS the bandit. You don't negotiate. You don't outthink chaos for its own sake. You clear the board and act.
-
-**Text:**
-- **Batman Speech:** "You burned the forest?"
-- **Alfred Speech:** "Yes."
-
----
-
-### Panel 8.13 — CLARITY DEFINED
-**Composition:** Wide shot — Batman and Alfred at the console. Two screens. The noise is gone. The choice is clear.
-
-**Text:**
-- **Caption Box:** "Filter everything else."
-- **Caption Box (blue #4A90D9 background):** "CLARITY: Know what matters — even when everything is on fire."
-
----
-
-
-## SCENE 9: THE CHOICE — CONFRONT THE SOURCE
-**Location:** Batcave
-**Purpose:** Batman makes his choice — the Joker himself
-
-### Panel 9.1 — TWO SCREENS (CLOSE)
-**Composition:** The two remaining screens side by side. LEFT: Harvey Dent — surveillance footage of his damaged office, security detail doubled, Gotham's White Knight under siege. RIGHT: The Joker's last known transmission — that grinning face, frozen mid-taunt. The target and the source.
-
-**Text:**
-- None (the visual IS the choice)
-
----
-
-### Panel 9.2 — BATMAN'S HAND
-**Composition:** Close on Batman's hand. He's pointing. At the Joker's screen. The choice is made — not to defend the symptoms, but to attack the source.
-
-**Text:**
-- **Batman Speech:** "I stop him. Everything else follows."
-
----
-
-### Panel 9.3 — ALFRED'S RESPONSE
-**Composition:** Alfred's face. A knowing look. Not surprise — he knew this was the choice. But concern for what it will cost.
-
-**Character Block:**
-```
-ALFRED PENNYWORTH FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, mid-70s, grey hair, weathered face, knowing concerned eyes, slim build, 5'10"
-- Costume: Dark charcoal waistcoat, white dress shirt, navy tie
-- Expression: Knowing, concerned, accepting the choice
-- Action: Standing still, watching Batman decide
-- Position: Beside console, slight distance
-```
-
-**Text:**
-- **Alfred Speech:** "And if you can't?"
-
----
-
-### Panel 9.4 — BATMAN MOVES
-**Composition:** Batman already turning, cape swirling, heading toward the Batmobile bay. The paralysis is gone. He's in motion.
-
-**Text:**
-- **Batman Speech:** "Then at least I stopped the source."
-
----
-
-### Panel 9.5 — THE FIRST PILLAR
-**Composition:** Batman leaping into the Batmobile. Motion blur. Purpose.
-
-**Text:**
-- **Caption Box:** "The first pillar held."
-- **Caption Box (blue #4A90D9):** "CLARITY: Know what matters — even when everything is on fire."
-
----
-
-
----
-
-# ACT 3: COURAGE
-## "Act before you're ready — the cost might break you."
-
----
-
-
-## SCENE 10: THE BATPOD CHASE *(NEW — RESTORED)*
-**Location:** Gotham streets — Lower Fifth
-**Purpose:** Joker tests COURAGE in real-time — "Hit me!"
-
-### Panel 10.1 — THE TRUCK
-**Composition:** Gotham street. Night. An 18-WHEELER barrels down the avenue, Joker at the wheel, head out the window, hair streaming. He's laughing. Behind him, the BATPOD — Batman's motorcycle — weaving through traffic in pursuit.
-
-**Character Block:**
-```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint, messy red lipstick into Glasgow smile scars, black eye makeup
-- Hair: Greasy green-tinged hair streaming in wind
-- Costume: Purple (#4A0080) long coat, green waistcoat
-- Expression: Pure joy, laughing, head out truck window
-- Action: Driving 18-wheeler, head out window
-- Position: In truck cab, viewed from outside
-```
-
-**Text:**
-- **Caption Box:** "The Joker wasn't running. He was inviting."
-
----
-
-### Panel 10.2 — THE BATPOD
-**Composition:** The BATPOD weaving through overturned vehicles. Batman hunched forward, cape streaming, closing the gap. The truck ahead swerving deliberately — trying to force Batman into obstacles.
+### Panel P7.1 — THE SKYHOOK
+**Composition:** Hong Kong skyline at night. Neon. Glass towers. Batman on the exterior of LSI Holdings tower — Lau's building. He's already grabbed Lau. Both figures are RISING — a SKYHOOK balloon lifting them toward a C-130 cargo plane passing overhead. Lau screams. Batman holds him. The balloon cable snaps taut.
 
 **Character Block:**
 ```
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense focused eyes, 6'0"
-- Costume: Full black Batsuit — matte black armoured plates, cape streaming behind, cowl, gauntlets gripping Batpod handles
-- Expression: Laser-focused, calculating approach
-- Action: Hunched over Batpod, weaving through debris
-- Position: Center frame, speed blur, truck ahead
+[Same as Panel 0.2.1]
+- Expression: Focused, holding Lau, ascending
+- Action: Gripping Lau with one arm, other arm securing the balloon harness
+- Position: Exterior of glass skyscraper, ASCENDING toward cargo plane above
+
+LAU FULL DESCRIPTION:
+- Face & Body: Chin Han, East Asian man, mid-40s, neat black hair now windswept, sharp features, TERRIFIED, slim build
+- Costume: Grey business suit, now disheveled, tie whipping in wind
+- Expression: Screaming, terrified
+- Action: Being carried by Batman, legs dangling over Hong Kong
+- Position: In Batman's grip, hundreds of feet above the city
 ```
-
-**Text:**
-- None (pure action)
-
----
-
-### Panel 10.3 — THE TRUCK FLIPS
-**Composition:** Batman fires the Batpod's grapple lines. They wrap around the truck's front axle. The truck FLIPS — front over back — crashing onto its roof in the middle of the street. Metal screaming. Glass shattering. Smoke.
 
 **Elements:**
-- Truck: Mid-flip, front over back
-- Grapple lines: Visible, taut
-- Street: Destruction, sparks, glass
-- Batman: Batpod sliding to a stop in foreground
+- Hong Kong skyline: Neon, glass, night
+- Skyhook balloon: Silver, rising rapidly
+- C-130 cargo plane: Massive shadow above
+- Both figures: Rising against the cityscape
 
-**Text:**
-- None (action)
+**Caption Box:** "Fox planted a sonar device in Lau's building. A phone. Invisible. Listening."
 
----
-
-### Panel 10.4 — JOKER EMERGES
-**Composition:** The Joker crawls from the wrecked truck cab. Makeup smeared worse. Hair wild. He stands in the middle of the street. The Batpod approaches — aimed directly at him. The Joker doesn't move. He OPENS HIS ARMS.
-
-**Character Block:**
-```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1"
-- Makeup: Smeared white face paint MORE worn from crash, red lipstick smudged, black eye makeup running
-- Hair: Green-tinged hair wild and matted from crash
-- Costume: Purple coat dirty and torn from crash, green waistcoat visible
-- Expression: ECSTATIC, daring, arms spread wide, welcoming death
-- Action: Standing in street, arms open, facing oncoming Batpod
-- Position: Center of street, Batpod approaching head-on
-```
-
-**Text:**
-- **Joker Speech (jagged):** "Come on. Come on. I want you to do it."
+**Caption Box (smaller):** "That phone would matter later. Much later."
 
 ---
 
-### Panel 10.5 — "HIT ME!"
-**Composition:** Extreme close on Joker's face. Head tilted. That smile. The Batpod's headlight reflected in his eyes, getting closer.
+## SCENE P8: RICO — THE ALLIANCE AT PEAK
+**Location:** MCU / Gotham courthouse / Gotham streets
+**Purpose:** 549 criminals arrested. The system WORKS. This is what gets destroyed.
+**Pillar Seed:** Without showing the peak, the fall means nothing.
+**TDK Reference:** Scene 8, pp. 38-42
 
-**Text:**
-- **Joker Speech (jagged, large):** "HIT ME!"
-
----
-
-### Panel 10.6 — THE SWERVE
-**Composition:** The Batpod SWERVES at the last moment. Batman crashes into a wall of debris, tumbling. The Joker stands unharmed, laughing, as SWAT teams finally surround him. He doesn't resist. This was always the plan — getting caught.
+### Panel P8.1 — MASS ARRESTS MONTAGE
+**Composition:** MONTAGE panel — split into four quadrants showing SIMULTANEOUS arrests across Gotham. TOP LEFT: GCPD kicking down a door, mob soldiers face-down. TOP RIGHT: Handcuffs being slapped on suited criminals at a restaurant. BOTTOM LEFT: Paddy wagons lined up, prisoners being loaded. BOTTOM RIGHT: Harvey Dent at a podium, RICO case files stacked behind him, press cameras flashing.
 
 **Elements:**
-- Batpod: Crashed into debris, Batman tumbling
-- Joker: Standing untouched, arms still open, laughing
-- SWAT: Surrounding from all sides, guns drawn
-- Street: Destroyed, smoking
+- Four quadrants: Each showing a different arrest location
+- Scale: HUNDREDS of arrests happening at once
+- Dent: Triumphant at the podium, case files behind him
+- GCPD: In force, coordinated, professional
 
-**Text:**
-- **Caption Box:** "He wanted to be caught. Everything that followed — the interrogation, the hospital, the ferries — started here."
-
-**WHAT NOT TO DRAW:** No graphic injury to Batman. He tumbles, he's shaken, not broken. The Joker is uninjured — the point is his invulnerability through not caring.
+**Caption Box:** "549 criminals. Arrested simultaneously. One RICO case. Dent's masterpiece."
 
 ---
 
+### Panel P8.2 — THE JOKER CARD IN THE FILES
+**Composition:** Close detail shot. A case file on a desk — legal documents, evidence photos. Tucked between the pages: a JOKER PLAYING CARD. Hand-drawn additions to the standard card — crude, menacing. Someone found it in Judge Surrillo's case files. A warning. A signature.
 
-## SCENE 11: INTERROGATION — FACE TO FACE #1
-**Location:** GCPD Interrogation Room
-**Purpose:** First direct confrontation — Joker's philosophy revealed
+**Elements:**
+- Case file: Legal documents, RICO headers
+- Joker card: Tucked between pages, grinning
+- Judge's nameplate visible at edge: "Hon. Janet Surrillo"
 
-### Panel 11.1 — GCPD HALLWAY
-**Composition:** GCPD headquarters. Chaotic. Officers rushing. In the center, a holding cell. THE JOKER sits inside, cuffed to the table, completely calm.
+**Caption Box:** "Tucked into the judge's case files. A calling card. The test was coming."
+
+---
+
+## SCENE P9: THE ULTIMATUM
+**Location:** City Hall exterior / TV broadcast
+**Purpose:** Joker's video ultimatum — Batman must unmask or people die.
+**Pillar Seed:** THE TEST BEGINS. Everything before this was setup.
+**TDK Reference:** Scene 9, pp. 42-45
+
+### Panel P9.1 — BRIAN DOUGLAS — THE FLAGPOLE
+**Composition:** City Hall, dawn. A body hangs from the flagpole — BRIAN DOUGLAS, one of the copycat Batmen from Scene P2, in his homemade Batman costume. Dead. A JOKER CARD pinned to his chest reads: "WILL THE REAL BATMAN PLEASE STAND UP?" Gordon stands below, looking up. Officers cordon the area.
+
+**Elements:**
+- City Hall: Imposing government building, dawn light
+- Body: Hung from flagpole in crude Batman costume
+- Joker card: Pinned to chest, visible from below
+- Gordon: Below, looking up, sick expression
+- Officers: Cordoning area, press arriving
+
+**Caption Box:** "Brian Douglas. One of the copycats from the parking garage. He wanted to be Batman."
+
+---
+
+### Panel P9.2 — THE VIDEO
+**Composition:** A TV screen showing the Joker's video message. Handheld, shaky, terrifying. The Joker holds a camera in one hand, knife in the other. Behind him, Brian Douglas (still alive in the video, pre-murder) is tied to a chair, maskless, terrified. The video is being broadcast across Gotham — multiple screens visible in the background of a bar, a newsroom, Gordon's office.
 
 **Character Block:**
 ```
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic calculating eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint more worn than usual, red lipstick partially rubbed off, black eye makeup smeared from handling
-- Hair: Greasy, stringy, green-tinged dirty blonde hair more disheveled
-- Costume: Rumpled green (#2D5A27) waistcoat over patterned shirt, no purple coat, hands cuffed
-- Expression: Calm, entertained, waiting
-- Action: Sitting at metal table, cuffed, completely still amid chaos
-- Position: Center of interrogation room, fluorescent light above
+THE JOKER (VIDEO) FULL DESCRIPTION:
+[Same as P4.2]
+- Expression: Direct to camera, speaking to Gotham, intimate and threatening
+- Action: Holding camera in one hand, other hand gesturing with knife
+- Position: Close to camera, Brian Douglas visible behind
 ```
 
-**Text:**
-- **Caption Box:** "The Joker wanted to be caught."
+**Joker (video):** "Tell them your name."
+**BRIAN (video, terrified):** "Brian... Brian Douglas..."
+**Joker:** "Are you the real Batman?"
+**BRIAN:** "No..."
+**Joker:** "No? Then why do you dress up like him?"
+
+**Joker (turning to camera):** "Batman must take off his mask and turn himself in. Oh, and every day he doesn't... people will die. Starting tonight. I'm a man of my word."
+
+**Caption Box:** "The ultimatum. Unmask or people die. The test begins."
 
 ---
 
-### Panel 11.2 — JOKER WAITING
-**Composition:** Inside the interrogation room. Joker alone at the metal table. Single overhead light. He's humming.
+# ACT 1: CLARITY
+*Understanding what you face — when rational models fail.*
 
-**Text:**
-- **Joker Speech (jagged, small):** *"Da da da da da..."*
-
----
-
-### Panel 11.3 — LIGHTS GO OUT
-**Composition:** The room in darkness. Only the Joker's eyes visible, reflecting a tiny amount of light. He's smiling in the dark.
-
-**Text:**
-- **Joker Speech (jagged):** "There you are."
+> ★ PILLAR MOMENT: Alfred's Burma Story (Scene C5)
+> "Some men just want to watch the world burn."
 
 ---
 
-### Panel 11.4 — BATMAN IN SHADOW
-**Composition:** BATMAN emerging from the darkness. Not entering through the door — already there. The Joker doesn't flinch. He's delighted.
+## SCENE C1: WAYNE FUNDRAISER FOR DENT
+**Location:** Wayne penthouse — rooftop terrace, night
+**Purpose:** Bruce endorses Dent publicly. Rachel-Bruce tension. Gordon learns all targets marked.
+**TDK Reference:** Scene 10, pp. 45-50
+
+### Panel C1.1 — "I BELIEVE IN HARVEY DENT" — WIDE
+**Composition:** Wayne penthouse rooftop terrace, night. Gotham skyline behind glass. A lavish fundraiser — champagne, socialites, ambient lighting. A banner reads "HARVEY DENT FOR DISTRICT ATTORNEY." Bruce Wayne stands at a podium, microphone in hand, two supermodels flanking him. Harvey Dent stands nearby, charming, humble, accepting applause. Rachel watches from the crowd, complicated expression.
 
 **Character Block:**
 ```
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with cuts, tired intense eyes, 6'0"
-- Costume: Black Batsuit — scuffed plates, torn cape edges, scratched cowl. Post-warehouse damage.
-- Expression: Controlled fury, barely contained rage
-- Action: Emerging from shadow, looming over Joker
-- Position: Behind Joker, shadow resolving into form
+BRUCE WAYNE (PLAYBOY) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, blue eyes, dark brown hair styled neat, athletic muscular build, 6'0"
+- Costume: Black (#0A0A0A) tailored tuxedo, white dress shirt, black bow tie, polished dress shoes. Billionaire casual — jacket unbuttoned, relaxed posture
+- Expression: Public charm, performing the billionaire mask
+- Action: Standing at podium, gesturing toward Dent
+- Position: Center stage, elevated, two models beside him
+
+HARVEY DENT (WHITE KNIGHT) FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, square jaw, blond hair parted cleanly, bright blue eyes, confident posture, athletic build, 6'0"
+- Costume: Charcoal grey (#4A4A4A) suit, white dress shirt, blue tie (#4A90D9), polished oxfords. Sharp, professional, approachable
+- Expression: Humble, grateful, confident — the man Gotham believes in
+- Action: Accepting applause, one hand raised in acknowledgment
+- Position: Beside the podium, standing tall
+
+RACHEL DAWES FULL DESCRIPTION:
+- Face & Body: Maggie Gyllenhaal, Caucasian woman, mid-30s, dark brown hair worn down past shoulders, warm brown eyes, strong features, slender build, 5'9"
+- Costume: Dark blue (#2B4570) cocktail dress, simple pearl earrings, minimal jewelry
+- Expression: Watching Bruce, conflicted — pride and sadness
+- Action: Standing in crowd, champagne glass held but not drinking
+- Position: Mid-crowd, slightly apart from the socialites
 ```
 
-**Text:**
-- **Joker Speech (jagged):** "I wanted this."
+**Wayne:** "I believe in Harvey Dent. I believe that on his watch, Gotham can feel a little safer. A little more optimistic."
+
+**Caption Box:** "The White Knight at the height of his power. Everything the Joker would destroy, at maximum brightness."
 
 ---
 
-### Panel 11.5 — FACE TO FACE
-**Composition:** Two-shot. Batman standing over the seated Joker. Eye to eye. The power dynamic unclear.
-
-**Text:**
-- **Batman Speech:** "You switched the addresses. You LIED."
-
----
-
-### Panel 11.6 — JOKER'S LOGIC
-**Composition:** Close on Joker's face. Studying Batman like a specimen.
-
-**Text:**
-- **Joker Speech (jagged):** "Killing is making a choice."
-- **Joker Speech (jagged):** "You chose not to save one of them. That makes you just like me."
-
----
-
-### Panel 11.7 — BATMAN'S RESPONSE
-**Composition:** Batman grabbing the Joker by the collar, lifting him from the chair. Violence barely contained.
-
-**Text:**
-- **Batman Speech:** "I am NOTHING like you."
-
----
-
-### Panel 11.8 — JOKER LAUGHS
-**Composition:** Joker, lifted off his feet, being slammed against the wall. And he's LAUGHING.
-
-**Text:**
-- **Joker Speech (jagged):** "You ARE! You just don't know it yet."
-
----
-
-### Panel 11.9 — THE RULES *(NEW — EXPANSION)*
-**Composition:** Joker's face, inches from Batman's. Studying. Finding the weakness.
-
-**Text:**
-- **Joker Speech (jagged):** "Oh, and you know the thing about you?"
-- **Joker Speech (jagged):** "You have RULES."
-
----
-
-### Panel 11.10 — BATMAN'S GRIP *(NEW — EXPANSION)*
-**Composition:** Batman's gauntlet tightening on the Joker's collar. Knuckles white through the armor.
-
-**Text:**
-- **Batman Speech:** "I have ONE rule."
-- **Joker Speech (jagged):** "Then that's the one I'm going to make you break."
-
----
-
-### Panel 11.11 — THE TRUTH
-**Composition:** Joker's face, released, straightening his waistcoat. Casual. As if nothing happened.
-
-**Text:**
-- **Joker Speech (jagged):** "Of course I lied. That's the POINT."
-- **Joker Speech (jagged):** "I didn't choose who lived. YOU did."
-
----
-
-### Panel 11.12 — BATMAN STEPS BACK *(NEW — EXPANSION)*
-**Composition:** Batman releasing Joker, stepping back. His fists open. He can't solve this with force.
-
-**Text:**
-- **Caption Box:** "The Joker wasn't fighting him."
-- **Caption Box:** "He was showing him a mirror."
-
----
-
-### Panel 11.13 — THE COURAGE TEST
-**Composition:** Wide shot — Batman and Joker in the interrogation room. The single light between them. Two philosophies, one room.
-
-**Text:**
-- **Caption Box:** "The mirror cracked both ways."
-
----
-
-### Panel 11.14 — THE BOMB *(NEW — ADDRESS REVEAL)*
-**Composition:** The Joker, back in his chair, straightening his waistcoat as if nothing happened. Casual. Almost bored. Then his eyes light up — one more thing to share. Batman is turning to leave.
+### Panel C1.2 — RACHEL AND BRUCE — THE BALCONY
+**Composition:** Wayne penthouse balcony, away from the party. Bruce and Rachel alone. Gotham glittering below. Intimate, quiet — the noise of the party muffled through glass doors. Rachel's expression is the key: she's already made her choice, but Bruce doesn't know.
 
 **Character Block:**
 ```
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, calculating eyes brightening, 6'1", lean wiry build
-- Makeup: Smeared white face paint, red lipstick partially rubbed off, black eye makeup smeared
-- Hair: Greasy, green-tinged, disheveled
-- Costume: Rumpled green (#2D5A27) waistcoat, patterned shirt, no coat, cuffs
-- Expression: Casual delight, saving the best for last
-- Action: Leaning back in chair, head tilted, delivering the real blow
-- Position: Seated at table, single light above
+BRUCE WAYNE (PLAYBOY) FULL DESCRIPTION:
+[Same as C1.1]
+- Expression: Genuine, the mask dropping, vulnerable
+- Action: Leaning on balcony railing, facing Rachel
+- Position: Balcony, Gotham skyline behind
+
+RACHEL DAWES FULL DESCRIPTION:
+[Same as C1.1]
+- Expression: Tender but resolved — she knows something he doesn't
+- Action: Standing at balcony, arms crossed lightly
+- Position: Beside Bruce, slight distance between them
 ```
 
-**Text:**
-- **Joker Speech (jagged):** "Oh, and by the way..."
-- **Joker Speech (jagged):** "Your friends. Rachel Dawes and Harvey Dent."
+**Rachel:** "The day you told me about... Batman. The day you said there would be a time when Gotham wouldn't need him anymore. Bruce, that day's coming."
+
+**Caption Box:** "She was already saying goodbye. He just couldn't hear it yet."
 
 ---
 
-### Panel 11.15 — THE ADDRESSES *(NEW — ADDRESS REVEAL)*
-**Composition:** Extreme close on the Joker's face. That smile widening. He's been holding this card the entire conversation. The philosophy was the distraction. THIS is the real weapon.
-
-**Text:**
-- **Joker Speech (jagged):** "They're running out of time."
-- **Joker Speech (jagged):** "Rachel is at 250 52nd Street. Harvey is at Avenue X, Cicero."
-- **Joker Speech (jagged):** "Better hurry."
-
----
-
-### Panel 11.16 — BATMAN RACES OUT *(NEW — ADDRESS REVEAL)*
-**Composition:** Batman freezes mid-step. One word escapes. Then he's GONE — smashing through the interrogation room door, cape billowing. Gordon, who's been watching from behind the glass, is already moving to the radio. The Joker sits alone in the interrogation room, smiling at the empty doorway.
-
-**Character Block:**
-```
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with cuts, eyes wide with terror, 6'0"
-- Costume: Black Batsuit — scuffed plates, torn cape edges, scratched cowl
-- Expression: Horror, desperation, Rachel
-- Action: Smashing through door, already running
-- Position: Doorway, motion blur, already gone
-```
-
-**Text:**
-- **Batman Speech (desperate):** "Rachel."
-- **Caption Box:** "The philosophy was the distraction. The addresses were the weapon."
-- **Caption Box (red #EF4444 background):** "COURAGE: Act before you're ready — the cost might break you."
-
----
-
-
-## SCENE 12: THE RACE
-**Location:** Gotham streets
-**Purpose:** Transition — Batman racing to Rachel
-
-### Panel 12.1 — BATMOBILE LAUNCHES
-**Composition:** The Batmobile exploding out of the Batcave entrance, water spraying, tunnel lights blurring. Pure speed.
-
-**Text:**
-- None (pure motion)
-
----
-
-### Panel 12.2 — GOTHAM STREETS
-**Composition:** Batmobile racing through Gotham streets. Buildings blurring past. Police cars moving aside. The city is chaos — but Batman is a straight line through it.
-
-**Text:**
-- **Caption Box:** "Clarity shows you the board."
-
----
-
-### Panel 12.3 — BATMAN'S FACE
-**Composition:** Through the Batmobile windshield, Batman's face. Focused. Determined. No doubt.
-
-**Text:**
-- **Caption Box:** "But the Joker doesn't play fair."
-
----
-
-
-## SCENE 13: ARRIVAL — THE LIE
-**Location:** Two warehouses — intercut (250 52nd St / Avenue X Cicero)
-**Purpose:** The Joker's lie revealed — parallel rescue, Rachel's last goodbye, Gordon too late
-
-### Panel 13.1 — BATMOBILE ARRIVES
-**Composition:** The Batmobile screeching to a halt outside a decrepit warehouse. Address visible: 250 52nd Street. Rain falling. Batman already exiting. He was told Rachel is here.
-
-**Text:**
-- None (urgency)
-
----
-
-### Panel 13.2 — GORDON'S CONVOY *(NEW — EXPANSION)*
-**Composition:** CUT TO: A police convoy — three squad cars, lights blazing — tearing through rain-slicked Gotham streets. GORDON in the lead car, leaning forward, radio in hand. Street sign visible: AVENUE X, CICERO. He was told Harvey is here.
+### Panel C1.3 — GORDON'S DISCOVERY
+**Composition:** Cut to: GCPD office, harsh fluorescent light. Gordon at his desk, phone to ear, face going pale. On his desk: three manila folders open — photos of Judge Surrillo, Commissioner Loeb, Harvey Dent. Each folder has a red marker on it. Joker DNA matches. All three are targets.
 
 **Character Block:**
 ```
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-50s, brown-grey hair, thick-framed glasses, bushy moustache, weathered face, desperate determined eyes, 5'9"
-- Costume: Rumpled tan (#C2B280) trenchcoat over dark blue GCPD uniform, detective badge on belt
-- Expression: Desperate urgency, racing against the clock
-- Action: Leaning forward in passenger seat, radio pressed to mouth
-- Position: Inside lead squad car, rain streaking across windshield
+- Face & Body: Gary Oldman, Caucasian man, late 40s, brown-grey hair, thick glasses, mustache, tired lines around eyes, medium build, 5'9"
+- Costume: Brown (#6B4226) rumpled suit jacket, loosened tie, white shirt with rolled sleeves, shoulder holster visible
+- Expression: Dread — understanding the scope of the threat
+- Action: Phone pressed to ear, other hand touching the folders
+- Position: Seated at cluttered desk, leaning forward
 ```
 
-**Text:**
-- **Gordon Speech (radio):** "All units — Avenue X, Cicero! MOVE!"
+**Caption Box:** "Three targets. Judge Surrillo. Commissioner Loeb. Harvey Dent. The Joker wasn't sending a message. He was building a checklist."
 
 ---
 
-### Panel 13.3 — BATMAN CRASHES IN
-**Composition:** Batman shoulder-checking through the warehouse door at 250 52nd St. Wood splintering. Motion blur. Timer in his head.
+## SCENE C2: SIMULTANEOUS ATTACKS — SURRILLO + LOEB
+**Location:** Judge Surrillo's car / Commissioner Loeb's office
+**Purpose:** Joker hits two institutions simultaneously. The system Batman built is under attack.
+**TDK Reference:** Scene 11, pp. 50-52
 
-**Text:**
-- None (action)
+### Panel C2.1 — SURRILLO'S CAR EXPLODES
+**Composition:** Split composition. LEFT: A sedan on a Gotham street, mid-explosion. Judge Surrillo's car — fireball erupting outward, metal twisting, glass shattering. A JOKER PLAYING CARD with "UP" written on the face flutters in the blast wave, visible in the foreground. RIGHT: Commissioner Loeb's office — Loeb reaching for a glass of whiskey, his hand already on the glass. A toast in progress. His face beginning to contort — ACID in the whiskey, dissolving his features mid-sip.
+
+**Elements:**
+- Split composition — two attacks, one moment
+- Car explosion: Fireball, twisted metal, Joker card floating
+- Loeb: Whiskey glass, face dissolving, officers watching in horror
+- Simultaneity: The system cannot protect everything at once
+
+**Caption Box:** "Two pillars of justice. Simultaneous. Gordon was already too late for both."
 
 ---
 
-### Panel 13.4 — RACHEL'S WAREHOUSE *(NEW — EXPANSION)*
-**Composition:** CUT TO: Rachel's warehouse at Avenue X. RACHEL DAWES tied to a chair, surrounded by oil drums and gasoline. A phone is taped to her hand — duct-taped so she can hear but can't hang up. Timer on the barrel beside her: 0:47. She's alone. No one is coming yet.
+## SCENE C3: DENT PROPOSES TO RACHEL
+**Location:** Rachel's apartment kitchen, night
+**Purpose:** Establish the personal stakes. What Harvey stands to lose — not just the city, but Rachel.
+**TDK Reference:** Scene 12, pp. 52-53
+
+### Panel C3.1 — THE DOUBLE-HEADED COIN
+**Composition:** Intimate, warm-lit kitchen. Small apartment. Harvey and Rachel at a counter, half-eaten takeout between them. Harvey holds a COIN between his fingers — the double-headed coin, catching lamplight. His expression is earnest, nervous for the first time. Rachel's hand rests near his but not quite touching.
+
+**Character Block:**
+```
+HARVEY DENT (WHITE KNIGHT) FULL DESCRIPTION:
+[Same as C1.1]
+- Costume: White dress shirt (#FFFFFF), sleeves rolled to forearms, no jacket, no tie — off-duty Harvey
+- Expression: Vulnerable, hopeful, nervous — the confident DA stripped down
+- Action: Holding coin between thumb and finger, showing it to Rachel
+- Position: Standing at kitchen counter, leaning toward Rachel
+
+RACHEL DAWES FULL DESCRIPTION:
+[Same as C1.1]
+- Costume: Simple cream blouse, casual — at home
+- Expression: Loving but uncertain — she doesn't answer
+- Action: Looking at the coin, then at Harvey
+- Position: Across the counter, hands flat on the surface
+```
+
+**Dent:** "Heads, I ask you a very important question over dinner. Tails, we go to your place and I cook."
+
+**Rachel:** "Harvey... it's a double-headed coin. It'll always come up heads."
+
+**Dent:** "I know. I make my own luck."
+
+**Caption Box:** "The coin that decides everything. And right now it only has one face. The good side."
+
+---
+
+## SCENE C4: JOKER CRASHES THE FUNDRAISER
+**Location:** Wayne penthouse — fundraiser interior
+**Purpose:** Scar story #2, "Why so serious?", Rachel in danger. Joker demonstrates nobody is safe.
+**Pillar Seed:** The enemy walks into the places you think are safest.
+**TDK Reference:** Scene 13, pp. 53-60
+
+### Panel C4.1 — "WE ARE TONIGHT'S ENTERTAINMENT" — WIDE
+**Composition:** The fundraiser from C1 — same penthouse, now invaded. The Joker strides through the crowd, flanked by three masked thugs carrying shotguns. Guests scatter. Champagne glasses drop. The Joker's arms are wide open, showman's posture, feeding on the fear. His purple coat stands violently against the tuxedos and evening gowns.
+
+**Character Block:**
+```
+THE JOKER (STANDARD) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, late 20s-early 30s, lean wiry build, 6'1". Glasgow smile scars extending from mouth corners — puckered, healed, grotesque. Green-tinged greasy hair, unwashed, hanging in clumps
+- Costume: Purple (#4A0E4E) long coat over green (#2D5A27) waistcoat, hexagonal pattern. Blue-grey dress shirt, mismatched tie. Purple pinstripe trousers. Scuffed brown shoes with HIDDEN BLADE in toe
+- Makeup: White greasepaint base covering face. Black (#000000) around eyes — smeared, uneven, racoon-like. Red (#8B0000) lipstick extending over scars in exaggerated grin, bleeding into white at edges
+- Expression: Theatrical delight, feeding on terror, arms spread wide
+- Action: Striding through crowd, coat swinging, shotgun casually in one hand
+- Position: Center of room, crowd parting around him
+```
+
+**Joker:** "Good evening, ladies and gentlemen. We are tonight's entertainment."
+
+---
+
+### Panel C4.2 — SCAR STORY #2 — "WHY SO SERIOUS?"
+**Composition:** Close, claustrophobic. The Joker has Rachel by the jaw, knife at the corner of her mouth. Her eyes are wide but defiant — she doesn't scream. The Joker's face is inches from hers, intimate, terrible. Behind them, guests frozen in terror. Harvey is nowhere visible — Bruce hid him in a sleeper hold.
+
+**Character Block:**
+```
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: Intimate, storytelling, relishing the fear up close
+- Action: Holding Rachel's jaw with one hand, knife at her mouth with the other
+- Position: Face-to-face with Rachel, inches apart
+
+RACHEL DAWES FULL DESCRIPTION:
+[Same as C1.1]
+- Expression: Terrified but defiant — she will not beg
+- Action: Held still, eyes locked on the Joker
+- Position: Grabbed, held in place, chin tilted up by Joker's grip
+```
+
+**Joker:** "I had a wife, beautiful, like you. Who tells me I worry too much. Who tells me I ought to smile more. Who gambles and gets in deep with the sharks."
+
+**Joker:** "They carve her face. And we have no money for surgeries. She can't take it. I just want to see her smile again. I just want her to know that I don't care about the scars. So I stick a razor in my mouth and do this..."
+
+**Joker:** "...to myself. And you know what? She can't stand the sight of me. She leaves. Now I see the funny side. Now I'm always smiling."
+
+**Joker (leaning in):** "Why so serious?"
+
+---
+
+### Panel C4.3 — RACHEL FIGHTS BACK
+**Composition:** Action shot. Rachel SLUGS the Joker. Her fist connects with his jaw, snapping his head sideways. Smeared makeup smears further. The Joker's expression shifts — delighted surprise. He touches his jaw where she hit him.
+
+**Joker:** "A little fight in you. I like that."
+
+**Batman (O.S.):** "Then you're going to love me."
+
+---
+
+### Panel C4.4 — BATMAN VERSUS JOKER — SHOE BLADE
+**Composition:** Batman and Joker in close combat among overturned tables and scattered champagne. The Joker's shoe BLADE kicks upward — a hidden knife in the toe of his shoe — penetrating a gap in Batman's new armor. Batman recoils. The Joker grabs Rachel and HURLS her toward the broken window. Glass shattering outward. Gotham's skyline visible through the break.
+
+**Character Block:**
+```
+BATMAN (PRISTINE) FULL DESCRIPTION:
+[Same as 0.2.1]
+- Expression: Focused, fighting, surprised by the shoe blade
+- Action: Recoiling from kick, reaching for Rachel
+- Position: Combat stance, penthouse interior
+
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: Gleeful chaos, laughing through the fight
+- Action: Kicking with blade shoe, then tossing Rachel
+- Position: Close combat with Batman
+```
+
+**Caption Box:** "The new suit stopped knives. It didn't stop THIS knife."
+
+---
+
+### Panel C4.5 — THE DIVE — CAPE SPREAD
+**Composition:** Vertical panel. Batman in freefall, cape spread wide, diving after Rachel through the shattered penthouse window. Gotham below — streets, traffic, the vertical drop of the skyscraper. Rachel falling ahead of him, hair whipping upward. The cape catches wind — not flying, CONTROLLED FALLING. They land on a taxi roof below. The taxi crumples. They survive.
+
+**Character Block:**
+```
+BATMAN (PRISTINE) FULL DESCRIPTION:
+[Same as 0.2.1]
+- Expression: Determined, single-focused on the catch
+- Action: Diving, cape spread, reaching for Rachel
+- Position: Vertical freefall, above Rachel
+
+RACHEL DAWES FULL DESCRIPTION:
+[Same as C1.1]
+- Expression: Screaming, arms reaching
+- Action: Falling, hair and dress whipping upward
+- Position: Below Batman, taxi roof approaching
+```
+
+**Caption Box:** "The Joker escaped. He always escapes. But he didn't kill Dent — because he's a man of his word. The test wasn't the murder. It was the MESSAGE."
+
+---
+
+## SCENE C5: ALFRED'S BURMA STORY
+**Location:** Wayne penthouse — private study, night
+**Purpose:** ★★★ CLARITY NAMED. Alfred reframes the entire conflict. Understanding the nature of what you face.
+**Pillar Seed:** This IS the pillar moment. Not managing information — UNDERSTANDING.
+**TDK Reference:** Scene 14, pp. 60-62
+
+### Panel C5.1 — BRUCE'S QUESTION
+**Composition:** Wayne penthouse, low light. Bruce in civilian clothes — dark shirt, jeans, stitching his arm where the shoe blade cut through armor. Alfred stands nearby, coffee in hand, watching. The penthouse is quiet after the party's destruction. Broken glass still on the floor. This is the moment of exhaustion.
+
+**Character Block:**
+```
+BRUCE WAYNE FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, blue eyes, dark brown hair disheveled, bruised and cut, athletic muscular build, 6'0"
+- Costume: Dark navy (#1A1A2E) henley shirt, sleeves pushed up, jeans, barefoot. A bandage on his forearm where the shoe blade penetrated
+- Expression: Frustrated, exhausted, genuinely asking
+- Action: Stitching his own arm, looking up at Alfred
+- Position: Seated on a stool, penthouse study
+
+ALFRED PENNYWORTH FULL DESCRIPTION:
+- Face & Body: Michael Caine, Caucasian British man, mid-60s, thinning grey hair, warm blue eyes, kind but weathered face, dignified posture, medium build, 5'10"
+- Costume: Dark charcoal (#333333) vest over white (#FFFFFF) dress shirt, sleeves rolled once, dark trousers. Off-duty butler — still immaculate but less formal
+- Expression: Thoughtful, preparing to tell a hard truth
+- Action: Holding coffee cup, standing, weight on one leg
+- Position: Standing near Bruce, close but giving space
+```
+
+**Bruce:** "The mob wouldn't do this to the city. They know what they stand to lose. But the Joker... Alfred, I can't figure him out. What does he WANT?"
+
+---
+
+### Panel C5.2 — THE BURMA BANDIT
+**Composition:** Alfred steps closer, sets the coffee down. His expression changes — this is a real memory, not a parable. The background subtly shifts: a ghostly overlay of jungle, heat haze, a Southeast Asian landscape bleeding through the penthouse walls. Alfred is telling a story, but he's LIVING it again.
+
+**Character Block:**
+```
+ALFRED PENNYWORTH FULL DESCRIPTION:
+[Same as C5.1]
+- Expression: Distant, remembering — this cost him something
+- Action: Setting coffee down, hands now free, gesturing as he talks
+- Position: Closer to Bruce, looking slightly past him into memory
+```
+
+**Alfred:** "A long time ago, I was in Burma. My friends and I were working for the local government. They were trying to buy the loyalty of tribal leaders by bribing them with precious stones."
+
+**Alfred:** "But their caravans were being raided in a forest north of Rangoon by a bandit. So we went looking for the stones. But in six months, we never found anyone who traded with him."
+
+---
+
+### Panel C5.3 — "HE THREW THEM AWAY" — ★ CLARITY
+**Composition:** Bruce looks up, arrested. Alfred's face in profile — the weight of understanding. The ghostly jungle overlay intensifies: rubies scattered on forest ground, gleaming in dappled light. The rubies THROWN AWAY — worthless to the man who stole them. This is the moment everything reframes.
+
+**Character Block:**
+```
+ALFRED PENNYWORTH FULL DESCRIPTION:
+[Same as C5.1]
+- Expression: The look of a man who has seen this kind of evil before and survived
+- Action: Looking directly at Bruce, delivering the truth
+- Position: Standing, profile to camera, Bruce facing him
+
+BRUCE WAYNE FULL DESCRIPTION:
+[Same as C5.1]
+- Expression: Understanding hitting him — the reframe
+- Action: Hands still, stitching forgotten, listening
+- Position: Seated, looking up at Alfred
+```
+
+**Alfred:** "One day I saw a child playing with a ruby the size of a tangerine. The bandit had been throwing them away."
+
+**Bruce:** "So why steal them?"
+
+**Alfred:** ★ **"Because some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned, or negotiated with."**
+
+**Alfred:** ★ **"Some men just want to watch the world burn."**
+
+**Caption Box — PILLAR CARD:** ★ **CLARITY** — *Understanding what you face. Not information management. Not data analysis. The moment you stop asking "what do they want?" and start understanding "what ARE they?"*
+
+---
+
+### Panel C5.4 — "HOW DID YOU CATCH HIM?"
+**Composition:** A beat. Bruce absorbs it. Then the follow-up — the question that reveals CLARITY alone isn't enough.
+
+**Bruce:** "How did you catch him?"
+
+**Alfred (long pause):** "We burned the forest down."
+
+**Caption Box:** "CLARITY tells you what you face. It doesn't tell you what to do about it. That requires COURAGE."
+
+---
+
+## SCENE C6: CRIME SCENE + BULLET FORENSICS
+**Location:** Crime scene (apartment) / Bat-bunker
+**Purpose:** CLARITY applied — Batman as detective. Reading the signal in the noise. Reese subplot setup.
+**TDK Reference:** Scene 15, pp. 62-66
+
+### Panel C6.1 — HARVEY DENT ANAGRAM
+**Composition:** Split composition. LEFT: A crime scene — dead men in an apartment, Joker cards on the bodies. Their driver's licenses visible: "PATRICK HARVEY" and "RICHARD DENT." The names glow faintly. RIGHT: Batman in the Bat-bunker, digital screens showing the names rearranged — letters shuffling, connecting, forming "HARVEY DENT." The signal in the noise.
+
+**Character Block:**
+```
+BATMAN (PRISTINE) FULL DESCRIPTION:
+[Same as 0.2.1]
+- Expression: Focused, detective work, the realization dawning
+- Action: Studying digital screens, fingers manipulating holographic letters
+- Position: Standing at Bat-bunker console, screens surrounding him
+```
+
+**Caption Box:** "Patrick Harvey. Richard Dent. The names were the message. HARVEY DENT was the real target. CLARITY in practice — reading what others miss."
+
+---
+
+### Panel C6.2 — FOX SHUTS DOWN REESE
+**Composition:** Wayne Enterprises boardroom. REESE — young, eager, nervous — stands across from FOX at a desk. Reese holds documents — blueprints that prove Wayne Enterprises built the Tumbler. He thinks he has leverage. Fox's expression says otherwise. Fox is calm, amused, completely unthreatened.
+
+**Character Block:**
+```
+LUCIUS FOX FULL DESCRIPTION:
+- Face & Body: Morgan Freeman, African American man, late 60s, grey hair close-cropped, warm brown eyes, dignified bearing, calm authority, lean build, 6'2"
+- Costume: Navy blue (#1B2A4A) three-piece suit, white dress shirt, burgundy tie, gold cufflinks. Impeccable.
+- Expression: Gentle amusement — this man has no idea who he's threatening
+- Action: Seated at desk, hands folded, looking at Reese over glasses
+- Position: Behind desk, composed, dominant
+
+REESE FULL DESCRIPTION:
+- Face & Body: Joshua Harto, Caucasian man, early 30s, dark hair, nervous eyes, thin build, 5'10"
+- Costume: Grey (#808080) suit, slightly rumpled, thin tie — mid-level employee trying to play a big game
+- Expression: Smug turning to uncertain
+- Action: Holding documents, leaning forward
+- Position: Standing across from Fox's desk
+```
+
+**Fox:** "Let me get this straight. You think that your client — one of the wealthiest, most powerful men in the world — is secretly a vigilante who spends his nights beating criminals to a pulp with his bare hands. And your plan is to blackmail this person?"
+
+**Fox:** "Good luck."
+
+---
+
+## SCENE C7: LOEB'S FUNERAL + GORDON'S "DEATH"
+**Location:** Gotham City streets — funeral procession / hospital
+**Purpose:** Joker infiltrates the honor guard. Gordon takes a bullet for the Mayor. Fakes his death.
+**TDK Reference:** Scene 16, pp. 66-72
+
+### Panel C7.1 — THE HONOR GUARD
+**Composition:** Gotham street, overcast. A formal funeral procession for Commissioner Loeb. Honor guard in GCPD dress uniforms flanking the coffin. American flags. Crowds behind barricades. Mayor Garcia at the front. BUT — three of the honor guard members are WRONG. Their eyes don't match. Their posture is different. These are Joker's men in disguise. We see it because we know. The crowd doesn't.
+
+**Elements:**
+- Funeral procession: Formal, flag-draped, imposing
+- Honor guard: Seven officers, three are imposters (subtle tells — wrong shoes, stiff posture)
+- Mayor Garcia: At the front, exposed
+- Gordon: Nearby, scanning the crowd, sensing something wrong
+- Atmosphere: Tension beneath ceremony
+
+**Caption Box:** "Seven honor guard. Three of them were the Joker's. Hiding in plain sight — just like the school bus. Just like the bank heist."
+
+---
+
+### Panel C7.2 — GORDON TAKES THE BULLET
+**Composition:** The moment of chaos. Honor guard raises rifles for the salute — ONE gun turns toward the Mayor. Gordon LUNGES, pushing Mayor Garcia aside, taking the bullet in his own chest. The crack of the shot. Gordon falls. Pandemonium. Officers scramble. The crowd screams.
+
+**Character Block:**
+```
+JIM GORDON FULL DESCRIPTION:
+[Same as C1.3]
+- Costume: GCPD dress uniform — navy blue (#1A237E) dress coat, gold badge, white gloves, cap
+- Expression: The split second of choice — no calculation, pure instinct
+- Action: Lunging sideways, pushing the Mayor, bullet impact on chest
+- Position: Mid-leap, between the shooter and the Mayor
+```
+
+**Caption Box:** "No hesitation. No calculation. Gordon moved before he thought."
+
+---
+
+### Panel C7.3 — "GORDON IS DEAD"
+**Composition:** Hospital hallway. Barbara Gordon being told. She collapses. James Jr., young, stares at nothing. The hallway stretches long and fluorescent. Police officers with heads bowed. The news spreading through GCPD like a shockwave.
+
+**Elements:**
+- Hospital hallway: Harsh light, institutional
+- Barbara Gordon: Collapsing, officer catching her
+- James Jr.: Standing still, small, processing
+- Officers: Background, devastated
+
+**Caption Box:** "The city mourned Jim Gordon. It didn't know he was lying in the morgue with his eyes open, waiting."
+
+---
+
+### Panel C7.4 — GORDON ALIVE (REVEAL HELD)
+**Composition:** Dark. A morgue drawer, slightly ajar. One eye visible through the crack — Gordon's. Alive. Watching. A phone in his hand, texting. The reveal is held for later (K2), but THIS panel plants the seed. The audience sees what the city doesn't.
+
+**Caption Box:** "The student becomes the protector. Sometimes the bravest thing isn't dying. It's letting people think you did."
+
+---
+
+## SCENE C8: DENT'S COIN-FLIP INTERROGATION
+**Location:** Dark alley, night
+**Purpose:** FIRST CRACK in the White Knight. The seed of Two-Face. CLARITY's dark side.
+**TDK Reference:** Scene 17, pp. 72-74
+
+### Panel C8.1 — THE INTERROGATION IN THE ALLEY
+**Composition:** Dark alley, steam rising from grates. Harvey Dent has SCHIFF — a paranoid, skinny man — pressed against a wall. Dent holds his double-headed coin in one hand and presses a GUN to Schiff's temple with the other. Schiff is terrified, shaking. This is NOT the confident DA from the courtroom. This is a man breaking.
+
+**Character Block:**
+```
+HARVEY DENT (UNDER PRESSURE) FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, square jaw NOW CLENCHED, blond hair disheveled, blue eyes wild, sweat on forehead, 6'0"
+- Costume: Same charcoal suit from earlier, NOW rumpled — jacket off, white shirt untucked, tie loosened, sleeves rolled. The transformation from order to chaos beginning
+- Expression: Desperate rage — the mask of composure cracking
+- Action: Pressing gun to Schiff's temple, flipping coin with other hand
+- Position: Pressing Schiff against the wall, dominant, threatening
+
+SCHIFF FULL DESCRIPTION:
+- Face & Body: David Dastmalchian, Caucasian man, early 30s, gaunt, hollowed cheeks, wide terrified eyes, thin unkempt hair, frail build, 5'8"
+- Costume: Dirty grey (#808080) t-shirt, worn jeans, sneakers — low-level criminal/informant
+- Expression: Pure terror, eyes locked on the gun
+- Action: Hands up, pressed flat against wall, shaking
+- Position: Against the wall, Dent looming over him
+```
+
+**Dent:** "You want to play games? FINE." *(flips coin)* "Heads — you talk. Tails — you don't. Simple. Fair."
+
+**Schiff:** "It's a double-headed coin! You can't—"
+
+**Dent:** "I make my own luck. TALK."
+
+---
+
+### Panel C8.2 — BATMAN INTERVENES
+**Composition:** Batman drops from above, landing between Dent and Schiff. His cape billows. He grabs the gun barrel, pushing it away from Schiff's head. Dent's face — anger redirected at Batman. The coin glints in the alley light, still in Dent's fist.
+
+**Character Block:**
+```
+BATMAN (PRISTINE) FULL DESCRIPTION:
+[Same as 0.2.1]
+- Expression: Concerned — this isn't the man he endorsed at the fundraiser
+- Action: Grabbing gun barrel, pushing it away, facing Dent
+- Position: Between Dent and Schiff, just landed
+
+HARVEY DENT (UNDER PRESSURE) FULL DESCRIPTION:
+[Same as C8.1]
+- Expression: Anger, embarrassment, defiance — caught
+- Action: Grip loosening on gun as Batman intervenes
+- Position: Face-to-face with Batman
+```
+
+**Batman:** "This isn't how justice works, Harvey."
+
+**Dent:** "You want to know what the Joker's people say? They say the only way to stop him is to play HIS game. Maybe they're right."
+
+**Caption Box:** "The first crack. Small. Barely visible. But cracks don't heal. They GROW."
+
+**Caption Box:** "CLARITY without COURAGE leads to desperation. Dent saw the enemy clearly. But seeing wasn't enough."
+
+---
+
+# ACT 2: COURAGE
+*Acting despite knowing the cost — when every option costs something.*
+
+> ★ PILLAR MOMENT: Alfred's "Endure" Speech (Scene K1) + The Interrogation (Scene K3)
+> "The choice that no one else can make. The right choice."
+
+---
+
+## SCENE K1: "I AM THE BATMAN"
+**Location:** Bat-bunker / Wayne penthouse / Gotham City Hall press conference
+**Purpose:** Alfred defines COURAGE. Dent takes Batman's identity. Rachel's letter planted.
+**Pillar Moment:** ★★★ COURAGE NAMED — "He can make the choice that no one else can make. The right choice."
+**TDK Reference:** Scene 18, pp. 74-78
+
+### Panel K1.1 — "I'M TURNING MYSELF IN"
+**Composition:** Bat-bunker. Dark. Equipment powered down. Bruce stands in civilian clothes, back to camera, looking at the Batsuit mounted on its stand. Alfred stands behind him, arms at his sides. The weight of the decision fills the room. Bruce has decided to unmask. Every day he doesn't, people die.
+
+**Character Block:**
+```
+BRUCE WAYNE FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, blue eyes, dark brown hair, exhausted, athletic muscular build, 6'0"
+- Costume: Black (#1A1A1A) sweater, dark jeans, bare feet — a man at the end of his options
+- Expression: Resolved, defeated — he believes unmasking is the only way
+- Action: Standing, looking at the Batsuit on its stand
+- Position: Bat-bunker, back to Alfred, facing the suit
+
+ALFRED PENNYWORTH FULL DESCRIPTION:
+[Same as C5.1]
+- Expression: Pained but certain — he's about to say the hardest truth
+- Action: Standing behind Bruce, hands at sides, about to speak
+- Position: Behind Bruce, several feet back
+```
+
+**Bruce:** "People are dying, Alfred. Every day I don't do this, someone else dies. What would you have me do?"
+
+---
+
+### Panel K1.2 — ★ "ENDURE, MASTER WAYNE" — COURAGE NAMED
+**Composition:** Close on Alfred's face. The most important speech he will ever give. Behind him, documents burning in a metal wastebasket — he's already destroying evidence. He knows what this means. The Bat-bunker is being shut down. But his words aren't about giving up. They're about what Batman IS.
+
+**Character Block:**
+```
+ALFRED PENNYWORTH FULL DESCRIPTION:
+[Same as C5.1]
+- Expression: Fierce conviction — this is Alfred at his strongest
+- Action: One hand on Bruce's shoulder, the other gesturing with quiet intensity
+- Position: Close to Bruce, facing him, firelight from burning documents on his face
+```
+
+**Alfred:** ★ **"Endure, Master Wayne. Take it. They'll hate you for it, but that's the point of Batman."**
+
+**Alfred:** ★ **"He can be the outcast. He can make the choice that no one else can make. The right choice."**
+
+**Caption Box — PILLAR CARD:** ★ **COURAGE** — *Not fearlessness. Not bravery in the moment. The willingness to make THE choice — the one that costs you everything — because it's right. Even when they hate you for it.*
+
+---
+
+### Panel K1.3 — RACHEL'S LETTER
+**Composition:** Wayne penthouse hallway. Rachel hands Alfred a sealed envelope — THE LETTER. Her expression is resolved. She's made her choice (Harvey), and this letter tells Bruce. Alfred takes it gently. He doesn't know what's in it yet. Rachel's hand lingers on the envelope for a beat — her goodbye to Bruce, written down.
 
 **Character Block:**
 ```
 RACHEL DAWES FULL DESCRIPTION:
-- Face & Body: Maggie Gyllenhaal, Caucasian woman, early 30s, dark brown hair shoulder length now disheveled, warm brown eyes wide with fear but defiant, slim build, 5'5"
-- Costume: Professional grey (#6B7280) blazer over white blouse, now dirty and torn from captivity, dark skirt
-- Expression: Terrified but composed, jaw set, looking at the timer
-- Action: Tied to chair, wrists bound behind, phone duct-taped to her right hand
-- Position: Center of warehouse, oil drums stacked around her, timer visible on nearest barrel
+[Same as C1.1]
+- Costume: Dark coat (#2B2B2B), professional — she's come from work, this is a detour
+- Expression: Sad, certain, saying goodbye without words
+- Action: Handing the envelope to Alfred, fingers lingering
+- Position: Hallway, facing Alfred, doorway behind her
+
+ALFRED PENNYWORTH FULL DESCRIPTION:
+[Same as C5.1]
+- Expression: Gentle concern — he senses something final
+- Action: Accepting the envelope, both hands
+- Position: Hallway, facing Rachel
 ```
 
-**Text:**
-- **Caption Box:** "The other warehouse. The one Batman didn't choose."
+**Rachel:** "If Bruce won't give up being Batman... give him this. When the time is right."
+
+**Caption Box:** "The letter that changes everything. And Alfred will never deliver it."
 
 ---
 
-### Panel 13.5 — THE WRONG PERSON
-**Composition:** Batman stops. In front of him: HARVEY DENT tied to the chair. NOT Rachel. Harvey is screaming, face pressed into gasoline, timer at 0:08. The Joker switched the addresses.
+### Panel K1.4 — "I AM THE BATMAN"
+**Composition:** Gotham City Hall. Press conference. Massive crowd, press cameras, microphones. Harvey Dent stands at the podium. The moment of truth — Bruce Wayne is in the crowd, about to step forward, about to unmask. But Dent speaks FIRST. He takes the identity. "I am the Batman." The crowd erupts. Rachel, in the crowd, stares at Dent in shock.
 
 **Character Block:**
 ```
-HARVEY DENT (BEFORE) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, handsome features twisted with terror, blue eyes wild, blonde hair soaked in gasoline, 6'0"
-- Costume: Navy suit soaked and torn, shirt drenched in fuel, half his face pressed into gasoline puddle
-- Expression: Screaming, desperate, terrified
-- Action: Tied to chair, face half-submerged in gasoline, pulling against ropes
-- Position: Center of warehouse, timer at 0:08 visible
+HARVEY DENT (WHITE KNIGHT) FULL DESCRIPTION:
+[Same as C1.1]
+- Expression: Calm, deliberate, sacrificial — he knows exactly what he's doing
+- Action: Standing at podium, hands on lectern, delivering the lie that saves Batman
+- Position: Podium, press cameras flashing, crowd behind barricades
+
+BRUCE WAYNE FULL DESCRIPTION:
+[Same as K1.1]
+- Costume: Dark suit, in the crowd — anonymous
+- Expression: Stunned — Dent took HIS bullet
+- Action: Frozen mid-step, hand half-raised
+- Position: In the crowd, near the front, stopped
 ```
 
-**Text:**
-- **Harvey Speech:** "RACHEL! WHERE IS SHE?!"
+**Dent:** "If Batman doesn't want to raise the stakes, I will. I am the Batman."
+
+**Caption Box:** "Harvey Dent took the fall before the fall was real. COURAGE borrowed — and Batman's debt began."
 
 ---
 
-### Panel 13.6 — THE PHONE RINGS *(NEW — EXPANSION)*
-**Composition:** CUT TO: Rachel's warehouse. Close on Rachel's face. The phone taped to her hand RINGS. She answers — her thumb can just reach the button. Harvey's voice, tinny and desperate, coming through.
+## SCENE K2: DENT CONVOY CHASE
+**Location:** Gotham streets — convoy route / tunnels / open road
+**Purpose:** Batmobile destroyed. Bat-Pod born. "Hit me!" Joker captured. Gordon revealed alive.
+**TDK Reference:** Scene 19, pp. 78-84
 
-**Text:**
-- **Harvey Speech (from phone, distorted):** "Rachel—"
-- **Rachel Speech:** "Harvey?"
+### Panel K2.1 — THE CONVOY
+**Composition:** Gotham streets, night. An armored GCPD convoy — black SWAT van at center carrying Dent (the "bait"), police cruisers flanking, helicopter above. Organized. Professional. And behind them, gaining ground: a GARBAGE TRUCK driven by the Joker's men, and behind that, an 18-wheeler. The trap is closing.
 
----
+**Elements:**
+- Convoy: SWAT van, cruisers, helicopter — organized force
+- Garbage truck: Gaining ground, menacing, out of place
+- 18-wheeler: Behind the garbage truck, blocking retreat
+- Gotham streets: Night, wet, neon reflected on asphalt
+- Tension: The net closing
 
-### Panel 13.7 — THE LAST GOODBYE *(NEW — EXPANSION)*
-**Composition:** SPLIT PANEL. LEFT: Harvey in his warehouse, straining against ropes, phone somehow pressed to his ear, gasoline dripping. RIGHT: Rachel in hers, phone taped to hand, oil drums reflecting firelight from the fuse already lit. Their last conversation, across the city. The timers are different — his reads 0:06, hers reads 0:12.
-
-**Text:**
-- **Harvey Speech:** "Rachel, I'm sorry. I'm so sorry."
-- **Rachel Speech:** "I know."
-
----
-
-### Panel 13.8 — RACHEL'S LAST WORDS *(NEW — EXPANSION)*
-**Composition:** Close on Rachel. Tears streaking through grime on her face. But her jaw is set. She knows. The acceptance on her face is devastating.
-
-**Text:**
-- **Rachel Speech:** "Harvey... it's okay."
-- **Rachel Speech (smaller, trailing):** "Tell Bruce..."
-- **Caption Box:** "She couldn't finish."
+**Caption Box:** "Dent as prisoner bait. The Joker wouldn't resist. That was the plan."
 
 ---
 
-### Panel 13.9 — BATMAN'S REALIZATION
-**Composition:** Close on Batman's face. Behind the cowl — the horror of understanding. He chose correctly. The Joker lied about which address was which. Harvey is here. Rachel is across the city.
+### Panel K2.2 — BATMOBILE DESTROYED → BAT-POD BORN
+**Composition:** IMPACT. The Batmobile takes a direct RPG hit from the Joker's garbage truck. The Tumbler cracks, splits, EJECTS — from the wreckage, the BAT-POD screams out. Two wheels, cannons, Batman prone on top. The Tumbler burns behind him. The old form destroyed. The new one BORN. Transformation through destruction.
 
-**Text:**
-- **Batman Internal (grey, italic):** "He switched the addresses..."
-- **Caption Box:** "Clarity worked. The Joker just cheated."
+**Character Block:**
+```
+BATMAN (BATTLE-DAMAGED) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, intense eyes, athletic muscular build, 6'0"
+- Costume: Full black Batsuit — NOW DAMAGED: scorch marks on right shoulder and torso from RPG blast, scratches across chest plate, cape torn at edges. Cowl intact. Gauntlets scratched. Riding prone on Bat-Pod.
+- Expression: Focused, adrenaline, adapting instantly
+- Action: Riding Bat-Pod out of Tumbler wreckage, low and fast
+- Position: Emerging from fireball, Bat-Pod wheels spinning
+```
 
----
-
-### Panel 13.10 — GORDON ARRIVES TOO LATE *(NEW — EXPANSION)*
-**Composition:** CUT TO: Gordon's convoy screeching to a halt outside Rachel's warehouse on Avenue X. Gordon is already out of the car, running. Through the warehouse windows — FIRE. Orange light flickering. The fuse has reached the barrels.
-
-**Text:**
-- **Gordon Speech:** "NO! Get those doors open! NOW!"
-
----
-
-### Panel 13.11 — THE TIMER
-**Composition:** Close on the timer at Harvey's warehouse. 0:03. Batman's gloved hand reaching for Harvey's ropes. Everything moving in slow motion.
-
-**Text:**
-- None (pure tension)
+**Caption Box:** "The Tumbler destroyed. But from the wreckage — something faster. Something leaner. Transformation costs you what you were."
 
 ---
 
-### Panel 13.12 — RACHEL'S ACCEPTANCE *(NEW — EXPANSION)*
-**Composition:** Rachel's warehouse. Close on Rachel. Eyes closed. Timer at 0:01. The barrels are glowing. She's not screaming. She's not fighting. Acceptance. Peace, almost. The cruelest panel in the episode.
+### Panel K2.3 — "HIT ME. COME ON. HIT ME."
+**Composition:** The iconic moment. Open street. The Joker stands ALONE in the middle of the road, facing down the oncoming Bat-Pod. Arms OUT, gun in one hand, hanging loose. Daring Batman to kill him. The Bat-Pod screams toward him. The Joker's expression: pure ecstasy. He WANTS this. Behind him, his flipped garbage truck burns.
 
-**Text:**
-- None (silence is the point)
+**Character Block:**
+```
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: ECSTATIC — death doesn't scare him, it excites him
+- Action: Standing in the road, arms spread wide, gun dangling from one hand
+- Position: Center of road, facing oncoming Bat-Pod, legs planted
+
+BATMAN (BATTLE-DAMAGED) FULL DESCRIPTION:
+[Same as K2.2]
+- Action: Riding Bat-Pod straight at Joker, deciding
+- Position: Approaching fast, headlight blazing
+```
+
+**Joker:** "Hit me. Come on. HIT ME!"
+
+**Caption Box:** "The one rule. Don't kill. The Joker knew the rule. He was betting his life on it."
 
 ---
 
-### Panel 13.13 — THE GRAB
-**Composition:** Batman DIVING at Harvey, ripping the chair sideways, shielding Harvey's body with his own. The timer at 0:01.
+### Panel K2.4 — BATMAN SWERVES
+**Composition:** The swerve. Batman dumps the Bat-Pod sideways at the last second, cables firing into the Joker's truck wreckage, the bike sliding across asphalt in a shower of sparks. The Joker STILL standing, untouched, laughing, arms spread. Batman chose NOT to kill. The one rule holds.
+
+**Caption Box:** "He swerved. He'll always swerve. And the Joker knows it."
+
+---
+
+### Panel K2.5 — GORDON ALIVE — JOKER CAPTURED
+**Composition:** Chaos aftermath. The Joker being slammed against a police car by Gordon — JIM GORDON, ALIVE, in tactical gear, ripping off a ski mask he wore during the convoy. The Joker in handcuffs. Gordon's face: triumph, exhaustion, vindication. Officers surround them.
+
+**Character Block:**
+```
+JIM GORDON FULL DESCRIPTION:
+[Same as C1.3]
+- Costume: Black (#0A0A0A) tactical vest over civilian clothes, ski mask pulled up to forehead, GCPD badge visible, sidearm holstered
+- Expression: Fierce satisfaction — the trap worked
+- Action: Slamming Joker against car hood, hands on Joker's collar
+- Position: Standing over the Joker, dominant
+
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: Amused even in defeat — handcuffs don't bother him
+- Action: Being slammed against car, not resisting, smiling
+- Position: Against car hood, handcuffed behind his back
+```
+
+**Gordon:** "We got you, you son of a bitch."
+
+**Caption Box:** "Gordon alive. Joker captured. Commissioner Gordon, promoted on the spot. For one brief moment — they won."
+
+---
+
+## SCENE K3: THE INTERROGATION
+**Location:** MCU holding room — single table, single light
+**Purpose:** THE central scene of the entire film. Philosophical showdown. The Address Choice. COURAGE + CLARITY converge.
+**TDK Reference:** Scene 20, pp. 84-92
+
+### Panel K3.1 — THE HOLDING ROOM
+**Composition:** MCU interrogation room. Dark. A single overhead fluorescent light, harsh and pale. The Joker sits alone at a metal table, handcuffed. No matches on prints, DNA, dental. Custom clothing, no labels. He is NO ONE. He sits with the patience of a man who planned to be here.
+
+**Character Block:**
+```
+THE JOKER (STRIPPED) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, late 20s-early 30s, lean wiry build, 6'1". Glasgow smile scars visible. Green-tinged greasy hair, more matted than before
+- Costume: STRIPPED — no purple coat. Green (#2D5A27) waistcoat over blue-grey dress shirt, wrinkled, pulled and stretched from the arrest. No tie. Handcuffed to the table
+- Makeup: White greasepaint WORN — patchy, smearing, the mask deteriorating. Black eye makeup smudged outward. Red lipstick fading, cracking at edges
+- Expression: Patient, amused, exactly where he wants to be
+- Action: Sitting still, hands folded on table despite cuffs, waiting
+- Position: Seated at metal table, single light above, darkness around
+```
+
+**Caption Box:** "No matches on prints, DNA, dental. Custom clothing with no labels. No name. No history. He was designed to be unknowable."
+
+---
+
+### Panel K3.2 — BATMAN ENTERS
+**Composition:** The door SLAMS open. Batman walks in. The fluorescent light catches his armor. He props a CHAIR under the door handle — no one gets in, no one gets out. Gordon watches through one-way glass. Batman sits across from the Joker. Two men. One table. One light.
 
 **Character Block:**
 ```
 BATMAN (PRISTINE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, intense desperate eyes, 6'0"
-- Costume: Full black Batsuit — matte black armoured plates, cape wrapping around both of them
-- Expression: Desperate, all-in, this is COURAGE before it's named
-- Action: Diving, ripping chair sideways, shielding Harvey
-- Position: Over Harvey, between him and the explosion about to come
+[Same as 0.2.1]
+- Expression: Controlled fury, mission-focused
+- Action: Sitting down across from Joker, hands on table
+- Position: Across the table, facing Joker, light between them
+
+THE JOKER (STRIPPED) FULL DESCRIPTION:
+[Same as K3.1]
+- Expression: Delighted — the guest of honor has arrived
+- Action: Leaning back slightly, comfortable
+- Position: Same seat, now facing Batman
 ```
 
-**Text:**
-- None (action)
+**Joker:** "Good evening, Commissioner."
 
 ---
 
-### Panel 13.14 — GORDON RUNNING *(NEW — EXPANSION)*
-**Composition:** Gordon sprinting toward Rachel's warehouse door. His men behind him. The building's windows BLOW OUT — EXPLOSION. Gordon is thrown sideways by the shockwave. Glass and fire erupting outward.
+### Panel K3.3 — "YOU HAVE NOTHING"
+**Composition:** Tight two-shot. The Joker leans forward into the light. Batman's fist is on the table, knuckles white. The power dynamic is WRONG — Batman has the strength, but the Joker has the control. Every answer is a provocation.
 
-**Text:**
-- None (the explosion speaks)
-## SCENE 14: THE EXPLOSION
-**Location:** Both warehouses — simultaneous
-**Purpose:** The COURAGE cost — parallel devastation, Rachel dies, Gordon witnesses
-
-### Panel 14.1 — BATMAN AND HARVEY THROUGH THE WALL
-**Composition:** Batman diving toward Harvey, tackling him through the warehouse wall as fire ERUPTS behind them. Harvey's face — the left side catching the full blast of gasoline ignition. They're airborne, crashing through brick and wood.
-
-**Text:**
-- None (pure action)
+**Joker:** "You have nothing. Nothing to threaten me with. Nothing to do with all your strength."
 
 ---
 
-### Panel 14.2 — RACHEL'S WAREHOUSE — THE END *(NEW — EXPANSION)*
-**Composition:** Rachel's warehouse from INSIDE. The explosion consuming everything. Oil drums detonating in sequence. Rachel at the center — a silhouette swallowed by white-hot light. She's gone.
+### Panel K3.4 — "DON'T TALK LIKE ONE OF THEM"
+**Composition:** The Joker's face, extreme close. Makeup cracking. Scars visible. Eyes ALIVE — more alive than anyone in the film. He's not performing for Batman. He's telling him the TRUTH.
 
-**Text:**
-- None (devastation needs no words)
+**Joker:** "Don't talk like one of them. You're NOT. Even if you'd like to be."
 
----
-
-### Panel 14.3 — PARALLEL DEVASTATION (SPLIT) *(REWORKED)*
-**Composition:** SPLIT PANEL. LEFT: Batman shielding Harvey on the ground outside 250 52nd St, cape over both of them, debris raining down. RIGHT: Gordon thrown backward by the blast from Rachel's warehouse, coat flaring, glasses knocked off, hitting the pavement.
-
-**Text:**
-- **Caption Box (red #EF4444 background, white text):** "COURAGE: Act before you're ready."
+**Joker:** "To them, you're just a freak. Like me. They need you right now, but when they don't... they'll cast you out. Like a leper."
 
 ---
 
-### Panel 14.4 — THE COST
-**Composition:** Wide shot caption panel. No characters. Just text over a dark red (#EF4444) wash.
+### Panel K3.5 — "YOU. COMPLETE. ME."
+**Composition:** Both men in profile. Mirror image — dark armor, dark makeup. Two sides of the same obsession. The table between them is the only thing separating order from chaos.
 
-**Text:**
-- **Caption Box (red #EF4444 background, white text):** "The cost might break you."
+**Joker:** "I don't want to kill you. What would I do without you? Go back to ripping off mob dealers? No. No, no. You... you complete me."
+
+**Batman:** "You're garbage who kills for money."
+
+**Joker:** "Don't talk like one of them! You're not! Even if you'd like to be. To them you're just a freak — like me. They need you right now, but when they don't... they'll cast you out, like a leper."
 
 ---
 
-### Panel 14.5 — HARVEY'S FACE
-**Composition:** Batman and Harvey on the ground outside. Harvey's face — the left side burned, skin damaged, eye area exposed. He's screaming. Batman is trying to help, looking toward the distant glow.
+### Panel K3.6 — "I'M NOT A MONSTER"
+**Composition:** Batman's hand SLAMS the Joker's face into the table. Makeup smears on metal. The Joker comes up LAUGHING. Blood from his lip mixing with red lipstick. He's been hit harder and he doesn't care. Pain is meaningless to him.
+
+**Joker:** "Their morals, their code... it's a bad joke. Dropped at the first sign of trouble. They're only as good as the world allows them to be. I'll show you. When the chips are down, these 'civilized people'... they'll eat each other."
+
+**Joker:** "I'm not a monster. I'm just ahead of the curve."
+
+---
+
+### Panel K3.7 — THE ADDRESS CHOICE
+**Composition:** The pivot. The Joker leans forward, suddenly serious. No more games. He reveals: Harvey and Rachel are at separate locations, both wired to explode. The clock is ticking. Batman has time to save ONE. And the Joker gives the addresses — SWITCHED.
+
+**Joker:** "Tonight you're going to break your one rule..."
+
+**Batman:** "Which one?"
+
+**Joker:** "The one you'll have to save. Harvey Dent didn't make it home tonight."
+
+**Joker:** "Depending on the time, he may be in one spot or several."
+
+**Batman (seizing him):** "WHERE ARE THEY?"
+
+**Joker:** "250 52nd Boulevard. And she's on Avenue X at Cicero."
+
+**Caption Box:** "The addresses were switched. Batman races to save Rachel. He'll find Harvey instead. The cruelest trick in the film — giving someone what they ask for."
+
+---
+
+### Panel K3.8 — BATMAN RUNS
+**Composition:** Batman EXPLODES out of the interrogation room. Cape trailing. Running. The door buckles as he rips the chair away. Gordon shouting orders behind him. The Joker, alone in the room, handcuffed to the table, watches Batman go. Smiling.
+
+**Character Block:**
+```
+BATMAN (PRISTINE) FULL DESCRIPTION:
+[Same as 0.2.1]
+- Expression: Desperate — he's racing against a timer
+- Action: Running through MCU corridor, cape streaming behind
+- Position: In motion, leaving the interrogation room
+
+THE JOKER (STRIPPED) FULL DESCRIPTION:
+[Same as K3.1]
+- Expression: Satisfied — everything is going exactly as planned
+- Action: Still seated, watching Batman leave
+- Position: Handcuffed to table, alone, smiling
+```
+
+**Caption Box:** "COURAGE means acting on incomplete information. Batman chose. He ran to save Rachel. He'll arrive at the wrong address. And the cost will be everything."
+
+---
+
+## SCENE K4: RACHEL DIES / TWO-FACE BORN
+**Location:** Two warehouses — 250 52nd Street + Avenue X, Cicero
+**Purpose:** The cost of courage. Rachel dies alone. Harvey burns. Two-Face born. Joker escapes.
+**TDK Reference:** Scene 21, pp. 92-96
+
+### Panel K4.1 — TWO WAREHOUSES, TWO TIMERS
+**Composition:** Split panel, vertical divide. LEFT: Warehouse at 250 52nd. Harvey Dent strapped to a chair, fuel barrels stacked around him, a digital timer counting down. His face desperate, struggling against restraints. RIGHT: Warehouse at Avenue X, Cicero. Rachel tied to a chair, same fuel barrels, same timer. She's calmer. Almost accepting. Two lives. One choice. And the choice was RIGGED.
 
 **Character Block:**
 ```
 HARVEY DENT (TRANSITION) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, RIGHT side still handsome, LEFT side severely burned — skin charred, eye area damaged, 6'0"
-- Costume: Navy suit half-burned on left side, scorched
-- Expression: Agony, screaming, broken
-- Action: On ground, clutching face, screaming Rachel's name
-- Position: On ground beside Batman, warehouse burning behind
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, blond hair now matted with sweat, blue eyes wide with panic, tied to chair
+- Costume: White dress shirt soaked in diesel, suit trousers, tie cut away — bound at wrists and ankles
+- Expression: Desperate, struggling, screaming
+- Action: Thrashing against restraints, chair rocking
+- Position: CENTER of warehouse, barrels surrounding, timer visible
+
+RACHEL DAWES FULL DESCRIPTION:
+[Same as C1.1]
+- Costume: Dark blue cocktail dress from the fundraiser, now torn, dirty, diesel-stained
+- Expression: Afraid but accepting — she knows what's coming
+- Action: Still, looking at the timer, not struggling
+- Position: CENTER of warehouse, barrels surrounding, timer visible
 ```
 
-**Text:**
-- **Harvey Speech (broken):** "Rachel... RACHEL!"
+**Caption Box:** "250 52nd. Avenue X, Cicero. Batman chose Rachel's address. He'll find Harvey. The Joker LIED about which address was which."
 
 ---
 
-### Panel 14.6 — GORDON ON HIS KNEES *(NEW — EXPANSION)*
-**Composition:** Avenue X Cicero. Gordon on his knees in the rubble. His glasses cracked, coat singed. The warehouse behind him is a roaring inferno. His men are pulling him back but he's not moving. He knows. Too late. He was sent to the wrong address too.
+### Panel K4.2 — BATMAN FINDS HARVEY
+**Composition:** Batman CRASHES through the warehouse door at 250 52nd. He expects Rachel. He finds HARVEY. The realization hits — his face through the cowl, horror and understanding in the same instant. He grabs Dent, starts cutting restraints. The timer: 00:08. No time for the other warehouse. No time.
 
 **Character Block:**
 ```
-JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-50s, brown-grey hair disheveled, glasses cracked, moustache, face covered in soot, eyes devastated, 5'9"
-- Costume: Rumpled tan (#C2B280) trenchcoat singed at edges, GCPD uniform dirty, one shoe missing
-- Expression: Devastation, grief, kneeling in failure
-- Action: On knees in rubble, officers pulling at his shoulders, staring at the fire
-- Position: Foreground, Rachel's burning warehouse behind him
+BATMAN (PRISTINE) FULL DESCRIPTION:
+[Same as 0.2.1]
+- Expression: HORROR — wrong person, wrong address, understanding hitting him
+- Action: Cutting Harvey's restraints, desperate, looking at the timer
+- Position: In the warehouse, over Harvey's chair
 ```
 
-**Text:**
-- None (the image says everything)
+**Caption Box:** "He chose Rachel. He found Harvey. The cruelest trick — not the switch, but the choice. Batman would ALWAYS choose Rachel. The Joker knew it. That's why he switched."
 
 ---
 
-### Panel 14.7 — BATMAN'S FAILURE
-**Composition:** Batman standing, looking toward the distant fire on the horizon — the warehouse he couldn't reach. Rain mixing with smoke. Behind the cowl, he's broken. Harvey screaming on the ground behind him.
+### Panel K4.3 — RACHEL'S LAST WORD
+**Composition:** The other warehouse. Rachel ALONE. No one is coming. The timer at 00:03. She looks at the ceiling. She is calm. She has accepted. One word. The most devastating word in the film.
 
 **Character Block:**
 ```
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, 6'0"
-- Costume: Full black Batsuit — matte black armoured plates with visible scuffs, scratches. Cape with minor tears. Cowl scratched. Post-explosion wear.
-- Expression: Devastated, broken, staring at distant fire
-- Action: Standing motionless, looking toward Rachel's warehouse
-- Position: Foreground, Harvey on ground behind, fire in distance
+RACHEL DAWES FULL DESCRIPTION:
+[Same as C1.1]
+- Expression: Acceptance. Peace. Grief — not for herself, for Bruce
+- Action: Sitting still, eyes up, breathing
+- Position: Alone in the warehouse, no one coming, timer at 00:03
 ```
 
-**Text:**
-- **Caption Box:** "He acted. He moved. And he lost anyway."
+**Rachel:** "Okay."
+
+**Caption Box:** "No screaming. No begging. One word. Then fire."
 
 ---
 
-### Panel 14.8 — GORDON'S CALL *(NEW — EXPANSION)*
-**Composition:** Close on Batman's face. His earpiece crackles. Gordon's voice — broken, barely holding together — comes through. Batman's eyes close. The confirmation he already knew but needed to hear.
+### Panel K4.4 — THE EXPLOSION — TWO-FACE BORN
+**Composition:** BOTH warehouses detonate simultaneously. LEFT: Batman tackles Harvey to the ground as the fireball erupts — diesel ignites on Dent's LEFT SIDE. His face. His suit. His skin. Screaming. Burning. Batman shields what he can. RIGHT: The other warehouse — a FIREBALL, pure white-orange. Rachel is gone. No body. No survival. Just fire.
 
-**Text:**
-- **Gordon Speech (radio, broken):** "She's gone, Batman. I'm sorry."
-- **Caption Box:** "The framework held. It cost everything."
+**Elements:**
+- Split panel: Two explosions, one beat
+- LEFT: Harvey's face burning — diesel on left side, screaming
+- RIGHT: Pure explosion — Rachel consumed
+- SOUND: The film's most brutal silence after
 
----
-
-
----
-
-# ACT 4: COMMITMENT
-## "Accept the cost you can't see."
+**Caption Box:** "Rachel Dawes died alone. Harvey Dent survived with half a face. And the Joker, handcuffed in MCU, had already escaped — phone bomb in a fat thug's surgically implanted belly."
 
 ---
 
-
-## SCENE 15: HARVEY'S HOSPITAL — FACE TO FACE #2
-**Location:** Gotham General Hospital
-**Purpose:** Joker corrupts Harvey — creates Two-Face
-
-### Panel 15.1 — HOSPITAL ROOM
-**Composition:** Hospital room. HARVEY DENT lies in bed, half his face bandaged. He's broken. Hollow. Staring at the ceiling.
+### Panel K4.5 — THE COST
+**Composition:** Aftermath. Silence. Batman on his knees in the smoking rubble of 250 52nd. Harvey unconscious, half his face blackened, being loaded onto a gurney by paramedics. Batman doesn't move. He's looking at the empty space where Rachel should have been. He saved the wrong person. He made the brave choice, and the brave choice cost everything.
 
 **Character Block:**
 ```
-HARVEY DENT (TRANSITION) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, RIGHT side handsome but haggard, LEFT side fully bandaged — white medical gauze covering burn damage, 6'0"
-- Costume: Hospital gown, white sheets, IV tubes
-- Expression: Empty, hollow, grief beyond tears
-- Action: Lying in bed, staring at ceiling, motionless
-- Position: Center of hospital bed, bandaged face visible
+BATMAN (BATTLE-DAMAGED) FULL DESCRIPTION:
+[Same as K2.2]
+- Additional damage: Scorch marks from explosion, cape singed
+- Expression: Devastated — the cost of courage made real
+- Action: Kneeling in rubble, motionless, looking at nothing
+- Position: On the ground, warehouse ruins around him
 ```
 
-**Text:**
-- None (devastation)
+**Caption Box:** "The cost of COURAGE. He didn't freeze. He didn't hesitate. He acted. And the action cost Rachel. The framework doesn't prevent the loss. It survives it."
 
 ---
 
-### Panel 15.2 — NURSE ENTERS
-**Composition:** A NURSE enters the room. Wrong silhouette. Too tall. Wrong posture. The "nurse" turns — THE JOKER in nurse disguise.
+# ACT 3: COMMITMENT
+*Choosing the harder path — what holds, what breaks, and what it costs to keep going.*
+
+> ★ PILLAR MOMENTS: Hospital Speech (Scene M3) + Fox's Sonar Objection (Scene M5)
+> "Do I really look like a guy with a plan?" / "Beautiful. Unethical. Dangerous."
+
+---
+
+## SCENE M1: JOKER BURNS THE MONEY
+**Location:** Warehouse — mob money storage
+**Purpose:** Joker's thesis made visual. Everything burns. The Joker doesn't WANT anything.
+**TDK Reference:** Scene 22, pp. 96-99
+
+### Panel M1.1 — THE MONEY PILE
+**Composition:** A vast warehouse. Floor to ceiling: CASH. The entire mob fortune — billions of dollars stacked in pallets, banded, organized. On top of the money pile: LAU, tied, gagged, alive, terrified. The Joker stands before it with a burning lighter, his men behind him. The Chechen is present, horrified — this was HIS money.
 
 **Character Block:**
 ```
-THE JOKER (NURSE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint, messy red lipstick into Glasgow smile scars, black eye makeup
-- Hair: Greasy green-tinged hair tucked under nurse cap
-- Costume: White nurse uniform dress over his frame (clearly ill-fitting), white nurse cap with red cross, name tag reading "NURSE", white stockings, white shoes. Deliberately absurd.
-- Expression: Playing innocent, head tilted, mock sweetness
-- Action: Entering room, turning to reveal himself
-- Position: Doorway, silhouette wrong for a nurse
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: Calm, certain, almost philosophical
+- Action: Holding lighter, arm extended, about to touch flame to cash
+- Position: Standing before the money wall, Lau visible above
+
+LAU FULL DESCRIPTION:
+- Face & Body: Chin Han, East Asian man, early 40s, neat black hair now disheveled, slim build, 5'9"
+- Costume: Expensive grey suit now torn and dirty, tie gone, wrists bound to the money pallets
+- Expression: Absolute terror — bound on top of the pile
+- Action: Struggling against bonds, gagged, eyes wide
+- Position: Tied on top of the money pile, elevated
 ```
 
-**Text:**
-- None (horror reveal)
+**Joker:** "It's not about money. It's about sending a message."
 
 ---
 
-### Panel 15.3 — HARVEY REACTS
-**Composition:** Harvey trying to rise, pulling away, too weak. The Joker approaches with exaggerated nurse walk.
+### Panel M1.2 — "EVERYTHING BURNS"
+**Composition:** The money IGNITES. A wall of flame. Cash curling, burning, floating upward as ash. Lau screaming through his gag as fire climbs toward him. The Joker watches, his face lit by the orange glow. Behind him, Chechen lunges forward — the Joker's men hold him back.
 
-**Text:**
-- **Harvey Speech:** "You... YOU!"
-- **Joker Speech (jagged):** "Hi there."
+**Joker:** "Everything. Burns."
 
----
-
-### Panel 15.4 — JOKER SITS
-**Composition:** Joker sitting on the edge of Harvey's bed. Casual. Intimate. Holding Harvey's scarred coin.
-
-**Text:**
-- **Joker Speech (jagged):** "I'm not a monster. I'm just ahead of the curve."
+**Caption Box:** "The mob's fortune. Lau's life. The entire structure of organized crime in Gotham — meaningless. The Joker doesn't WANT anything. He wants to prove that wanting is the weakness."
 
 ---
 
-### Panel 15.5 — THE PHILOSOPHY
-**Composition:** Close two-shot. Joker leaning toward Harvey's bandaged face.
+### Panel M1.3 — CHECHEN'S DOGS
+**Composition:** The Joker turns to the Chechen. Casual. Almost friendly. The Chechen's own ROTTWEILERS strain on chains held by Joker's men, teeth bared. The Joker gestures toward them. The implication is clear.
 
-**Text:**
-- **Joker Speech (jagged):** "Nobody panics when things go according to plan. Even if the plan is horrifying."
+**Joker:** "I'm a man of my word."
 
----
-
-### Panel 15.6 — THE PLAN *(NEW — EXPANSION)*
-**Composition:** Joker gesturing broadly, performing for Harvey. His logic is insane but internally consistent.
-
-**Text:**
-- **Joker Speech (jagged):** "If tomorrow I tell the press that a gang-banger will get shot, or a truckload of soldiers will blow up..."
-- **Joker Speech (jagged):** "Nobody panics. Because it's all PART OF THE PLAN."
+**Caption Box:** "He killed Chechen with his own dogs. He burned Lau with the mob's own money. Every weapon the Joker uses belongs to someone else. Even chaos is borrowed."
 
 ---
 
-### Panel 15.7 — UPSET THE ORDER *(NEW — EXPANSION)*
-**Composition:** Joker leaning in close. His voice dropping. This is the seduction.
+## SCENE M2: RACHEL'S LETTER + ALFRED'S CHOICE
+**Location:** Wayne penthouse — Alfred's quarters, alone
+**Purpose:** Alfred reads Rachel's letter. She chose Harvey. Alfred hides it. His COMMITMENT begins.
+**TDK Reference:** Scene 23, pp. 99-100
 
-**Text:**
-- **Joker Speech (jagged):** "But I say that one little old mayor will die?"
-- **Joker Speech (jagged):** "Everyone LOSES THEIR MINDS!"
-
----
-
-### Panel 15.8 — THE NAMES *(NEW — NARRATIVE FIX)*
-**Composition:** Joker leaning in conspiratorially. Like he's sharing a secret. One finger tapping Harvey's bedframe.
-
-**Text:**
-- **Joker Speech (jagged):** "You wanna know who picked Rachel up that night?"
-- **Joker Speech (jagged):** "Gordon's people. His own unit. Wuertz. Ramirez."
-
----
-
-### Panel 15.9 — THE ACCUSATION *(NEW — NARRATIVE FIX)*
-**Composition:** Close on Harvey's face — the unbandaged side. Shock turning to cold fury. This isn't abstract anymore. This is specific.
-
-**Text:**
-- **Joker Speech (jagged):** "Gordon's hand-picked cops. He KNEW they were dirty, Harvey. He used them anyway."
-- **Joker Speech (jagged):** "And where was Gordon when Rachel burned?"
-
----
-
-### Panel 15.10 — THE WEAPON *(NEW — NARRATIVE FIX)*
-**Composition:** Joker pressing the coin into Harvey's hand. One side clean, one side scarred. But now Harvey isn't just grieving — he has TARGETS.
-
-**Text:**
-- **Joker Speech (jagged):** "Introduce a little anarchy. You know the thing about chaos?"
-
----
-
-### Panel 15.11 — HARVEY'S EYES *(renumbered from 15.9)*
-**Composition:** Close on Harvey's eyes — one normal, one exposed and bloodshot from burn damage. Something changing. Breaking. Rebuilding wrong.
-
-**Text:**
-- **Joker Speech (jagged):** "It's fair."
-
----
-
-### Panel 15.12 — THE COIN *(renumbered from 15.10)*
-**Composition:** Harvey's hand closing around the coin. Both sides of his face visible — handsome and ruined. The White Knight is dying. Something else is being born.
+### Panel M2.1 — ALFRED READS THE LETTER
+**Composition:** Alfred's private quarters in the penthouse. Small lamp. A chair. The envelope Rachel gave him in K1.3, now open. Alfred reads, his expression shifting — line by line — from curiosity to understanding to grief. Not for himself. For Bruce. The letter tells the truth Bruce can never hear.
 
 **Character Block:**
 ```
-TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, LEFT side normal handsome features, RIGHT side severely burned — exposed muscle tissue, missing eyelid revealing bloodshot eye, charred skin, visible teeth through burned cheek, 6'0"
-- Costume: Hospital gown, one hand clutching the scarred coin
-- Expression: Pain transforming into cold resolve, the moral center breaking
-- Action: Clutching coin, both sides of face visible
-- Position: Sitting up in hospital bed, two-face composition
+ALFRED PENNYWORTH FULL DESCRIPTION:
+[Same as C5.1]
+- Costume: White (#FFFFFF) dress shirt, no vest, no jacket — private Alfred, off-duty
+- Expression: Grief, weight, the decision forming behind his eyes
+- Action: Seated, holding the letter in both hands, reading
+- Position: Alone in chair, single lamp, warm but heavy light
 ```
 
-**Text:**
-- **Harvey Speech:** "The only morality in a cruel world... is chance."
+**Rachel's Letter (V.O.):** "Dear Bruce. I need to be honest and clear. I'm going to marry Harvey Dent. I love him, and I want to spend the rest of my life with him."
+
+**Rachel's Letter (V.O.):** "When I told you that if Gotham no longer needed Batman, we could be together... I meant it. But now I'm sure the day won't come when you don't need Batman."
 
 ---
 
-### Panel 15.13 — THE CORRUPTION COMPLETE *(renumbered from 15.11)*
-**Composition:** Harvey holding the coin up. Two-Face is born. The Joker watching from the bedside, satisfied. His work here is done.
+### Panel M2.2 — ALFRED HIDES THE LETTER
+**Composition:** Alfred folds the letter carefully. Places it in a wooden box. Closes the lid. His hand rests on the box for a moment. He's made the choice — Bruce will never read this. Not now. Maybe not ever. The lie of omission begins.
 
-**Text:**
-- **Caption Box:** "The Joker didn't break Harvey Dent."
-- **Caption Box:** "He gave him permission to break himself."
+**Caption Box:** "Rachel chose Harvey. She was never going to choose Bruce. Alfred hid the truth to protect him. His COMMITMENT began here — loyalty over honesty. And the letter would burn in the finale."
 
 ---
 
+## SCENE M3: HOSPITAL — TWO-FACE + JOKER
+**Location:** Gotham General Hospital — Harvey's room
+**Purpose:** ★★★ THE Hospital Speech. Joker's masterpiece. Harvey breaks. COMMITMENT's dark mirror.
+**TDK Reference:** Scene 24, pp. 100-106
 
-## SCENE 16: THE HOSPITAL WALK-AWAY *(NEW — RESTORED)*
+### Panel M3.1 — TWO-FACE REVEALED
+**Composition:** Hospital room. Harsh fluorescent. Harvey Dent lies in bed. One hand reaches for the bedside table — his COIN. He picks it up. Turns it over. One side is clean, silver, pristine. The other side is SCORCHED — blackened, warped by the fire. Like his face. He turns to the mirror on the wall and RIPS his bandage off. Half his face: exposed musculature, tendons, the eye socket visible, teeth showing through the missing cheek. Two-Face stares at himself.
+
+**Character Block:**
+```
+HARVEY DENT / TWO-FACE (HOSPITAL) FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s. RIGHT side: unchanged — square jaw, blond hair, blue eye, handsome. LEFT side: BURNED — exposed muscle tissue, visible tendons and bone structure, missing cheek showing teeth, eye socket exposed (eye intact but unblinking), charred skin edges, raw red (#8B0000) and white (#FFE4E1) tissue. Burns extend from temple to jaw on left side.
+- Costume: Hospital gown, white (#FFFFFF), left side singed at the collar
+- Expression: RIGHT side: stone. LEFT side: can't express — the muscle is exposed. Both eyes: RAGE
+- Action: Looking in mirror, bandage ripped off, coin in hand
+- Position: Hospital bed, sitting up, mirror in front
+```
+
+**Caption Box:** "Harvey Dent looked in the mirror and saw what the Joker had made of him."
+
+---
+
+### Panel M3.2 — REESE ON TV / JOKER'S PHONE CALL
+**Composition:** Split. LEFT: A TV screen — Coleman Reese on a news show, about to reveal Batman's identity. RIGHT: Gordon at GCPD, phone ringing — the Joker's voice on the line. The ultimatum: kill Reese in 60 minutes, or Joker blows up a hospital. Gordon's face: horror. In the background, hospital evacuation beginning.
+
+**Caption Box:** "Another distraction. Another impossible choice. The Joker doesn't create chaos — he creates DECISIONS. And every decision costs something."
+
+---
+
+### Panel M3.3 — JOKER AS NURSE
+**Composition:** Gotham General Hospital hallway. Evacuation in progress. Patients on gurneys, nurses running, alarm lights flashing. Walking AGAINST the flow — calm, unhurried — the Joker. In a NURSE'S UNIFORM. White scrubs. A red wig. A surgical mask pulled down around his chin. His makeup visible beneath. He holds a clipboard. He is ABSURD and TERRIFYING simultaneously.
+
+**Character Block:**
+```
+THE JOKER (NURSE DISGUISE) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, late 20s-early 30s, lean wiry build, 6'1". Glasgow smile scars. Green-tinged greasy hair visible beneath RED WIG
+- Costume: White (#FFFFFF) nurse uniform — scrubs top and bottom. Red (#CC0000) curly wig, slightly askew. Surgical mask pulled down around neck. White nurse shoes. Name badge (unreadable). Clipboard in hand
+- Makeup: Same greasepaint — white base, black eyes, red lips — VISIBLE beneath the nurse outfit. The disguise doesn't hide him. It mocks the concept of disguise
+- Expression: Casual, almost bored, walking through evacuation like it's a Tuesday
+- Action: Walking calmly against the flow of panicking people
+- Position: Hospital hallway, moving toward Dent's room
+```
+
+**Caption Box:** "Hiding in plain sight. Again. The school bus in the convoy. The honor guard at the funeral. The nurse in the evacuation. The Joker's greatest trick isn't chaos. It's COSTUME."
+
+---
+
+### Panel M3.4 — THE HOSPITAL SPEECH — PART 1
+**Composition:** Harvey's hospital room. The Joker pulls up a chair, sits backward on it, arms draped over the backrest. Casual. Like a friend visiting. Harvey lies in bed, half-faced, gun under his pillow (a cop's weapon, taken). The Joker leans in. The greatest manipulation in cinema begins.
+
+**Character Block:**
+```
+THE JOKER (NURSE DISGUISE) FULL DESCRIPTION:
+[Same as M3.3]
+- Expression: Intimate, sincere — the most dangerous Joker, the one who tells the truth
+- Action: Sitting backward on chair, leaning toward Harvey, arms on backrest
+- Position: Beside Harvey's bed, close, confidential
+
+HARVEY DENT / TWO-FACE (HOSPITAL) FULL DESCRIPTION:
+[Same as M3.1]
+- Expression: Rage barely contained, listening despite himself
+- Action: Hand under pillow (on the gun), other hand gripping bedframe
+- Position: Hospital bed, turned toward Joker
+```
+
+**Joker:** "Do I really look like a guy with a plan? You know what I am? I'm a dog chasing cars. I wouldn't know what to do with one if I caught it."
+
+**Joker:** "I just DO things."
+
+---
+
+### Panel M3.5 — THE HOSPITAL SPEECH — PART 2 ("AGENT OF CHAOS")
+**Composition:** Closer. The Joker's hands move as he speaks — conductor of an orchestra of destruction. Harvey's one good eye follows every word. The gun is visible now, pulled from under the pillow, resting on the bed. The Joker sees it. Doesn't flinch.
+
+**Joker:** "The mob has plans. The cops have plans. Gordon's got plans. They're schemers. Schemers trying to control their little worlds."
+
+**Joker:** "I just did what I do best — I took your little plan and I turned it on itself."
+
+**Joker:** "Introduce a little anarchy. Upset the established order. And everything becomes chaos."
+
+**Joker:** "I'm an agent of chaos."
+
+---
+
+### Panel M3.6 — THE COIN FLIP — "IT'S FAIR"
+**Composition:** The critical moment. Harvey points the gun at the Joker. The Joker guides Harvey's hand — PUTS THE GUN AGAINST HIS OWN FOREHEAD. Then places the SCORCHED COIN in Harvey's other hand. Flips it FOR him. The coin spins. Lands. GOOD SIDE UP. The Joker lives. Harvey stares at the result. The coin decided. And that's when Harvey BREAKS — because the coin is fair. And fairness is all he has left.
+
+**Character Block:**
+```
+HARVEY DENT / TWO-FACE (HOSPITAL) FULL DESCRIPTION:
+[Same as M3.1]
+- Expression: Something SHIFTING — from rage to understanding, from justice to chance
+- Action: Gun pressed to Joker's forehead, looking at the coin result
+- Position: Bed, gun arm extended
+
+THE JOKER (NURSE DISGUISE) FULL DESCRIPTION:
+[Same as M3.3]
+- Expression: Calm, unafraid, the gun means nothing to him
+- Action: Forehead against the barrel, eyes on Harvey, waiting for the result
+- Position: Seated, leaning forward into the gun
+```
+
+**Joker:** "It's fair."
+
+**Caption Box — PILLAR CARD:** ★ **COMMITMENT'S DARK MIRROR** — *Harvey had every reason to hold the line. He was the best of them. The Joker didn't break him with violence or threats. He gave him PERMISSION to let go. "It's fair" — the most dangerous two words in the film. When commitment breaks, it doesn't crack. It INVERTS.*
+
+---
+
+## SCENE M4: HOSPITAL EXPLOSION WALK-AWAY
 **Location:** Gotham General Hospital — exterior
-**Purpose:** THE Joker image — nurse outfit, fumbling detonator, explosion behind
+**Purpose:** THE Joker image. The walk-away. Destruction made casual.
+**TDK Reference:** Scene 25, p. 106
 
-### Panel 16.1 — JOKER EXITS
-**Composition:** The Joker in nurse uniform walking out of Gotham General Hospital. Behind him through the glass doors, chaos — patients being evacuated, staff rushing, alarms visible as flashing lights. He's holding a small detonator. His thumb is on the button.
-
-**Character Block:**
-```
-THE JOKER (NURSE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic delighted eyes, 6'1"
-- Makeup: Smeared white face paint, red lipstick, black eye makeup
-- Hair: Green-tinged hair mostly tucked under nurse cap, wisps escaping
-- Costume: White nurse uniform, cap, stockings, shoes — absurd on his frame
-- Expression: Casual, amused, walking away from what he's about to do
-- Action: Walking out of hospital, thumb on detonator
-- Position: Foreground, hospital behind through glass
-```
-
-**Text:**
-- None (building)
-
----
-
-### Panel 16.2 — THE FUMBLE
-**Composition:** The Joker pressing the detonator button. Nothing happens. He presses again. Nothing. He stops walking. Looks at the device. Presses it repeatedly, confused. The hospital stands behind him, intact.
-
-**Text:**
-- None (dark comedy)
-
----
-
-### Panel 16.3 — THE EXPLOSION
-**Composition:** THE HOSPITAL EXPLODES BEHIND HIM. Massive. The delayed detonation finally catches. Windows blowing out. Fireball rising. Debris flying. And the Joker — his BACK to the explosion — FLINCHES, then keeps walking. Nurse cap slightly askew. Not looking back.
+### Panel M4.1 — THE WALK
+**Composition:** Exterior. Gotham General Hospital behind. The Joker walks AWAY from the building in the nurse outfit, detonator in hand. Casual stride. Red wig slightly askew. He presses the detonator. Nothing happens. He looks at it, confused. Fumbles with it. Presses again. Still nothing. He stops. Turns to look back at the hospital.
 
 **Character Block:**
 ```
-THE JOKER (NURSE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, 6'1"
-- Makeup: White face paint, red lipstick, black eyes
-- Hair: Green-tinged, nurse cap knocked askew by blast wave
-- Costume: White nurse uniform, now dusty from blast concussion
-- Expression: Casual walk, slight flinch at the blast, NOT looking back
-- Action: Walking away from explosion, back to camera, nurse outfit absurd against the fireball
-- Position: Foreground walking TOWARD camera, hospital exploding BEHIND him
+THE JOKER (NURSE DISGUISE) FULL DESCRIPTION:
+[Same as M3.3]
+- Expression: Confused, annoyed — the detonator isn't working
+- Action: Walking away, pressing detonator, looking back at hospital
+- Position: Midway between camera and hospital, pausing
 ```
 
-**Elements:**
-- Hospital: Exploding — windows blowing out, fireball, structural collapse beginning
-- Joker: Walking AWAY from explosion, back to it
-- Debris: Flying past him
-- Nurse cap: Askew from blast wave
-- School bus: Visible at curb — his escape
+---
 
-**WHAT NOT TO DRAW:** No people in the explosion. Building only. The hospital was evacuated (per the story). The horror is the SCALE of destruction, not casualties.
+### Panel M4.2 — BOOM
+**Composition:** THE explosion. Gotham General ERUPTS. Multiple detonation points — windows blowing outward sequentially, from left to right, like a wave. Fire, glass, debris. A MASSIVE fireball rising. And in the FOREGROUND: the Joker, still in nurse scrubs, not looking back. He's resumed walking. Behind him: absolute destruction. His posture: Tuesday afternoon.
 
-**Text:**
-- **Caption Box:** "Some men just want to watch the world burn."
-- **Caption Box:** "He didn't even watch."
+**Character Block:**
+```
+THE JOKER (NURSE DISGUISE) FULL DESCRIPTION:
+[Same as M3.3]
+- Expression: Satisfied, casual — the confused look gone, replaced by calm
+- Action: Walking away, NOT looking at the explosion behind him
+- Position: Foreground, walking toward camera, hospital exploding behind
+```
+
+**Caption Box:** "The Joker doesn't look at explosions. He doesn't need to. The destruction isn't the point. The REACTION is."
 
 ---
 
-### Panel 16.4 — THE BUS
-**Composition:** The Joker climbing into yet another school bus (his signature escape vehicle). Nurse outfit, explosion still raging behind him. He tosses the detonator out the window. It clatters on the asphalt.
+### Panel M4.3 — THE BUS
+**Composition:** The Joker walks to a school bus — SAME type as the bank heist getaway. The door opens. Harvey Dent — now TWO-FACE — sits inside, scarred face in shadow, gun on his lap. The Joker boards. Two monsters in a school bus. Gotham General burning behind them.
 
-**Text:**
-- None (the image IS the statement)
-
----
-
-### Panel 16.5 — THE DRIVE AWAY
-**Composition:** The school bus pulling away. In the rearview mirror, the hospital burns. The Joker's eyes in the mirror — makeup smeared, nurse cap still on — checking his makeup, not the destruction.
-
-**Text:**
-- **Caption Box:** "Chaos had a face. And it was checking its lipstick."
+**Caption Box:** "One monster created another. And they left in a school bus. Just like the bank."
 
 ---
 
+## SCENE M5: FOX AND THE SONAR
+**Location:** Wayne Enterprises — Applied Sciences Lab
+**Purpose:** ★★★ COMMITMENT NAMED. Fox discovers the sonar surveillance. Principled commitment vs. necessary power.
+**TDK Reference:** Scene 26, pp. 106-112
 
-## SCENE 17: FOX AND THE SONAR *(NEW — RESTORED)*
-**Location:** Wayne Enterprises — Applied Sciences
-**Purpose:** COMMITMENT counterpoint — even Batman's tools have moral limits
-
-### Panel 17.1 — WAYNE ENTERPRISES BASEMENT
-**Composition:** The Applied Sciences division of Wayne Enterprises. Dark. Massive. Banks of screens showing sonar data — the entire city mapped in blue waves. Every phone in Gotham converted into a listening device. LUCIUS FOX stands before the display, arms crossed.
+### Panel M5.1 — THE SONAR WALL
+**Composition:** Wayne Enterprises lab, deep underground. Lucius Fox stands before a WALL OF SCREENS — every cell phone in Gotham turned into a sonar device. The screens pulse blue, showing x-ray outlines of buildings, streets, PEOPLE. 30 million citizens, all visible. Fox's expression: awe turning to horror. Beautiful technology. Terrible application.
 
 **Character Block:**
 ```
 LUCIUS FOX FULL DESCRIPTION:
-- Face & Body: Morgan Freeman, African American man, late 60s, grey hair closely cropped, wise knowing eyes behind glasses, calm demeanor, 6'2"
-- Costume: Tailored dark charcoal (#374151) suit, light blue (#93C5FD) dress shirt, dark tie, polished shoes
-- Expression: Disapproving, measuring the weight of what he's seeing
-- Action: Standing before sonar display, arms crossed
-- Position: Center frame, massive sonar screens behind
+[Same as C6.2]
+- Expression: Awe transitioning to moral horror — he built this technology and Batman weaponized it
+- Action: Hands at sides, looking up at the wall of screens
+- Position: Standing before the sonar wall, dwarfed by it, blue light washing over him
 ```
+
+**Fox:** ★ **"Beautiful. Unethical. Dangerous."**
+
+**Fox:** "You've turned every cell phone in the city into a microphone."
+
+**Fox:** "Spying on thirty million people wasn't in my job description."
+
+---
+
+### Panel M5.2 — "TYPE YOUR NAME"
+**Composition:** Batman on a screen — remote communication. His face serious. He knows what he's asking Fox to use. He also knows the stakes: the Joker has hostages, two ferries wired to blow, and Gotham is hours from destruction. Fox's hand hovers near the console. The moral line.
+
+**Batman (on screen):** "I need your help. Just this once."
+
+**Fox:** "This is too much power for one person."
+
+**Batman:** "That's why I gave it to you. Only you can use it."
+
+**Batman:** "When you've finished, type your name."
+
+**Fox:** "...What will that do?"
+
+**Batman:** "It'll switch off the machine — and destroy it."
+
+**Caption Box — PILLAR CARD:** ★ **COMMITMENT** — *Use the necessary power. But build in its own destruction. Fox draws the line — and Batman respects it by making Fox the kill switch. This is what principled commitment looks like. Not refusing power. Refusing to let it outlast its purpose.*
+
+---
+
+## SCENE M6: DENT'S REVENGE
+**Location:** Multiple — bar, limo, Rachel's apartment
+**Purpose:** Two-Face acts. Three confrontations, escalating violence. COMMITMENT broken = consequences in motion.
+**TDK Reference:** Scene 27, pp. 112-121
+
+### Panel M6.1 — WUERTZ DIES
+**Composition:** A dive bar. Two-Face sits across from WUERTZ — a corrupt GCPD detective, thick, sweating. Two-Face holds the scarred coin. Flips it. It lands scarred-side up. Two-Face raises the gun. Wuertz starts to beg. The trigger pulls.
+
+**Character Block:**
+```
+HARVEY DENT / TWO-FACE (REVENGE) FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s. RIGHT side unchanged. LEFT side: fully exposed burns — muscle, tendons, exposed teeth, unblinking eye. Burns visible down neck to collar
+- Costume: Dark (#2B2B2B) suit jacket, white shirt underneath — half pristine, half scorched and torn on the left side. No tie. The coin in his left hand
+- Expression: RIGHT side: cold, calm, judicial. LEFT side: exposed musculature shows nothing — but the intact eye is dead. No rage anymore. Just PROCESS
+- Action: Flipping coin, gun in other hand, pointed at Wuertz
+- Position: Seated across a bar table, dominant
+```
+
+**Caption Box:** "Wuertz. The corrupt cop who picked up Rachel. Coin said scarred side. The first murder."
+
+---
+
+### Panel M6.2 — MARONI'S LIMO
+**Composition:** Inside a moving limousine. Two-Face in the back seat with MARONI — the mob boss, now terrified. Two-Face has already flipped for Maroni (good side — Maroni lives). Now he flips for the DRIVER. Scarred side. Two-Face shoots the driver through the seat. The limo swerves, crashes through a guardrail, flips off an overpass.
+
+**Caption Box:** "Maroni lived. His driver didn't. The limo went off the bridge. Two-Face walked away. The coin decides. The coin is fair."
+
+---
+
+### Panel M6.3 — RAMIREZ LURED — GORDON'S FAMILY
+**Composition:** Two-Face on a phone, giving instructions to RAMIREZ — a corrupt GCPD officer. She's crying, following orders. She calls Gordon's wife, tells her Gordon is hurt. It's a lure. Gordon's family goes to 250 52nd Street — the warehouse where Rachel died. Two-Face is waiting.
+
+**Caption Box:** "Ramirez called Gordon's wife. 'Jim's been hurt, you need to come to 250 52nd Street.' The warehouse where Rachel died. Harvey brought Gordon's family to the place that created him."
+
+---
+
+## SCENE M7: THE FERRY EXPERIMENT
+**Location:** Gotham harbor — two ferries / MCU
+**Purpose:** ★★★ COMMITMENT RESOLUTION. Both boats choose NOT to detonate. The Tattooed Prisoner.
+**TDK Reference:** Scene 28, pp. 121-131 (intercut with Prewitt Building)
+
+### Panel M7.1 — TWO FERRIES, TWO DETONATORS
+**Composition:** Gotham harbor, night. Two ferries — massive, lit, crowded. One carries CIVILIANS (families, workers, people fleeing). The other carries PRISONERS (orange jumpsuits, shackled, guards). Each ferry has a DETONATOR for the OTHER ferry. A timer counts toward midnight. The Joker's voice over loudspeakers: "Each of you has a remote to blow up the other boat."
 
 **Elements:**
-- Sonar display: City mapped in blue waves, every building, every person
-- Screens: Banks of monitors showing Gotham in real-time
-- Basement lab: Dark, industrial, Wayne Enterprises R&D
+- Two ferries: Massive, lit up, harbor between them
+- Civilian ferry: Families, children visible through windows
+- Prisoner ferry: Orange jumpsuits, guards with guns
+- Detonators: Red, visible on tables on each ferry
+- Harbor: Dark water, Gotham skyline, midnight approaching
 
-**Text:**
-- **Caption Box:** "Batman had built something that could find anyone. Anywhere."
+**Joker (V.O.):** "Tonight, you're all going to be part of a social experiment. At midnight, I blow you all up. But I'm giving you a chance. Each of you has a remote to blow up the other boat."
 
----
-
-### Panel 17.2 — FOX'S VERDICT
-**Composition:** Close on Fox's face. Not angry. Worse — disappointed. The moral weight of what Batman has done.
-
-**Text:**
-- **Fox Speech:** "Beautiful. Unethical. Dangerous."
+**Joker (V.O.):** "So who's it going to be? Harvey Dent's most-wanted scumbag collection, or the sweet and innocent civilians?"
 
 ---
 
-### Panel 17.3 — FOX EXPLAINS
-**Composition:** Fox turning from the screens to face the camera — or rather, a speakerphone. Batman isn't there in person. He's listening remotely.
-
-**Text:**
-- **Fox Speech:** "You've turned every cell phone in Gotham into a microphone."
-- **Fox Speech:** "This is wrong."
-
----
-
-### Panel 17.4 — BATMAN'S REQUEST
-**Composition:** The speakerphone. Batman's distorted voice. The screens pulsing behind Fox.
-
-**Text:**
-- **Batman Speech (from speaker, distorted):** "I need to find the Joker. Just this once."
-
----
-
-### Panel 17.5 — FOX'S LINE
-**Composition:** Fox's hand on the console. Not using it. Refusing. But not destroying it yet. The moral line drawn.
-
-**Character Block:**
-```
-LUCIUS FOX FULL DESCRIPTION:
-- Face & Body: Morgan Freeman, African American man, late 60s, grey hair, wise eyes behind glasses, 6'2"
-- Costume: Dark charcoal suit, light blue shirt, dark tie
-- Expression: Resolute, this is his COMMITMENT — the line he won't cross
-- Action: Hand resting on console, not pressing anything
-- Position: Before the sonar, choosing his limit
-```
-
-**Text:**
-- **Fox Speech:** "As long as this machine is at Wayne Enterprises, I won't be."
-
----
-
-### Panel 17.6 — THE CHOICE WITHIN THE CHOICE
-**Composition:** Wide shot — Fox small against the massive sonar display. The power to find anyone versus the principle of restraint. Even heroes have COMMITMENT limits.
-
-**Text:**
-- **Caption Box (white background, black text):** "COMMITMENT isn't just what you'll sacrifice."
-- **Caption Box:** "It's what you refuse to become — even when it would work."
-
----
-
-### Panel 17.7 — S.P. EASTER EGG
-**Composition:** Close on Fox's desk area. A small sticky note on the console reads: "SP: The right tool doesn't make the wrong choice right."
-
-**Text:**
-- None (Easter egg — audience doesn't need to notice)
-
----
-
-## SCENE 18: THE FERRY GAMBIT
-**Location:** Gotham Harbor
-**Purpose:** Courage demonstrated by others — refusing to choose on Joker's terms
-
-### Panel 18.1 — FERRY A INTERIOR
-**Composition:** Inside the civilian ferry. CITIZENS staring at the detonator on the table. Fear. Anger. One man has his hand hovering over it.
-
-**Text:**
-- **Citizen Speech:** "We blow them up before they blow us up. It's them or us!"
-
----
-
-### Panel 18.2 — FERRY B INTERIOR
-**Composition:** Inside the prisoner ferry. The MASSIVE PRISONER approaches the detonator. Guards raise weapons.
-
-**Character Block:**
-```
-FERRY PRISONER FULL DESCRIPTION:
-- Face & Body: Tommy "Tiny" Lister, African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, 6'5", heavily muscled
-- Tattoos: Extensive prison ink covering arms and neck
-- Costume: Orange (#F97316) prison jumpsuit, cuffed hands
-- Expression: World-weary resolve, done with the game
-- Action: Approaching detonator, guards raising weapons
-- Position: Moving toward table, guards behind
-```
-
-**Text:**
-- **Guard Speech:** "Put it down! PUT IT DOWN!"
-
----
-
-### Panel 18.3 — THE PRISONER'S CHOICE
-**Composition:** Close on the prisoner's massive, scarred, tattooed hands holding the small detonator. Everyone watching.
-
-**Text:**
-- **Prisoner Speech:** "Give it to me. I'll do what you should've done ten minutes ago."
-
----
-
-### Panel 18.4 — THE THROW
-**Composition:** The prisoner's arm extended. The detonator flying through a broken window. Splash in the dark water below. Guards frozen in shock. The prisoners silent.
-
-**Text:**
-- **Caption Box (red #EF4444 background):** "COURAGE isn't always choosing."
-
----
-
-### Panel 18.5 — CIVILIAN FERRY *(NEW — EXPANSION)*
-**Composition:** Back on Ferry A. The man who was reaching for their detonator pulls his hand back. Looks at the other passengers. Shame on his face. A woman holds his arm — not in anger, in understanding.
-
-**Text:**
-- **Caption Box:** "Sometimes it's refusing to choose on someone else's terms."
-
----
-
-### Panel 18.6 — BOTH FERRIES STAND *(NEW — EXPANSION)*
-**Composition:** Wide shot — Gotham Harbor. Both ferries floating, lights on, in the dark water. Neither has exploded. Two boats full of people who chose NOT to play.
-
-**Text:**
-- **Caption Box:** "Two boats. Two chances to prove him right. Neither took it."
-
----
-
-### Panel 18.7 — JOKER'S DISAPPOINTMENT
-**Composition:** The Joker watching monitors showing both ferries. Neither has exploded. His smile fades slightly. For the first time — something he didn't predict.
-
-**Character Block:**
-```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, eyes narrowing, 6'1"
-- Makeup: White face paint, red lipstick, black eye makeup — fresher, he's in his element
-- Hair: Green-tinged, pushed back
-- Costume: Purple coat, green waistcoat
-- Expression: Disappointed, confused, the experiment failed
-- Action: Watching monitors, smile fading
-- Position: In construction site (his command post), screens before him
-```
-
-**Text:**
-- **Joker Speech (jagged):** "What's wrong with these people?"
-
----
-
-
-## SCENE 19: CONSTRUCTION SITE — FACE TO FACE #3 *(NEW — RESTORED)*
-**Location:** Gotham construction site (Joker's command post)
-**Purpose:** Direct confrontation before ferry resolution — all four pillars converge
-
-### Panel 19.1 — THE CONSTRUCTION SITE
-**Composition:** Unfinished skyscraper. Steel beams. Open floors. The Joker's temporary command post — monitors showing both ferries, detonators wired to explosives below, dogs chained nearby. The Joker stands at the edge of an open floor, looking out at the harbor.
+### Panel M7.2 — THE CIVILIAN VOTE
+**Composition:** Interior of the civilian ferry. A vote in progress. A show of hands. The count: 340 FOR detonating the prisoner ferry. 196 AGAINST. A BUSINESSMAN in a suit steps forward. He picks up the red detonator. His hand shakes. The people around him watch — some urging him on, some horrified. His thumb hovers over the button.
 
 **Elements:**
-- Construction site: Steel beams, concrete, exposed floors
-- Monitors: Showing both ferries
-- Dogs: Rottweilers, chained, snarling
-- Joker: At the edge, overlooking harbor
+- Civilian ferry interior: Packed, tense, families huddled
+- Vote tally: Visible on a whiteboard or hand count
+- Businessman: Suit, sweating, detonator in hand
+- His thumb: HOVERING. Not pressing.
 
-**Text:**
-- **Caption Box:** "Batman found him where chaos had a view."
+**Caption Box:** "340 to 196. The vote said kill. But the hand said something different."
 
 ---
 
-### Panel 19.2 — BATMAN ARRIVES
-**Composition:** Batman landing on the floor behind the Joker. Cape settling. The dogs snarl. The Joker doesn't turn around.
+### Panel M7.3 — THE TATTOOED PRISONER — ★ COMMITMENT
+**Composition:** Interior of the prisoner ferry. A massive man — TATTOOED PRISONER — approaches the Warden. Neck tattoos, arms like beams, shaved head. The Warden holds the detonator, gripping it white-knuckled. The Tattooed Prisoner extends his hand. His voice is calm.
+
+**Character Block:**
+```
+TATTOOED PRISONER FULL DESCRIPTION:
+- Face & Body: Tommy "Tiny" Lister, African American man, mid-40s, massive build — 6'5", 275 lbs, shaved head, neck and arm tattoos, one clouded eye, square jaw, imposing presence
+- Costume: Orange (#FF6600) prison jumpsuit, white undershirt visible at collar
+- Expression: Calm. Certain. The clearest eyes in the room
+- Action: Hand extended toward the Warden, palm up, asking for the detonator
+- Position: Standing, towering over the Warden and other prisoners
+```
+
+**Tattooed Prisoner:** "You don't want to die. But you don't know how to take a life."
+
+**Tattooed Prisoner:** "Give it to me. I'll do what you should have done ten minutes ago."
+
+---
+
+### Panel M7.4 — THE THROW
+**Composition:** The Tattooed Prisoner takes the detonator. The Warden and guards tense — he's going to blow the civilian boat. The prisoners watch. He turns to the window. Walks to it. And THROWS THE DETONATOR OUT THE WINDOW into the harbor. Gone. He turns back to the group and sits down. He didn't detonate. He DESTROYED THE OPTION.
+
+**Caption Box:** "He didn't choose to kill. He didn't choose to die. He destroyed the choice itself. An anonymous prisoner — not Batman, not Gordon, not the White Knight — made the most powerful COMMITMENT in the film."
+
+---
+
+### Panel M7.5 — MIDNIGHT PASSES
+**Composition:** Wide shot. The harbor. Both ferries intact. The clock passes midnight. On the civilian ferry, the businessman puts the detonator down, unable to press it. On the prisoner ferry, the empty space where the detonator was. Both boats chose. The Joker's experiment FAILED. Humanity held.
+
+**Caption Box:** "Neither ferry detonated. Midnight passed. The Joker lost his bet. The commitment of strangers — people with every reason to kill — held the line."
+
+---
+
+# ACT 4: MOVEMENT
+*Irreversible action that transforms identity. No going back.*
+
+> ★ PILLAR MOMENT: "I'm whatever Gotham needs me to be." (Scene V4)
+> The Dark Knight — identity death, identity rebirth.
+
+---
+
+## SCENE V1: PREWITT BUILDING ASSAULT
+**Location:** Prewitt Building — under construction, Joker's base
+**Purpose:** Hostage/clown swap — Joker's most brilliant deception. All pillars converge.
+**TDK Reference:** Scene 29, pp. 121-131 (intercut with ferries)
+
+### Panel V1.1 — SONAR VISION ACTIVATED
+**Composition:** Batman on a rooftop across from the Prewitt Building — under construction, exposed steel beams, concrete floors, lit from within. He activates the sonar. His cowl lenses glow BLUE. The world shifts to x-ray vision: blue pulsing outlines of the building's interior. Bodies visible — some moving, some still. He can see EVERYTHING. The most powerful tool he'll ever use — and the one Fox wants destroyed.
 
 **Character Block:**
 ```
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, jaw with cuts, tired intense eyes, 6'0"
-- Costume: Black Batsuit — scuffed plates, torn cape, scratched cowl, dusty belt and boots
-- Expression: Grim determination, this ends now
-- Action: Landing on construction floor, cape settling
-- Position: Behind Joker, dogs between them
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, intense eyes, athletic muscular build, 6'0"
+- Costume: Full black Batsuit — battle-worn: scorch marks from warehouse explosion, scratches across chest plate, cape singed and torn at edges. Cowl intact with GLOWING BLUE SONAR LENSES pulsing with x-ray data
+- Expression: Focused, reading the data, seeing the deception
+- Action: Standing on rooftop, cowl lenses glowing, scanning the building
+- Position: Rooftop edge, Prewitt Building across from him
 ```
 
-**Text:**
-- None (arrival)
+**Caption Box:** "Thirty million phones became his eyes. Beautiful. Unethical. Dangerous. And the only thing that could save the hostages."
 
 ---
 
-### Panel 19.3 — JOKER TURNS
-**Composition:** The Joker turning slowly. That smile. He's been expecting this. Behind him, through the open construction floor, both ferries visible in the harbor.
-
-**Character Block:**
-```
-THE JOKER FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic eyes, 6'1"
-- Makeup: White face paint, red lipstick, black eye paint — slightly worn
-- Hair: Green-tinged, pushed back
-- Costume: Purple coat, green waistcoat, patterned shirt
-- Expression: Delighted, welcoming, the guest of honor arrived
-- Action: Turning from harbor view to face Batman
-- Position: Edge of open floor, harbor behind, dogs flanking
-```
-
-**Text:**
-- **Joker Speech (jagged):** "We really should stop meeting like this."
-
----
-
-### Panel 19.4 — THE PHILOSOPHY
-**Composition:** Joker gesturing toward the ferries behind him. His grand experiment.
-
-**Text:**
-- **Joker Speech (jagged):** "You know what I've proved tonight? Your little... framework. Your four rules."
-- **Joker Speech (jagged):** "They only work until people get scared enough."
-
----
-
-### Panel 19.5 — BATMAN'S COUNTER
-**Composition:** Batman stepping forward. The dogs lunge at their chains. He doesn't flinch.
-
-**Text:**
-- **Batman Speech:** "Those ferries are still floating."
-
----
-
-### Panel 19.6 — THE FIGHT
-**Composition:** The Joker releases the dogs. Batman fights through them — not with violence but with precision. Armored gauntlets deflecting jaws. One dog's chain wraps around a beam. The other's caught by the cape. Through the fight, Batman closes the distance.
+### Panel V1.2 — THE CLOWN/HOSTAGE SWAP
+**Composition:** Interior of the Prewitt Building, seen through SONAR VISION — blue outlines, x-ray style. The twist visible: figures in CLOWN MASKS are actually HOSTAGES — their hands duct-taped to weapons, mouths taped shut, forced to hold guns. The figures in DOCTOR/PATIENT scrubs are Joker's MEN — armed, moving freely. SWAT teams approach from below, targeting the "clowns" — about to kill the hostages.
 
 **Elements:**
-- Dogs: Attacking, being deflected
-- Batman: Fighting through, closing distance
-- Joker: Watching, pulling out detonator
-- Construction site: Industrial, dangerous
+- Sonar vision: Blue pulsing outlines, x-ray effect
+- "Clowns" = HOSTAGES: Masks duct-taped on, guns duct-taped to hands, mouths taped
+- "Doctors" = JOKER'S MEN: Moving freely, actually armed
+- SWAT: Approaching, laser sights on the hostages
+- The deception: Visible through sonar, invisible to naked eye
 
-**Text:**
-- **Caption Box:** "He didn't fight chaos with chaos."
-- **Caption Box:** "He moved through it."
-
-**WHAT NOT TO DRAW:** No graphic animal harm. Batman redirects, wraps chains, uses armor. Dogs are restrained, not hurt.
+**Caption Box:** "The Joker dressed hostages as his men and his men as hostages. SWAT was about to kill the people they came to save. Bank heist principle again — hiding in plain sight."
 
 ---
 
-
-## SCENE 19B: HARVEY'S RECKONING *(NEW — NARRATIVE FIX)*
-**Location:** Various — Gotham streets, bar, warehouse
-**Purpose:** Show Harvey's descent from victim to vigilante. He doesn't go straight to Gordon — he follows the chain. The Joker gave him names. Now he uses them.
-
-### Panel 19B.1 — WUERTZ
-**Composition:** A dingy bar. Detective WUERTZ sitting alone, drinking. Two-Face slides into the booth opposite. Wuertz's face goes white.
-
-**Character Block:**
-```
-TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, LEFT side handsome, RIGHT side burned — exposed muscle, missing eyelid, charred skin, 6'0"
-- Costume: Navy suit, half-burned on right side, scorched shirt, scarred coin in hand
-- Expression: Cold, methodical, no rage — just process
-- Action: Sitting across from Wuertz, coin on the table
-- Position: Opposite side of booth
-```
-
-**Text:**
-- **Two-Face Speech:** "You picked up Rachel. Gordon's orders."
-- **Wuertz Speech:** "Harvey, I didn't know what they were gonna—"
-- **Two-Face Speech:** "Heads or tails, Wuertz."
-
----
-
-### Panel 19B.2 — THE COIN DECIDES
-**Composition:** Close on the coin spinning on the bar table. Wuertz staring at it. Two-Face watching without emotion. The coin lands.
-
-**Text:**
-- **Caption Box:** "Harvey Dent used to believe in the system."
-- **Caption Box:** "Now he believed in the coin."
-
----
-
-### Panel 19B.3 — RAMIREZ
-**Composition:** Detective RAMIREZ in her car, parked on a dark Gotham street. Two-Face in the passenger seat — he was already there when she got in. Her hand frozen on the steering wheel.
-
-**Text:**
-- **Two-Face Speech:** "You called Rachel. Lured her to the warehouse. Gordon trusted you."
-- **Ramirez Speech:** "They had my mother in the hospital, Harvey! They said they'd kill her—"
-- **Two-Face Speech:** "Tell that to Rachel."
-
----
-
-### Panel 19B.4 — THE PATTERN
-**Composition:** Wide shot — Gotham from above. Two locations marked by red and blue police lights. Two corrupt cops. Two coin flips. Harvey isn't random. He's climbing the chain — toward the man at the top.
-
-**Text:**
-- **Caption Box:** "Wuertz. Ramirez. Gordon's people. Gordon's failure."
-- **Caption Box:** "One name left on Harvey's list."
-
----
-
-
-## SCENE 20: TWO-FACE REVEALED
-**Location:** Warehouse (Harvey's choice)
-**Purpose:** See what Harvey has become — the symbol corrupted
-
-### Panel 20.1 — WAREHOUSE EXTERIOR
-**Composition:** A different warehouse. Night. GORDON's car pulling up. Rain falling.
-
-**Text:**
-- None (tension)
-
----
-
-### Panel 20.2 — GORDON ENTERS
-**Composition:** JIM GORDON entering the warehouse, gun drawn. Flashlight sweeping.
-
-**Character Block:**
-```
-JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-50s, brown-grey hair, thick-framed glasses, bushy moustache, weathered face, tired but resolute eyes, 5'9"
-- Costume: Rumpled tan (#C2B280) trenchcoat over dark blue GCPD uniform, detective badge on belt, worn leather shoes
-- Expression: Alert, cautious, gun drawn
-- Action: Entering warehouse, flashlight sweeping
-- Position: Doorway, moving in
-```
-
-**Text:**
-- **Gordon Speech:** "Hello? This is Commissioner Gordon."
-
----
-
-### Panel 20.3 — TWO-FACE IN SHADOW
-**Composition:** In the shadows, a figure. Half-lit. One side — Harvey's handsome profile. The other — darkness.
-
-**Character Block:**
-```
-TWO-FACE FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, LEFT side normal handsome, RIGHT side severely burned — exposed muscle, missing eyelid, bloodshot eye, charred skin, visible teeth, 6'0"
-- Costume: Navy suit half-burned on right side, scorched shirt, melted tie, scarred coin in hand
-- Expression: Cold, pained, beyond anger
-- Action: Half in shadow, half in light — literally two-faced
-- Position: Deep in warehouse, emerging from shadow
-```
-
-**Text:**
-- **Two-Face Speech:** "Hello, Jim."
-
----
-
-### Panel 20.4 — GORDON'S HORROR
-**Composition:** Gordon's face. Recognition. Then horror.
-
-**Text:**
-- **Gordon Speech:** "Harvey... what happened to you?"
-
----
-
-### Panel 20.5 — TWO-FACE REVEALED (FULL)
-**Composition:** TWO-FACE steps into full light. Both sides visible. Coin in one hand, gun in the other.
-
-**Text:**
-- **Two-Face Speech:** "Your people, Jim. YOUR cops. Wuertz picked me up. Ramirez called Rachel."
-
----
-
-### Panel 20.6 — THE ACCUSATION
-**Composition:** Close on the coin in Two-Face's fingers. Clean side. Scarred side. His voice is calm — that's what makes it terrifying.
-
-**Text:**
-- **Two-Face Speech:** "You knew they were dirty. You used them anyway. And Rachel paid for it."
-- **Two-Face Speech:** "The only way to live in a world this corrupt... is to leave it to chance."
-
----
-
-
-## SCENE 21: GORDON'S FAMILY
-**Location:** Warehouse
-**Purpose:** Two-Face threatens Gordon's son — COMMITMENT demanded
-
-### Panel 21.1 — THE THREAT
-**Composition:** Two-Face gestures. From shadows, corrupt cops push forward GORDON'S SON and GORDON'S WIFE (blindfolded). Gordon's gun lowers.
-
-**Character Block:**
-```
-GORDON'S SON FULL DESCRIPTION:
-- Face & Body: Nathan Gamble, Caucasian boy, approximately 10 years old, light brown hair, innocent wide eyes filled with terror, small build, 4'6"
-- Costume: Dark blue (#1E3A8A) hoodie, jeans, sneakers
-- Expression: Terrified, looking at Two-Face's burned side
-- Action: Being pushed forward by corrupt cops
-- Position: Between Two-Face and Gordon
-```
-
-**Text:**
-- **Gordon Speech:** "Harvey, no. They have nothing to do with this."
-
----
-
-### Panel 21.2 — TWO-FACE'S LOGIC
-**Composition:** Two-Face crouching to eye level with Gordon's son. The boy staring at the burned face with terror.
-
-**Text:**
-- **Two-Face Speech:** "It's not about what they did, Jim. It's about what's FAIR."
-
----
-
-### Panel 21.3 — GORDON ON HIS KNEES
-**Composition:** Gordon dropping to his knees. The gun on the ground. Pleading.
-
-**Text:**
-- **Gordon Speech:** "HARVEY, PLEASE!"
-
----
-
-### Panel 21.4 — THE COIN FLIP
-**Composition:** Two-Face flipping the coin. Everyone frozen. The coin spinning in the air. Close shot — metal catching light.
-
-**Text:**
-- **Two-Face Speech:** "Heads, he lives. Tails..."
-- **Caption Box (white background, black text):** "COMMITMENT means accepting the cost before you see the outcome."
-
----
-
-### Panel 21.5 — BATMAN ARRIVES
-**Composition:** Shadow falling across Two-Face. He looks up. Batman on a beam above.
+### Panel V1.3 — BATMAN VS. SWAT
+**Composition:** Batman drops INTO the building from above, landing between SWAT and the hostage-clowns. He FIGHTS SWAT — his own allies. Grabbing rifles, disarming soldiers, using grapple to pull a sniper from position. The SWAT team thinks Batman is protecting terrorists. Batman is protecting HOSTAGES. The irony: the hero fighting the heroes.
 
 **Character Block:**
 ```
 BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, jaw with cuts, tired determined eyes, 6'0"
-- Costume: Black Batsuit — scuffed plates, torn cape, scratched cowl
-- Expression: Grim, calculating, looking for the angle
-- Action: Perched on steel beam above, looking down
-- Position: Above the scene, shadow cast across Two-Face
+[Same as V1.1]
+- Expression: Urgent — every second counts, SWAT doesn't understand
+- Action: Disarming a SWAT officer, grapple gun in other hand, pulling another from position
+- Position: Between SWAT and the hostage-clowns, fighting on two fronts
 ```
 
-**Text:**
-- None (arrival)
+**Caption Box:** "CLARITY: seeing through the deception. COURAGE: fighting your own allies. COMMITMENT: taking the hits to protect innocents. All four pillars — in one building."
 
 ---
 
-### Panel 21.6 — THREE-WAY STANDOFF
-**Composition:** Wide shot. Two-Face with the boy. Gordon on his knees. Batman in the shadows above.
+### Panel V1.4 — BATMAN VS. JOKER — THE KNIFE
+**Composition:** Upper floor of the Prewitt Building. Steel beams, open air, construction site. Batman faces the Joker. Rottweilers attack first — Batman fights them off. Then the Joker, KNIFE in hand, rushes. Stabs Batman in the ribs, finding a gap in the armor. They fight on a steel beam — high up, the city below. Close quarters. Brutal. Personal.
 
-**Text:**
-- **Caption Box:** "What are you willing to destroy to protect what matters?"
+**Character Block:**
+```
+BATMAN (BATTLE-WORN → BLEEDING) FULL DESCRIPTION:
+[Same as V1.1]
+- Additional damage: KNIFE WOUND in ribs — blood visible between armor plates, right side
+- Expression: Pain, determination, fighting through injury
+- Action: Grappling with Joker on steel beam, taking the knife
+- Position: High up on construction beam, city below
 
----
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: Ecstatic — this is what he lives for, face-to-face with Batman
+- Action: Knife in hand, lunging, fighting dirty
+- Position: On the same beam, close combat, the city a drop below
+```
 
-
-## SCENE 22: THE TACKLE
-**Location:** Warehouse
-**Purpose:** Batman makes the COMMITMENT choice
-
-### Panel 22.1 — BATMAN'S VOICE
-**Composition:** Batman stepping forward. Hands visible. No weapons.
-
-**Text:**
-- **Batman Speech:** "Harvey. This isn't who you are."
-- **Two-Face Speech:** "This is EXACTLY who I am. The coin just revealed it."
-
----
-
-### Panel 22.2 — HARVEY'S PAIN
-**Composition:** Close on Two-Face's face. Both sides. Pain under the madness.
-
-**Text:**
-- **Two-Face Speech:** "I loved her, Bruce."
+**Caption Box:** "Not guns. Not armies. A knife. The Joker's weapons are always intimate."
 
 ---
 
-### Panel 22.3 — BATMAN'S RECOGNITION
-**Composition:** Batman's reaction. Harvey used his real name. The final pretense is gone.
+## SCENE V2: THE ACE IN THE HOLE
+**Location:** Prewitt Building — edge, Joker hanging upside down
+**Purpose:** Joker's philosophical exit. "We're going to do this forever." Harvey Dent was the target all along.
+**TDK Reference:** Scene 29, pp. 131-132
 
-**Text:**
-- **Batman Speech:** "I know. I loved her too."
+### Panel V2.1 — HANGING UPSIDE DOWN
+**Composition:** The Joker hangs upside down from a steel beam, caught by Batman's grapple cable wrapped around his ankle. Gotham spreads below him — lights, streets, the harbor where the ferries still float intact. His hair hangs down. His coat hangs down. His smile is UPSIDE DOWN but still a smile. Batman holds the cable above.
+
+**Character Block:**
+```
+THE JOKER (STANDARD) FULL DESCRIPTION:
+[Same as C4.1]
+- Expression: ECSTATIC even upside down — delighted, conversational, almost affectionate
+- Action: Hanging upside down, arms dangling, completely at ease
+- Position: Suspended from steel beam by ankle, Gotham below, Batman above holding the cable
+
+BATMAN (BLEEDING) FULL DESCRIPTION:
+[Same as V1.4]
+- Expression: Grim, bleeding, holding the cable — he won't drop him
+- Action: Holding the grapple cable, looking down at the Joker
+- Position: Steel beam above, looking down
+```
+
+**Joker:** "You truly are incorruptible, aren't you? You won't kill me out of some misplaced sense of self-righteousness. And I won't kill you because you're too much fun."
+
+**Joker:** "We're going to do this forever."
+
+**Batman:** "You'll be in a padded cell, forever."
 
 ---
 
-### Panel 22.4 — THE COIN (AIR)
-**Composition:** The coin flipping again. Everyone frozen. Time suspended.
+### Panel V2.2 — "MADNESS IS LIKE GRAVITY"
+**Composition:** Close on the Joker's face, upside down. The smile changes. Something ELSE behind the eyes — not madness. Certainty. He knows something Batman doesn't. His "ace in the hole." Harvey Dent.
 
-**Text:**
-- **Two-Face Speech:** "Then you understand. Someone has to pay."
+**Joker:** "This city just showed you it's full of people ready to believe in good."
 
----
+**Batman:** "And tonight you've failed to prove your point."
 
-### Panel 22.5 — BATMAN MOVES
-**Composition:** Motion blur — Batman lunging. Not at the gun. At HARVEY. Full body tackle. Both going over the edge.
+**Joker:** "Until they find out what I did with the best of them. Until they get a good look at the REAL Harvey Dent."
 
-**Text:**
-- **Caption Box (white background, black text):** "COMMITMENT: Accept the cost you can't see."
+**Joker:** "I took Gotham's White Knight. And I brought him down to MY level."
 
 ---
 
-### Panel 22.6 — THE FALL
-**Composition:** Batman and Two-Face falling from the building. Gordon grabbing his son. The coin falling separately.
+### Panel V2.3 — JOKER'S LAST LINE
+**Composition:** Extreme close on the Joker's upside-down face. The Glasgow scars. The smeared makeup. The eyes — ALIVE, knowing, triumphant even in capture. SWAT approaching below. This is his last moment of freedom. His last line.
 
-**Text:**
-- None (motion)
+**Joker:** ★ **"It wasn't hard. You see, madness is like gravity. All it takes is a little push."**
+
+**Caption Box:** "His last line. Hanging upside down. Laughing. His real weapon was never chaos — it was PEOPLE. Harvey Dent was the target all along. Everything else was distraction."
 
 ---
 
-### Panel 22.7 — GORDON GRABS HIS SON *(NEW — EXPANSION)*
-**Composition:** Gordon pulling his son close. The boy's face buried in Gordon's trenchcoat. Gordon looking over the edge where Batman and Harvey fell.
+## SCENE V3: TWO-FACE'S LAST STAND
+**Location:** 250 52nd Street — the burnt warehouse where Rachel died
+**Purpose:** Harvey holds Gordon's family. Three coin flips. Batman tackles Dent to save the boy.
+**TDK Reference:** Scene 30, pp. 132-137
+
+### Panel V3.1 — THE WAREHOUSE — RACHEL'S GRAVE
+**Composition:** 250 52nd Street. The burnt-out warehouse where Rachel died. Charred walls, debris, the scorched chair where she sat. Now: Harvey Dent — TWO-FACE — holds Gordon's SON, James Jr., with a gun to the boy's head. Gordon on his knees, begging. Gordon's wife and daughter nearby, held at distance. The warehouse of Rachel's death is now the courthouse of Harvey's justice.
+
+**Character Block:**
+```
+HARVEY DENT / TWO-FACE (LAST STAND) FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart. RIGHT side: unchanged, handsome, tears on cheek. LEFT side: full burn exposure — exposed muscle, tendons, visible teeth, unblinking eye. Hair singed on left. BOTH sides crying — but only the right eye produces tears
+- Costume: Black (#1A1A1A) suit, left side burned and torn, white shirt charred on left half. Scorched coin in left hand, gun in right hand pressed to Gordon's son's temple
+- Expression: RIGHT: grief, agony. LEFT: exposed muscle shows nothing. Both eyes: broken beyond repair
+- Action: Holding Gordon's son, gun to temple, coin ready
+- Position: Standing in the burnt warehouse, Rachel's chair visible behind
+
+JIM GORDON FULL DESCRIPTION:
+[Same as C1.3]
+- Costume: Commissioner's suit, disheveled, on his knees
+- Expression: Pure terror — his child's life at stake
+- Action: On his knees, hands up, begging
+- Position: On the ground before Dent
+```
+
+**Dent:** "You're about to know what my suffering is really like, Gordon."
+
+**Dent:** "The world is cruel. And the only morality in a cruel world is chance. Unbiased. Unprejudiced. FAIR."
+
+---
+
+### Panel V3.2 — "BECAUSE YOU WERE THE BEST OF US"
+**Composition:** Batman arrives. Bleeding from the ribs, limping. He stands in the warehouse doorway, silhouetted. Not as a hero descending. As a wounded man making a choice. He speaks to Harvey — not as Batman to a villain, but as Bruce to a friend.
+
+**Character Block:**
+```
+BATMAN (BLEEDING) FULL DESCRIPTION:
+[Same as V1.4]
+- Additional: Limping, one hand pressing his wounded ribs, blood on gauntlet
+- Expression: Pleading — not threatening, not commanding. Asking.
+- Action: Standing in doorway, one hand raised in peace, the other on his wound
+- Position: Warehouse entrance, silhouetted, approaching slowly
+```
+
+**Batman:** "You don't want to hurt the boy, Harvey."
+
+**Dent:** "It's not about what I want. IT'S ABOUT WHAT'S FAIR."
+
+**Batman:** "What happened to Rachel wasn't chance. We decided to act. We three. We knew the risks and we acted as one."
+
+**Dent:** "Then why was it only ME who lost everything?"
+
+**Dent:** "The Joker chose ME!"
+
+**Batman:** "Because you were the best of us. He wanted to prove that even someone as good as you could fall."
+
+**Dent:** "And he was right."
+
+---
+
+### Panel V3.3 — THREE COIN FLIPS
+**Composition:** The sequence. THREE PANELS stacked vertically, rapid-fire. TOP: Dent flips for BATMAN — tails. SHOOTS Batman in the gut. Batman doubles over. MIDDLE: Dent flips for HIMSELF — heads. He lives. His own coin can't kill him (double-headed, but one side is scarred now — the fire made it fair). BOTTOM: Dent puts the gun to Gordon's son's head. The coin is in the air. SPINNING.
+
+**Elements:**
+- THREE stacked sub-panels
+- TOP: Batman shot, doubling over
+- MIDDLE: Dent lives, coin heads
+- BOTTOM: Coin in the air, spinning, gun at boy's head
+
+**Caption Box:** "Batman: tails. Shot. Dent: heads. Lives. The boy: the coin is still spinning."
+
+---
+
+### Panel V3.4 — BATMAN TACKLES DENT
+**Composition:** Batman LUNGES. Shot in the gut, bleeding, in pain — he tackles Harvey Dent OVER THE EDGE of the warehouse floor. All three fall — Batman, Dent, the boy. Batman catches the boy mid-air. Dent hits the ground below. The coin lands beside him — GOOD SIDE UP.
+
+**Character Block:**
+```
+BATMAN (BLEEDING) FULL DESCRIPTION:
+[Same as V1.4]
+- Additional: GUNSHOT wound in gut — blood pooling, armor cracked
+- Expression: Pure will — nothing left but the choice to move
+- Action: Tackling Dent, grabbing Gordon's son, all three falling
+- Position: Mid-air, over the edge of the warehouse floor
+```
+
+**Caption Box:** "The coin stopped. Good side up. Harvey Dent — Gotham's White Knight — dead. Batman chose to destroy a symbol to save a child. MOVEMENT begins here."
+
+---
+
+## SCENE V4: THE DARK KNIGHT
+**Location:** 250 52nd Street → Gotham rooftop → Multiple intercut locations
+**Purpose:** ★★★ MOVEMENT NAMED. Batman takes the fall. Identity death. The final montage.
+**TDK Reference:** Scene 30, pp. 137-141
+
+### Panel V4.1 — "THE JOKER CANNOT WIN"
+**Composition:** Harvey Dent lies dead, good side of his face up. Batman stands over him, bleeding, broken. Gordon beside him. The boy safe, clinging to Gordon. Gordon's face: devastation — Harvey was their hero. Batman looks at Gordon. The choice forming.
+
+**Gordon:** "The Joker won. Harvey's prosecution, everything he fought for, undone. Whatever chance you gave us of fixing our city dies with Harvey's reputation."
+
+**Batman:** "No."
+
+---
+
+### Panel V4.2 — ★ "I'M WHATEVER GOTHAM NEEDS ME TO BE"
+**Composition:** Batman kneels beside Dent's body. Turns his head gently — showing the GOOD side. The unblemished side. The Harvey Dent that Gotham needs to remember. Batman looks up at Gordon. The decision made.
+
+**Character Block:**
+```
+BATMAN (BLEEDING) FULL DESCRIPTION:
+[Same as V3.4]
+- Expression: Resolved — the most important choice, and the most costly
+- Action: Kneeling beside Dent, turning his head to show the good side
+- Position: On the ground, beside Dent's body, looking up at Gordon
+```
+
+**Batman:** "You either die a hero, or you live long enough to see yourself become the villain."
+
+**Batman:** "I can do those things because I'm not a hero, like Dent. I killed those people. That's what I can be."
+
+**Gordon:** "No. You can't. You're NOT—"
+
+**Batman:** ★ **"I'm whatever Gotham needs me to be."**
+
+**Caption Box — PILLAR CARD:** ★ **MOVEMENT** — *Irreversible action that transforms identity. Not just taking blame. BECOMING the villain so Gotham keeps its hero. Not sacrifice — IDENTITY DEATH. You can't uncross this line. You can't go back to being the hero. The framework doesn't prevent the cost. It survives it.*
+
+---
+
+### Panel V4.3 — THE MOVEMENT CASCADE — FINAL MONTAGE
+**Composition:** FOUR-PANEL INTERCUT. Equal-sized panels, the montage of irreversible actions happening simultaneously across Gotham:
+
+**PANEL 1 — GORDON AT DENT'S FUNERAL:**
+Gordon at a podium, press cameras, a portrait of Harvey Dent (good side) behind him. The LIE made official. Gordon's face: the weight of deception for the greater good.
+**Gordon (V.O.):** "I knew Harvey Dent. I was his friend."
+
+**PANEL 2 — ALFRED BURNS THE LETTER:**
+Alfred at a fireplace. Rachel's letter in his hand. He holds it above the flame. Lets it go. Paper curling, words disappearing. His commitment completed — the truth Bruce will never know.
+**Alfred (V.O.):** "Sometimes the truth isn't good enough. Sometimes people deserve more. Sometimes people deserve to have their faith rewarded."
+
+**PANEL 3 — FOX TYPES HIS NAME:**
+Fox at the sonar console. The wall of blue screens pulsing. He types: L-U-C-I-U-S-F-O-X. The screens begin to cascade — shutting down, one by one, left to right. Self-destruct. The power erased.
+
+**PANEL 4 — GORDON DESTROYS THE BAT-SIGNAL:**
+Rooftop. Gordon raises a fire AXE above the bat-signal searchlight. Swings DOWN. Glass shatters. Sparks erupt. The bat-signal destroyed. The symbol erased.
+
+**Caption Box:** "Four irreversible acts. Gordon lies. Alfred lies. Fox erases. Gordon destroys. Every person who knew the truth made a MOVEMENT — and none of them can go back."
+
+---
+
+### Panel V4.4 — BATMAN RIDES INTO THE LIGHT
+**Composition:** Underground shipping container area. Batman limps between the containers, cape dragging, bleeding. The Bat-Pod waits. He mounts it. Rides through the underground tunnels — shadows and fluorescent light. Police sirens behind him. They're CHASING him now. He accelerates toward BLINDING WHITE LIGHT at the tunnel's end. Cape fluttering. Silhouette dissolving into light.
+
+**Character Block:**
+```
+BATMAN (BLEEDING) FULL DESCRIPTION:
+[Same as V3.4]
+- Expression: Forward. Not looking back. The choice made.
+- Action: Riding Bat-Pod toward blinding light, cape streaming behind
+- Position: Moving away from camera, into the light, silhouette breaking apart
+```
+
+---
+
+### Panel V4.5 — "WHY'S HE RUNNING, DAD?"
+**Composition:** Gordon and his son, JAMES JR., on the warehouse steps. The boy watches Batman disappear into the light. Gordon holds his son. The boy doesn't understand. Gordon does.
 
 **Character Block:**
 ```
 JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-50s, brown-grey hair, glasses, moustache, weathered face, eyes wide with horror, 5'9"
-- Costume: Rumpled tan trenchcoat, GCPD uniform
-- Expression: Horror, relief, his son is safe but at what cost
-- Action: Holding son tight, looking over the edge
-- Position: At the edge, son in arms
+[Same as C1.3]
+- Expression: Grief, pride, the weight of the lie
+- Action: Holding his son's shoulders, watching Batman go
+- Position: Standing on warehouse steps, son at his side
+
+JAMES GORDON JR. FULL DESCRIPTION:
+- Face & Body: Nathan Gamble, Caucasian boy, ~10 years old, brown hair, small, innocent face
+- Costume: Jacket, jeans — a kid pulled from danger
+- Expression: Confused, upset — his hero is being chased
+- Action: Watching Batman ride away, pulling against Gordon's grip
+- Position: Beside Gordon, looking into the light
 ```
 
-**Text:**
-- None (the embrace says everything)
+**James Jr.:** "He didn't do anything wrong!"
+
+**James Jr.:** "Why's he running, Dad?"
+
+**Gordon:** "Because we have to chase him."
 
 ---
 
-### Panel 22.8 — THE LANDING
-**Composition:** Ground level. Harvey lands first. Hard. Wrong angle. Batman beside him. Harvey isn't moving.
+### Panel V4.6 — "A DARK KNIGHT"
+**Composition:** WIDE. Gotham skyline. Dawn beginning. The city intact — the ferries safe, the people alive, the crisis survived. But the hero is gone. The bat-signal is dark. The sky is empty where the symbol used to be. Gordon's voice over everything.
 
-**Text:**
-- **Caption Box:** "Some victories cost you everything you were trying to protect."
+**Gordon (V.O.):** "He's not our hero. He's a silent guardian. A watchful protector."
 
----
+**Gordon (V.O.):** ★ **"A dark knight."**
 
-### Panel 22.9 — THE COIN LANDS *(NEW — EXPANSION)*
-**Composition:** Close on the scarred coin landing on the concrete. Scarred side up. Beside Harvey's open hand.
-
-**Text:**
-- None (visual punctuation)
+**[CUT TO BLACK]**
 
 ---
 
-
-## SCENE 23: THE BODY
-**Location:** Warehouse ground level
-**Purpose:** Harvey is dead — Gotham's symbol destroyed
-
-### Panel 23.1 — GORDON ARRIVES
-**Composition:** Gordon rushing to the scene, son in his arms. Batman crouched beside Harvey's body. Harvey's eyes open. Dead.
-
-**Text:**
-- **Gordon Speech:** "Is he...?"
+# CLOSING: THE COST + THE PROPHECY
 
 ---
 
-### Panel 23.2 — BATMAN'S CONFIRMATION
-**Composition:** Batman standing. Looking down at Harvey. The man who was supposed to save Gotham.
+## SCENE X1: THE COST — THE CHESSBOARD
+**Location:** Gotham rooftop — the chessboard from the Opening
+**Purpose:** Pillar cards. The framework survived. The man who used it paid everything.
 
-**Text:**
-- **Batman Speech:** "He's gone."
+### Panel X1.1 — THE SCORCHED BOARD
+**Composition:** The same rooftop from Scene 0.1. The same chessboard. But now: scorched. The edges blackened by the city's fires. Rain-damaged. But the four pieces REMAIN — Knight (blue), Queen (red), Rook (white), Bishop (orange). Battered, chipped, but standing. The Joker card is gone. The board survived. The player didn't.
 
----
-
-### Panel 23.3 — THE COIN (GROUND)
-**Composition:** Close on Harvey's hand. The coin visible. Scarred side up.
-
-**Text:**
-- **Caption Box:** "Harvey Dent died thinking the world was cruel."
+**Caption Box:** "The framework survived. The man who used it paid everything."
 
 ---
 
-### Panel 23.4 — GORDON'S GRIEF
-**Composition:** Gordon kneeling beside Harvey. His friend.
+### Panel X1.2 — PILLAR CARDS
+**Composition:** FOUR SUB-PANELS, each a pillar card:
 
-**Text:**
-- **Gordon Speech:** "The Joker won. Dent was supposed to be the hero. Now he's... this."
-
----
-
-
-## SCENE 24: THE FOURTH CHOICE FORMS
-**Location:** Warehouse, beside Harvey's body
-**Purpose:** Transition to final choice — MOVEMENT
-
-### Panel 24.1 — BATMAN'S REALIZATION
-**Composition:** Batman looking at Harvey's body. Then at Gordon. Then at the city beyond.
-
-**Text:**
-- **Batman Internal (grey, italic):** "If Gotham knows what Harvey became... everything he built falls apart."
+**CLARITY:** Blue (#4A90D9) glow. Alfred's silhouette. *"He saw what others couldn't."*
+**COURAGE:** Red (#EF4444) glow. Batman's silhouette running. *"He chose when others froze."*
+**COMMITMENT:** White (#FFFFFF) glow. The Tattooed Prisoner's silhouette. *"He held when others broke."*
+**MOVEMENT:** Orange (#F97316) glow. Batman on Bat-Pod, dissolving into light. *"He moved when others wouldn't."*
 
 ---
 
-### Panel 24.2 — THE DENT ACT
-**Composition:** Quick flash — newspaper headlines, Harvey Dent campaign posters. The hope he represented.
+### Panel X1.3 — S.P. EASTER EGG
+**Composition:** Detail shot. One of the chessboard pieces — the Knight — has a tiny inscription on its base, barely visible. The letters "S.P." carved into the stone. A chess notation pad beside the board has handwriting at the bottom: "The test doesn't break the framework. It proves it. — S.P."
 
-**Text:**
-- **Caption Box:** "Harvey Dent wasn't just a man."
-
----
-
-### Panel 24.3 — GOTHAM'S HOPE
-**Composition:** Another flash — criminals being arrested. Gotham getting safer.
-
-**Text:**
-- **Caption Box:** "He was proof that the system could work."
+**Caption Box:** "Four principles. Tested by chaos. Held by ordinary people. Paid for by the extraordinary."
 
 ---
 
-### Panel 24.4 — BATMAN'S FACE
-**Composition:** Back to present. Batman's face through the cowl. He knows what he has to do.
+## SCENE X2: ARKHAM — THE JOKER'S PROPHECY
+**Location:** Arkham Asylum — maximum security wing
+**Purpose:** SCU INVENTION. The Joker's narrative exit. He senses what's coming. Bridge to EP3.
 
-**Text:**
-- **Caption Box:** "Unless someone else took the fall."
-
----
-
-# ACT 5: MOVEMENT
-## "Burn the bridge behind you."
-
----
-
-## SCENE 25: THE LIE
-**Location:** Warehouse
-**Purpose:** Batman decides to take the blame — MOVEMENT initiated
-
-### Panel 25.1 — BATMAN SPEAKS
-**Composition:** Batman and Gordon face to face. Gordon still on his knees beside Harvey.
-
-**Text:**
-- **Batman Speech:** "The Joker can't win. Gotham can't know what Harvey became."
-- **Gordon Speech:** "Then what do we do? Five people are dead — Harvey's victims."
-
----
-
-### Panel 25.2 — THE CHOICE
-**Composition:** Close on Batman. This is the moment. The fourth choice.
-
-**Text:**
-- **Batman Speech:** "Someone will answer for them."
-
----
-
-### Panel 25.3 — GORDON'S CONFUSION
-**Composition:** Gordon looking up at Batman.
-
-**Text:**
-- **Gordon Speech:** "Who?"
-
----
-
-### Panel 25.4 — BATMAN'S ANSWER
-**Composition:** Batman's hand on Gordon's shoulder.
-
-**Text:**
-- **Batman Speech:** "Pin it on me."
-
----
-
-### Panel 25.5 — GORDON'S REACTION
-**Composition:** Gordon's face. Horror. Refusal. Understanding.
-
-**Text:**
-- **Gordon Speech:** "No. You can't — you're the only reason this city—"
-
----
-
-### Panel 25.6 — BATMAN'S LOGIC
-**Composition:** Batman helping Gordon to his feet.
-
-**Text:**
-- **Batman Speech:** "Harvey was the hero you could believe in. I'm the hero you can blame."
-- **Batman Speech:** "The Dent Act survives. Gotham keeps its hope."
-
----
-
-### Panel 25.7 — THE COMMITMENT
-**Composition:** Batman already turning away. The decision is made.
-
-**Text:**
-- **Batman Speech:** "I know what this costs. I'm doing it anyway."
-- **Caption Box (orange #F97316 background, white text):** "MOVEMENT: Burn the bridge behind you."
-
----
-
-
-## SCENE 26: THE HUNT BEGINS
-**Location:** GCPD / Gotham streets
-**Purpose:** MOVEMENT in action — the system turns against Batman
-
-### Panel 26.1 — GORDON AT THE RADIO
-**Composition:** Gordon standing before the dispatch console. His hand hovers over the radio.
-
-**Text:**
-- None (the hesitation)
-
----
-
-### Panel 26.2 — GORDON'S MEMORY (FLASH)
-**Composition:** Quick flash — Gordon's son in the warehouse, Batman diving to save him.
-
-**Text:**
-- **Caption Box:** "He knew what this would cost."
-
----
-
-### Panel 26.3 — GORDON'S HAND
-**Composition:** Close on Gordon's hand pressing the radio button.
-
-**Text:**
-- **Caption Box:** "He did it anyway."
-
----
-
-### Panel 26.4 — THE ORDER
-**Composition:** Gordon at the radio. Face is stone. Eyes betray him.
+### Panel X2.1 — THE CORRIDOR
+**Composition:** Arkham Asylum. A long corridor. Fluorescent lights flicker — every third tube dead, creating pools of shadow. Steel doors line both walls. At the far end: a reinforced glass cell. No furniture. No bed. Just a floor. And sitting cross-legged on that floor: THE JOKER. Calm. Not raging. Not laughing. Sitting with the patience of a man who has already won and doesn't need to prove it.
 
 **Character Block:**
 ```
-JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-50s, brown-grey hair, thick-framed glasses, moustache, weathered face, eyes holding back everything, 5'9"
-- Costume: Rumpled tan trenchcoat, GCPD uniform, badge
-- Expression: Stone-faced, eyes betraying inner anguish
-- Action: Speaking into radio, steady voice hiding the lie
-- Position: At dispatch console, alone
+THE JOKER (STRAITJACKET) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, late 20s-early 30s, lean build, 6'1". Glasgow smile scars prominent, fully healed
+- Costume: White (#FFFFFF) straitjacket — institutional, buckled at back. Barefoot on cell floor
+- Makeup: FADED — white greasepaint nearly gone, just traces. Black eye makeup reduced to faint smudges. Red lipstick worn to pale pink on scar tissue. The face BEHIND the makeup visible for the first time — he looks younger. More human. More terrifying for it
+- Expression: CALM. Not manic. Not performing. KNOWING. Eyes open. Staring at nothing. Listening to something only he can hear
+- Action: Sitting cross-legged on cell floor, arms restrained
+- Position: Center of empty cell, glass wall facing corridor
 ```
 
-**Text:**
-- **Gordon Speech (radio):** "All units, this is Commissioner Gordon. The Batman is now wanted for murder."
+**Caption Box:** "Arkham Asylum. Maximum Security. Patient 4479. No name on file."
 
 ---
 
-### Panel 26.5 — GCPD MOBILIZES
-**Composition:** Wide shot of GCPD. Officers rushing to vehicles. SWAT loading.
+### Panel X2.2 — THE PROPHECY
+**Composition:** A guard walks past the glass cell. The Joker speaks without looking up. His voice carries. The guard stops. Turns. The Joker's eyes don't move — he's not talking TO the guard. He's talking to the AUDIENCE.
 
-**Text:**
-- **Radio Chatter:** "Copy that, all units responding—"
+**Joker (without looking up):** "You know what's funny? He thinks the hard part is over."
+
+**Guard:** "Who?"
+
+**Joker:** "The Bat."
+
+**Joker (a smile forming — not manic, KNOWING):** "He survived ME. The chaos. The test of whether his little RULES could hold."
+
+**Joker (the smile fades — something almost like respect):** "But what's coming next... it's not chaos."
 
 ---
 
-### Panel 26.6 — GORDON WATCHES THEM GO
-**Composition:** Gordon at the window, watching the convoy pour out. Sending them after the man who saved his family.
+### Panel X2.3 — "FORCE JUST BREAKS YOU"
+**Composition:** Close on the Joker's face. The smile returns. But it's different — not performance, not madness. UNDERSTANDING. He sees something in the future that even he respects. The camera is tight, the cell walls closing in, but the Joker looks vast.
 
-**Text:**
-- **Caption Box:** "The lie had to be complete."
+**Joker:** "Chaos you can outsmart. Force..."
+
+**Joker (leaning forward, whispering):** "...force just BREAKS you."
+
+**Joker:** "And he's already broken."
 
 ---
 
-### Panel 26.7 — BATMAN RUNNING
-**Composition:** Batman on a rooftop, running. Spotlights sweeping behind him. He's not fighting back.
+### Panel X2.4 — THE LAUGH
+**Composition:** The Joker LAUGHS. Not his manic cackle. A quiet laugh. A chuckle. The laugh of a man who knows the punchline of a joke that hasn't been told yet. The guard steps back. The fluorescent light above the cell flickers. The corridor stretches into darkness behind.
+
+**Caption Box:** "The agent of chaos — impressed by what's coming. If HE'S impressed, the audience should be afraid."
+
+---
+
+## SCENE X3: THE BANE TEASE
+**Location:** Underground — darkness, stone walls
+**Purpose:** EP3 teaser. "The fire rises." The framework survived chaos. It won't survive FORCE.
+
+### Panel X3.1 — DARKNESS. BREATHING.
+**Composition:** SMASH CUT from the Joker's laugh to: DARKNESS. Complete black. Then a sound — heavy breathing. Rhythmic. Mechanical. Like a ventilator, but worn on the face. The breathing echoes off stone walls. Underground. A pit. Ancient.
+
+**Elements:**
+- Pure black, then hints of stone walls
+- Sound represented visually: breathing lines radiating outward
+- Mechanical quality: regularity, rhythm, MACHINE-like
+- Atmosphere: Underground, stone, ancient, cold
+
+---
+
+### Panel X3.2 — THE SILHOUETTE
+**Composition:** A massive silhouette emerges from the darkness. Shoulders like architecture — impossibly wide. The head slightly forward, the posture of a man who has carried weight his entire life. In one enormous hand: a broken Batman cowl. Cracked down the middle. The fingers close around it slowly. The breathing continues. A MASK is visible on the silhouette's face — metallic, covering the lower jaw, tubes running to the back.
 
 **Character Block:**
 ```
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, jaw with cuts, exhausted but determined eyes, 6'0"
-- Costume: Black Batsuit — scuffed, torn cape, scratched cowl, dusty
-- Expression: Accepting, running not from fear but from choice
-- Action: Running across rooftop, cape streaming, spotlights behind
-- Position: Rooftop, city behind, running toward camera
+BANE (TEASE) FULL DESCRIPTION:
+- Face & Body: SILHOUETTE ONLY — massive build, 6'5"+, shoulders impossibly wide, muscular definition visible even in shadow. Bald head. Tactical vest straps visible across chest in outline
+- Costume: SHADOW — only the metallic MASK visible: covers lower face from nose down, metal grate over mouth, tubes running to back of head. Military tactical silhouette
+- Expression: Hidden by shadow — only the EYES visible: calm, intelligent, patient
+- Action: Holding broken Batman cowl in one hand, fingers closing around it
+- Position: Standing in darkness, emerging from shadow, facing camera
 ```
 
-**Text:**
-- **Caption Box:** "Movement isn't just action."
+**Voice (deep, resonant, distorted by mask):** "The fire rises."
 
 ---
 
-### Panel 26.8 — SPOTLIGHTS
-**Composition:** Helicopter searchlight hitting a rooftop where Batman WAS — but he's already gone.
+### Panel X3.3 — THE TEXT CARD
+**Composition:** Black screen. White text. Clean. Final.
 
-**Text:**
-- **Caption Box:** "It's the action that makes retreat impossible."
+**Text (centered):**
+> "Eight years later..."
+>
+> "The framework was tested by chaos."
+> "It will be **BROKEN** by force."
+>
+> **EPISODE 3: THE BREAK**
+> *Coming soon.*
 
 ---
 
+**Caption Box (final):** *"The test is over. The break is coming."* 🦇
 
-## SCENE 27: THE BAT-SIGNAL
-**Location:** GCPD Rooftop
-**Purpose:** The symbol destroyed — irreversibility visualized
+---
 
-### Panel 27.1 — GCPD ROOFTOP
-**Composition:** Jim Gordon on the GCPD rooftop. The BAT-SIGNAL glowing beside him. He's holding a fire axe.
+# POST-CREDITS: "THIS WAS THE CRISIS"
+*See: `EP2_Post_Credits_Treatment.md` for full treatment*
 
-**Character Block:**
+> **Format:** ~25 story slides + 6 transition cards
+> **Characters:** Bruce (Bale), Harvey (Eckhart), Rachel (Gyllenhaal), Alfred (Caine), Gordon (Oldman), Fox (Freeman), Jack (Heath Ledger as workplace Joker)
+> **Tone:** Starts dark, ends warm. Per Director's order.
+> **Structure:** Workplace parallel of TDK — project crisis tests all four pillars. Jack (Joker) disrupts. Harvey takes shortcuts. Bruce takes the fall.
+> **Connection:** EP1 post-credits characters return. Jack is NEW.
+
+*[Post-Credits screenplay to be written from treatment document — Task 3.8]*
+
+---
+
+# TRANSITION CARDS
+
+---
+
+## CARD T1: CLARITY RECAP
+**Composition:** Blue (#4A90D9) gradient background. Single line of text.
+**Text:** "CLARITY — You faced something you couldn't understand. You stopped asking 'what do they want?' and asked 'what ARE they?'"
+
+---
+
+## CARD T2: COURAGE RECAP
+**Composition:** Red (#EF4444) gradient background. Single line of text.
+**Text:** "COURAGE — You made the choice when every option cost something. Not fearlessness. The right choice."
+
+---
+
+## CARD T3: COMMITMENT RECAP
+**Composition:** White (#FFFFFF) background, dark text. Single line.
+**Text:** "COMMITMENT — You held the line when others broke. Even when holding meant losing everything else."
+
+---
+
+## CARD T4: MOVEMENT RECAP
+**Composition:** Orange (#F97316) gradient background. Single line.
+**Text:** "MOVEMENT — You crossed a line you can't uncross. Became what was needed. No going back."
+
+---
+
+## CARD T5: THE AUDIENCE
+**Composition:** Dark background, all four pillar colors as a subtle gradient bar at top.
+**Text:** "You've faced this. The crisis that tested everything. The moment the framework wasn't theory anymore."
+
+---
+
+## CARD T6: THE CLOSER
+**Composition:** Black. Gold (#FFD700) text.
+**Text:** "The framework doesn't prevent the cost. It SURVIVES it."
+
+**Credits:**
 ```
-JIM GORDON FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, mid-50s, brown-grey hair, glasses, moustache, face showing the weight of what he's about to do, 5'9"
-- Costume: Tan trenchcoat, GCPD uniform
-- Expression: Resolute grief, the axe heavy
-- Action: Standing beside glowing Bat-Signal, axe in hand
-- Position: Rooftop, Signal beside him, city behind
-```
-
-**Text:**
-- None (weight of the moment)
-
----
-
-### Panel 27.2 — GORDON'S SON
-**Composition:** Gordon's son watches from the rooftop access door. Confused.
-
-**Character Block:**
-```
-GORDON'S SON FULL DESCRIPTION:
-- Face & Body: Nathan Gamble, Caucasian boy, ~10, light brown hair, wide questioning eyes, 4'6"
-- Costume: Blue hoodie, jeans, sneakers
-- Expression: Confused, hurt, the world doesn't make sense
-- Action: Standing in doorway, watching his father
-- Position: Rooftop access door, peering out
-```
-
-**Text:**
-- **Gordon's Son Speech:** "Dad... he saved me. Why are we hunting him?"
-
----
-
-### Panel 27.3 — GORDON TURNS *(NEW — EXPANSION)*
-**Composition:** Gordon looking at his son. The question he can't answer honestly. His expression shifts — from public officer to father, just for a moment.
-
-**Text:**
-- None (the look IS the answer)
-
----
-
-### Panel 27.4 — GORDON'S ANSWER
-**Composition:** Gordon looking at his son, then at the Bat-Signal. The axe heavy.
-
-**Text:**
-- **Gordon Speech:** "Because he's the hero Gotham deserves, but not the one it needs right now."
-
----
-
-### Panel 27.5 — THE AXE RAISED
-**Composition:** Gordon raising the axe. The Bat-Signal glowing golden behind him.
-
-**Text:**
-- **Gordon Speech:** "So we'll hunt him."
-
----
-
-### Panel 27.6 — THE SIGNAL SHATTERS
-**Composition:** The axe coming down. The Bat-Signal EXPLODING in glass and metal. Sparks. Darkness where light was.
-
-**Text:**
-- **Caption Box:** "The bridge was burning."
-
----
-
-### Panel 27.7 — GORDON'S FACE
-**Composition:** Gordon's face illuminated by the dying sparks. The last light of the signal.
-
-**Text:**
-- **Gordon Speech:** "Because he can take it."
-
----
-
-### Panel 27.8 — DARKNESS *(NEW — EXPANSION)*
-**Composition:** The rooftop in darkness. Where the Bat-Signal was, only broken glass and metal remains. Gordon and his son, silhouetted against Gotham's skyline.
-
-**Text:**
-- **Caption Box:** "The symbol that called him was the first thing they destroyed."
-
----
-
-
-## SCENE 28: THE DARK KNIGHT
-**Location:** Gotham rooftops
-**Purpose:** Batman running — the hero become villain
-
-### Panel 28.1 — BATMAN ON THE EDGE
-**Composition:** Batman standing on a rooftop edge. The destroyed Signal's rooftop visible in the distance. Smoke rising.
-
-**Text:**
-- **Caption Box:** "The fourth pillar held."
-
----
-
-### Panel 28.2 — THE CITY BELOW
-**Composition:** Wide shot — Gotham below Batman. Police sirens as red and blue dots. All hunting him.
-
-**Text:**
-- **Caption Box:** "The city he saved was now his enemy."
-
----
-
-### Panel 28.3 — BATMAN'S BACK
-**Composition:** Batman's back. Cape billowing. The weight of his choice in his silhouette.
-
-**Text:**
-- **Gordon V.O.:** "Because he's not our hero."
-
----
-
-### Panel 28.4 — BATMAN TURNS
-**Composition:** Batman turning away from the city view. Accepting what comes next.
-
-**Text:**
-- **Gordon V.O.:** "He's something more."
-
----
-
-### Panel 28.5 — THE LEAP
-**Composition:** Batman leaping from the rooftop. Full extension. Cape spread like wings. Heroic even in exile.
-
-**Text:**
-- **Gordon V.O.:** "He's a silent guardian."
-
----
-
-### Panel 28.6 — MID-AIR
-**Composition:** Batman mid-flight between buildings. City lights below. Alone against the sky.
-
-**Text:**
-- **Gordon V.O.:** "A watchful protector."
-
----
-
-### Panel 28.7 — LANDING
-**Composition:** Batman landing on a distant rooftop. Already running. Never stopping.
-
-**Text:**
-- None (pure motion)
-
----
-
-### Panel 28.8 — DISAPPEARING
-**Composition:** Batman's cape disappearing around a corner. The last glimpse.
-
-**Text:**
-- **Gordon V.O.:** "A Dark Knight."
-
----
-
-### Panel 28.9 — EMPTY ROOFTOP
-**Composition:** The rooftop empty. Only moonlight. He was never there.
-
-**Text:**
-- **Caption Box (orange #F97316 background):** "MOVEMENT: Forward is the only direction. Burn the bridge behind you."
-
----
-
-### Panel 28.10 — THE BATPOD *(NEW — EXPANSION)*
-**Composition:** Wide shot — the Batpod racing through an alley, headlight cutting through darkness. No destination. Just distance from everything he was.
-
-**Text:**
-- **Caption Box:** "He wasn't running from the city."
-- **Caption Box:** "He was running FOR it."
-
----
-
-### Panel 28.11 — INTO THE DARK *(NEW — EXPANSION)*
-**Composition:** The Batpod's taillight disappearing into Gotham's tunnel system. The last red dot. Then darkness.
-
-**Text:**
-- None (visual end to the chase)
-
----
-
-
----
-
-# CLOSING: THE DARK KNIGHT
-
----
-
-
-## SCENE 29: FOUR PILLARS — THE CHAIN
-**Location:** Abstract / Chessboard
-**Purpose:** Visual summary — the four pillars crystallized
-
-### Panel 29.1 — PILLAR #1 (CLARITY)
-**Composition:** The moment crystallized: Alfred's hand turning off screens. Two screens remaining. Blue (#4A90D9) tint.
-
-**Text:**
-- **Caption Box (blue #4A90D9 background):** "CLARITY: Know what matters."
-
----
-
-### Panel 29.2 — PILLAR #2 (COURAGE)
-**Composition:** The moment crystallized: Batman racing toward the warehouse. Red (#EF4444) tint.
-
-**Text:**
-- **Caption Box (red #EF4444 background):** "COURAGE: Act before you're ready."
-
----
-
-### Panel 29.3 — PILLAR #3 (COMMITMENT)
-**Composition:** The moment crystallized: Batman tackling Harvey. Both falling. The child safe. White/silver tint.
-
-**Text:**
-- **Caption Box (white background, black text):** "COMMITMENT: Accept the cost you can't see."
-
----
-
-### Panel 29.4 — PILLAR #4 (MOVEMENT)
-**Composition:** The moment crystallized: The Bat-Signal shattering. Orange (#F97316) tint.
-
-**Text:**
-- **Caption Box (orange #F97316 background):** "MOVEMENT: Burn the bridge behind you."
-
----
-
-### Panel 29.5 — THE CHAIN
-**Composition:** All four images in a 2×2 grid. Clean. Ordered. The choices built on each other.
-
-**Text:**
-- **Caption Box:** "Four pillars. One framework. The Joker tested them all."
-- **Caption Box:** "Batman held."
-## SCENE 30: THE CHESSBOARD RETURNS
-**Location:** Abstract / Rooftop
-**Purpose:** The game resolved — but at what cost?
-
-### Panel 30.1 — THE BOARD (WIDE)
-**Composition:** The chessboard from the opening. Same rooftop. Four pieces glow brighter. The Joker card is still there — but face-down now.
-
-**Text:**
-- None (visual only)
-
----
-
-### Panel 30.2 — JOKER IN CUSTODY
-**Composition:** Small panel inset: The Joker in Arkham. Padded cell. Straitjacket. Smiling.
-
-**Character Block:**
-```
-THE JOKER (ARKHAM) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian man, early 30s, gaunt face, manic knowing eyes, 6'1"
-- Makeup: Faded white face paint — days old, patchy. Red lipstick mostly gone. Black eye paint smudged into grey.
-- Hair: Green-tinged, matted from days in cell
-- Costume: White (#F5F5F5) straitjacket, canvas with leather straps, arms crossed and buckled
-- Expression: Smiling, always smiling, even in captivity
-- Action: Sitting in corner of padded cell, staring at window
-- Position: Corner of cell, inset panel
+Created, Crafted & Made by @iSwamiK
+In collaboration with Claude Code & Google Gemini
 ```
 
-**Text:**
-- **Joker Speech (jagged, small):** "See you soon, Bats."
-
 ---
 
-### Panel 30.3 — GOTHAM DAWN
-**Composition:** Gotham at dawn. Harvey's face on a newspaper: "HERO DIES PROTECTING GOTHAM." The lie works.
-
-**Text:**
-- **Caption Box:** "The Joker tested every pillar."
-
----
-
-### Panel 30.4 — BATMAN WATCHING
-**Composition:** Batman on a distant rooftop. Watching sunrise over the city that now hunts him. Alone.
-
-**Character Block:**
-```
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, jaw with cuts, exhausted but at peace eyes, 6'0"
-- Costume: Black Batsuit — scuffed, torn, scratched, the full night's damage visible
-- Expression: Acceptance, solitude, watching the dawn
-- Action: Standing at rooftop edge, watching sunrise
-- Position: Silhouette against Gotham dawn
-```
-
-**Text:**
-- **Caption Box:** "Batman moved through them all."
-
----
-
-### Panel 30.5 — THE CITY SURVIVES
-**Composition:** Wide shot of Gotham. Morning light. Traffic returning. Normal. Safe.
-
-**Text:**
-- **Caption Box:** "The city survived. But nothing is the same."
-
----
-
-
-## SCENE 31: JOKER'S FINAL WORD — FACE TO FACE #4
-**Location:** Arkham Asylum
-**Purpose:** Joker's lingering victory — the last laugh
-
-### Panel 31.1 — ARKHAM EXTERIOR
-**Composition:** Arkham Asylum exterior. Gothic. Dawn light touching the spires.
-
-**Text:**
-- None (establishing)
-
----
-
-### Panel 31.2 — JOKER'S CELL
-**Composition:** Inside the padded cell. THE JOKER in straitjacket, corner, staring at a small window.
-
-**Text:**
-- None (waiting)
-
----
-
-### Panel 31.3 — SHADOW AT THE WINDOW
-**Composition:** A shadow falls across the Joker's face. Someone at the window.
-
-**Text:**
-- **Joker Speech (jagged):** "I knew you'd visit."
-
----
-
-### Panel 31.4 — BATMAN (SHADOW ONLY)
-**Composition:** Batman's silhouette against the barred window. Just the shape. The cowl. The cape.
-
-**Text:**
-- **Batman Speech:** "It's over."
-
----
-
-### Panel 31.5 — JOKER'S SMILE
-**Composition:** Close on Joker's face. That smile. Even captured, smiling.
-
-**Text:**
-- **Joker Speech (jagged):** "Oh, it's never over."
-
----
-
-### Panel 31.6 — JOKER'S PROPHECY
-**Composition:** Joker leaning forward, eyes bright.
-
-**Text:**
-- **Joker Speech (jagged):** "Madness, as you know, is like gravity."
-- **Joker Speech (jagged):** "All it takes is a little push."
-
----
-
-### Panel 31.7 — BATMAN GONE
-**Composition:** The window. Empty. Batman is gone. Joker laughing softly.
-
-**Text:**
-- **Joker Speech (jagged, small):** "Ha. Ha. Ha."
-
----
-
-
-## SCENE 32: THE BLACK PAGE
-**Location:** N/A
-**Purpose:** Episode close
-
-### Panel 32.1 — BLACK PAGE
-**Composition:** Pure black. Nothing else.
-
-**Text (centered, white):** "The framework was tested. The framework held."
-**Text (smaller):** "But a new opponent was preparing. One who wouldn't test the framework — he'd try to break it."
-
----
-
-
-## SCENE 33: POST-CREDITS — WORKPLACE STORY
-**Location:** Modern office
-**Purpose:** Translate EP2's themes into a real workplace scenario — the crisis that hits from all sides
-**Source:** Integrated from EP2_POST_CREDITS_Workplace_Story.md (expanded with Joker, Fox, closure connection)
-
-> **Visual Style:** Same photorealistic comic style, modern office setting
-> **Tone:** Starts dark, ends with warmth (Director Decision #6: Option C)
-
-### CHARACTER BLOCKS — WORKPLACE UNIVERSE
-
-```
-BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair neatly styled, clean-shaven, strong jaw, sharp observant eyes showing strain, athletic build, 6'0"
-- Costume: Navy blue (#1E3A5F) blazer over light blue (#DBEAFE) button-down shirt, no tie, dark grey (#374151) trousers, brown leather shoes, silver wristwatch, sleeves pushed up
-- Expression: [SCENE-SPECIFIC]
-- Action: [SCENE-SPECIFIC]
-- Position: [SCENE-SPECIFIC]
-```
-
-```
-RA'S AL GHUL (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair neatly styled, intense knowing blue eyes, weathered face with authority, tall lean build, 6'4"
-- Costume: Tailored charcoal grey (#374151) suit, crisp white (#FFFFFF) dress shirt, no tie (top button open), polished black shoes
-- Expression: [SCENE-SPECIFIC]
-- Action: [SCENE-SPECIFIC]
-- Position: [SCENE-SPECIFIC]
-```
-
-```
-ALFRED PENNYWORTH (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, late 60s, grey hair neatly combed, kind face, warm steady eyes, upright posture, slim build, 5'10"
-- Costume: Light grey (#9CA3AF) cardigan over white (#FFFFFF) collared shirt, dark navy (#1E3A5F) trousers, comfortable brown shoes, reading glasses on a cord around neck
-- Expression: [SCENE-SPECIFIC]
-- Action: [SCENE-SPECIFIC]
-- Position: [SCENE-SPECIFIC]
-```
-
-```
-GORDON (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, late 50s, greying brown hair, thick-framed glasses, moustache, tired but kind eyes, medium build, 5'9"
-- Costume: Rolled-up sleeves white (#FFFFFF) dress shirt, loosened dark blue (#1E3A5F) tie, dark trousers, slightly rumpled — the guy who's always working
-- Expression: [SCENE-SPECIFIC]
-- Action: [SCENE-SPECIFIC]
-- Position: [SCENE-SPECIFIC]
-```
-
-```
-THE JOKER (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian Australian man, late 20s, dirty blonde hair tousled and messy, sharp watchful green eyes, angular features with a hint of a smirk always present, lean wiry build, 6'1"
-- Costume: Untucked dark green (#166534) dress shirt, sleeves rolled unevenly, no tie, black jeans instead of trousers, beat-up sneakers, lanyard with badge worn at an angle — the guy who doesn't follow the dress code
-- Expression: [SCENE-SPECIFIC]
-- Action: [SCENE-SPECIFIC]
-- Position: [SCENE-SPECIFIC]
-```
-
-```
-LUCIUS FOX (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Morgan Freeman, African American man, late 60s, grey hair, kind knowing eyes behind silver-framed glasses, calm dignified demeanor, medium build, 6'2"
-- Costume: Navy (#1E3A5F) suit jacket, light blue (#93C5FD) dress shirt, no tie, dark trousers, polished shoes — the senior engineer who still dresses like an executive
-- Expression: [SCENE-SPECIFIC]
-- Action: [SCENE-SPECIFIC]
-- Position: [SCENE-SPECIFIC]
-```
-
-**SETTING:** Modern office. Clean but lived-in. Glass-walled meeting rooms. Open floor plan. Morning light through large windows, but MULTIPLE SCREENS showing red alerts — dashboards, Slack channels, escalation tickets. NOT a tech startup. NOT a corporate dungeon. A normal, recognizable workplace where everything just went wrong at once.
-
----
-
-### Panel 33.1 — THE MORNING AFTER
-**Composition:** Wide shot. A modern office. Morning. The lights are already on — someone's been here all night. BRUCE WAYNE walks in, coffee in hand, badge on lanyard. He pauses at the entrance. Every screen in the office shows red. Slack channels pinned. People at desks who clearly never left.
-
-**Character Block:**
-```
-BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, dark brown hair, clean-shaven, strong jaw, tired eyes, 6'0"
-- Costume: Navy blazer, light blue shirt, dark grey trousers, sleeves already pushed up
-- Expression: Recognizing the scale of what's happening, taking it in
-- Action: Pausing at office entrance, coffee in hand
-- Position: Doorway, looking into the chaos
-```
-
-**Caption Box (narrator):**
-*"The crisis doesn't announce itself. It just shows up — on every screen, in every channel, all at once."*
-
----
-
-### Panel 33.2 — THE SCREENS
-**Composition:** Bruce at his desk. Four monitors visible, each showing a different fire:
-- **Screen 1:** A client escalation thread — all caps, red flags
-- **Screen 2:** A production outage dashboard — everything red
-- **Screen 3:** A Slack channel — "#incident-response" with 200+ unread messages
-- **Screen 4:** An email from leadership — "URGENT: Board update needed by noon"
-
-He's staring at all of them. Not overwhelmed — but aware.
-
-**Caption Box:**
-*"Four fires. Four channels. One of you."*
-
-**Caption Box:**
-*"Sound familiar?"*
-
----
-
-### Panel 33.3 — THE SOURCE
-**Composition:** Close on Screen 3 — the Slack channel. Scrolling up through the incident thread, the root cause is pinned at the top. A deployment pushed at 2:47 AM by one person. No review. No testing. Just shipped. The Slack message reads: *"@here — pushed the migration. Should be fine. 🚀"*
-
-At a desk across the floor — visible through the glass — sits THE JOKER. Feet up. Green shirt untucked. Eating an apple. Watching the chaos he created with the faintest smirk. Not malicious exactly. Just... unconcerned.
-
-**Character Block:**
-```
-THE JOKER (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Heath Ledger, Caucasian Australian man, late 20s, dirty blonde hair tousled and messy, sharp watchful green eyes, angular features with hint of smirk, lean wiry build, 6'1"
-- Costume: Untucked dark green (#166534) dress shirt, sleeves rolled unevenly, no tie, black jeans, beat-up sneakers, lanyard badge at an angle
-- Expression: Amused detachment, watching the fire he started, zero guilt
-- Action: Sitting with feet on desk, eating an apple, watching the floor scramble
-- Position: Background, visible through glass wall, separated from the crisis team
-```
-
-**Caption Box:**
-*"Every crisis has a source. Someone who pushed too fast, tested too little, cared too late."*
-
-**Caption Box:**
-*"He called it 'moving fast.' Everyone else called it Tuesday at 3 AM."*
-
----
-
-### Panel 33.4 — THE FREEZE
-**Composition:** Close on Bruce's face. His hand on the mouse, cursor hovering between tabs. Which one first? The client? The outage? The Slack thread? The board email? His eyes are doing the same rapid scan as Batman's in the Batcave.
-
-**Caption Box:**
-*"The instinct is to run at all of them."*
-
-**Caption Box:**
-*"That's how you lose all four."*
-
----
-
-### Panel 33.5 — ALFRED ARRIVES
-**Composition:** ALFRED walks over. No fanfare. He's carrying two coffees — one for himself, one to replace the one Bruce already has (which has gone cold without him noticing). Alfred sets it down, looks at the screens, and does something simple.
-
-**Character Block:**
-```
-ALFRED PENNYWORTH (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Michael Caine, elderly Caucasian British man, late 60s, grey hair, kind face, steady knowing eyes, 5'10"
-- Costume: Light grey cardigan, white collared shirt, navy trousers, reading glasses on cord
-- Expression: Calm assessment, about to cut through the noise
-- Action: Setting down fresh coffee, looking at Bruce's screens
-- Position: Standing beside Bruce's desk
-```
-
-**Alfred Speech:** "Close the Slack. Close the email. Which one, if it goes wrong, takes everything else with it?"
-
----
-
-### Panel 33.6 — THE FILTER
-**Composition:** Bruce's hand on the mouse. He closes Tab 3 (Slack). Closes Tab 4 (email). Two screens remain: the client escalation and the production outage. The visual mirrors the Batcave — twelve screens down to two.
-
-**Caption Box (blue #4A90D9 background, white text):** *"CLARITY."*
-
-**Caption Box:**
-*"The outage. If production stays down, the client escalation gets worse, the board email becomes a crisis, and Slack becomes a war room."*
-
----
-
-### Panel 33.7 — THE CALL
-**Composition:** Bruce on a call. Standing. He's made the choice — he's handling the production outage personally. His body language is MOVEMENT — leaning forward, phone to ear, pointing at something on screen. The client email is still visible on the other monitor — unread. A choice he made.
-
-**Caption Box:**
-*"He picked the outage. The client would have to wait."*
-
-**Caption Box:**
-*"That's what clarity costs. Not everything gets your attention."*
-
----
-
-### Panel 33.8 — FOX'S QUESTION
-**Composition:** Mid-crisis. Bruce is deep in the outage fix. LUCIUS FOX appears — the senior architect, the one who built half the systems. He's standing at Bruce's desk, arms crossed, looking at the terminal. He has a fix. But he's not smiling.
-
-**Character Block:**
-```
-LUCIUS FOX (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Morgan Freeman, African American man, late 60s, grey hair, kind knowing eyes behind silver-framed glasses, calm dignified demeanor, 6'2"
-- Costume: Navy suit jacket, light blue dress shirt, no tie, dark trousers, polished shoes
-- Expression: Careful concern, the man who sees the ethical line before anyone else
-- Action: Standing at Bruce's desk, arms crossed, looking at terminal
-- Position: Beside Bruce, framed against the red dashboard on the monitor behind
-```
-
-**Fox Speech:** "I can roll back the migration in four minutes. Production comes back. But the audit trail goes with it — we won't know what data was affected."
-
-**Bruce Speech:** "What's the other option?"
-
-**Fox Speech:** "The right way. Forty minutes. Full trace. You'll know exactly what happened."
-
-**Caption Box:**
-*"The fast fix. The clean fix. Both real. Only one honest."*
-
----
-
-### Panel 33.9 — THE HONEST FIX
-**Composition:** Close on Bruce's face. The same look Batman had when he chose not to kill — the harder path, knowing it costs more time. He looks at Fox. Nods.
-
-**Bruce Speech:** "Forty minutes. Do it right."
-
-Fox's expression shifts — respect. Not surprised. But noted.
-
-**Fox Speech:** "I'll need your sign-off on the post-mortem. All of it. Including who pushed the deployment."
-
-**Caption Box:**
-*"The shortcut would have saved thirty-six minutes. It would have cost something that doesn't come back."*
-
----
-
-### Panel 33.10 — THE CLIENT FALLS
-**Composition:** Forty minutes later. Bruce puts down the phone. Production is back — clean, traced, documented. But his OTHER screen now shows: the client escalation has gotten worse. An email from the client: "We're pulling the contract." The thing he couldn't save — because he was saving the thing that mattered more.
-
-**Caption Box:**
-*"He chose right. And he still lost."*
-
-**Caption Box (red #EF4444 background, white text):** *"COURAGE."*
-
-**Caption Box:**
-*"Some choices break things you can't get back."*
-
----
-
-### Panel 33.11 — RA'S WALKS IN
-**Composition:** RA'S AL GHUL (the boss) walks into the open floor. Suit jacket off. Sleeves rolled. He's been in meetings all morning. He finds Bruce at his desk, staring at the client email.
-
-**Character Block:**
-```
-RA'S AL GHUL (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked hair, intense blue eyes, tall lean build, 6'4"
-- Costume: Charcoal suit jacket OFF (draped over arm), white dress shirt with sleeves rolled, no tie
-- Expression: Assessing, not angry, the leader seeing the whole board
-- Action: Walking to Bruce's desk, reading the room
-- Position: Standing beside Bruce, looking at the client email
-```
-
-**Ra's Speech:** "The client?"
-
-**Bruce Speech:** "Gone. I was on the outage."
-
----
-
-### Panel 33.12 — THE BOSS KNOWS
-**Composition:** Ra's nods. Not disappointed. Not pleased. He knows the math. He would have made the same call.
-
-**Ra's Speech:** "The outage would have cost us three clients. You saved three by losing one."
-
-**Ra's Speech:** "That's not a failure. That's triage."
-
----
-
-### Panel 33.13 — THE MEETING
-**Composition:** A glass-walled meeting room. Bruce presenting to leadership. The board update Ra's needed. On the screen behind him: the outage timeline, the recovery, and ONE slide that shows the client loss. He doesn't hide it. He leads with it.
-
-**Caption Box (white background, black text):** *"COMMITMENT."*
-
-**Caption Box:**
-*"He could have buried the client loss in the outage recovery story. Made it sound like a win."*
-
-**Caption Box:**
-*"He put it on slide two."*
-
----
-
-### Panel 33.14 — GORDON COVERS
-**Composition:** After the meeting. The hallway. GORDON catches up with Bruce. Rumpled shirt, loosened tie, coffee-stained sleeve. He's been handling the Slack channel all morning — the thing Bruce closed.
-
-**Character Block:**
-```
-GORDON (WORKPLACE) FULL DESCRIPTION:
-- Face & Body: Gary Oldman, Caucasian man, late 50s, greying hair, glasses, moustache, tired but warm eyes, 5'9"
-- Costume: White shirt with rolled sleeves, loosened blue tie, coffee stain on cuff
-- Expression: Tired but loyal, he covered while Bruce was in the fire
-- Action: Catching up with Bruce in hallway, walking alongside
-- Position: Side by side, post-meeting
-```
-
-**Gordon Speech:** "I handled the Slack thread. Told them you were on the outage."
-
-**Bruce Speech:** "Thanks. I owe you."
-
-**Gordon Speech:** "You don't owe me. You made the right call. Someone had to cover the rest."
-
----
-
-### Panel 33.15 — THE WALK
-**Composition:** Bruce walking through the office at the end of the day. The screens are calmer now — dashboards green, Slack quieter, the board email answered. But on his phone: a text from the lost client. "No hard feelings. Let's talk next quarter." Not a win. Not a loss. Just... movement.
-
-**Caption Box (orange #F97316 background, white text):** *"MOVEMENT."*
-
-**Caption Box:**
-*"He didn't save everything. But he showed up the next morning."*
-
----
-
-### Panel 33.16 — THE REFLECTION
-**Composition:** Bruce at his desk. End of day. Golden hour light through the office windows. His screens are off. On his desk: a sticky note in his own handwriting. It reads four words, stacked:
-
-```
-CLARITY
-COURAGE
-COMMITMENT
-MOVEMENT
-```
-
-He looks at it. Then out the window. The city below — normal. Working. Unaware of the crisis that almost broke everything.
-
-**Caption Box:**
-*"The crisis doesn't make the framework."*
-
-**Caption Box:**
-*"It reveals whether you have one."*
-
----
-
-### Panel 33.17 — S.P. EASTER EGG
-**Composition:** Bruce leaving the office. Coat over his arm. Badge still on. Walking past the whiteboard in the break area. Someone has written on it — a daily motivational quote that no one reads. But today's reads:
-
-**Whiteboard text:** *"SP: The fire shows you what's fireproof."*
-
-Bruce doesn't notice it. The audience does.
-
-**Caption Box:**
-*"You've been tested before. You'll be tested again."*
-
-**Caption Box:**
-*"The framework isn't magic. It's a choice — every time."*
-
----
-
-### Panel 33.18 — TWO WORLDS, ONE TEST (CLOSURE CONNECTION)
-**Composition:** SPLIT PANEL — cinematic widescreen ratio. LEFT HALF: Batman in the Batcave, twelve screens glowing, cape draped over the chair. RIGHT HALF: Bruce at his desk, four monitors glowing red, blazer draped over the chair. Same posture. Same man. Same crisis. Two universes.
-
-The visual parallel should be unmistakable — the composition mirrors itself exactly.
-
-**Caption Box:**
-*"One man watched twelve screens and chose two addresses."*
-
-**Caption Box:**
-*"The other watched four screens and chose one fire."*
-
----
-
-### Panel 33.19 — THE PARALLEL (CLOSURE CONNECTION)
-**Composition:** Four horizontal strips stacked — each showing the COMIC moment on the left and the WORKPLACE moment on the right, connected by the pillar name in the center:
-
-**Strip 1 (Blue #4A90D9):** LEFT: Alfred turning off Batcave screens → **CLARITY** → RIGHT: Alfred setting down coffee, closing tabs
-**Strip 2 (Red #EF4444):** LEFT: Batman racing to warehouse, Harvey or Rachel → **COURAGE** → RIGHT: Bruce choosing the outage, losing the client
-**Strip 3 (White):** LEFT: Batman in interrogation, telling the truth → **COMMITMENT** → RIGHT: Bruce at the meeting, slide two showing the loss
-**Strip 4 (Orange #F97316):** LEFT: Batman running into the night, hunted → **MOVEMENT** → RIGHT: Bruce walking in the next morning, still here
-
-**Caption Box:**
-*"Different fires. Same choices. Same framework."*
-
----
-
-### Panel 33.20 — THE LESSON (CLOSURE CONNECTION)
-**Composition:** Black card. White text. Centered. Clean. The bridge between both worlds — the thesis of the post-credits.
-
-**Text (centered, white):**
-*"The Joker tested Batman with warehouses and bombs."*
-*"Your Joker tests you with Slack channels and deadlines."*
-
-*"Gordon covered for Batman when he couldn't be in two places."*
-*"Someone covered for you. Or you covered for them."*
-
-*"The framework doesn't care if you wear a cape or carry a laptop."*
-*"It only asks: when the crisis hit — did you hold?"*
-
----
-
-### Panel 33.21 — EP3 BRIDGE BEAT
-**Composition:** Bruce walking to the elevator. His phone buzzes. He looks at the screen. A new Slack message from a name he doesn't recognize: "#restructuring — You've been added to this channel."
-
-His face changes. Not fear. Not anger. Recognition. Something new is coming. Something bigger.
-
-**Caption Box:**
-*"But some tests are bigger than a crisis."*
-
-**Caption Box:**
-*"Some tests try to break the system entirely."*
-
-**Text (bottom, small):** *"EP3: THE ADAPTATION — Coming Soon"*
-
----
-
-
-## SCENE 34: POST-CREDITS TEASE
-**Location:** Unknown (8 years later)
-**Purpose:** Plant the seed for Episode 3 — Bane
-
-### Panel 34.1 — THE PIT
-**Composition:** A dark pit. Stone walls rising impossibly high. Light filtering from far above. THE PIT from The Dark Knight Rises.
-
-**Text:**
-- **Caption Box:** "Eight years later..."
-
----
-
-### Panel 34.2 — A FIGURE IN SHADOW
-**Composition:** A massive figure in the shadows at the bottom of the pit. Enormous shoulders. A MASK. Tubes running from it.
-
-**Text:**
-- **Caption Box:** "Someone was climbing out."
-
----
-
-### Panel 34.3 — BANE'S MASK (CLOSE)
-**Composition:** Close on the mask. BANE's iconic breathing apparatus. Eyes visible above. Cold. Patient.
-
-**Character Block:**
-```
-BANE FULL DESCRIPTION:
-- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes, thick neck, enormous shoulders, 6'2"
-- Mask: Iconic breathing apparatus covering lower face — metal and leather, tubes connecting to jaw area
-- Costume: Military tactical vest (olive/brown #5D5436) over bare muscular arms, dark cargo pants, heavy combat boots, fingerless gloves
-- Expression: Cold patience, calculating, eyes only visible
-- Action: Looking up toward the light at the top of the pit
-- Position: Bottom of pit, looking up
-```
-
-**Text:**
-- **Bane Speech (heavy, muffled):** "When Gotham is ashes..."
-
----
-
-### Panel 34.4 — BANE'S PROMISE
-**Composition:** Bane looking up toward the light. The way out. His time is coming.
-
-**Text:**
-- **Bane Speech (heavy, muffled):** "...you have my permission to die."
-
----
-
-### Panel 34.5 — BLACK PAGE (FINAL)
-**Composition:** Black page. White text centered.
-
-**Text:**
-- "DECISIVE INTELLIGENCE"
-- "Episode 2: THE TEST — Complete"
-- "Episode 3: THE ADAPTATION — Coming Soon"
-
----
-
-
-# PRODUCTION SUMMARY
-
-## Panel Count by Scene
-
-| Scene | Title | Panels | Status |
-|-------|-------|--------|--------|
-| 1 | COVER | 1 | Original/Expanded |
-| 2 | THE BOARD SPEAKS | 5 | Original/Expanded |
-| **3** | **THE BANK HEIST** | **8** | **NEW — RESTORED** |
-| 4 | THE JOKER'S ESCALATION | 8 | Original/Expanded |
-| 5 | BATMAN PARALYZED | 3 | Original/Expanded |
-| 6 | THE JOKER'S VOICE | 7 | Original/Expanded |
-| 7 | THE FRAMEWORK SURFACES | 4 | Original/Expanded |
-| 8 | ALFRED'S INTERVENTION | 13 | Original/Expanded |
-| 9 | THE CHOICE — CONFRONT THE SOURCE | 5 | Original/Expanded |
-| **10** | **THE BATPOD CHASE** | **6** | **NEW — RESTORED** |
-| 11 | INTERROGATION — FACE TO FACE #1 | 16 | Original/Expanded |
-| 12 | THE RACE | 3 | Original/Expanded |
-| 13 | ARRIVAL — THE LIE | 14 | Original/Expanded |
-| 14 | THE EXPLOSION | 8 | Original/Expanded |
-| 15 | HARVEY'S HOSPITAL — FACE TO FACE #2 | 11 | Original/Expanded |
-| **16** | **THE HOSPITAL WALK-AWAY** | **5** | **NEW — RESTORED** |
-| **17** | **FOX AND THE SONAR** | **7** | **NEW — RESTORED** |
-| 18 | THE FERRY GAMBIT | 7 | Original/Expanded |
-| **19** | **CONSTRUCTION SITE — FACE TO FACE #3** | **6** | **NEW — RESTORED** |
-| 20 | TWO-FACE REVEALED | 6 | Original/Expanded |
-| 21 | GORDON'S FAMILY | 6 | Original/Expanded |
-| 22 | THE TACKLE | 9 | Original/Expanded |
-| 23 | THE BODY | 4 | Original/Expanded |
-| 24 | THE FOURTH CHOICE FORMS | 4 | Original/Expanded |
-| 25 | THE LIE | 7 | Original/Expanded |
-| 26 | THE HUNT BEGINS | 8 | Original/Expanded |
-| 27 | THE BAT-SIGNAL | 8 | Original/Expanded |
-| 28 | THE DARK KNIGHT | 11 | Original/Expanded |
-| 29 | FOUR PILLARS — THE CHAIN | 5 | Original/Expanded |
-| 30 | THE CHESSBOARD RETURNS | 5 | Original/Expanded |
-| 31 | JOKER'S FINAL WORD — FACE TO FACE #4 | 7 | Original/Expanded |
-| 32 | THE BLACK PAGE | 1 | Original/Expanded |
-| 33 | POST-CREDITS — WORKPLACE STORY | 21 | NEW — Integrated + expanded |
-| 34 | POST-CREDITS TEASE | 5 | Original/Expanded |
-
-**TOTAL: 34 Scenes, ~244 Panels**
-
----
-
-## Restoration Summary
-
-| Restored Scene | Panels | Source |
-|----------------|--------|--------|
-| Scene 3 — Bank Heist Opening | 8 | The Dark Knight opening sequence |
-| Scene 10 — Batpod Chase / "Hit Me!" | 6 | The Dark Knight chase sequence |
-| Scene 16 — Hospital Walk-Away | 5 | The Dark Knight hospital explosion |
-| Scene 17 — Fox Sonar / COMMITMENT | 7 | The Dark Knight moral dilemma |
-| Scene 19 — Construction Site Face-Off | 6 | The Dark Knight climax setup |
-| Scene 33 — Post-Credits Workplace Story | 21 | EP2_POST_CREDITS_Workplace_Story.md (integrated + expanded) |
-| **TOTAL NEW** | **53** | |
-
-## Expansion Summary
-
-| Scene | Original | Extended | Added |
-|-------|----------|----------|-------|
-| Scene 4 (Escalation) | 6 | 8 | +2 |
-| Scene 6 (Joker Call) | 5 | 7 | +2 |
-| Scene 8 (Alfred + Burma) | 6 | 13 | +7 |
-| Scene 13 (The Lie) | 4 | 14 | +10 |
-| Scene 14 (Explosion) | 5 | 8 | +3 |
-| Scene 11 (Interrogation) | 10 | 16 | +6 |
-| Scene 15 (Hospital) | 8 | 11 | +3 |
-| Scene 18 (Ferry) | 5 | 7 | +2 |
-| Scene 22 (Tackle) | 7 | 9 | +2 |
-| Scene 27 (Bat-Signal) | 6 | 8 | +2 |
-| Scene 28 (Dark Knight) | 9 | 11 | +2 |
-| **TOTAL EXPANDED** | | | **+41** |
-
----
-
-## Framework Pillar Naming
-
-| Pillar | Scene | Caption Box Color | Line |
-|--------|-------|-------------------|------|
-| CLARITY | 8-9 | Blue #4A90D9 | "Know what matters — even when everything is on fire." |
-| COURAGE | 14 | Red #EF4444 | "Act before you're ready — the cost might break you." |
-| COMMITMENT | 21-22, 17 | White/Black | "Accept the cost you can't see." |
-| MOVEMENT | 25-28 | Orange #F97316 | "Burn the bridge behind you." |
-
----
-
-## S.P. Easter Eggs
-
-| Location | Type | Text |
-|----------|------|------|
-| Scene 17, Panel 17.7 | Sticky note on Fox's console | "SP: The right tool doesn't make the wrong choice right." |
-| Scene 33, Panel 33.17 | Whiteboard quote in break area | "SP: The fire shows you what's fireproof." |
-
----
-
-## Document Version
-
-| Document | Version |
-|----------|---------|
-| EP2_THE_TEST_Extended_Screenplay.md | EC 2.0.0 |
-
----
-
-*"Four pillars. One framework. The Joker tested them all. Batman held."* 🦇
+*"Every panel backed by page numbers. Every line verified. The source material drives everything."* 🦇
