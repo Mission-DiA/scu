@@ -84,7 +84,7 @@ ONLY after Director signs off on the screenplay. Rebuild all EC image prompts us
 | 4.4 | EC_04 — Act 2 COURAGE K1-K4 (Slides 41-57) | `EP2_EC_04_Courage.md` | ✅ DONE (v2) | 17 slides. "Endure" ★ (42), Interrogation 7-slide sequence (48-54), Two-Face born (57). |
 | 4.5 | EC_05 — Act 3 COMMITMENT M1-M7 (Slides 58-75) | `EP2_EC_05_Commitment.md` | ✅ DONE (v2) | 18 slides. Full rebuild. Hospital Speech ★ (63-65), Fox Sonar ★ (68-69), Tattooed Prisoner ★ (74). |
 | 4.6 | EC_06 — Act 4 MOVEMENT V1-V4 + Closing X1-X3 (Slides 76-92) | `EP2_EC_06_Movement.md` | ✅ DONE (v2) | 17 slides. Full rebuild. "Whatever Gotham needs" ★ (83), Montage quad (84), Arkham prophecy (89-90), Bane tease (91). |
-| 4.7 | EC_07 — Post-Credits + Transition Cards (Slides 117-148) | `EP2_EC_07_PostCredits.md` | ☐ PENDING | "This Was the Crisis" (25 panels) + 6 transition cards |
+| 4.7 | EC_07 — Post-Credits + Transition Cards (Slides 93-108) | `EP2_EC_07_PostCredits.md` | ✅ DONE (v2) | 16 slides. Full rebuild. "This Was the Crisis" (14 slides) + Transition Cards (2 slides). All 4 pillar moments. Jack (Heath Ledger workplace). |
 | 4.8 | Update Header + Reshoot Board + Production Lessons | — | ☐ PENDING | EP2_EC_00_Header.md version bump to EC 3.0.0 |
 
 ---
