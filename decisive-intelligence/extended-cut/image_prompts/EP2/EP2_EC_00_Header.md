@@ -1,13 +1,14 @@
 # DECISIVE INTELLIGENCE — EPISODE 2: THE TEST
 ## Director's Extended Cut — Gemini Image Generation Prompts
 
-> **Version:** EC 1.0.0
-> **Date:** 2026-03-04
-> **Total Slides:** ~148 (main story + post-credits + transition cards)
+> **Version:** EC 3.0.0 (Ground-Zero v2 Rebuild)
+> **Date:** 2026-03-07
+> **Total Slides:** 109 (Slides 0-108: main story + post-credits + transition cards)
 > **Duration:** ~35 min story + ~5 min post-credits
 > **Visual Style:** Dark Knight noir — photorealistic, high-contrast, Nolan-esque cinematography
 > **Aspect Ratio:** 16:9 (1920×1080px)
-> **Source:** EP2_THE_TEST_Extended_Screenplay.md (EC 1.0.0 — 207 panels + 15 post-credits)
+> **Source:** EP2_THE_TEST_Extended_Screenplay.md (EC 3.0.0 — Ground-Zero Rebuild from TDK screenplay)
+> **Production Lessons:** See `/scu/reference/SCU_Gemini_Production_Lessons.md` — R-001 through R-015 applied
 
 ---
 
@@ -108,20 +109,19 @@ A SWAMI K FILM (2× larger, letter-spaced, gold glow)
 
 ---
 
-## EC STRUCTURE
+## EC STRUCTURE (v3.0.0 — Ground-Zero Rebuild)
 
-| # | File | Scenes | Est. Slides | Range |
-|---|------|--------|-------------|-------|
+| # | File | Scenes | Slides | Range |
+|---|------|--------|--------|-------|
 | 0 | Header (this file) | — | — | — |
-| 1 | Cover + Chaos | 1, 2, 3A, 3 | 14 | 0-13 |
-| 2 | Paralysis + Framework + Batpod | 4, 5, 6, 9B | 12 | 14-25 |
-| 3 | Clarity | 7, 8, 9, 10 | 18 | 26-43 |
-| 4 | Courage | 11, 12, 13, 13B, 14 | 25 | 44-68 |
-| 5 | Commitment | 14B, 15, 16, 17, 18, 19, 19B | 24 | 69-92 |
-| 6 | Movement + Dark Knight | 20, 21, 22, 23, 24, 25, 26, 27, 28 | 28 | 93-120 |
-| 7 | Post-Credits + Transition Cards | WP 1-15, TC 1-6 | 19 | 121-139 |
-| 8 | Summary | — | — | — |
-| | **TOTAL** | | **~140** | **0-139** |
+| 1 | Cover + Chaos | Cover (0.1) + Opening (0.2) + Prologue P1-P4 | 14 | 0-13 |
+| 2 | Prologue P5-P9 | Harvey (P5) + Gambol (P6) + Hong Kong (P7) + RICO (P8) + Ultimatum (P9) | 10 | 14-23 |
+| 3 | Clarity | Act 1 — C1 (Fundraiser) through C8 (Coin-flip) | 17 | 24-40 |
+| 4 | Courage | Act 2 — K1 ("I Am the Batman") through K4 (Rachel/Two-Face) | 17 | 41-57 |
+| 5 | Commitment | Act 3 — M1 (Money Burn) through M7 (Ferry ★) | 18 | 58-75 |
+| 6 | Movement + Closing | Act 4 — V1 (Prewitt) through V4 (Dark Knight ★) + X1-X3 (Cost/Arkham/Bane) | 17 | 76-92 |
+| 7 | Post-Credits + Transitions | "This Was the Crisis" (25 panels → 14 slides) + Transition Cards (6 → 2 slides) | 16 | 93-108 |
+| | **TOTAL** | | **109** | **0-108** |
 
 ---
 
@@ -129,14 +129,13 @@ A SWAMI K FILM (2× larger, letter-spaced, gold glow)
 
 | File | Content | Slides |
 |------|---------|--------|
-| `EP2_EC_00_Header.md` | Production rules, text styling, Gemini notes | — |
-| `EP2_EC_01_Cover_and_Chaos.md` | Cover + Opening + Bank Heist + Four Crises | 0-13 |
-| `EP2_EC_02_Paralysis_Framework.md` | Batman frozen + Joker call + Ra's flashback + Batpod | 14-25 |
-| `EP2_EC_03_Clarity.md` | Alfred + Burma Story + Choice + Race + The Lie | 26-43 |
-| `EP2_EC_04_Courage.md` | Explosion + Interrogation + Hospital + Walk-Away + Ferry | 44-68 |
-| `EP2_EC_05_Commitment.md` | Construction Site + Two-Face + Gordon's Family + Tackle + Fox Sonar | 69-92 |
-| `EP2_EC_06_Movement_DarkKnight.md` | The Lie + Hunt + Bat-Signal + Dark Knight + Closing + Bane Tease | 93-120 |
-| `EP2_EC_07_PostCredits_TransitionCards.md` | Workplace Story + Transition Cards | 121-139 |
-| `EP2_EC_08_Summary.md` | Production summary, verification, version history | — |
+| `EP2_EC_00_Header.md` | Production rules, text styling, Gemini notes (this file) | — |
+| `EP2_EC_01_Cover_and_Chaos.md` | Cover + Opening + Bank Heist P1 + Scarecrow P2 + New Suit P3 + Mob Meeting P4 | 0-13 |
+| `EP2_EC_02_Prologue_P5_P9.md` | Harvey Dent P5 + Gambol P6 + Hong Kong P7 + RICO P8 + Ultimatum P9 | 14-23 |
+| `EP2_EC_03_Clarity.md` | Fundraiser C1 + Attacks C2 + Proposal C3 + Joker Crash C4 + Burma ★ C5 + Forensics C6 + Funeral C7 + Coin-flip C8 | 24-40 |
+| `EP2_EC_04_Courage.md` | "I Am the Batman" K1 + Convoy K2 + Interrogation ★ K3 + Rachel Dies/Two-Face K4 | 41-57 |
+| `EP2_EC_05_Commitment.md` | Money Burn M1 + Letter M2 + Hospital ★ M3 + Explosion M4 + Sonar ★ M5 + Revenge M6 + Ferry ★ M7 | 58-75 |
+| `EP2_EC_06_Movement.md` | Prewitt V1 + Ace in Hole V2 + Two-Face Stand V3 + Dark Knight ★ V4 + Cost X1 + Arkham X2 + Bane X3 | 76-92 |
+| `EP2_EC_07_PostCredits.md` | "This Was the Crisis" workplace parallel + 6 Transition Cards | 93-108 |
 
 ---

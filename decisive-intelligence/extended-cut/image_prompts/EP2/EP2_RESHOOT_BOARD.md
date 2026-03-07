@@ -2,7 +2,8 @@
 
 > **Purpose:** Track slides that need prompt revision after Gemini test renders
 > **Workflow:** Shoot forward, flag issues, circle back in a dedicated reshoot pass
-> **Updated:** 2026-03-05
+> **Updated:** 2026-03-07
+> **Version:** EC 3.0.0 (Ground-Zero v2 Rebuild — all prompts rewritten from scratch)
 
 ---
 
@@ -19,7 +20,7 @@
 
 | # | Slide | File | Issue | Attempts | Notes |
 |---|-------|------|-------|----------|-------|
-| RS-001 | 7 | EC_01 | Split panel choreography — Batman POV not rendering correctly. Tried 3 angles (overhead, shoulder-height, behind). Gemini struggles with "looking down from rooftop" perspective. | 3 | May need single-panel approach instead of split |
+| — | — | — | No open reshoots. All prompts rebuilt from scratch in v2. | — | Ready for fresh test renders. |
 
 ---
 
@@ -34,9 +35,11 @@
 
 | # | Slide | File | Issue | Fix | Verified |
 |---|-------|------|-------|-----|----------|
-| — | 1 | EC_01 | "PRESENT"/"FLASHBACK" leaked as text | Renamed to scene-descriptive headers | Yes |
-| — | 4 | EC_01 | Scale wrong, wrong masks, no actor, vault in lobby | Scale constraints, TDK masks, Fichtner cast, lobby-only | Yes |
-| — | 5 | EC_01 | Disconnected panels | Rewritten as chain of betrayals | Yes |
+| — | 1 | EC_01 (v1) | "PRESENT"/"FLASHBACK" leaked as text | Renamed to scene-descriptive headers | Yes — v1 |
+| — | 4 | EC_01 (v1) | Scale wrong, wrong masks, no actor, vault in lobby | Scale constraints, TDK masks, Fichtner cast, lobby-only | Yes — v1 |
+| — | 5 | EC_01 (v1) | Disconnected panels | Rewritten as chain of betrayals | Yes — v1 |
+| RS-001 | 7 | EC_01 (v1) | Batman POV not rendering — perspective issue | **SUPERSEDED** — EC_01 fully rewritten in v2. Old Slide 7 no longer exists in same form. | v2 rebuild |
+| — | ALL | ALL | Director ordered ground-zero wipe of all EC prompt files | ALL files (EC_01-EC_07) deleted and rebuilt from scratch per EC 3.0.0 screenplay | v2 complete |
 
 ---
 
