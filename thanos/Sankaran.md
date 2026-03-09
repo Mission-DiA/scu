@@ -223,27 +223,27 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | #   | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 | --- | -------------- | --------- | -------------------------------------------- |
-| 1   |                |           |                                              |
-| 2   |                |           |                                              |
-| 3   |                |           |                                              |
+| 1   | Production bug management — going through L2 debugging, moving tickets to the appropriate status, and retesting them. This alone takes 3 to 4 hours in a day. | Daily | Automated — An AI agent can be built based on the L2 debugging workflow. If we feed it the steps of what L2 does, the agent can handle triage, status updates, and initial analysis. This would reduce a significant amount of QA time. |
+| 2   | Feature automation — whenever feature testing is going on, writing automation scripts for the test cases consumes time. | Every feature cycle | Automated — A Playwright wrapper can be built where manual test cases are converted into automation scripts automatically. About 75% of the groundwork is already done; once the remaining 25% of cases are added, this can make feature automation much faster. |
+| 3   | Jenkins pipeline failures and enhancements — debugging pipeline issues and making improvements currently falls on me. | Weekly | Delegated — I have learned the basics here and it's time that others also get hands-on experience with it. Delegating this will free up my time and help the team grow. |
 
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+Two things. First, I'd spend that time inside the product codebase — reading developer code, tracing production bugs to their root cause, and submitting fixes. Right now L2 debugging eats 3-4 hours daily, and that time could go directly toward becoming an SDET who contributes code, not just reports bugs. Second, I'd invest in building and refining the impact analyser — a tool I recently started working on. With more time, I can improve it and make it more useful for the team.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Both, honestly. I'm firefighting with production bugs daily — L2 debugging, triaging, retesting — the same kind of work that keeps repeating. But at the same time, I'm also building the impact analyser, which is an architect move. It reads development PRs and tells the impact of changes without needing the developer to explain it. If that works well, it can reduce the dependency on devs for understanding what changed and what to test. So I'm not fully stuck as a firefighter — I'm building my way out. But the shift isn't complete yet. To fully move to the architect side, I need to automate or delegate the production bug workflow so it stops pulling me back into firefighting every day.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+Not anymore. But initially, yes. When I started mentoring the team on automation instead of writing the scripts myself, I had this fear — "If I'm not the one writing the code, then what's my role?" It felt like I was giving away the one thing that made me useful. But then I realized I was doing the same work every day, nothing new in it. After that I got into building the Sprint Dashboard and QSR Report, and that made me realize — we shouldn't fear delegating or automating. Once a task is done, there's always a more complicated or new problem waiting to be solved. The work doesn't run out, it just gets more interesting.
 ```
 
 ---
