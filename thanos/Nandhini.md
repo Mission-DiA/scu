@@ -194,26 +194,30 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 | - | -------------- | --------- | -------------------------------------------- |
-| 1 |                |           |                                              |
-| 2 |                |           |                                              |
-| 3 |                |           |                                              |
+| 1 |    Triaging production incidents that follow the same repetitive patterns.            |     Frequently      |       Automated: I can build scripts to auto-debug and assign these or even auto-resolve simple ones.                                       |
+| 2 |       Manual regression and feature testing for every small change.         |      Every Release     |           Automated: These are easily scriptable to save time and ensure consistency.                                   |
+| 3 |         Gathering QA metrics and generating reports manually       |     Weekly/Monthly      |     Automated: There should be zero manual effort here; data should pull into a dashboard automatically                                         |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+[I’d move away from just 'finding' bugs and start designing the strategy to prevent them. Instead of being stuck in the details of manual triaging or reports, I’d use that freed time to look at the big picture—identifying gaps in our system logic and building smarter, AI-assisted workflows. Basically, I want to spend my time on the ideas that make us faster, rather than the manual tasks that slow us down.]
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+[Right now, I’m moving from Firefighter to Architect I still jump in to fix urgent issues manually when they pop up but I’m shifting my focus toward building self-healing systems tools that catch and handle these problems automatically so they don't need my constant attention.
+
+What needs to change: I need to finish the automation tools I'm building now. Once those are live, I can stop focusing on repetitive manual tasks and spend my time on the bigger technical strategy.]
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+[My fear isn’t that I'll be replaced it’s actually the opposite. My real fear is staying stuck. If I don't automate the boring parts of my job, I’ll be trapped doing the same repetitive tasks while the rest of the industry moves forward.
+
+I want to 'replace' my current self with a more efficient version of me someone who isn't bogged down by manual work. My goal is to automate the 'busy work' so I can spend my time on the actual ideas and strategy that bring real value to the team.]
 ```
 
 ---
