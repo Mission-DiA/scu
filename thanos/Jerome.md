@@ -183,26 +183,36 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Off-boarding employees | Once in 2 to 3 months | automated |
+| 2 | Cluster health report | Every alternative day | automated |
+| 3 | Access removal and provisioning related issues | Once a month | Prevented |
+| 4 | Debugging during an incident | Once or twice a month | Automated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+- All the above listed activities are time consuming, and most often not required to have a higher amount of time being spent on.
+- So when these tasks are being automated/prevented, we would get the time that was taken for them, to be spent on other things as well.
+- As I am also moving into the Vibe engineering, more newer tasks could be activated and the end goal being the architect who observes and handles them.
+- For example, the time taken to debug an incident is often more higher than the actual remediation to the problem. 
+- But in this use case, if the debugging part is automated and if we are able to arrive an the root cause at a faster rate, we could spend only a shorter amount of time on the remediation and would be able to identify what caused it and could spend the time on preventing the same.
+- As coulson has conveyed to Daisy, the more the things are automated, the more new things we could be able to explore and not be stuck in the same loop of repeating the same type of tasks or spending time on solving the same kind of incidents.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+- I feel I am a fire-figther at the moment.
+- I handle the tasks that are assigned to me, and work on them repeatedly even if they are being repeated.
+- But I have stated my journey into an architect right now, as I have automated the CHR collection of cluster metrics for the dev env. This saves about 20 mins, from the actual time that is taken during the collection of the metrics.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+- More the fear of being replaced, there are two things that concern into the delegation in my journey of being the architect.
+- One being that I still have not acquired a complete understanding on our infra and due to this, I am not able to proceed at my fullest pace.
+- Second being the time management, to work on my day to day activities and also invest the required amount of time on theh automation activities.
 ```
 
 ---
