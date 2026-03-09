@@ -195,27 +195,27 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
-|---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+|---|---|---|---|
+| 1 | Taking cluster health reports via script and manually adding to sheets. | Multiple times a week | Automated |
+| 2 | Running scripts to migrate PCR data into buckets. | Weekly | Automated |
+| 3 | Manually checking logs for every alert. | Daily | Automated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+I would invest that time in proactive reliability projects. Instead of just responding to alerts, I could perform trend analysis on our monitoring data to identify potential future incidents before they occur. I would also focus on learning Go more deeply to build internal tools that help the entire team, which aligns with my goal of moving into a Senior SRE role. It would shift my focus from fixing symptoms to strengthening the entire system.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Right now, I am mostly a firefighter. I'm getting good at responding to alerts, but as I'm still in my early stages, I often need to seek help for the final resolution. Like Daisy in the story, I'm often dealing with the same types of problems. My Betterstack alert project was a small step towards architecture, but my day-to-day is still reactive. To shift, I need to carve out dedicated time for root cause analysis and proactive projects, even if it means not being the first person to jump on every alert. It requires a mindset shift from "how fast can I fix this?" to "how can I prevent this from ever happening again?"
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+My biggest fear isn't about being replaced. It's that my automation might fail or, worse, cause a bigger problem. Handing a recurring task gives me a consistent, predictable way to show I'm doing my job. When I automate something, I'm putting my judgment on the line in a much more permanent way. If the automation is flawed, it feels like a much bigger failure than just mishandling a single manual task. It's the fear that my attempt at being an 'architect' will prove I'm not ready for it.
 ```
 
 ---
