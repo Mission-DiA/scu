@@ -303,26 +303,70 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | GCS bucket size requests — someone raises a card, I run gsutil manually, interpret output, paste into the ticket. ~30 cards over the past year for the same task. Tasks more than a day if bucket size is more | 2–3 times per month | **Automated** — already building the self-service Jenkins job. Once shipped, this task is zero-touch. |
+| 2 | Manually checking PROD / BLOM / SCG Jenkins build statuses after each production release and updating the Kissflow card with the right status. Every release cycle, same steps. | After every prod build | **Automated** — this is exactly what jen-pbr is being built to solve. Cloud Functions + Firestore + Kissflow API auto-completes the card with zero manual steps. |
+| 3 | Jenkins version upgrades — done manually by SSH-ing into the Jenkins server, stopping the service, replacing the WAR file, restarting, and validating. Same steps every time, every upgrade cycle. | Every Jenkins release cycle | **Automated** — the upgrade steps are predictable and repeatable. Can be scripted as a Jenkins pipeline that pulls the latest WAR, backs up the current version, performs the upgrade, and validates post-restart health — with zero manual SSH access needed. |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+Four things — in order of priority:
+
+1. Grow technical and architectural knowledge — understand systems deeper, not
+   just execute them. This is the most important investment at this career stage.
+
+2. Vibe Engineering on EE tasks — use AI-assisted workflows to build and ship
+   engineering work faster. Specifically, applying it to infrastructure provisioning
+   and incident response tasks where natural language prompting can replace repetitive
+   scripting. An emerging skill worth developing early while it still matters to be first.
+
+3. Mentor juniors more intentionally — go beyond reactive help. Sit with them,
+   explain the thinking, not just the steps. That's how knowledge transfers.
+
+4. Explore AI Agents for DevOps — build agents that act autonomously without
+   manual intervention. That's where infrastructure automation is heading.
+
+More tasks is the wrong answer. This time is for becoming the engineer I'm
+building toward — not filling the calendar with more of the same.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Both — but shifting. The D3O phase made that clear.
+
+I have an architect mindset — I don't just react to problems, I look at why they
+keep happening and what system would stop them. The D3O exercise gave me the
+language to name what I was already doing.
+
+But I still operate like a firefighter more than I should. I notice the patterns,
+design the automation, but haven't always shipped fast enough to stop the
+firefighting before it repeats. Bucket size requests are the proof — I saw the
+pattern months ago, started building, and the team kept responding manually in
+the gap.
+
+The shift happens when I close the loop. Not when I finish building — when I
+ship it and it runs without me. The signal will be clear: jen-pbr deployed to
+production, running for 30 days, zero manual Kissflow card updates in that window.
+That's when I'll know I've moved from firefighter to architect.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+Not replacement. Two different fears — one for delegation, one for automation.
+
+For delegation: things going wrong silently. With Jagadesh and Kabilan, I didn't
+just hand off the task — I walked alongside until I was sure. That's guided
+delegation, not efficient delegation yet. The gap is documented process and their
+confidence, so I can genuinely step back.
+
+For automation: silent wrong decisions in production. Bucket size queries are
+safe — read-only, no impact if wrong. But jen-pbr writes to Kissflow cards in
+production. A bug there is visible to the whole team. That's why I test carefully
+before I ship.
+
+Both fears are about correctness when I'm not watching. Not about being replaced.
 ```
 
 ---
