@@ -184,26 +184,27 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | L2 screening – investigating and triaging production bug tickets|Everyday| Partially Automated |
+| 2 | Test data setup before feature testing or bug retesting |Frequently | Automated |
+| 3 | Regression and sanity testing during release cycles|Monthly |Automated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+If these tasks were automated, I would use the freed time to focus on bigger improvements in quality and process rather than handling daily operational issues. I would spend more time improving our automation coverage and building AI-assisted tools that can support day-to-day work, something I’ve already started working on but haven’t been able to focus on deeply due to time constraints. I would also use that time to improve our overall testing strategy and help the team develop stronger quality practices.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Right now, I would say I am partly a firefighter because a lot of my time still goes into investigating bugs, triaging issues, and making sure things are stable. But I’m also slowly moving toward being more of an architect by trying to automate repetitive work, building tools like the SLA metrics app, and exploring AI-driven ways to improve quality.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+I don’t have any concerns about automating or delegating work. If a problem can be solved properly through automation or by delegating it to someone capable, it actually helps me focus on more important areas. However, in terms of automation, I haven’t fully covered everything yet—only around 50% of the areas are automated, and some of the more complex modules still need to be automated.
+When it comes to delegation, it’s not always possible to provide detailed knowledge transfer every time before delegating work, which can sometimes make delegation a bit challenging, it becomes easier if the other person taking up the task already has the required understanding. 
 ```
 
 ---
