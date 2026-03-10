@@ -247,7 +247,6 @@ Not anymore. But initially, yes. When I started mentoring the team on automation
 ```
 
 ---
-
 ## PHASE 6: YOUR ARCHITECTURE
 
 *From S2E6 — "You are the architect. In every universe. Build accordingly."*
@@ -273,21 +272,33 @@ Fill in your personal architecture. Be specific — no vague aspirations.
       │          │         │         │          │
       ▼          ▼         ▼         ▼          ▼
   ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
+  │Becoming│ │Deep    │ │3 out of│ │One step│ │Prod bug│
+  │an SDET │ │dive    │ │4 are   │ │ahead of│ │L2 debug│
+  │— read  │ │into    │ │partial-│ │the team│ │& auto  │
+  │dev code│ │vibe    │ │ly met. │ │in auto-│ │script- │
+  │fix bugs│ │engine- │ │Need    │ │mation &│ │ing are │
+  │build   │ │ering & │ │more PR │ │vibe    │ │fire-   │
+  │tools   │ │get full│ │fixes & │ │engine- │ │fighting│
+  │with AI │ │context │ │use AI  │ │ering.  │ │tasks.  │
+  │as acce-│ │of what │ │more    │ │Sharing │ │Build a │
+  │lerator │ │I build │ │effect- │ │without │ │QA agent│
+  │        │ │        │ │ively.  │ │hesita- │ │to debug│
+  │        │ │        │ │        │ │tion now│ │with    │
+  │        │ │        │ │        │ │        │ │logs &  │
+  │        │ │        │ │        │ │        │ │replace │
+  │        │ │        │ │        │ │        │ │L2 triage│
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+Until now, when I debug a production issue, I find the root cause and move it to the dev queue. Starting this week, I'm going to take it one step further — for low and medium priority bugs, instead of just passing them to dev, I'll attempt to fix them myself as a first-level initiative. I've already started — fixed one medium priority ticket this week. That's the shift from "found it" to "fixed it."
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been finding bugs and building tools without fully understanding the core behind them. Now I'm going to fix bugs myself and master what I build through vibe engineering."
 
 ---
 
