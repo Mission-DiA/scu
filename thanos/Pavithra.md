@@ -381,35 +381,67 @@ This is the one you'll present to the team. All five phases led here.
 Fill in your personal architecture. Be specific — no vague aspirations.
 
 ```
-                    MY CAREER ARCHITECTURE
-                           │
-      ┌──────────┬─────────┼─────────┬──────────┐
-      │          │         │         │          │
-      ▼          ▼         ▼         ▼          ▼
-  FOUNDATION   D3O LOOP  TEST PLAN  MENTORING  PREVENTION
-      │          │         │         │          │
-  [What am I  [Which    [What are  [Who am I  [What fires
-   building   stages do  my accept- one step   am I still
-   with       I need to  ance       ahead of   fighting
-   intention?] own next?] criteria?] & how?]    repeatedly?]
-      │          │         │         │          │
-      ▼          ▼         ▼         ▼          ▼
-  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
-  └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
+                         MY CAREER ARCHITECTURE
+                                    │
+      ┌──────────────┬──────────────┼──────────────┬──────────────┐
+      │              │              │              │              │
+      ▼              ▼              ▼              ▼              ▼
+  FOUNDATION      D3O LOOP      TEST PLAN      MENTORING      PREVENTION
+      │              │              │              │              │
+  [What am I     [Which         [What are      [Who am I      [What fires
+   building      stages do      my accept-     one step       am I still
+   with          I need to      ance           ahead of       fighting
+   intention?]   own next?]     criteria?]     & how?]        repeatedly?]
+      │              │              │              │              │
+      ▼              ▼              ▼              ▼              ▼
+┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
+│ Building     │ │ Own Deploy   │ │ 1. Lead one  │ │ Jagadesh,    │ │ Don't handle │
+│ deep         │ │ and Operate. │ │ project      │ │ Kabilan,     │ │ the same     │
+│ technical    │ │              │ │ end-to-end   │ │ Pughaz,      │ │ problem      │
+│ ownership    │ │ 1. jen-pbr   │ │ through full │ │ Naveen,      │ │ faster —     │
+│ and moving   │ │ Ship to prod,│ │ D3O loop.    │ │ Jerome,      │ │ build the    │
+│ from         │ │ monitor for  │ │              │ │ Gayathri.    │ │ system that  │
+│ execution    │ │ 30 days.     │ │ 2. Take      │ │              │ │ makes sure   │
+│ to design    │ │              │ │ complete     │ │ Proactive —  │ │ it never     │
+│ and          │ │ 2. Bucket    │ │ end-to-end   │ │ share before │ │ needs        │
+│ decision-    │ │ Size — Ship  │ │ ownership    │ │ they get     │ │ handling     │
+│ making.      │ │ self-service │ │ and account- │ │ stuck.       │ │ again.       │
+│              │ │ Jenkins job, │ │ ability.     │ │              │ │              │
+│ Architect    │ │ validate     │ │              │ │ Reactive —   │ │ jen-pbr and  │
+│ deep mindset:│ │ live queries.│ │ 3. Open to   │ │ after they   │ │ bucket size  │
+│ think WHY    │ │              │ │ feedback —   │ │ get stuck,   │ │ automation   │
+│ before HOW.  │ │              │ │ if someone   │ │ ready to     │ │ remove the   │
+│ Design       │ │              │ │ tells me     │ │ work with    │ │ human from   │
+│ systems, not │ │              │ │ where I am,  │ │ them without │ │ the loop     │
+│ just tasks.  │ │              │ │ take it and  │ │ hesitation.  │ │ entirely.    │
+│              │ │              │ │ move forward.│ │              │ │              │
+│ Target:      │ │              │ │ No defence.  │ │ Always       │ │              │
+│ Senior       │ │              │ │              │ │ available,   │ │              │
+│ DevOps       │ │              │ │              │ │ no questions │ │              │
+│ Engineer.    │ │              │ │              │ │ asked.       │ │              │
+└──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+Spend dedicated time learning personally — no skipping.
+
+Starting again from the basics. Not because I forgot, but because going
+back to fundamentals is how I recalibrate. When I revisit the basics with
+the experience I have now, I understand them differently — deeper, not
+just as steps to follow but as the reasoning behind decisions.
+
+This week: set aside time each day specifically for learning. Not task
+execution, not firefighting, not helping others. Time blocked for me to
+sit with a concept, understand it from scratch, and close the gaps that
+I normally paper over with "I'll figure it out when I need it."
+
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been executing other people's designs. Now I'm going to build my own — design the system, own the full D3O loop, and grow into a Senior DevOps Engineer who decides, not just delivers."
 
 ---
 
@@ -418,43 +450,127 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+The Foundation — S2E1.
+
+"I've been completing, not building. Every mission is a brick —
+you can stack them in a pile."
+
+That was me. Five years of bricks. Missions completed, tasks closed,
+cards updated. But not everything stacked into something that stood
+on its own. The episode made me stop and count what I had actually
+built versus what I had finished. That's the question I hadn't asked
+myself before — and couldn't ignore after. Going back to basics is not forgetting — it is bringing my experience into the fundamentals and understanding them at a deeper level than the first time.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+Every episode had one. Each line stopped me because I could see
+myself in it.
+
+  The Foundation — "I've been completing, not building. Every mission
+  is a brick — you can stack them in a pile."
+  Made me count what I had built vs what I had just finished.
+
+  The Builder — "You are shipping, not looping."
+  Made me map my own project to D3O — and find two blank stages.
+
+  The Blueprint — "When's the last time you tested your own career?"
+  Made me realise I had acceptance criteria for my code but none
+  for where I was going.
+
+  The Pipeline — "What are you deploying for you? One step ahead.
+  Not ten steps. Not perfect. Just one."
+  Made me stop waiting to be fully ready before moving.
+
+  The Uptime — "You're not building your replacement. You're
+  building your ladder."
+  Reframed why automation matters — not to remove myself, but to
+  free myself for the next level.
+
+  The Architect — "We build careers, not just get jobs."
+  That's the line I'll carry. It's why this document exists.
+
+I couldn't read any episode and say "that's not me." That's what
+made it hit.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+It asks the questions most engineers never stop to ask about themselves.
+
+Not about their work — about their career. Are you completing or building?
+Are you shipping or looping? When did you last test where you are going?
+
+You will see yourself in the answers. That's why it matters.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 1 made me aware. Season 2 made me accountable.
+
+Season 1 asked "What do YOU want?" — and I answered: growth, technical
+depth, independence. That clarity was real. But awareness without a
+structure to act on it stays as intention.
+
+Season 2 took that intention and put it under pressure.
+
+It didn't ask what I want — it asked what I am actually building. It
+didn't ask if I'm growing — it asked me to map my work to a D3O loop
+and show which stages were blank. It didn't ask if I mentor — it asked
+me to name the people and what I shared with them this week.
+
+That's the difference. Season 1 gave me direction. Season 2 gave me
+a framework to measure whether I am actually moving in that direction
+— or just saying I am.
+
+What changed: after Season 1, I had clarity. After Season 2, I have
+no place to hide. Every question had a specific answer — and the gaps
+were visible. That accountability is what Season 1 didn't give me.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+The hard, specific questions — no vague prompts. Questions that force
+you to name a real person, a real project, a real gap.
+
+Coulson asking, never telling. That format works.
+
+The quotes per episode that you can see yourself in.
 ```
 
 **Do differently:**
 ```
-[Your answer]
+Season 3 should be about closing the loop — Deploy and Operate.
+Season 1 was awareness. Season 2 was architecture. Season 3 should
+ask: "You designed it. You built it. Did you ship it? What happened
+after?"
+
+Add an episode on failure — what do you do when the system you built
+breaks in production? Both seasons are about building well. Season 3
+needs the harder question: what do you learn when it goes wrong?
+
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+Q8 — "When was the last time you shipped something that YOU designed?"
+
+Every other question had an answer. Q8 had silence first — and then
+honesty: "Before this, I cannot clearly recall shipping something
+fully self-designed end-to-end. That is the truth."
+
+What that tells me: the gap isn't in designing or building. I can do
+both. The gap is in closing the loop — shipping it, owning what
+happens after. Five years of work, and the hardest question to answer
+was the one about finishing.
+
+That's not a small gap. That's the exact thing Phase 6 is built to fix.
 ```
 
 ---
@@ -466,4 +582,4 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ---
 
 **Submit to:** Director Coulson
-**Deadline:** [DATE]
+**Deadline:** March 10, 2026 
