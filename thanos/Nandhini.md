@@ -248,7 +248,7 @@ Fill in your personal architecture. Be specific — no vague aspirations.
       ▼          ▼         ▼         ▼          ▼
   ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
   │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
+  │[I am building a self-operating ecosystem. My focus isn't just on writing scripts, but on creating smart tools and bots that handle the routine work so I can focus on high-level technical strategy.]  │ │[I need to own the Design and Optimization phases. Instead of just reacting to features, I want to be involved in the architectural stage to ensure scalability and automation are built-in from day one.]  │ │[My success isn't measured by "tests passed," but by time saved. I’ll know I’ve succeeded when manual bottlenecks are gone, and the team can trigger, monitor, and resolve issues with zero manual effort]  │ │[I am one step ahead of the manual-only mindset. I am helping the team transition into "Automation First" by sharing my works and debugging methods, showing them how to use tools to multiply their own output]  │ │[I’m still fighting repetitive production triaging. These are the "known" bugs that pop up in patterns. My goal is to finish the automation that auto-detects and auto-resolves these so I never have to "fight" the same fire twice]  │
   │        │ │        │ │        │ │        │ │        │
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
 ```
@@ -256,12 +256,12 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+[Starting this week, I am setting aside the first hour of my day specifically for 'Architect Work'—finishing the automation tools that eliminate my manual tasks. Instead of jumping straight into fixing daily bugs or 'fires,' I will prioritize the work that stops those fires from happening in the first place. I’m committing to making progress on my ideas before I get pulled into the routine work.]
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been Reacting to the task as they come . Now I'm going to plan my top three priorities every morning ."
 
 ---
 
