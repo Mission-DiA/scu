@@ -233,22 +233,26 @@ Fill in your personal architecture. Be specific — no vague aspirations.
    intention?] own next?] criteria?] & how?]    repeatedly?]
       │          │         │         │          │
       ▼          ▼         ▼         ▼          ▼
-  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
+┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
+  │Becoming│ │Deep    │ │3 of 4  │ │One step│ │Ending  │
+  │an SDET │ │dive    │ │criteria│ │ahead of│ │the fire│
+  │using AI│ │into    │ │partial-│ │the team│ │fighting│
+  │as my   │ │engine- │ │ly met. │ │in AI & │ │of L2   │
+  │engine. │ │ering   │ │Need 10 │ │auto-   │ │triage  │
+  │Fixing  │ │context │ │PR fixes│ │mation. │ │with a  │
+  │code,   │ │to own  │ │to ship │ │Sharing │ │custom  │
+  │not just│ │what I  │ │this    │ │without │ │logging │
+  │testing.│ │build.  │ │version.│ │hesitation││agent.  │
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
-```
-[Your answer — be specific enough that someone could verify it happened]
-```
+ Starting this week, I am strictly blocking off the first hour of my day for 'Architect Work' specifically, writing the logic for my Self-Healing Agent. I’m stopping the habit which usually sucks me into 'Firefighter mode' where I spend the day clicking buttons. I’m also changing how I communicate with the Dev team. I will no longer post a ticket that just says 'Button is broken.' Instead, I’m using LLM leveraged debugging. I will feed the logs and DOM snippets into my custom LLM prompts to extract a Root Cause Snippet (identifying the exact failing service or line of code). My goal is to ship every bug report with a technical 'hint' for the fix.
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I’ve been a gatekeeper catching bugs at the finish line by manually repeating the same tests. Now, I’m going to be an architect who leverages LLMs to deep dive into root causes and builds self-healing systems so that those bugs never even reach the start line and master what I build through vibe engineering."
 
 ---
 
