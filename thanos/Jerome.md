@@ -22,7 +22,7 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 - **Name: Jerome Christopher J**
 - **Current Role: Associate - SRE**
 - **Years in Current Role: 1 year**
-- **Date Submitted: 05-03-2026**
+- **Date Submitted: 10-03-2026**
 
 ---
 
@@ -226,8 +226,7 @@ This is the one you'll present to the team. All five phases led here.
 
 Fill in your personal architecture. Be specific — no vague aspirations.
 
-```
-                    MY CAREER ARCHITECTURE
+                MY CAREER ARCHITECTURE
                            │
       ┌──────────┬─────────┼─────────┬──────────┐
       │          │         │         │          │
@@ -241,21 +240,29 @@ Fill in your personal architecture. Be specific — no vague aspirations.
       │          │         │         │          │
       ▼          ▼         ▼         ▼          ▼
   ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
+  │Building│ │Own the │ │Senior  │ │Mentor  │ │Automate│
+  │a deep  │ │Design &│ │SRE with│ │Jagadheesh,││Off-  │
+  │infra   │ │Operate │ │depth   │ │Pugazh, │ │boarding,│
+  │knowledge││phases; │ │know-   │ │Kabilan │ │cluster │
+  │& become│ │stop    │ │ledge;  │ │on      │ │health, │
+  │the     │ │being   │ │mentor  │ │incident│ │access  │
+  │super-  │ │reactive│ │juniors;│ │command │ │management;│
+  │visor of│ │and become│ drive  │ │& debug │ │move    │
+  │AI      │ │proact  │ │impact  │ │faster  │ │from    │
+  │        │ │-ive    │ │        │ │        │ │reactive|
+  │        │ │        │ │        │ │        │ │to proactive|
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+I have started working on Vibe Engineering, so by this week, I will get the approval for my design documents and start with the implementation cycle.
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been a reactive firefighter, who has been working on the remediation when it occures. Now I'm going to follow the D3O cycle and work proactively and focus on the prevention steps rather than the remediation."
 
 ---
 
@@ -264,43 +271,44 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+The episode that was most resonating to me was the QA tester episode. Cause even though I am an SRE, in this universer Daisy thinks she has been doing great by testing the tasks that have assigned to her, but she never tests the stage where she is currently. My takeaway from this particular episode is that, Daisy was excelling in her day to day requirements, but she never tested herself with the current market, thus she was not growing but merely just, stuck in the things she always does.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+As mentioned in the above question, from the QA episode, when Coulson asks the question "Have you tested yourself?", that's when it hit me. I often used to think, okay fine, I have completed these many number of ops cards, DOOR cards and so on. But this made me realise, how am I getting benefited out of it. Yes I have gained the knowledge out of it, but how I am going to transfer that knowledge into action and make it more efficient.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+In simple terms to explain it to the person, I would say to them that, "We might think we are excelling in something, that we are doing the right thing, we are moving in the right direction and so on. But it is important to never stop there, we must move forward, cause the one we know if very much limited than the actual knowledge that is available outside that. It is important that we upscale and keep ourselves updated with the outside market and not with our surrounding alone."
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+First season was more of a clarity to choose on what should be done. Not to get influenced by others and should take a decision by trusting our gut feeling. 
+Whereas in season 2, we can see that even if we take what we chose, it's important that we don't get stuck with it, and should always put ourselves to the test.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+I would keep the already winning scenario, but here there is always an if scenario. But what if there is a scenario where if they actually win, i.e. excel in the things they do, what would be the output then.
 ```
 
 **Do differently:**
 ```
-[Your answer]
+In the season 2 episodes, we had the scenario like they do good in their job, but miss a specific thing which they pick it up after Coulson had addressed it to them. But to do/try something different we can try a scenario like, what if they are failing in their activities and are stuck in a self trying loop, but Coulson gives them the starting push on how they should proceed and see their requirements. This might subconcisiously help the people reading, to view the places they are stuck in a different pov.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+The question that was harder to answer was this particular question - "If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?". Because, I have been a part of the important tasks and requirements, but they are mostly manual activities, hence even if I am not there, another person would have to manually process those data values. This tells me that I have not worked on automation more extensively that would help others in the future.
 ```
 
 ---
@@ -312,4 +320,4 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ---
 
 **Submit to:** Director Coulson
-**Deadline:** [DATE]
+**Deadline:** [10-03-2025]
