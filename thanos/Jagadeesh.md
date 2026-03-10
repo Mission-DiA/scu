@@ -406,26 +406,70 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Manual CHR — checking pod health, restart counts, OOM events, memory pressure, and alert status across environments, then compiling it for the daily review | Daily | Automate — I built BillingGuard on exactly this stack: Cloud Run + Cloud Scheduler + BigQuery + Google Chat. CHR health monitoring is the same pattern applied to operational metrics instead of billing data. It should produce a daily report automatically. A human should not be running this by hand every morning. |
+| 2 | Alert channel verification after infrastructure changes — manually confirming that alerts are still wired to working channels, no ghost references introduced, no new channels created outside the central project | After every major deployment | Prevent — the org policy for DOOR-0794 that I haven't applied yet would enforce all alerts stay in kf-prd-monitoring-p001 and point to valid channels. Every week without that policy is another week away from another 68-alert manual cleanup. The fix exists. I just haven't applied it. |
+| 3 | Post-incident stakeholder communication — writing incident updates, translating status codes for non-technical stakeholders, coordinating investigation ownership during active incidents when people are asking questions from multiple threads at once | Every incident | Template — every update I write follows the same structure: current status, root cause, user impact, next step, ETA. A shared template means any team member can fill it in during the incident window without waiting for me to write it from scratch. |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+Snowflake alerting. During a postmortem debrief I told Swami we have zero
+detection coverage on Snowflake — we find out about outages when users
+complain, not when the system fails. I documented it. He heard it. I have
+not built anything.
+
+That's the most visible unpatched production risk I know about right now.
+It's also the one most likely to surface badly at 2 AM when someone asks
+"why didn't we get alerted?" and the answer is "because nobody built the
+alerting." That's the thing I'd work on with the freed time.
+
+Beyond that: CHR automation and the incident comms template would free
+enough mental space to be in the Design stage on more than one initiative
+at a time. Right now I can only fully own one thing at once. I want to
+change that — the goal in Phase 3 was three self-designed systems in
+production. I can't get there if every morning starts with manual checks.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Transitioning. More firefighter than I want to admit.
+
+BillingGuard and the monitoring cleanup were architect moves — I built
+from the full picture and designed systems that prevent the problem instead
+of responding to it. But RedSkull, Altair, formworkerv2 503 errors — all
+reactive. I arrived after the fire, not before.
+
+The Snowflake gap is the clearest evidence of my firefighter default. I
+found it. I documented it. I told Swami. And then I picked up the next
+reactive task. An architect would have treated "we have zero detection
+coverage" as a production gap to close, not a note to file. I didn't.
+
+What would actually shift it: building a regular habit of picking one
+system that's been quiet for a while and asking "what would make this fail
+without anyone noticing" — before it fails. Snowflake is the obvious first
+answer. I already know the gap. I just haven't treated closing it as urgent
+as the fires that are already burning.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+Not replacement. The fear is deploying automation that's wrong and causing
+more damage than the manual process it replaced.
+
+BillingGuard took 3+ months partly because of this. Every time I got close
+to shipping, I found something that could generate false alerts or silently
+miss real anomalies. A false positive at 3 AM erodes trust in the system
+faster than a missed anomaly does. Once the team stops trusting the alerts,
+the whole system becomes noise — and they stop looking. You can't recover
+from that easily.
+
+The caution is real and I think most of it is correct. What I haven't
+figured out is where careful ends and stalling begins. The billing timeline:
+was that 3 months of necessary validation, or did it go longer than it
+needed to? I genuinely don't know. That line probably gets clearer with
+more reps. But I'm aware I don't have a clean answer to it yet.
 ```
 
 ---
@@ -441,34 +485,104 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 
 ```
                     MY CAREER ARCHITECTURE
-                           │
-      ┌──────────┬─────────┼─────────┬──────────┐
-      │          │         │         │          │
-      ▼          ▼         ▼         ▼          ▼
-  FOUNDATION   D3O LOOP  TEST PLAN  MENTORING  PREVENTION
-      │          │         │         │          │
-  [What am I  [Which    [What are  [Who am I  [What fires
-   building   stages do  my accept- one step   am I still
-   with       I need to  ance       ahead of   fighting
-   intention?] own next?] criteria?] & how?]    repeatedly?]
-      │          │         │         │          │
-      ▼          ▼         ▼         ▼          ▼
-  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
-  └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
+
+  One throughline connects all five phases: I find things by looking at
+  the full system first. But I ship and stop looking. This blueprint is
+  the plan to stop doing that.
+
+  ┌─────────────────────────────────────────────────────────────────┐
+  │ FOUNDATION                                                      │
+  │ Building the habit of seeing the full system before touching    │
+  │ the assigned scope — deliberately, not because a question       │
+  │ forced me there. Intention: be the person the team calls when   │
+  │ the question is "what are we not seeing in this system yet?"    │
+  └──────────────────────────────┬──────────────────────────────────┘
+                                 │
+          The habit only works if I close what I find.
+          Right now I find and move. That's the gap.
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │ D3O LOOP                                                        │
+  │ Design and Deploy are strong. Operate is empty. BillingGuard    │
+  │ fires daily — I have no review cycle, no feedback loop back     │
+  │ into the thresholds. I shipped it and stopped seeing it. The    │
+  │ next phase depends entirely on fixing this: I can't prove the   │
+  │ habit works if I can't show the system still works.             │
+  └──────────────────────────────┬──────────────────────────────────┘
+                                 │
+          Operate closing means the acceptance criteria
+          become verifiable, not just written.
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │ TEST PLAN                                                       │
+  │ Three measurable criteria:                                      │
+  │   1. Diagnose, fix, and write postmortem independently —        │
+  │      no confidence check needed from Noor or Aravind.          │
+  │   2. Three self-designed systems running in production.         │
+  │      Currently 1 of 3. Snowflake alerting is #2.               │
+  │   3. Cross-functional voice that shapes decisions, not          │
+  │      just communicates them.                                    │
+  │ None of these are met without closing the Operate gap first.    │
+  └──────────────────────────────┬──────────────────────────────────┘
+                                 │
+          Criteria I hold myself to only work if
+          someone else can also hold me to them.
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │ MENTORING                                                       │
+  │ Jerome gets the DOOR-0794 shortcut this week: the full-system-  │
+  │ first command sequence and the RedSkull log queries — the       │
+  │ habit that took me a month, delivered in 30 minutes before      │
+  │ the forcing function finds him. Kabilan and Pugazh get the      │
+  │ gcloud sequence that was new to me 6 months ago.               │
+  │ The habit outlives me only if I pass it forward before I stop  │
+  │ being one step ahead.                                          │
+  └──────────────────────────────┬──────────────────────────────────┘
+                                 │
+          Mentoring is what I do while I'm building.
+          Prevention is what I build so I can do more.
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │ PREVENTION                                                      │
+  │ Still 60% firefighter. The clearest proof: Snowflake alerting.  │
+  │ I found the gap, documented it, told Swami, and picked up the   │
+  │ next reactive task. CHR runs manually every morning on a stack  │
+  │ I already built for billing. The org policy that prevents alert │
+  │ sprawl exists and isn't applied. All three fixes are known.     │
+  │ None are closed. That ends with the Snowflake design doc        │
+  │ this week — and doesn't stop until all three are running.       │
+  └─────────────────────────────────────────────────────────────────┘
+
+  The architecture is not five answers. It's one pattern:
+  find it → close it → pass it forward → don't fight it again.
+  I've been doing the first step. This blueprint is the other three.
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+By Thursday March 12: write a one-page Snowflake alerting design
+doc — what to monitor (query failure rate, warehouse credit burn,
+login anomalies), alert thresholds, notification channel (SRE
+Google Chat, same as BillingGuard), and escalation path — and
+share it with Noor for feedback. No code. Just the design, written
+down, in front of someone who can push back on it.
+
+Verifiable: document exists in Drive and Noor has received the
+share notification by Thursday end of day. Same audit trail as any
+DOOR card — if it's not in Drive with a timestamp, it didn't happen.
+
+This is the test. Not of the design. Of whether "I'll get to it"
+becomes "it has a review date."
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been treating 'documented it' as equivalent to 'handled it.' Now I'm going to hold the gap open — in a DOOR ticket, in a Drive doc, in a Noor review — until there's something running in production that closes it."
 
 ---
 
@@ -477,43 +591,138 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+S2E2. Not because the D3O loop was new information — but because
+it named something I'd been living for four months without a word
+for it.
+
+I'd been in Develop-Deploy since day one. Someone decides what to
+build. I show up for the build. I thought that was how it worked
+until Noor's question on the monitoring audit forced me to map the
+full system first, and Noor's question on billing forced the
+statistical model. Both times I got pushed into Design by a question
+I couldn't answer — not by intention.
+
+But the part that landed harder: Operate. I shipped BillingGuard
+in November. It runs every morning. I have not once gone back to
+check whether the Z-score is still catching the right anomalies as
+our GCP usage has evolved. Someone asked me last month if it was
+working and I said "I haven't seen any false alarms." That is not
+Operate. That is hope. S2E2 showed me the word for what I'd been
+doing wrong after the ship — and I hadn't even named it as wrong.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+S2E2, Coulson asking Daisy: "What happened after you shipped it?"
+
+She doesn't know. She shipped it and moved to the next task. She
+assumed no news was good news.
+
+I was reading that and I realized: I could not tell you, right now,
+how many of BillingGuard's last 30 daily runs were actually correct.
+I could tell you it ran. I could not tell you it worked.
+
+The scene triggered something specific: I went to the Cloud Run job
+logs the same afternoon. I hadn't looked at them since deployment.
+There were anomaly reports I hadn't read. Some looked right. Some
+I wasn't sure about. I still haven't validated them against actual
+costs. That's four months of the system running without anyone
+checking if it was right.
+
+That's the gap the scene made visible. Not as a concept — as a
+specific log file I hadn't opened.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+"It's not a lesson. It's a question.
+
+That system you shipped last quarter — do you actually know if it's
+still working? Not 'I haven't heard complaints.' Actually working?
+
+Most of us ship and move. We call that productivity. Season 2 shows
+you what the engineers who don't do that look like from the outside,
+and what they look like to themselves. The difference isn't
+talent. It's the habit of going back.
+
+If you can read it and walk away thinking 'I already do this' without
+naming one thing you haven't gone back on — you didn't read it."
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+S1 showed me I wasn't the only one feeling pressure. That was
+useful — it made the job feel survivable when it wasn't yet.
+
+S2 showed me the pattern. Not that pressure exists — that it has
+a structure, and the structure has a name (D3O), and the name
+tells you exactly where you're weak.
+
+S1 helped me feel less alone. S2 helped me understand what needed
+to change. The difference between the two seasons is the same as
+the difference between "this is hard for everyone" and "here is
+specifically what you're doing that keeps it hard."
+
+After S1: I still felt like I was just surviving but with better
+company. After S2: I had a map of where I was in the loop and a
+test plan I didn't have before.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+The phase-by-phase structure. Not having all the questions upfront
+meant I committed to what I actually thought was true before I knew
+what was being evaluated. I couldn't reverse-engineer the answer.
+Phase 1 committed me before Phase 3 asked the harder question. That
+structure is the reason the answers are honest — there's no way to
+read ahead and polish.
+
+Also the rule about specificity: "the answer is only as good as
+the last name you named." The pressure to name Jerome, name Noor,
+name DOOR-0794 is what made this a real document instead of a
+career intentions template.
 ```
 
 **Do differently:**
 ```
-[Your answer]
+Add a 6-month return. Not as an optional revisit — as a required
+one. Come back to Q10 in September and grade yourself against your
+own acceptance criteria. Write a single paragraph: which criteria
+moved, which didn't, and what that tells you.
+
+Without that, this blueprint is a document that felt important
+during the week I wrote it. The 6-month return is what makes it
+a system instead of a one-time exercise. That's the Operate stage
+for the blueprint itself — and Season 2's whole point is that
+you can't skip Operate.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+Q4. Career Intention.
+
+Not because it's hard to answer now. Because I couldn't answer it
+for my first four months here. I was picking up tickets, executing
+them, closing them, picking up the next. I called that "doing good
+work." I had no answer to "what are you actually building."
+
+The question exposed something I'd been actively not looking at:
+that execution without intention is just a faster way to end up
+somewhere you didn't choose.
+
+What it tells me: I spent four months here without a direction
+because naming a direction felt presumptuous at 7 months. The habit
+of mapping the full system before touching assigned scope — that
+became the intention because DOOR-0794 forced it visible, not
+because I chose it. Q4 is where I had to stop pretending that
+"I'm still figuring it out" is the same as "I know and I'm not
+saying."
 ```
 
 ---

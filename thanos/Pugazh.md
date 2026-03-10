@@ -245,20 +245,29 @@ Fill in your personal architecture. Be specific — no vague aspirations.
       ▼          ▼         ▼         ▼          ▼
   ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
   │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
+  │Building│ │Own     │ │Lead 1  │ │New     │ │Auto-  │
+  │stabil- │ │DESIGN  │ │major    │ │engineer│ │mate 3  │
+  │ity for │ │stage - │ │project  │ │on ob-  │ │recur-  │
+  │systems │ │be more │ │to com-  │ │serv-   │ │ring    │
+  │to last │ │decis-  │ │pletion  │ │ability │ │tasks:  │
+  │        │ │ive     │ │(Senior  │ │stack - │ │health  │
+  │        │ │        │ │SRE)     │ │teach   │ │reports,│
+  │        │ │        │ │         │ │/healthz│ │PCR    │
+  │        │ │        │ │         │ │API     │ │migra-  │
+  │        │ │        │ │         │ │        │ │tion,   │
+  │        │ │        │ │         │ │        │ │logs    │
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+This week, I documented a real bug I debugged and resolved — the Rundeck pod readiness probe failure causing immediate restarts — in Coda and shared it with the team. This helps with AOS auto-assignment, addresses the prevention goal (capturing root cause so it doesn't just live in my head), and fights my impostor syndrome (I AM qualified because I can debug and explain what I know).
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been **fighting fires as they appear, staying in my comfort zone of Develop**. Now I'm going to **own the Design phase, be more decisive, and start documenting and mentoring to build lasting stability.**"
 
 ---
 

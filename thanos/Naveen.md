@@ -264,22 +264,30 @@ Fill in your personal architecture. Be specific — no vague aspirations.
    intention?] own next?] criteria?] & how?]    repeatedly?]
       │          │         │         │          │
       ▼          ▼         ▼         ▼          ▼
-  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
-  └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
+  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+  │ Becoming a  │ │ Own Deploy  │ │ Ship 2 infra│ │ Be one step │ │ Complete    │
+  │ platform    │ │ & Operate   │ │ systems E2E,│ │ ahead of    │ │ Pulumi +    │
+  │ engineer    │ │ stages —    │ │ get CI/CD   │ │ yesterday's │ │ spot worker │
+  │ who designs │ │ currently   │ │ working,    │ │ self. Share │ │ automation  │
+  │ infra from  │ │ only strong │ │ scope       │ │ vibe        │ │ so the loop │
+  │ scratch,    │ │ in Design & │ │ solutions   │ │ engineering │ │ never runs  │
+  │ not just    │ │ Develop.    │ │ independently│ │ this week.  │ │ manually    │
+  │ executes it.│ │ Loop must   │ │ without     │ │             │ │ again.      │
+  │             │ │ close.      │ │ guidance.   │ │             │ │             │
+  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+Share my current learnings on vibe engineering and AI-assisted development with at least one
+colleague this week — not a formal session, just a conversation or a quick Slack message with
+something concrete they can try. Verifiable: did I share it or not?
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been **executing what others design**. Now I'm going to **design what others execute**."
 
 ---
 
@@ -336,4 +344,4 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ---
 
 **Submit to:** Director Coulson
-**Deadline:** [DATE]
+**Deadline:** March 10, 2026

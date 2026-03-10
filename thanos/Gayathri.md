@@ -641,3 +641,145 @@ And THAT'S where the real value is.
 ```
 
 ---
+
+---
+
+## PHASE 6: YOUR ARCHITECTURE
+*From S2E6 — "You are the architect. In every universe. Build accordingly."*
+
+### Q21. YOUR CAREER BLUEPRINT
+
+Fill in your personal architecture. Be specific — no vague aspirations.
+
+```
+                    MY CAREER ARCHITECTURE
+                           │
+      ┌──────────┬─────────┼─────────┬──────────┐
+      │          │         │         │          │
+      ▼          ▼         ▼         ▼          ▼
+  FOUNDATION   D3O LOOP  TEST PLAN  MENTORING  PREVENTION
+      │          │         │         │          │
+  [What am I  [Which    [What are  [Who am I  [What fires
+   building   stages do  my accept- one step   am I still
+   with       I need to  ance       ahead of   fighting
+   intention?] own next?] criteria?] & how?]    repeatedly?]
+      │          │         │         │          │
+      ▼          ▼         ▼         ▼          ▼
+  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
+  │Building│ │Design   │ │Ship 3+ │ │ONE STEP│ │Manual  │
+  │things  │ │(grow    │ │self-   │ │AHEAD   │ │cost    │
+  │that    │ │30%→60%) │ │designed│ │OF:     │ │collec- │
+  │create  │ │         │ │projects│ │        │ │tion    │
+  │lasting │ │Operate  │ │        │ │Peers   │ │(weekly/│
+  │value - │ │(grow    │ │Lead 2  │ │who DON'│ │monthly)│
+  │not just│ │50%→70%) │ │full    │ │T prac- │ │        │
+  │complet-│ │         │ │D3O     │ │tice AI │ │Bucket  │
+  │ing     │ │CLOSE    │ │loops   │ │in      │ │size    │
+  │tasks.  │ │THE LOOP:│ │        │ │DevOps  │ │scripts │
+  │        │ │Use      │ │Mentor  │ │        │ │(on-    │
+  │Learning│ │Operate  │ │2-3     │ │I'M     │ │demand) │
+  │deeply &│ │insights │ │juniors │ │PRACTI- │ │        │
+  │applying│ │to       │ │        │ │CING:   │ │Repeated│
+  │to solve│ │propose  │ │Influence│ │Vibe    │ │produc- │
+  │problems│ │what to  │ │2+ arch │ │Engine- │ │tion    │
+  │that    │ │Design   │ │decision│ │ering   │ │incident│
+  │outlast │ │next     │ │        │ │with AI │ │response│
+  │my      │ │         │ │Build 2+│ │for     │ │        │
+  │involve-│ │         │ │prevent-│ │DevOps  │ │NEED:   │
+  │ment.   │ │         │ │ion     │ │& auto- │ │- MCP   │
+  │        │ │         │ │systems │ │mation  │ │  server│
+  │        │ │         │ │        │ │        │ │  revamp│
+  │        │ │         │ │        │ │Multi-  │ │- Auto- │
+  │        │ │         │ │        │ │cloud:  │ │  mated │
+  │        │ │         │ │        │ │AWS+GCP │ │  bucket│
+  │        │ │         │ │        │ │        │ │  sizing│
+  │        │ │         │ │        │ │        │ │  tool  │
+  │        │ │         │ │        │ │CAN     │ │- Debug │
+  │        │ │         │ │        │ │TEACH:  │ │  run-  │
+  │        │ │         │ │        │ │        │ │  books │
+  │        │ │         │ │        │ │Vibe    │ │  for   │
+  │        │ │         │ │        │ │Eng for │ │  team  │
+  │        │ │         │ │        │ │DevOps  │ └────────┘
+  │        │ │         │ │        │ │        │
+  │        │ │         │ │        │ │AI in   │
+  │        │ │         │ │        │ │automa- │
+  │        │ │         │ │        │ │tion    │
+  │        │ │         │ │        │ │        │
+  │        │ │         │ │        │ │AWS     │
+  │        │ │         │ │        │ │(experi-│
+  │        │ │         │ │        │ │enced)  │
+  │        │ │         │ │        │ │        │
+  │        │ │         │ │        │ │GCP     │
+  │        │ │         │ │        │ │(hands- │
+  │        │ │         │ │        │ │on exp- │
+  │        │ │         │ │        │ │loring) │
+  │        │ │         │ │        │ │        │
+  │        │ │         │ │        │ │GKE     │
+  │        │ │         │ │        │ │migra-  │
+  │        │ │         │ │        │ │tion    │
+  │        │ │         │ │        │ │        │
+  │        │ │         │ │        │ │POC     │
+  │        │ │         │ │        │ │structu-│
+  │        │ │         │ │        │ │ring    │
+  └────────┘ └────────┘ └────────┘ └────────┘
+```
+
+---
+
+### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
+
+```
+THIS WEEK, I already started doing this differently: I shared a rough idea with
+my senior teammate WITHOUT doing deep analysis first.
+
+What happened:
+
+PROBLEM: We're using a Jenkins job to calculate bucket size, but it's aborting
+on large buckets.
+
+WHAT I DID DIFFERENTLY:
+- I researched quickly what we could do as an alternative instead of custom
+  scripts
+- I found that GCS inventory reports are available natively in GCP — they
+  regularly check GCS buckets and automatically send the data to BigQuery
+- I did NOT do full, deep analysis to prove every detail
+- I immediately shared the idea with my senior teammate: "Why can't we enable
+  this?"
+
+What changed from my previous behavior:
+
+BEFORE: I would spend 2 weeks researching GCS inventory reports, analyzing every
+configuration option, testing all scenarios, and building a complete proposal to
+prove I'm 100% right before sharing.
+
+NOW: I spent a short time analyzing, found a native GCP solution, and immediately
+proposed the idea without waiting for perfection.
+
+Why this matters:
+
+This is the behavior shift from Q11 Edge Case #4 (analysis paralysis). Instead
+of over-researching to prove I'm perfectly right, I shared a rough idea early
+to get feedback.
+
+This is also architect thinking: identifying a native GCP solution (inventory
+reports → BigQuery) instead of building/maintaining custom scripts. Prevention
+instead of firefighting.
+
+Verification:
+
+I already did this THIS WEEK. My senior teammate now knows about the GCS
+inventory reports idea. Whether it gets implemented or not doesn't matter —
+what matters is I shared an imperfect idea early instead of waiting weeks to
+perfect it.
+
+I will continue this behavior: share at least one rough idea every week without
+deep analysis.
+```
+
+---
+
+### Q23. Complete this sentence:
+
+> "I've been **fighting fires faster**. Now I'm going to **build systems that prevent them**."
+
+---

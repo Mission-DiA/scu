@@ -220,74 +220,75 @@ Fill in your personal architecture. Be specific — no vague aspirations.
       ▼          ▼         ▼         ▼          ▼
   FOUNDATION   D3O LOOP  TEST PLAN  MENTORING  PREVENTION
       │          │         │         │          │
-  [What am I  [Which    [What are  [Who am I  [What fires
-   building   stages do  my accept- one step   am I still
-   with       I need to  ance       ahead of   fighting
-   intention?] own next?] criteria?] & how?]    repeatedly?]
+  Building     Move from  Define    Guide QA   Reduce
+  strong QA    Develop    measurable members   repetitive
+  automation   stage to   outcomes  in ticket  operational
+  skills with  Deploy     for       triaging   tasks by
+  exposure to  and        automation and      automation
+  AI,          Operate    technical and       and system
+  analytics    by owning  growth    debugging improvements
+  and system   initiatives
+  thinking
       │          │         │         │          │
       ▼          ▼         ▼         ▼          ▼
   ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
+  │Develop │ │Own an  │ │Build & │ │Share   │ │Automate│
+  │strong  │ │initiative│ │deploy │ │ticket  │ │ticket  │
+│automation│ │end-to-end│ │automation│ │handling│ │triage,│
+  │+ AI QA │ │(Design→ │ │coverage│ │patterns│ │test data│
+  │skills  │ │Operate)│ │& AI QA │ │with QA │ │prep &   │
+  │        │ │        │ │workflow│ │team    │ │sanity   │
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
-```
+
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
-```
-[Your answer — be specific enough that someone could verify it happened]
-```
+Starting this week, I will begin documenting the common patterns I see while handling production tickets (root causes, affected modules, typical fixes) and convert them into a small internal reference document. I will share the first version with the QA team so that it can help others troubleshoot similar issues faster.
+
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> I've been focused on executing and handling tasks. Now I'm going to focus on building systems that reduce repetitive work and improve team efficiency.
 
 ---
 
 ## FINAL REFLECTION
 
+
 ### Q24. Which episode hit you the hardest? Why?
 
-```
-[Your answer]
-```
+Ep - 6
+The episode that resonated with me the most was the one about moving from being a firefighter to an architect. It made me reflect on how much of my time currently goes into reacting to issues such as handling production tickets or solving immediate problems. While those tasks are important, the episode highlighted the value of stepping back and building systems that prevent the same problems from repeating. It helped me realize that I should focus more on creating automation and structured processes that improve efficiency for the whole team, rather than only solving issues one by one.
+
+
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
-```
-[Your answer]
-```
+Yes, the scene where the character says, “I kept fighting the same fires. Then I learned every problem you automate is a step up, not a step away,” really made me pause and reflect. It made me think about how much of my time goes into repeatedly handling similar operational issues like production tickets and routine checks. The dialogue made me realize that instead of just solving these problems each time they appear, I should focus more on creating automation and systems that prevent the same issues from recurring. It shifted my perspective from just being responsive to thinking more about long-term improvements.
+
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
-```
-[Your answer]
-```
+I think that season 2 highlights the shift from simply executing tasks to thinking more strategically about how work is done. It emphasizes moving beyond reacting to problems and instead building systems, automation, and processes that prevent the same issues from repeating. The key takeaway is that growth comes from taking ownership, continuously improving how things operate, and focusing on long term impact rather than just completing day-to-day tasks.
+
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
-```
-[Your answer]
-```
+Season 1 mainly made me reflect on my personal growth and learning journey, while Season 2 pushed me to think more about ownership and impact. It made me realize that growth is not only about improving individual skills but also about building systems, mentoring others, and preventing recurring problems. Compared to Season 1, this season made me think more about how I can move from just completing tasks to contributing in ways that improve the overall efficiency and effectiveness of the team.
+
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
-```
-[Your answer]
-```
+I would keep the storytelling approach that connects technical growth with real work situations. The way the episodes use relatable characters and scenarios makes the lessons easier to understand and reflect on. It also helps readers connect the ideas directly to their own work experiences.
 
 **Do differently:**
-```
-[Your answer]
-```
+For Season 3, it would be interesting to include more practical examples or case studies that show how these concepts are applied in real projects, Also I would focus more on real workplace situations where these ideas are applied over time, showing how small changes in thinking or processes gradually improve the team’s workflow and efficiency.
+
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
-```
-[Your answer]
-```
+The hardest question for me to answer was the one about identifying recurring tasks that could be prevented or automated. It made me pause and really think about how much of my work is reactive vs system driven. This reflection helped me realize that while I handle tasks efficiently, I should spend more time stepping back and identifying opportunities to reduce repetitive work through automation or better processes.
 
 ---
 
@@ -298,4 +299,4 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ---
 
 **Submit to:** Director Coulson
-**Deadline:** [DATE]
+**Deadline:** 10/03/2026

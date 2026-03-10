@@ -219,6 +219,7 @@ This is the one you'll present to the team. All five phases led here.
 Fill in your personal architecture. Be specific — no vague aspirations.
 
 ```
+
                     MY CAREER ARCHITECTURE
                            │
       ┌──────────┬─────────┼─────────┬──────────┐
@@ -232,22 +233,27 @@ Fill in your personal architecture. Be specific — no vague aspirations.
    intention?] own next?] criteria?] & how?]    repeatedly?]
       │          │         │         │          │
       ▼          ▼         ▼         ▼          ▼
-  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
-  └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
+  ┌──────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐
+  │ Technical    │ │ Operate &  │ │ Increase   │ │ Sharing    │ │ L2 ticket  │
+  │ leverage,    │ │ Deploy     │ │ automation │ │ guidance   │ │ triaging,  │
+  │ leadership   │ │ ownership  │ │ coverage,  │ │ and help   │ │ test data  │
+  │ capability   │ │ while also │ │ building   │ │ in decision│ │ setup and  │
+  │ and AI-      │ │ improving  │ │ AI tools,  │ │ making,    │ │ repeated   │
+  │ driven       │ │ Design     │ │ different  │ │ confidence │ │ regression │
+  │ efficiency   │ │            │ │ technic to │ │            │ │ testing    │
+  │              │ │            │ │ handle L2. │ │            │ │            │
+  └──────────────┘ └────────────┘ └────────────┘ └────────────┘ └────────────┘
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+I will be focusing on learning and applying new debugging techniques to make L2 screening more efficient, and I will also try to fix small code-level issues whenever possible.
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been spending most of my time dealing with immediate issues and day-to-day operational work. Now I'm going to focus on building systems that help handle those repetitive tasks, so I can spend more time learning and improving my skills.”."
 
 ---
 
