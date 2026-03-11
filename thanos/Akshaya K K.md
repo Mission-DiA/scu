@@ -262,43 +262,46 @@ I will be focusing on learning and applying new debugging techniques to make L2 
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+Episode 3 hit me the hardest. In my work, I spend a lot of time making sure systems are reliable. I think about test coverage, regression risks, and whether something is ready to be released. But when Coulson asked Daisy, “Would you ship a product with that test plan?”, it made me pause and think am I applying the same thinking to my own career?
+I usually focus on completing my day to day tasks, but I hadn’t clearly defined what success or real progress in my career should look like. If my day was busy, I assumed that meant I was progressing. I never really stopped to think about what kind of progress I was actually making. That episode made me realize that I should treat my career with the same level of planning and discipline that I apply to the systems I test so that I can able to make success in my career as well.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+As I mentioned earlier, the moment when Coulson asked Daisy, “Would you ship a product with that test plan?”, really made me pause and reflect. It made me question whether I am applying the same level of planning and discipline to my own career as I do when working on systems and products. That moment pushed me to think more seriously about how I define progress and growth in my professional life. After that, I started thinking about my own career plan and started to measure success at each stage instead of just assuming that being busy means I’m progressing.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+would say Season 2 makes you step back and look at your career more honestly. Most of us work hard every day, complete our tasks, and assume that growth will happen naturally over time. But the book challenges that assumption.
+It makes you question whether you are just staying busy or actually building something meaningful for your future. It encourages you to think about your work in terms of impact, ownership, and long-term direction instead of just daily responsibilities.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 1 helped me become more aware of how I approach work and growth. But Season 2 pushed me further by making me think about how to intentionally design my career.
+The biggest shift for me was moving from simply knowing that I should grow to actually thinking about how to measure that growth. Instead of vague goals like “I want to improve,” it made me think about concrete things, what skills I need to build, what systems I should create, and what kind of impact I want to have in the future.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+I would keep the storytelling format and the conversations between the characters. The lessons feel more relatable because they are explained through situations and dialogue rather than just theory.
 ```
 
 **Do differently:**
 ```
-[Your answer]
+I would include more real life examples showing how people applied these ideas in their careers. Seeing practical scenarios of how someone moved from being task-focused to system focused would make the lessons even more actionable. It would also be helpful to include examples where certain actions didn’t work out as expected, so readers can understand the challenges and learn from those situations as well.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+The hardest question for me was (Q13) “Who are you one step ahead of right now?”. It was difficult because I don’t usually think about my position relative to others or see myself as someone who could guide someone else. Answering that question made me realize that even though I’m still learning and growing, I might still be one step ahead of someone in certain areas. It reminded me that helping others doesn’t require being an expert. Sometimes even small help or sharing an experience that may seem irrelevant to me could still help someone else think differently or learn something new.
 ```
 
 ---
