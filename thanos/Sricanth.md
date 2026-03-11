@@ -306,25 +306,25 @@ This week I will draft an automation gateway concept for validating integration 
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+Episode 3 hit me the hardest. The idea of testing a career like a system made me realize that while I spend a lot of time making sure the product is reliable, I haven't always applied the same level of structure or planning to my own growth. Coulson's question about shipping a product with such a weak test plan made me reflect on how intentional I have been about my career.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+The dialogue where Coulson asks Daisy, "Would you ship a product with that test plan?" made me stop and think. As someone who works closely with testing and quality, it felt very relatable. It made me realize that I'm disciplined when it comes to validating systems, but I haven't always been equally disciplined in defining clear milestones and feedback loops for my own career development.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+I would say Season 2 is about treating your career with the same mindset we use for building systems. Instead of just staying busy with tasks, it encourages you to think about impact, ownership, and long-term growth. It pushes you to reflect on whether the work you're doing today is actually building the future you want.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 2 pushed me to reflect more deeply on my own habits and patterns. It made me realize that career growth requires intentional action, not just experience over time. The shift from awareness to ownership was the biggest difference for me.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
@@ -332,19 +332,19 @@ This week I will draft an automation gateway concept for validating integration 
 **Keep as is:**
 
 ```
-[Your answer]
+I would keep the storytelling approach and the way complex career ideas are explained through simple scenarios and conversations. That format makes the lessons easy to relate to and reflect on.
 ```
 
 **Do differently:**
 
 ```
-[Your answer]
+For Season 3, I would add more real-world examples of how people applied these ideas in their work. Seeing practical examples of changes people made after these reflections could make the lessons even more actionable.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+The question about whether I am a firefighter or an architect was the hardest to answer. It made me reflect honestly on how much of my work is reactive versus proactive. That reflection helped me realize that while I'm starting to think more about systems and improvements, there is still room to shift more of my effort toward preventing problems instead of repeatedly solving the same ones.
 ```
 
 ---
