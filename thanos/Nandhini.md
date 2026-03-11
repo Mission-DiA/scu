@@ -270,25 +270,33 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+[Episode 3 – Testing Your Career Like a System.
+
+As QA I always think about testing, monitoring, and improving systems. But I realized I never applied the same thinking to my own career. I’ve mostly focused on finishing work rather than intentionally planning my growth, And this made me to realise to move forward and this help to how to think and make my regular task more simplier . i used to do the usual task like debugging the issue and givving it teh dev for fix but now i myslef planning to and started to do fix ]
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+[“This is the era of Vibe Engineering. You’re at the controls. Tell it what to build, watch it work, course-correct when it drifts.”
+What caught my attention was the idea that engineers should act like directors of the system. It made me realize that sometimes I focus too much on completing tasks instead of thinking about how the work is actually moving things forward.]
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+[I would say Season 2 is about treating your career like an engineering system.
+
+We spend a lot of time doing regular task and improving systems, but rarely step back and think about our own growth. The season pushes you to reflect on whether you’re just staying busy or actually making meaningful progress.]
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+[Season 1 focused more on understanding work and growth and also decision making 
+Season 2 made me realize that growth doesn’t happen automatically — it needs conscious effort, reflection, and direction.
+
+It pushed me to think more seriously about the long-term path of my career, not just the tasks I’m doing today.]
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
@@ -296,19 +304,21 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 **Keep as is:**
 
 ```
-[Your answer]
+[Keep as is:
+The storytelling style and conversations between characters. It makes complex ideas about career growth easier to relate to.]
 ```
 
 **Do differently:**
 
 ```
-[Your answer]
+[Add more real examples so we can directly apply the ideas to their own work situations.]
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+[Q20 (The Fear) or PREVENTION.
+What it tells you: It shows i have outgrown your current routine. Most people fear being replaced by AI I fear getting stuck doing work that doesn't matter anymore. It proves my mindset has transforming into an architect i have ready to lead the strategy, not just follow the script]
 ```
 
 ---
@@ -320,4 +330,4 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ---
 
 **Submit to:** Director Coulson
-**Deadline:** [DATE]
+**Deadline:** [11-03-2026]
