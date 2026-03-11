@@ -247,6 +247,7 @@ Not anymore. But initially, yes. When I started mentoring the team on automation
 ```
 
 ---
+
 ## PHASE 6: YOUR ARCHITECTURE
 
 *From S2E6 — "You are the architect. In every universe. Build accordingly."*
@@ -307,25 +308,25 @@ Until now, when I debug a production issue, I find the root cause and move it to
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+Episode 5 — "The Uptime." This one hit me the hardest because it directly mirrors a fear I've had. As a QA, the most common question we hear is "If we automate all the test cases, what will happen to our job?" Daisy was doing her regular tasks but never preventing them from occurring — just fighting the same fires. I've been in that same loop. But what I've realized — and what this episode confirmed — is that once you automate or delegate the known work, there's always an unknown task waiting that's more challenging and more interesting than the one before. The work doesn't disappear, it evolves. Automating isn't replacing yourself, it's freeing yourself to solve harder problems.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+From Episode 3 — "You have test plans for every feature. What's the test plan for your career?" That line stopped me. I write test plans, acceptance criteria, and edge cases for every feature I test — but I had never done that for myself. It triggered a simple question: what am I doing today that's new? Where do I need to go? What's the criteria for getting there? I didn't have answers. I knew I wanted to become an SDET, but I never checked what it actually takes to get there. That's when I started reflecting — and now I'm acting on it. I've started doing bug fixes, getting into the dev codebase, and updating myself on development-side coding. Not just planning it, but doing it.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+It makes you look at your career the same way you look at your work. We care so much about the quality of what we build, but we never apply that to our own growth. Season 2 is a reminder — quality of work matters, not the quantity. It's not about how many tasks you finish. It's about whether those tasks are taking you somewhere.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 1 was about taking responsibility — owning my decisions, understanding that my career is mine to drive. Season 2 took it further. It made me realize that just taking responsibility isn't enough — I need a system for it. Having intention is one thing, but having a test plan, acceptance criteria, and a feedback loop for my career is what actually turns that intention into progress. Season 1 told me to take the wheel. Season 2 showed me I also need a map.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
@@ -333,19 +334,19 @@ Until now, when I debug a production issue, I find the root cause and move it to
 **Keep as is:**
 
 ```
-[Your answer]
+The self-reflection approach. That's what makes it stick. It's not just a story you read and forget — it forces you to think about your own career while reading it.
 ```
 
 **Do differently:**
 
 ```
-[Your answer]
+Show failure. Both seasons focus on awareness and growth, which is great, but in real life we face setbacks — things we tried that didn't work, plans that fell apart, moments where we made the wrong call. Season 3 could show that side too. How do you recover from a failure? How do you keep going when your plan doesn't work? That would make it more relatable and complete.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+Q11 — the edge cases. It wasn't the hardest to answer, but it made me think the most. Writing down the risks that could derail my career forced me to be honest about things I usually avoid thinking about — like my over-dependence on AI, or the fact that I could get pulled back into routine testing if I'm not careful. It's easy to plan where you want to go. It's uncomfortable to write down what could stop you from getting there.
 ```
 
 ---
@@ -357,4 +358,4 @@ Until now, when I debug a production issue, I find the root cause and move it to
 ---
 
 **Submit to:** Director Coulson
-**Deadline:** [DATE]
+**Deadline:** [11/03/2026]
