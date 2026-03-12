@@ -296,43 +296,43 @@ something concrete they can try. Verifiable: did I share it or not?
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+Episode 3 hit me the hardest. The idea that Daisy had 94% automated coverage for her product but 0% coverage for her own career really made me think. As engineers, we spend so much time planning, testing, and improving systems, but we rarely apply the same structured thinking to our own growth. It made me realize that I need a clearer plan for my skills, learning path, and long-term career direction instead of just reacting to daily work tasks.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+The moment that made me stop and think was when Coulson asked Daisy, “Would you ship a product with that test plan?” referring to her lack of a career plan. That line stayed with me because it exposed a blind spot many professionals have. We hold our work to high standards, but we often don't hold our career growth to the same level of planning or accountability. It triggered me to think about setting clearer goals for skills, responsibilities, and the direction I want my career to take in the next few years.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+Season 2 is important because it shifts the focus from just doing work to intentionally designing your career. It encourages professionals, especially engineers, to think about their growth the same way they think about building reliable systems — with planning, feedback loops, and measurable goals. It reminds us that if we don't actively shape our careers, we might just drift without direction even while doing good work.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 1 focused more on awareness and identifying problems in the way we approach work and growth. Season 2 went deeper by forcing me to reflect on my own situation and answer uncomfortable questions about my future. It made the learning more personal. By the end of Season 2, I felt more responsible for actively planning my career instead of just expecting opportunities to appear naturally.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+I would keep the storytelling format using characters and real-life workplace scenarios. It makes complex career lessons easier to understand and more relatable. The reflective questions at the end of each episode are also very powerful and should remain the same because they force deeper thinking.
 ```
 
 **Do differently:**
 ```
-[Your answer]
+In Season 3, I would add more practical frameworks or examples of how professionals can implement these ideas in real life — such as skill roadmaps, career experiments, or strategies for moving into leadership roles. That would help readers convert reflection into concrete action.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+The hardest question to answer was about where I want to be in the next two years. It was difficult because it requires clarity about long-term goals, which many people don't fully define while focusing on day-to-day work. This tells me that I need to spend more time thinking strategically about my career direction and the skills I need to build to get there.
 ```
 
 ---
