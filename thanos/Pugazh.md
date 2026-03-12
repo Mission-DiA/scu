@@ -276,43 +276,45 @@ This week, I documented a real bug I debugged and resolved — the Rundeck pod r
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+The SRE universe, Season 2 Episode 5. I could relate to Daisy, who was solving a redundant problem manually instead of automating it. It showed me a mirror of my own tendencies.
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+The dialogue that struck me was: "Mature teams flip it. Prevention first. The best incident is the one that never happens." It was a powerful reminder that my focus should not be on just fighting fires, but on building systems that prevent fires from starting in the first place. It triggered a shift in my perspective, from reactive to proactive.
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+I would tell them it's not about the story, it's a mirror. It forces you to ask one simple, brutal question about your work: "How much have you truly BUILT, rather than simply shipped?" It's about the difference between completing tasks and creating lasting value.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 1 was aspirational; it was about who I wanted to become. Season 2 was diagnostic. It was a harsh but necessary look at what I lack right now and provided a concrete framework for how to get my career on the correct path. The change was moving from a dream to a plan.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+I would keep the "different universe" concept. It's a great way to explore different facets of the engineering world.
 ```
 
 **Do differently:**
 ```
-[Your answer]
+I would add more characters, specifically focusing on mentor-mentee relationships. This would make the stories more relatable for everyone and avoid the feeling of seeing the same characters repeated.
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+Q8: "When was the last time you shipped something that YOU designed — not something assigned to you?" The answer was "never." That one word was the hardest to write.
+
+It tells me that my core challenge isn't in execution, but in ownership. My struggles with the Design phase (Q6), my impostor syndrome around mentoring (Q15), and my fear of my automation failing (Q20) all stem from this. I am a capable builder, but I have not yet become an architect. That single question, and that single-word answer, revealed the entire battlefield.
 ```
 
 ---
