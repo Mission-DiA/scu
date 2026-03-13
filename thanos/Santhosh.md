@@ -35,13 +35,13 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 ### Q1. List your top 5 accomplishments from the last 6 months.
 
 
-| #   | Accomplishment                                                                                                                                                                                                          |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Built the first version of a Playwright-based automation framework. I use it for my own regression testing now, and the QA team has started adding to the repo too. |
-| 2   | Got our Jenkins CI pipeline working and stable — tests run on every build now without someone having to manually kick them off. |
+| #   | Accomplishment                                                                                                                                                                                |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Built the first version of a Playwright-based automation framework. I use it for my own regression testing now, and the QA team has started adding to the repo too.                           |
+| 2   | Got our Jenkins CI pipeline working and stable — tests run on every build now without someone having to manually kick them off.                                                               |
 | 3   | Made a few small QA tools (testcase management, workload tracker, automation reporting) because I was tired of doing the same manual stuff over and over. A couple of teammates use them too. |
-| 4   | Did some informal L2 debugging walkthroughs with QA teammates — showed them how I approach issues, what I look at first, shared real examples from recent incidents. |
-| 5   | Started using AI (Claude mostly) as part of how I actually work day-to-day — code reviews, trying out ideas, quick prototyping. It's not a side thing anymore, it's just how I work now. |
+| 4   | Did some informal L2 debugging walkthroughs with QA teammates — showed them how I approach issues, what I look at first, shared real examples from recent incidents.                          |
+| 5   | Started using AI (Claude mostly) as part of how I actually work day-to-day — code reviews, trying out ideas, quick prototyping. It's not a side thing anymore, it's just how I work now.      |
 
 
 ### Q2. Now be honest — for each one, mark it:
@@ -50,13 +50,13 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 - **B** = Built (it continues to create value without you actively doing it)
 
 
-| #   | C or B? | Why?                                                                                                                                                                                                                                                |
-| --- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | B       | The framework is there, someone else can pick it up. The folder structure, helpers, base specs — all reusable. They don’t need me to extend it. |
-| 2   | B       | Pipeline runs on its own. I tweak it sometimes but it doesn’t need me daily. People push code, get results, that’s it. |
-| 3   | B       | Simple tools but people keep using them. They sit in the repo, anyone can run them without me being in the room. |
+| #   | C or B? | Why?                                                                                                                                                                         |
+| --- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | B       | The framework is there, someone else can pick it up. The folder structure, helpers, base specs — all reusable. They don’t need me to extend it.                              |
+| 2   | B       | Pipeline runs on its own. I tweak it sometimes but it doesn’t need me daily. People push code, get results, that’s it.                                                       |
+| 3   | B       | Simple tools but people keep using them. They sit in the repo, anyone can run them without me being in the room.                                                             |
 | 4   | C       | These were sessions, not systems. I helped people in the moment but didn’t document anything or record it. Once the call ended, the knowledge stayed with whoever was there. |
-| 5   | B       | This one’s more about how I think now. I default to pairing with AI on new problems. That habit sticks with me regardless of what project I’m on. |
+| 5   | B       | This one’s more about how I think now. I default to pairing with AI on new problems. That habit sticks with me regardless of what project I’m on.                            |
 
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
@@ -167,12 +167,12 @@ Basically when something new comes in, people should think “let's check with S
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 
-| #   | Edge Case / Risk                                                                                                                                                                                                                     | Mitigation Plan                                                                                                                                                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | I lean on AI heavily and sometimes I don’t fully understand what the generated code is doing. That’s fine now but it could catch up with me if I never build the deeper understanding. | I don’t have a perfect plan for this honestly. But I’m trying to manually rewrite or at least read through non-trivial AI code instead of just copy-pasting. |
-| 2   | AI tools change fast. What I’m using now might be outdated in 6 months. | Try new tools on real small problems every couple of weeks, not just read about them. If it helps, use it. If not, drop it. |
-| 3   | I sometimes build something experimental and it quietly becomes “the way we do things” without anyone deciding that. Then it’s hard to maintain. | Pilot with 1-2 people first. Keep a note on how to roll back if it doesn’t work. Don’t let experiments become permanent by accident. |
-| 4   | I try to solve everything alone. When I’m stuck on infra or deployment stuff, I waste time instead of just asking someone who knows better. | Try to do at least one pairing session a month with someone from DevOps or whoever’s strong in my weak areas. Come with specific questions, not just “help me.” |
+| #   | Edge Case / Risk                                                                                                                                                                       | Mitigation Plan                                                                                                                                                 |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | I lean on AI heavily and sometimes I don’t fully understand what the generated code is doing. That’s fine now but it could catch up with me if I never build the deeper understanding. | I don’t have a perfect plan for this honestly. But I’m trying to manually rewrite or at least read through non-trivial AI code instead of just copy-pasting.    |
+| 2   | AI tools change fast. What I’m using now might be outdated in 6 months.                                                                                                                | Try new tools on real small problems every couple of weeks, not just read about them. If it helps, use it. If not, drop it.                                     |
+| 3   | I sometimes build something experimental and it quietly becomes “the way we do things” without anyone deciding that. Then it’s hard to maintain.                                       | Pilot with 1-2 people first. Keep a note on how to roll back if it doesn’t work. Don’t let experiments become permanent by accident.                            |
+| 4   | I try to solve everything alone. When I’m stuck on infra or deployment stuff, I waste time instead of just asking someone who knows better.                                            | Try to do at least one pairing session a month with someone from DevOps or whoever’s strong in my weak areas. Come with specific questions, not just “help me.” |
 
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
@@ -244,29 +244,29 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
 
 
-| #   | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
-| --- | -------------- | --------- | -------------------------------------------- |
-| 1   |                |           |                                              |
-| 2   |                |           |                                              |
-| 3   |                |           |                                              |
+| #   | Recurring Task                                                                                                       | How Often | Could Be: Prevented / Automated / Delegated?                                                                                                                                                                                                                                                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | L2 Tickets QA debugging                                                                                              | Daily     | Automated: Because the Process is same ( Validate information -> Refere GCP logs -> Bucket the issue -> Reproduce -> Tag it to the right team) this is a repeated process for the L2 screening but issue incoming perspective is different ( if automated it'll save a hell amount of time for me and my team as well)                                                         |
+| 2   | Maintaining the Existing Automation framewrok                                                                        | Daily     | I feel, we can build the automation framework but it should be maintaned regullarly considering the volume of production pushes now, the maintance is tedious where we can think of Agentic AI to run & monitor the existing framework so that the suite is always stand tall and we can make use of it and leverage it (In short building an self healing workflow)           |
+| 3   | There is a no process or centralized place to make use of the automation and get the right results to the right time | Daily     | Need to carefully think and implement a startergy where triggering the pipeline is simple & getting the result should be accurate and In the code base well, instead of using the API calls to prepare the test data, As a team we have to move it to the stubbing method this will improve the running time of the automation & consumers can leverage the timing and results |
 
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+I would spend time on exploring in to the AI world which i'm currently doing as well, but if those pain points are addressed I can focus on building an meaning AI agents & other tools in the QA field which can be leveraged by the team. Also my thought process is not to force-fit the AI everywhere but carefully think the usecase and implement the AI in the right area
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+I would say Both because, As a fire-fighter i'm also debugging the L2 tickets and as an senior in the team guiding & mentoring other on both playwright automation as well as AI & to my self started building apps using the AI to leverage it within the team, I personallly feel I have been doing both fireFighter task and Architect apps using AI and passing the knowledge to the team as well
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+To be Honest, I don't have any fear of automating my current work, Because I feel if that can be automated I can concentrate on the other things and learn new skills (It can be professionally or personal) as well and I feel automating the current work is challenging and In the process of Automating it I feel I would learn much and I'd be gratefull.
 ```
 
 ---
@@ -300,17 +300,35 @@ Fill in your personal architecture. Be specific — no vague aspirations.
   │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
   │        │ │        │ │        │ │        │ │        │
   └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
+
+Foundation: I’m moving from being “the person who tests” to the person who builds testing systems. That means frameworks (like L2 automation), CI pipelines, and small tools that other people actually use day‑to‑day. I want to be known as the guy who makes debugging and testing easier for the whole team, not just someone who closes tickets faster
+
+D3O Loop:  Which stages do I need to own next?
+I’m fairly comfortable with Design and Develop. The big gap is Deploy and Operate. I need to properly ship the L2 framework into Jenkins, write a simple “how to use this” guide, add basic metrics (like how often it catches issues or saves time), and then review that data with my lead instead of just assuming it’s helping.
+
+Test Plan – What are my acceptance criteria?
+I’ll call it a pass when
+At least one automation framework I built (L2 or similar) is used by more than just me, with clear docs and at least one improvement release based on team feedback.
+I can set up and maintain a Jenkins pipeline end‑to‑end for our QA needs, and it runs reliably for a few months.
+I can point to at least two real incidents where my tools clearly reduced investigation or fix time.
+I’m running regular knowledge‑sharing, and I can see at least one teammate using something I taught.
+
+Mentoring: Who am I one step ahead of, and how?
+I’m one step ahead of the newer QA folks who are just starting with L2 issues, reading logs, and setting up automation. My job is to sit with them more often, walk through how I think about a problem, show how I use AI without blindly trusting it, and slowly hand over pieces of the L2/automation work so they can own parts of it.
+
+Prevention: What fires am I still fighting repeatedly?
+I still repeat a lot of the same things: re‑doing similar L2 checks by hand, explaining the same debugging steps again and again, and dealing with flaky tests. The plan is to turn these into checklists, small tools, or automation (for common L2 flows), so people don’t have to ping me every time. That’s how I stop being just the firefighter and start acting more like the architect
 ```
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+I would start from planning each day, Becasue that gives the clarity what i'm going to work on and what i'll. not be taking on my plate on that particular day
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been *a good team player and a mentor*________**. Now I'm going to *become a best lead and a better team player & men***."
 
 ---
 
@@ -319,25 +337,29 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+Episode 3 – Testing Your Career Like a System & Episode 6 – Long-Term Thinking and Reflection Becasue I felt these episodes are co-related to each other because, whenever we take up a task/doing a POC we should always challenge our skill set and move up the ladder, & while solving that task solution should always be the longterm running instead of building a system and its fails on few months, Foundation should be stronger
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+To be Honest, None I can understand the context of the episode and intention to relate it to our self, but unfortunaltely there is no specific dailoge/scene that triggered me
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+Don’t just show up and do tasks; know how today’s work connects to where you want your career to go.
+Being constantly busy doesn’t mean you’re growing – what matters is new skills, impact, and better opportunities.
+Treat your career like a system you’d build at work: have a plan, get feedback, and keep improving it.
+Don’t wait for your manager to “grow” you; take ownership, look for chances to learn, and create your own path.
+Be clear about where you want to be in a few years, and check in regularly to see if your daily work is really taking you there.
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+Season 1 was a wake-up call: it made me see that my career is my responsibility. No one else is going to drive it for me.Season 2 went a level deeper. It made me realize that just “taking responsibility” isn’t enough. I can’t just say, “Yeah, I’ll own it” and then wing it. I need a system: a plan, clear acceptance criteria, and a way to regularly check if I’m actually moving forward.If Season 1 was about deciding to sit in the driver’s seat, Season 2 was about realizing I also need a map, a route, and a way to know whether I’m even heading in the right direction.
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
@@ -345,20 +367,22 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 **Keep as is:**
 
 ```
-[Your answer]
+Honeslty I don't want to impose my thoughts to the creator, I'd rather be an audiance who enjoy's and reflect the season 3
 ```
 
 **Do differently:**
 
 ```
-[Your answer]
+Honeslty I don't want to impose my thoughts to the creator, I'd rather be an audiance who enjoy's and reflect the season 3
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+Q1. List your top 5 accomplishments from the last 6 months.   Beacase, i did lot of things in the last 6 months & because of not documented it properly I was not able to recollect the tasks, & evaluate it based on the priority and how it helped me and the QA team as well.
 ```
+
+
 
 ---
 
